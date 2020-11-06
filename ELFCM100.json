@@ -1,4 +1,5 @@
-"ANATOMIST": {
+{
+  "ANATOMIST": {
     "Definition": "someone who studies anatomy, the study of the structure of the human body"
   },
   "FUTURIST": {
@@ -184,3 +185,4 @@
   "COUNTLESS": {
     "Definition": "very many"
   }
+}
