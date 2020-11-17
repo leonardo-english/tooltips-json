@@ -1,125 +1,128 @@
 {
-  "All manner": {
-    "Definition": "lots"
-  },
-  "Alter": {
-    "Definition": "change"
-  },
-  "Analytical": {
-    "Definition": "relating to the ability to think and understand things"
-  },
-  "Batches": {
-    "Definition": "groups or periods"
-  },
-  "Circadian": {
-    "Definition": "relating to a period of 24 hours"
-  },
-  "Cram": {
-    "Definition": "force into a small space"
-  },
-  "Creeping up": {
-    "Definition": "approaching slowly"
-  },
-  "Crucial": {
-    "Definition": "very important"
-  },
-  "Deprived": {
-    "Definition": "if you are deprived of something, you haven't had it for a long time"
-  },
-  "Devoted": {
-    "Definition": "very loyal and loving"
-  },
-  "Disrupt": {
-    "Definition": "cause a change from the normal routine"
-  },
-  "Distinct": {
-    "Definition": "clear and unique"
-  },
-  "Drift off": {
-    "Definition": "go to sleep slowly"
-  },
-  "Drop dead": {
-    "Definition": "die suddenly"
-  },
-  "Eluded": {
-    "Definition": "escaped"
-  },
-  "Grumpy": {
-    "Definition": "easily annoyed"
-  },
-  "Hardwired": {
-    "Definition": "if something is hardwired, it's a natural part of someone's character or being"
-  },
-  "Homeostasis": {
-    "Definition": "the ability for a creature to keep an internal balance"
-  },
-  "Hypothesise": {
-    "Definition": "to give a possible explanation"
-  },
-  "Immune system": {
-    "Definition": "the system protecting your body against disease and infections"
-  },
-  "In perpetuity": {
-    "Definition": "forever"
-  },
-  "Interpret": {
-    "Definition": "understand the meaning of"
-  },
-  "Interprets": {
-    "Definition": "understands the meaning of"
-  },
-  "Mystified": {
+  "MYSTIFIED": {
     "Definition": "was so strange and confusing that it was difficult to understand"
   },
-  "Obesity": {
-    "Definition": "the state of being extremely fat"
+  "HARDWIRED": {
+    "Definition": "if something is hardwired, it's a natural part of someone's character or being"
   },
-  "Paralysed": {
-    "Definition": "unable to move"
-  },
-  "Polyphasic": {
-    "Definition": "in multiple phases"
-  },
-  "Polyphasically": {
-    "Definition": "in multiple phases"
-  },
-  "Proponents": {
-    "Definition": "people who support something or someone"
-  },
-  "Radically": {
-    "Definition": "completely or extremely"
-  },
-  "Re-energised": {
-    "Definition": "feeling full of energy again"
-  },
-  "Shone a little light": {
-    "Definition": "provided a little information"
-  },
-  "Standby": {
-    "Definition": "ready for use, but not in use"
-  },
-  "Stimulants": {
+  "STIMULANTS": {
     "Definition": "substances that cause you to stay awake and heighten your senses"
   },
-  "Switched off": {
-    "Definition": "turned off"
+  "ELUDED": {
+    "Definition": "escaped"
   },
-  "Switching off": {
-    "Definition": "turning off"
-  },
-  "Timer": {
-    "Definition": "a clock that tells you when a particular amount of time has passed"
-  },
-  "Vivid": {
-    "Definition": "clear and powerful"
-  },
-  "Vulnerable": {
+  "VULNERABLE": {
     "Definition": "able to be easily hurt"
   },
-  "Wary": {
+  "CREEPING UP": {
+    "Definition": "approaching slowly"
+  },
+  "RE-ENERGISED": {
+    "Definition": "feeling full of energy again"
+  },
+  "GRUMPY": {
+    "Definition": "easily annoyed"
+  },
+  "WELLBEING": {
+    "Definition": "being healthy and happy"
+  },
+  "STANDBY": {
+    "Definition": "ready for use, but not in use"
+  },
+  "SWITCHING OFF": {
+    "Definition": "turning off"
+  },
+  "SWITCHED OFF": {
+    "Definition": "turned off"
+  },
+  "CRUCIAL": {
+    "Definition": "very important"
+  },
+  "HYPOTHESISE": {
+    "Definition": "to give a possible explanation"
+  },
+  "ALL MANNER": {
+    "Definition": "lots"
+  },
+  "OBESITY": {
+    "Definition": "the state of being extremely fat"
+  },
+  "IMMUNE SYSTEM": {
+    "Definition": "the system protecting your body against disease and infections"
+  },
+  "DISTINCT": {
+    "Definition": "clear and unique"
+  },
+  "DRIFT OFF": {
+    "Definition": "go to sleep slowly"
+  },
+  "PARALYSED": {
+    "Definition": "unable to move"
+  },
+  "CRAM": {
+    "Definition": "force into a small space"
+  },
+  "INTERPRET": {
+    "Definition": "understand the meaning of"
+  },
+  "ANALYTICAL": {
+    "Definition": "relating to the ability to think and understand things"
+  },
+  "INTERPRETS": {
+    "Definition": "understands the meaning of"
+  },
+  "VIVID": {
+    "Definition": "clear and powerful"
+  },
+  "HOMEOSTASIS": {
+    "Definition": "the ability for a creature to keep an internal balance"
+  },
+  "TIMER": {
+    "Definition": "a clock that tells you when a particular amount of time has passed"
+  },
+  "DEPRIVED": {
+    "Definition": "if you are deprived of something, you haven't had it for a long time"
+  },
+  "CIRCADIAN": {
+    "Definition": "relating to a period of 24 hours"
+  },
+  "ALTER": {
+    "Definition": "change"
+  },
+  "DISRUPT": {
+    "Definition": "cause a change from the normal routine"
+  },
+  "RADICALLY": {
+    "Definition": "completely or extremely"
+  },
+  "POLYPHASIC": {
+    "Definition": "in multiple phases"
+  },
+  "BATCHES": {
+    "Definition": "groups or periods"
+  },
+  "DEVOTED": {
+    "Definition": "very loyal and loving"
+  },
+  "PROPONENTS": {
+    "Definition": "people who support something or someone"
+  },
+  "POLYPHASICALLY": {
+    "Definition": "in multiple phases"
+  },
+  "IN PERPETUITY": {
+    "Definition": "forever"
+  },
+  "WARY": {
     "Definition": "not completely trusting"
   },
-  "Wellbeing": {
-    "Definition": "being healthy and happy"
+  "DROP DEAD": {
+    "Definition": "die suddenly"
+  },
+  "SHONE A LITTLE LIGHT": {
+    "Definition": "provided a little information"
+  },
+  "": {
+    "Definition": null
   }
 }
