@@ -1,161 +1,167 @@
 {
-  "ROLLING": {
-    "Definition": "(of hills) gently rising and falling"
-  },
-  "DUNES": {
-    "Definition": "a hill of sand near a beach or in a desert"
-  },
-  "TREKKING": {
-    "Definition": "the activity of walking long distances on foot for pleasure"
-  },
-  "INFINITE": {
-    "Definition": "without limits; extremely large or great"
-  },
-  "IMPLAUSIBLE": {
-    "Definition": "difficult to believe, or unlikely"
-  },
-  "RUN OUT": {
-    "Definition": "to finish, use, or sell all of something, so that there is none left"
-  },
-  "PACE": {
-    "Definition": "the speed at which someone or something moves, or with which something happens or changes"
-  },
-  "CONSUME": {
-    "Definition": "to use fuel, energy, or time, especially in large amounts"
-  },
-  "VAST": {
-    "Definition": "extremely big"
-  },
-  "CRUCIAL": {
-    "Definition": "extremely important or necessary"
-  },
-  "SMALL-FRY": {
-    "Definition": "people or things that are not considered to be important"
-  },
-  "CONCRETE": {
-    "Definition": "a very hard building material made by mixing together cement, sand, small stones, and water"
-  },
-  "ASPHALT": {
-    "Definition": "a black, sticky substance, often mixed with small stones or sand, that forms a strong surface when it becomes hard"
-  },
   "AGGREGATE": {
-    "Definition": "small stones used in building"
-  },
-  "RUNWAY": {
-    "Definition": "a long, level piece of ground with a specially prepared smooth, hard surface on which aircraft take off and land"
-  },
-  "GRAVEL": {
-    "Definition": "small, rounded stones, often mixed with sand"
-  },
-  "FOUNDATION": {
-    "Definition": "the structures below the surface of the ground that support a building"
-  },
-  "CUBIC": {
-    "Definition": "used in units of volume to show when the length of something has been multiplied by its width and height"
-  },
-  "INHABITANTS": {
-    "Definition": "a person or animal that lives in a particular place"
-  },
-  "URBANISATION": {
-    "Definition": "the process by which more and more people leave the countryside to live in cities‍"
-  },
-  "PHENOMENAL": {
-    "Definition": "extremely successful or special, especially in a surprising way"
-  },
-  "REITERATE": {
-    "Definition": "to say something again, once or several times"
-  },
-  "EMBARKED": {
-    "Definition": "started something new or important"
-  },
-  "INFRASTRUCTURE": {
-    "Definition": "the basic systems and services, such as transport and power supplies, that a country or organisation uses in order to work effectively"
-  },
-  "TRUCKS": {
-    "Definition": "a large road vehicle that is used for transporting large amounts of goods"
-  },
-  "FINE": {
-    "Definition": "very thin or in very small pieces or drops"
-  },
-  "GRAINS": {
-    "Definition": "a seed or seeds from a plant, especially a plant like a grass such as rice or wheat"
-  },
-  "SPHERICAL": {
-    "Definition": "round, like a ball"
-  },
-  "BAREFOOT": {
-    "Definition": "not wearing any shoes or socks"
-  },
-  "CEMENT": {
-    "Definition": "a grey powder that is mixed with water and sand to make mortar or with water, sand, and small stones to make concrete"
+    "Defintion": "small stones used in building"
   },
   "ANGULAR": {
-    "Definition": "having or relating to one or more angles, not having smooth sides"
+    "Defintion": "having or relating to one or more angles, not having smooth sides"
   },
-  "SUCK IT UP": {
-    "Definition": "pulls it with great force"
+  "ASPHALT": {
+    "Defintion": "a black, sticky substance, often mixed with small stones or sand, that forms a strong surface when it becomes hard"
   },
-  "FINITE": {
-    "Definition": "having a limit or end"
-  },
-  "EMERGENCE": {
-    "Definition": "the appearance"
-  },
-  "MAFIAS": {
-    "Definition": "a criminal organisation that began in Sicily and is active in Italy and the US, often used as a synonym for 'organised crime gang'"
+  "BAREFOOT": {
+    "Defintion": "not wearing any shoes or socks"
   },
   "BRIBING": {
-    "Definition": "to try to make someone do something for you by giving them money, presents, or something else that they want"
+    "Defintion": "to try to make someone do something for you by giving them money, presents, or something else that they want"
   },
-  "TURN A BLIND EYE": {
-    "Definition": "ignore something that you know is wrong"
+  "BUNKERS": {
+    "Defintion": "in golf, a hollow area of ground filled with sand, that is difficult to hit a ball out of"
   },
-  "EXTRACTING": {
-    "Definition": "to remove or take out something"
+  "CEMENT": {
+    "Defintion": "a grey powder that is mixed with water and sand to make mortar or with water, sand, and small stones to make concrete"
+  },
+  "CLOCKING IN": {
+    "Defintion": "usually used to refer to when you start work, but here is used for dramatic effect, and is just a synonym for 'is'"
+  },
+  "CONCRETE": {
+    "Defintion": "a very hard building material made by mixing together cement, sand, small stones, and water"
+  },
+  "CONSUME": {
+    "Defintion": "to use fuel, energy, or time, especially in large amounts"
   },
   "CORRUPT": {
-    "Definition": "dishonestly using your position or power to get an advantage, especially for money"
+    "Defintion": "dishonestly using your position or power to get an advantage, especially for money"
   },
-  "ECOSYSTEM": {
-    "Definition": "all the living things in an area and the way they affect each other and the environment"
+  "CRUCIAL": {
+    "Defintion": "extremely important or necessary"
+  },
+  "CUBIC": {
+    "Defintion": "used in units of volume to show when the length of something has been multiplied by its width and height"
+  },
+  "DUNES": {
+    "Defintion": "a hill of sand near a beach or in a desert"
   },
   "ECOLOGICAL": {
-    "Definition": "relating to ecology or the environment"
+    "Defintion": "relating to ecology or the environment"
   },
-  "OVER THE COURSE": {
-    "Definition": "during"
+  "ECOSYSTEM": {
+    "Defintion": "all the living things in an area and the way they affect each other and the environment"
+  },
+  "EMBARKED": {
+    "Defintion": "started something new or important"
+  },
+  "EMERGENCE": {
+    "Defintion": "the appearance"
+  },
+  "EXCESS": {
+    "Defintion": "an amount that is more than acceptable, expected, or reasonable"
+  },
+  "EXTRACTING": {
+    "Defintion": "to remove or take out something"
+  },
+  "FINE": {
+    "Defintion": "very thin or in very small pieces or drops"
+  },
+  "FINITE": {
+    "Defintion": "having a limit or end"
+  },
+  "FOUNDATION": {
+    "Defintion": "the structures below the surface of the ground that support a building"
+  },
+  "GARGANTUAN": {
+    "Defintion": "very large"
+  },
+  "GRAINS": {
+    "Defintion": "a seed or seeds from a plant, especially a plant like a grass such as rice or wheat"
+  },
+  "GRAVEL": {
+    "Defintion": "small, rounded stones, often mixed with sand"
+  },
+  "IMPLAUSIBLE": {
+    "Defintion": "difficult to believe, or unlikely"
+  },
+  "IMPORTED": {
+    "Defintion": "to buy or bring in products from another country"
+  },
+  "INFINITE": {
+    "Defintion": "without limits; extremely large or great"
+  },
+  "INFRASTRUCTURE": {
+    "Defintion": "the basic systems and services, such as transport and power supplies, that a country or organisation uses in order to work effectively"
+  },
+  "INHABITANTS": {
+    "Defintion": "a person or animal that lives in a particular place"
+  },
+  "MAFIAS": {
+    "Defintion": "a criminal organisation that began in Sicily and is active in Italy and the US, often used as a synonym for 'organised crime gang'"
   },
   "OUTSTRIPS": {
-    "Definition": "to be or become greater in amount, degree, or success than something or someone"
+    "Defintion": "to be or become greater in amount, degree, or success than something or someone"
+  },
+  "OVER THE COURSE": {
+    "Defintion": "during"
+  },
+  "PACE": {
+    "Defintion": "the speed at which someone or something moves, or with which something happens or changes"
   },
   "PARTICLES": {
-    "Definition": "an extremely small piece of matter"
+    "Defintion": "an extremely small piece of matter"
+  },
+  "PHENOMENAL": {
+    "Defintion": "extremely successful or special, especially in a surprising way"
+  },
+  "REINFORCE": {
+    "Defintion": "to make something stronger"
+  },
+  "REITERATE": {
+    "Defintion": "to say something again, once or several times"
+  },
+  "ROLLING": {
+    "Defintion": "(of hills) gently rising and falling"
+  },
+  "RUN OUT": {
+    "Defintion": "to finish, use, or sell all of something, so that there is none left"
+  },
+  "RUNWAYS": {
+    "Defintion": "a long specially prepared hard surface like a road on which aircraft land and take off"
+  },
+  "SINK": {
+    "Defintion": "to (cause something or someone to) go down below the surface or to the bottom of a liquid or soft substance"
+  },
+  "SMALL-FRY": {
+    "Defintion": "people or things that are not considered to be important"
+  },
+  "SPHERICAL": {
+    "Defintion": "round, like a ball"
+  },
+  "SUCK UP": {
+    "Defintion": "to pull up"
+  },
+  "SUCKED UP": {
+    "Defintion": "pulled up"
+  },
+  "SUCKS IT UP": {
+    "Defintion": "pulled up"
   },
   "TEMPORARY": {
-    "Definition": "not lasting or needed for very long"
+    "Defintion": "not lasting or needed for very long"
   },
-  "‍REINFORCE": {
-    "Definition": "to make something stronger"
+  "TREKKING": {
+    "Defintion": "the activity of walking long distances on foot for pleasure"
   },
-  "‍CLOCKING IN": {
-    "Definition": "usually used to refer to when you start work, but here is used for dramatic effect, and is just a synonym for 'is'"
+  "TRUCKS": {
+    "Defintion": "a large road vehicle that is used for transporting large amounts of goods"
   },
-  "‍IMPORTED": {
-    "Definition": "to buy or bring in products from another country"
+  "TURN A BLIND EYE": {
+    "Defintion": "ignore something that you know is wrong"
   },
-  "‍EXCESS": {
-    "Definition": "an amount that is more than acceptable, expected, or reasonable"
+  "UPLIFTING": {
+    "Defintion": "making someone feel better"
   },
-  "‍SINK": {
-    "Definition": "to (cause something or someone to) go down below the surface or to the bottom of a liquid or soft substance"
+  "URBANISATION": {
+    "Defintion": "the process by which more and more people leave the countryside to live in cities‍"
   },
-  "‍BUNKERS": {
-    "Definition": "in golf, a hollow area of ground filled with sand, that is difficult to hit a ball out of"
-  },
-  "‍GARGANTUAN": {
-    "Definition": "very large"
-  },
-  "‍UPLIFTING": {
-    "Definition": "making someone feel better"
+  "VAST": {
+    "Defintion": "extremely big"
   }
 }

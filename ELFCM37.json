@@ -1,119 +1,122 @@
 {
-  "TURBULENT": {
-    "Definition": "involving a lot of sudden changes, arguments, or violence"
-  },
-  "CRAZE": {
-    "Definition": "n activity, object, or idea that is extremely popular, usually for a short time"
-  },
-  "EPIC": {
-    "Definition": "extremely large"
-  },
-  "EPIDEMIC": {
-    "Definition": "the appearance of a particular disease in a large number of people at the same time"
-  },
-  "IN LIGHT OF": {
-    "Definition": "given that"
-  },
-  "DEEMED": {
-    "Definition": "considered"
-  },
   "BEAR IN MIND": {
-    "Definition": "to remember a piece of information when you are making a decision or thinking about a matter"
-  },
-  "SPIRIT": {
-    "Definition": "a strong alcoholic drink made from wine and sometimes flavoured with fruits"
-  },
-  "JUNIPER": {
-    "Definition": "a small evergreen bush (= one that never loses its leaves) with sharp leaves and small purple fruits that are used in medicine and in making gin (= a type of strong alcoholic drink)"
-  },
-  "LIQUOR": {
-    "Definition": "strong alcoholic drink"
-  },
-  "BRANDY": {
-    "Definition": "a strong alcoholic drink made from wine and sometimes flavoured with fruits"
-  },
-  "FATE": {
-    "Definition": "what happens to a particular person or thing, especially something final or negative, such as death or defeat"
-  },
-  "PATRIOTIC": {
-    "Definition": "showing love for your country and being proud of it"
-  },
-  "DOMESTIC": {
-    "Definition": "relating to a person's own country"
-  },
-  "RELIANCE": {
-    "Definition": "the state of depending on or trusting in something or someone"
-  },
-  "UNLICENSED": {
-    "Definition": "not having a licence (= a document giving legal permission) to do something, for example to sell alcohol, or use or own something, for example a gun"
+    "Defintion": "to remember a piece of information when you are making a decision or thinking about a matter"
   },
   "BOOM": {
-    "Definition": "an increase in something, or a time when something becomes more popular"
+    "Defintion": "an increase in something, or a time when something becomes more popular"
   },
-  "LEGISLATION": {
-    "Definition": "a law or set of laws suggested by a government and made official by a parliament"
+  "BRANDY": {
+    "Defintion": "a strong alcoholic drink made from wine and sometimes flavoured with fruits"
+  },
+  "CRAZE": {
+    "Defintion": "an activity, object, or idea that is extremely popular, usually for a short time"
+  },
+  "DEEMED": {
+    "Defintion": "considered"
   },
   "DISPOSABLE INCOME": {
-    "Definition": "the money that you can spend as you want and not the money that you spend on taxes, food, and other basic needs"
+    "Defintion": "the money that you can spend as you want and not the money that you spend on taxes, food, and other basic needs"
   },
-  "PERFECT STORM": {
-    "Definition": "an extremely bad situation in which many bad things happen at the same time"
-  },
-  "ESTABLISHMENTS": {
-    "Definition": "places of business"
-  },
-  "SIPPING": {
-    "Definition": "drinking, taking only a very small amount at a time"
-  },
-  "MISTAKEN": {
-    "Definition": "wrong"
-  },
-  "EMERGE": {
-    "Definition": "exit, leave"
-  },
-  "FIENDISHLY": {
-    "Definition": "extremely"
-  },
-  "TURPENTINE": {
-    "Definition": "a strong acid with no colour"
-  },
-  "IMPOTENT": {
-    "Definition": "if a man is impotent, he cannot have sex because his penis cannot become hard or stay hard"
-  },
-  "STERILE": {
-    "Definition": "(of a living being) unable to produce young, or (of land) unable to produce plants or crops"
-  },
-  "EXCEEDED": {
-    "Definition": "to be greater than a number or amount, or to go past an allowed limit"
-  },
-  "VAST": {
-    "Definition": "extremely big"
-  },
-  "PASS OUT": {
-    "Definition": "to become unconscious for a short time, for example when ill, badly hurt, or drunk"
-  },
-  "MONOTONOUS": {
-    "Definition": "not changing and therefore boring"
+  "DOMESTIC": {
+    "Defintion": "relating to a person's own country"
   },
   "DRAWN PARALLELS": {
-    "Definition": "compare something to"
+    "Defintion": "compare something to"
   },
-  "NICKNAMED": {
-    "Definition": "given an informal name"
+  "EMERGE": {
+    "Defintion": "exit, leave"
   },
-  "IMPURITIES": {
-    "Definition": "the fact that a substance is dirty or lower in quality because it is mixed with another substance, or something that causes this"
+  "EPIC": {
+    "Defintion": "extremely large"
   },
-  "STRANGLED": {
-    "Definition": "to kill someone by pressing their throat so that they cannot breathe"
+  "EPIDEMIC": {
+    "Defintion": "the appearance of a particular disease in a large number of people at the same time"
   },
-  "WAKE-UP CALL": {
-    "Definition": "If something that happens is a wake-up call, it should make you realise that you need to take action to change a situation"
+  "ESTABLISHMENTS": {
+    "Defintion": "places of business"
   },
-  "RESURGENCE": {
-    "Definition": "new increase of activity or interest in a particular subject or idea that had been forgotten for some time"
+  "EXCEEDED": {
+    "Defintion": "to be greater than a number or amount, or to go past an allowed limit"
+  },
+  "FATE": {
+    "Defintion": "what happens to a particular person or thing, especially something final or negative, such as death or defeat"
+  },
+  "FIENDISHLY": {
+    "Defintion": "extremely"
   },
   "GRIP": {
-    "Definition": "ight hold, control over"
+    "Defintion": "ight hold, control over"
+  },
+  "IMPOTENT": {
+    "Defintion": "if a man is impotent, he cannot have sex because his penis cannot become hard or stay hard"
+  },
+  "IMPURITIES": {
+    "Defintion": "the fact that a substance is dirty or lower in quality because it is mixed with another substance, or something that causes this"
+  },
+  "IN LIGHT OF": {
+    "Defintion": "given that"
+  },
+  "JUNIPER": {
+    "Defintion": "a small evergreen bush (= one that never loses its leaves) with sharp leaves and small purple fruits that are used in medicine and in making gin (= a type of strong alcoholic drink)"
+  },
+  "LEGISLATION": {
+    "Defintion": "a law or set of laws suggested by a government and made official by a parliament"
+  },
+  "LIQUOR": {
+    "Defintion": "strong alcoholic drink"
+  },
+  "MISTAKEN": {
+    "Defintion": "wrong"
+  },
+  "MONOTONOUS": {
+    "Defintion": "not changing and therefore boring"
+  },
+  "NICKNAMED": {
+    "Defintion": "given an informal name"
+  },
+  "PASS OUT": {
+    "Defintion": "to become unconscious for a short time, for example when ill, badly hurt, or drunk"
+  },
+  "PATRIOTIC": {
+    "Defintion": "showing love for your country and being proud of it"
+  },
+  "PERFECT STORM": {
+    "Defintion": "an extremely bad situation in which many bad things happen at the same time"
+  },
+  "RELIANCE": {
+    "Defintion": "the state of depending on or trusting in something or someone"
+  },
+  "RESURGENCE": {
+    "Defintion": "new increase of activity or interest in a particular subject or idea that had been forgotten for some time"
+  },
+  "SIPPING": {
+    "Defintion": "drinking, taking only a very small amount at a time"
+  },
+  "SPIRIT": {
+    "Defintion": "a strong alcoholic drink made from wine and sometimes flavoured with fruits"
+  },
+  "SPIRITS": {
+    "Defintion": "a strong alcoholic drink made from wine and sometimes flavoured with fruits"
+  },
+  "STERILE": {
+    "Defintion": "(of a living being) unable to produce young, or (of land) unable to produce plants or crops"
+  },
+  "STRANGLED": {
+    "Defintion": "to kill someone by pressing their throat so that they cannot breathe"
+  },
+  "TURBULENT": {
+    "Defintion": "involving a lot of sudden changes, arguments, or violence"
+  },
+  "TURPENTINE": {
+    "Defintion": "a strong acid with no colour"
+  },
+  "UNLICENSED": {
+    "Defintion": "not having a licence (= a document giving legal permission) to do something, for example to sell alcohol, or use or own something, for example a gun"
+  },
+  "VAST": {
+    "Defintion": "extremely big"
+  },
+  "WAKE-UP CALL": {
+    "Defintion": "If something that happens is a wake-up call, it should make you realise that you need to take action to change a situation"
   }
 }

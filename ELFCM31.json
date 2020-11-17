@@ -1,74 +1,80 @@
 {
+  "ADOPT": {
+    "Defintion": "(of an animal) to take an animal that has been left in a place such as a rescue centre, and keep it as your pet"
+  },
+  "ADOPTING": {
+    "Defintion": "(of an animal) to take an animal that has been left in a place such as a rescue centre, and keep it as your pet"
+  },
+  "ALGORITHM": {
+    "Defintion": "a set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem"
+  },
+  "ALGORITHMS": {
+    "Defintion": "a set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem"
+  },
+  "ASBESTOS": {
+    "Defintion": "a soft, greyish-white material that does not burn, used especially in the past in buildings, clothing, etc. as a protection against fire and as a form of insulation (= a way of stopping heat from escaping)"
+  },
+  "AUCTION": {
+    "Defintion": "a usually public sale of goods or property, where people make higher and higher bids (= offers of money) for each thing, until the thing is sold to the person who will pay most"
+  },
+  "BID": {
+    "Defintion": "to offer a particular amount of money for something that is for sale and compete against other people to buy it, especially at a public sale of goods or property"
+  },
+  "BIDDING": {
+    "Defintion": "see 'bid'"
+  },
+  "CRAWLERS": {
+    "Defintion": "computer programs that automatically searches for information on the internet, usually in order to index (= list) internet content"
+  },
+  "DELICATE": {
+    "Defintion": "needing careful treatment"
+  },
+  "DISTINCTIVE": {
+    "Defintion": "something that is distinctive is easy to recognise because it is different from other things"
+  },
+  "IMPLICATIONS": {
+    "Defintion": "the effect that an action or decision will have on something else in the future"
+  },
+  "INDICATE": {
+    "Defintion": "suggest"
+  },
+  "JUNK": {
+    "Defintion": "rubbish"
+  },
+  "LIKEWISE": {
+    "Defintion": "in the same way"
+  },
+  "OBSCURE": {
+    "Defintion": "strange, weird"
+  },
   "ON THE HUNT": {
-    "Definition": "looking for"
+    "Defintion": "looking for"
   },
-  "‍JUNK": {
-    "Definition": "rubbish"
+  "POPUPS": {
+    "Defintion": "an advertisement that is shown in a new window in front of the window that you are looking at on a website"
   },
-  "‍CRAWLERS": {
-    "Definition": "computer programs that automatically searches for information on the internet, usually in order to index (= list) internet content"
+  "RANK": {
+    "Defintion": "to put in order"
   },
-  "‍ALGORITHM": {
-    "Definition": "a set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem"
+  "ROUND TRIP": {
+    "Defintion": "iIf you make a round trip, you go on a journey and return to where you started from"
   },
-  "‍SCANNING": {
-    "Definition": "looking at something carefully, with the eyes or with a machine, in order to get information"
+  "SCANNING": {
+    "Defintion": "looking at something carefully, with the eyes or with a machine, in order to get information"
   },
-  "‍ADOPT": {
-    "Definition": "(of an animal) to take an animal that has been left in a place such as a rescue centre, and keep it as your pet"
+  "SCRATCHED THE SURFACE": {
+    "Defintion": "to deal with only a small part of a subject or a problem"
   },
-  "‍STRAIGHTFORWARD": {
-    "Definition": "easy to understand or simple"
+  "STRAIGHTFORWARD": {
+    "Defintion": "easy to understand or simple"
   },
-  "‍OBSCURE": {
-    "Definition": "strange, weird"
+  "TEND": {
+    "Defintion": "normally do something"
   },
-  "‍TRUSTWORTHY": {
-    "Definition": "able to be trusted"
+  "TRADEOFF": {
+    "Defintion": "a balancing of two opposing situations or qualities, both of which are desired"
   },
-  "‍LIKEWISE": {
-    "Definition": "in the same way"
-  },
-  "‍POPUPS": {
-    "Definition": "an advertisement that is shown in a new window in front of the window that you are looking at on a website"
-  },
-  "‍TEND": {
-    "Definition": "normally do something"
-  },
-  "‍TRADEOFF": {
-    "Definition": "a balancing of two opposing situations or qualities, both of which are desired"
-  },
-  "‍DELICATE": {
-    "Definition": "needing careful treatment"
-  },
-  "‍DISTINCTIVE": {
-    "Definition": "something that is distinctive is easy to recognise because it is different from other things"
-  },
-  "‍RANK": {
-    "Definition": "to put in order"
-  },
-  "‍AUCTION": {
-    "Definition": "a usually public sale of goods or property, where people make higher and higher bids (= offers of money) for each thing, until the thing is sold to the person who will pay most"
-  },
-  "‍BID": {
-    "Definition": "to offer a particular amount of money for something that is for sale and compete against other people to buy it, especially at a public sale of goods or property"
-  },
-  "‍INDICATE": {
-    "Definition": "suggest"
-  },
-  "‍ASBESTOS": {
-    "Definition": "a soft, greyish-white material that does not burn, used especially in the past in buildings, clothing, etc. as a protection against fire and as a form of insulation (= a way of stopping heat from escaping)"
-  },
-  "‍BIDDING": {
-    "Definition": "see 'bid'"
-  },
-  "‍IMPLICATIONS": {
-    "Definition": "the effect that an action or decision will have on something else in the future"
-  },
-  "‍ROUND TRIP": {
-    "Definition": "iIf you make a round trip, you go on a journey and return to where you started from"
-  },
-  "‍SCRATCHED THE SURFACE": {
-    "Definition": "to deal with only a small part of a subject or a problem"
+  "TRUSTWORTHY": {
+    "Defintion": "able to be trusted"
   }
 }

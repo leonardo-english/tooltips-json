@@ -1,188 +1,197 @@
 {
+  "ACCOMPLISHED": {
+    "Defintion": "skilled"
+  },
+  "APTITUDE": {
+    "Defintion": "a natural ability or skill"
+  },
+  "ARTIFICIAL": {
+    "Defintion": "not sincere, not natural"
+  },
+  "AS USEFUL AS BEING HIT IN THE FACE WITH A WET FISH": {
+    "Defintion": "used to indicate that something isn't useful at all"
+  },
+  "AT EASE": {
+    "Defintion": "comfortable"
+  },
+  "AVOIDING": {
+    "Defintion": "staying away from someone or something"
+  },
+  "BITE-SIZED": {
+    "Defintion": "able to be consumed in small chunks"
+  },
+  "BOOSTING": {
+    "Defintion": "improving or increasing something"
+  },
+  "BY ALL MEANS": {
+    "Defintion": "used to give permission"
+  },
+  "CALL THIS A DAY": {
+    "Defintion": "finish"
+  },
+  "CAUGHT UP": {
+    "Defintion": "distracted"
+  },
+  "CHORE": {
+    "Defintion": "a job or piece of work that is often boring or unpleasant but needs to be done regularly"
+  },
+  "COMES ACROSS": {
+    "Defintion": "to behave in a way that makes people believe that you have a particular characteristic"
+  },
+  "CORE": {
+    "Defintion": "the basic and most important part of something"
+  },
+  "DEGREE": {
+    "Defintion": "(an) amount or level of something"
+  },
+  "DETRIMENTAL": {
+    "Defintion": "damaging"
+  },
   "DEVIATION": {
-    "Definition": "to do something that is different from the usual or common way of behaving"
+    "Defintion": "to do something that is different from the usual or common way of behaving"
   },
-  "‍AVOIDING": {
-    "Definition": "staying away from someone or something"
+  "DISHEARTENED": {
+    "Defintion": "having lost confidence, hope, and energy"
   },
-  "‍SPECIFICS": {
-    "Definition": "exact details"
+  "DULLED DOWN": {
+    "Defintion": "made more simple or boring"
   },
-  "‍STRATEGIC": {
-    "Definition": "helping to achieve a plan"
+  "ELUSIVE": {
+    "Defintion": "difficult to describe, find, achieve, or remember"
   },
-  "‍PAT ON THE BACK": {
-    "Definition": "praise, e.g. he gave himself a pat on the back for his achievements"
+  "EMBRACE": {
+    "Defintion": "to accept something enthusiastically"
   },
-  "‍DISHEARTENED": {
-    "Definition": "having lost confidence, hope, and energy"
+  "ENDLESSLY": {
+    "Defintion": "in a way that is endless (= never finishing, or seeming never to finish)"
   },
-  "‍HACKS": {
-    "Definition": "shortcuts that avoid you doing what others do"
+  "ENGAGE": {
+    "Defintion": "to become involved, or have contact, with someone or something"
   },
-  "‍SQUEEZE": {
-    "Definition": "to force someone or something into a small space or a short period of time"
+  "EQUATE": {
+    "Defintion": "think of as equal"
   },
-  "‍BOOSTING": {
-    "Definition": "improving or increasing something"
+  "FRAMING": {
+    "Defintion": "to express something choosing your words carefully"
   },
-  "‍SPECIFIC": {
-    "Definition": "see 'specifics'"
+  "HACK": {
+    "Defintion": "shortcuts that avoid you doing what others do"
   },
-  "‍WITHOUT FURTHER ADO": {
-    "Definition": "without wasting more time"
+  "HACKS": {
+    "Defintion": "shortcuts that avoid you doing what others do"
   },
-  "‍ARTIFICIAL": {
-    "Definition": "not sincere, not natural"
+  "HESITATE": {
+    "Defintion": "to pause before you do or say something, often because you are uncertain or nervous about it"
   },
-  "‍STAGED": {
-    "Definition": "created in an unreal manner"
+  "IMPLAUSIBLE": {
+    "Defintion": "difficult to believe, or unlikely"
   },
-  "‍MOTIVATE": {
-    "Definition": "to make someone want to do something well"
+  "IN ALL PROBABILITY": {
+    "Defintion": "probably true"
   },
-  "‍CHORE": {
-    "Definition": "a job or piece of work that is often boring or unpleasant but needs to be done regularly"
+  "LINGUISTIC": {
+    "Defintion": "connected with language or the study of language"
   },
-  "‍DULLED DOWN": {
-    "Definition": "made more simple or boring"
+  "LITERATE": {
+    "Defintion": "having a good education or showing it in your writing‍"
   },
-  "‍OVER AND ABOVE": {
-    "Definition": "above or higher than something else, sometimes so that one thing covers the other"
+  "MINIMISE": {
+    "Defintion": "to reduce something to the least possible level or amount"
   },
-  "‍SMALL-TALK": {
-    "Definition": "conversation about things that are not important, often between people who do not know each other well"
+  "MIRACULOUSLY": {
+    "Defintion": "in a way that is very surprising or difficult to believe"
   },
-  "‍MOTIVATION": {
-    "Definition": "enthusiasm for doing something"
+  "MOMENTUM": {
+    "Defintion": "the force that keeps an object moving or keeps an event developing after it has started"
   },
-  "‍PACE": {
-    "Definition": "the speed at which someone or something moves, or with which something happens or changes"
+  "MOTIVATE": {
+    "Defintion": "to make someone want to do something well"
   },
-  "‍ENGAGE": {
-    "Definition": "to become involved, or have contact, with someone or something"
+  "MOTIVATION": {
+    "Defintion": "enthusiasm for doing something"
   },
-  "‍BY ALL MEANS": {
-    "Definition": "used to give permission"
-  },
-  "‍TACTICS": {
-    "Definition": "a planned way of doing something"
-  },
-  "‍ZERO-SUM": {
-    "Definition": "used to refer to a situation in which any win by one person always means a loss to another person involved"
-  },
-  "‍ENDLESSLY": {
-    "Definition": "in a way that is endless (= never finishing, or seeming never to finish)"
-  },
-  "‍CORE": {
-    "Definition": "the basic and most important part of something"
-  },
-  "‍CAUGHT UP": {
-    "Definition": "distracted"
-  },
-  "‍SHINY": {
-    "Definition": "bright and attractive"
-  },
-  "‍PAINS ME": {
-    "Definition": "upsets, causes pain"
-  },
-  "‍PROMINENT": {
-    "Definition": "very well known and important"
-  },
-  "‍MIRACULOUSLY": {
-    "Definition": "in a way that is very surprising or difficult to believe"
-  },
-  "‍MINIMISE": {
-    "Definition": "to reduce something to the least possible level or amount"
-  },
-  "‍FRAMING": {
-    "Definition": "to express something choosing your words carefully"
-  },
-  "‍EMBRACE": {
-    "Definition": "to accept something enthusiastically"
-  },
-  "‍AT EASE": {
-    "Definition": "comfortable"
-  },
-  "‍TEDIOUS": {
-    "Definition": "boring Relish: to like or enjoy something"
-  },
-  "‍ELUSIVE": {
-    "Definition": "difficult to describe, find, achieve, or remember"
-  },
-  "‍DEGREE": {
-    "Definition": "(an) amount or level of something"
-  },
-  "‍AS USEFUL AS BEING HIT IN THE FACE WITH A WET FISH": {
-    "Definition": "used to indicate that something isn't useful at all"
-  },
-  "‍PATRONISE": {
-    "Definition": "to speak to or behave towards someone as if they are stupid or not important"
-  },
-  "‍LITERATE": {
-    "Definition": "having a good education or showing it in your writing‍"
+  "MOUSTACHE": {
+    "Defintion": "hair that a man grows above his upper lip"
   },
   "NOD": {
-    "Definition": "to move your head down and then up, sometimes several times, especially to show agreement, approval, or greeting, or to show something by doing this"
+    "Defintion": "to move your head down and then up, sometimes several times, especially to show agreement, approval, or greeting, or to show something by doing this"
   },
-  "‍IN ALL PROBABILITY": {
-    "Definition": "probably true"
+  "NUANCED": {
+    "Defintion": "characterised by subtle shades of meaning or expression"
   },
-  "‍SCHOLARSHIP": {
-    "Definition": "an amount of money given by a school, college, university, or other organization to pay for the studies of a person"
+  "ORATOR": {
+    "Defintion": "someone who is good at public speaking"
   },
-  "‍IMPLAUSIBLE": {
-    "Definition": "difficult to believe, or unlikely"
+  "ORATORS": {
+    "Defintion": "someone who is good at public speaking"
   },
-  "‍APTITUDE": {
-    "Definition": "a natural ability or skill"
+  "OVER AND ABOVE": {
+    "Defintion": "above or higher than something else, sometimes so that one thing covers the other"
   },
-  "‍MOUSTACHE": {
-    "Definition": "hair that a man grows above his upper lip"
+  "PACE": {
+    "Defintion": "the speed at which someone or something moves, or with which something happens or changes"
   },
-  "‍PRESTIGIOUS": {
-    "Definition": "respect and admiration given to someone or something, usually because of a reputation for high quality, success, or social influence"
+  "PAINS ME": {
+    "Defintion": "upsets, causes pain"
   },
-  "‍SINGLE OUT": {
-    "Definition": "choose as a single example"
+  "PAT ON THE BACK": {
+    "Defintion": "praise, e.g. he gave himself a pat on the back for his achievements"
   },
-  "‍EQUATE": {
-    "Definition": "think of as equal"
+  "PATRONISE": {
+    "Defintion": "to speak to or behave towards someone as if they are stupid or not important"
   },
-  "‍ORATORS": {
-    "Definition": "someone who is good at public speaking"
+  "PRESTIGIOUS": {
+    "Defintion": "respect and admiration given to someone or something, usually because of a reputation for high quality, success, or social influence"
   },
-  "‍HESITATE": {
-    "Definition": "to pause before you do or say something, often because you are uncertain or nervous about it"
+  "PROMINENT": {
+    "Defintion": "very well known and important"
   },
-  "‍COMES ACROSS": {
-    "Definition": "to behave in a way that makes people believe that you have a particular characteristic"
+  "PROXY": {
+    "Defintion": "a situation, process, or activity to which another situation, etc. is compared, especially in order to calculate how successful or unsuccessful it is"
   },
-  "‍PROXY": {
-    "Definition": "a situation, process, or activity to which another situation, etc. is compared, especially in order to calculate how successful or unsuccessful it is"
+  "RELISH": {
+    "Defintion": "enjoy"
   },
-  "‍LINGUISTIC": {
-    "Definition": "connected with language or the study of language"
+  "SCHOLARSHIP": {
+    "Defintion": "an amount of money given by a school, college, university, or other organization to pay for the studies of a person"
   },
-  "‍NUANCED": {
-    "Definition": "characterised by subtle shades of meaning or expression"
+  "SHINY": {
+    "Defintion": "bright and attractive"
   },
-  "‍ACCOMPLISHED": {
-    "Definition": "skilled"
+  "SINGLE OUT": {
+    "Defintion": "choose as a single example"
   },
-  "‍BITE-SIZED": {
-    "Definition": "able to be consumed in small chunks"
+  "SMALL-TALK": {
+    "Defintion": "conversation about things that are not important, often between people who do not know each other well"
   },
-  "‍CALL THIS A DAY": {
-    "Definition": "finish"
+  "SNEAK PEAK": {
+    "Defintion": "first look at"
   },
-  "‍SNEAK PEAK": {
-    "Definition": "first look at"
+  "SPECIFIC": {
+    "Defintion": "see 'specifics'"
   },
-  "‍DETRIMENTAL": {
-    "Definition": "damaging"
+  "SPECIFICS": {
+    "Defintion": "exact details"
   },
-  "‍MOMENTUM": {
-    "Definition": "the force that keeps an object moving or keeps an event developing after it has started"
+  "SQUEEZE": {
+    "Defintion": "to force someone or something into a small space or a short period of time"
+  },
+  "STAGED": {
+    "Defintion": "created in an unreal manner"
+  },
+  "STRATEGIC": {
+    "Defintion": "helping to achieve a plan"
+  },
+  "TACTICS": {
+    "Defintion": "a planned way of doing something"
+  },
+  "TEDIOUS": {
+    "Defintion": "boring Relish: to like or enjoy something"
+  },
+  "WITHOUT FURTHER ADO": {
+    "Defintion": "without wasting more time"
+  },
+  "ZERO-SUM": {
+    "Defintion": "used to refer to a situation in which any win by one person always means a loss to another person involved"
   }
 }

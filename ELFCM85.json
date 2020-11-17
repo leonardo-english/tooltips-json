@@ -1,146 +1,140 @@
 {
-  "IMPLICATIONS": {
-    "Definition": "consequences, possible future effects"
-  },
-  "ETHICALLY": {
-    "Definition": "relating to principles of right and wrong"
-  },
-  "SOURCED": {
-    "Definition": "taken from a particular place"
-  },
-  "MINERALS": {
-    "Definition": "substances that are found in the earth"
-  },
-  "BEAR WITH ME": {
-    "Definition": "have patience"
-  },
-  "THE PERIODIC TABLE": {
-    "Definition": "the table containing the list of chemical elements"
-  },
-  "PLENTIFUL": {
-    "Definition": "existing in large quantities"
-  },
-  "DEPOSITS": {
-    "Definition": "a layer of minerals"
-  },
-  "ISOLATING": {
-    "Definition": "separating"
-  },
-  "DISSOLVE": {
-    "Definition": "to be absorbed by a liquid"
-  },
-  "PROPERTIES": {
-    "Definition": "qualities or powers (of something)"
-  },
-  "INDISPENSABLE": {
-    "Definition": "very important, so much so that managing without it would be difficult"
+  "A HUGE DEAL": {
+    "Definition": "very important"
   },
   "ANTI-FRAUD": {
     "Definition": "(in the case of money) to stop fake banknotes"
   },
-  "ULTRAVIOLET": {
-    "Definition": "(of light) a light that has a wavelength after violet, and cannot be seen by the human eye"
+  "AREN’T HAVING ANY OF IT": {
+    "Definition": "not accepting that something is true"
   },
-  "DAZZLING": {
-    "Definition": "very bright"
-  },
-  "PUNCTURE": {
-    "Definition": "make a hole in"
-  },
-  "WIND TURBINES": {
-    "Definition": "modern windmills used to produce electricity"
-  },
-  "MRI SCANNERS": {
-    "Definition": "devices used to make a photo of the inside of someone's body"
-  },
-  "EXTRACT": {
-    "Definition": "take out"
-  },
-  "COTTAGE INDUSTRY": {
-    "Definition": "small, often unprofessional, business"
-  },
-  "RUBBING": {
-    "Definition": "moving your hand over a surface"
-  },
-  "TA-DA": {
-    "Definition": "an expression of delight"
-  },
-  "TOXIC": {
-    "Definition": "containing poison, harmful to things around it"
-  },
-  "SCENIC": {
-    "Definition": "beautiful, often natural"
+  "BEAR WITH ME": {
+    "Definition": "have patience"
   },
   "BURST": {
     "Definition": "to break open"
   },
-  "LANDSLIDE": {
-    "Definition": "a sudden fall of earth down a slope"
-  },
-  "PROFITABLE": {
-    "Definition": "making a profit, making money"
-  },
-  "VIRTUAL": {
-    "Definition": "almost"
-  },
-  "FACTOR IN": {
-    "Definition": "consider"
-  },
-  "DOT": {
-    "Definition": "exist in large quantities, but at large distances from each other"
-  },
-  "DIFFERING": {
-    "Definition": "different, opposite"
-  },
-  "AREN’T HAVING ANY OF IT": {
-    "Definition": "not accepting that something is true"
-  },
-  "SOCIETAL": {
-    "Definition": "relating to society"
-  },
-  "OUTSOURCED": {
-    "Definition": "employed another company to do something"
-  },
-  "YOU GET THE GIST": {
-    "Definition": "you understand what I mean"
-  },
-  "QUITE SOMETHING TO BEHOLD": {
-    "Definition": "impressive, either in a negative or positive way"
-  },
-  "DYSTOPIAN": {
-    "Definition": "relating to a future, imaginary world where life is terrible"
-  },
   "BYPRODUCT": {
     "Definition": "a product that is made as a consequence of something else"
-  },
-  "DEGREES": {
-    "Definition": "levels"
-  },
-  "LOW-END": {
-    "Definition": "cheap"
-  },
-  "TRANSITION": {
-    "Definition": "move from one level to another"
-  },
-  "HAZARDOUS": {
-    "Definition": "dangerous"
-  },
-  "COMPONENTS": {
-    "Definition": "things that make up part of something else"
   },
   "COMMENTATORS": {
     "Definition": "experts, people who express an opinion on something"
   },
+  "COMPONENTS": {
+    "Definition": "things that make up part of something else"
+  },
+  "COTTAGE INDUSTRY": {
+    "Definition": "small, often unprofessional, business"
+  },
+  "DAZZLING": {
+    "Definition": "very bright"
+  },
+  "DEGREES": {
+    "Definition": "levels"
+  },
+  "DEPOSITS": {
+    "Definition": "a layer of minerals"
+  },
   "DEVASTATING": {
     "Definition": "causing a lot of damage or destruction"
   },
-  "A HUGE DEAL": {
-    "Definition": "very important"
+  "DIFFERING": {
+    "Definition": "different, opposite"
+  },
+  "DISSOLVE": {
+    "Definition": "to be absorbed by a liquid"
+  },
+  "DOT": {
+    "Definition": "exist in large quantities, but at large distances from each other"
+  },
+  "DYSTOPIAN": {
+    "Definition": "relating to a future, imaginary world where life is terrible"
+  },
+  "ETHICALLY": {
+    "Definition": "relating to principles of right and wrong"
+  },
+  "EXTRACT": {
+    "Definition": "take out"
+  },
+  "FACTOR IN": {
+    "Definition": "consider"
+  },
+  "FUNCTION": {
+    "Definition": "work"
+  },
+  "HAZARDOUS": {
+    "Definition": "dangerous"
+  },
+  "IMPLICATIONS": {
+    "Definition": "consequences, possible future effects"
+  },
+  "INDISPENSABLE": {
+    "Definition": "very important, so much so that managing without it would be difficult"
+  },
+  "ISOLATING": {
+    "Definition": "separating"
+  },
+  "LANDSLIDE": {
+    "Definition": "a sudden fall of earth down a slope"
+  },
+  "LOW-END": {
+    "Definition": "cheap"
+  },
+  "MRI SCANNERS": {
+    "Definition": "devices used to make a photo of the inside of someone's body"
+  },
+  "OUTSOURCED": {
+    "Definition": "employed another company to do something"
+  },
+  "PLENTIFUL": {
+    "Definition": "existing in large quantities"
+  },
+  "PROFITABLE": {
+    "Definition": "making a profit, making money"
+  },
+  "PROPERTIES": {
+    "Definition": "qualities or powers (of something)"
+  },
+  "PUNCTURE": {
+    "Definition": "make a hole in"
+  },
+  "QUITE SOMETHING TO BEHOLD": {
+    "Definition": "impressive, either in a negative or positive way"
+  },
+  "RUBBING": {
+    "Definition": "moving your hand over a surface"
+  },
+  "SCENIC": {
+    "Definition": "beautiful, often natural"
+  },
+  "SOCIETAL": {
+    "Definition": "relating to society"
+  },
+  "TA-DA": {
+    "Definition": "an expression of delight"
   },
   "TALE": {
     "Definition": "story"
   },
-  "FUNCTION": {
-    "Definition": "work"
+  "THE PERIODIC TABLE": {
+    "Definition": "the table containing the list of chemical elements"
+  },
+  "TOXIC": {
+    "Definition": "containing poison, harmful to things around it"
+  },
+  "TRANSITION": {
+    "Definition": "move from one level to another"
+  },
+  "ULTRAVIOLET": {
+    "Definition": "(of light) a light that has a wavelength after violet, and cannot be seen by the human eye"
+  },
+  "VIRTUAL": {
+    "Definition": "almost"
+  },
+  "WIND TURBINES": {
+    "Definition": "modern windmills used to produce electricity"
+  },
+  "YOU GET THE GIST": {
+    "Definition": "you understand what I mean"
   }
 }

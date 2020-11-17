@@ -1,131 +1,134 @@
 {
-  "DEEP STATE": {
-    "Definition": "people within government or the military who are believed to control and manipulate government policy"
-  },
-  "FRINGE": {
-    "Definition": "on the edge of something"
-  },
-  "NICHE": {
-    "Definition": "only appealing to a small amount of people"
-  },
-  "PROCLAIMING": {
-    "Definition": "announcing publicly"
-  },
-  "MAINSTREAM": {
-    "Definition": "considered normal, or believed and used by many"
-  },
-  "RALLIES": {
-    "Definition": "large public meetings"
-  },
-  "CRYPTIC": {
-    "Definition": "mysterious, difficult to understand"
-  },
-  "ARMED TO THE TEETH": {
-    "Definition": "carrying a lot of weapons"
-  },
-  "ELITE": {
-    "Definition": "the richest and most powerful people in society"
-  },
-  "ENABLED": {
-    "Definition": "provided with the opportunity or tools to do something"
-  },
-  "PROPHECY": {
-    "Definition": "a statement that something will happen"
-  },
-  "DEVOTED": {
-    "Definition": "very loyal"
-  },
-  "SECURITY CLEARANCE": {
-    "Definition": "an official permission to see security or state secrets"
-  },
-  "PRECISE": {
-    "Definition": "clear and accurate"
-  },
-  "RIDDLES": {
-    "Definition": "a question or clue that is deliberately confusing"
-  },
-  "AMBIGUOUS": {
-    "Definition": "having multiple possible meanings"
-  },
-  "TIRELESSLY": {
-    "Definition": "in a very hard or determined way"
-  },
-  "THE ESTABLISHMENT": {
-    "Definition": "the group of people in a society that have all of the power and influence"
-  },
-  "INTERPRET": {
-    "Definition": "explain the meaning of something"
-  },
-  "FACTION": {
-    "Definition": "a group within a larger group"
-  },
-  "RUNNING MATE": {
-    "Definition": "a political partner"
-  },
-  "ENCRYPTED": {
-    "Definition": "put into a special code so that it is hard to understand"
-  },
-  "UNDENIABLY": {
-    "Definition": "definitely true"
-  },
-  "ENCOUNTERED": {
-    "Definition": "met"
+  "ALGORITHM": {
+    "Definition": "the code in a computer programme"
   },
   "ALGORITHMS": {
     "Definition": "the code in a computer programme"
   },
-  "PRIOR": {
-    "Definition": "before"
+  "AMBIGUOUS": {
+    "Definition": "having multiple possible meanings"
   },
-  "STICKING AROUND": {
-    "Definition": "stay in one place, remaining"
-  },
-  "HOOKED IN": {
-    "Definition": "introduce someone to something so that they become dependent on it"
-  },
-  "GOINGS ON": {
-    "Definition": "events or activities, often strange or unusual ones"
-  },
-  "EMPOWER": {
-    "Definition": "to give someone power (to do something)"
-  },
-  "COMMANDMENTS": {
-    "Definition": "orders"
-  },
-  "SCEPTICAL": {
-    "Definition": "doubting or not believing"
-  },
-  "SCAVENGER HUNT": {
-    "Definition": "a game in which you collect different items"
-  },
-  "LEVEL HEADED": {
-    "Definition": "calm and not erratic"
-  },
-  "GESTICULATING": {
-    "Definition": "moving hands or arms, usually to express meaning"
-  },
-  "COMPOSED": {
-    "Definition": "calm"
-  },
-  "LEGITIMISE": {
-    "Definition": "make something acceptable"
-  },
-  "CONGRESSIONAL": {
-    "Definition": "relating to the US Congress"
-  },
-  "PLEDGED": {
-    "Definition": "promised"
-  },
-  "MEMO": {
-    "Definition": "a message or document"
+  "ARMED TO THE TEETH": {
+    "Definition": "carrying a lot of weapons"
   },
   "AWAKENING": {
     "Definition": "when you suddenly realise the truth"
   },
+  "CATCHPHRASES": {
+    "Definition": "phrases that are often used by someone or something"
+  },
+  "COMMANDMENTS": {
+    "Definition": "orders"
+  },
+  "COMPOSED": {
+    "Definition": "calm"
+  },
+  "CONGRESSIONAL": {
+    "Definition": "relating to the US Congress"
+  },
+  "CRYPTIC": {
+    "Definition": "mysterious, difficult to understand"
+  },
+  "DEEP STATE": {
+    "Definition": "people within government or the military who are believed to control and manipulate government policy"
+  },
+  "DEVOTED": {
+    "Definition": "very loyal"
+  },
+  "ELITE": {
+    "Definition": "the richest and most powerful people in society"
+  },
+  "EMPOWER": {
+    "Definition": "to give someone power (to do something)"
+  },
+  "ENABLED": {
+    "Definition": "provided with the opportunity or tools to do something"
+  },
+  "ENCOUNTERED": {
+    "Definition": "met"
+  },
+  "ENCRYPTED": {
+    "Definition": "put into a special code so that it is hard to understand"
+  },
+  "FACTION": {
+    "Definition": "a group within a larger group"
+  },
+  "FRINGE": {
+    "Definition": "on the edge of something"
+  },
+  "GESTICULATING": {
+    "Definition": "moving hands or arms, usually to express meaning"
+  },
+  "GOINGS ON": {
+    "Definition": "events or activities, often strange or unusual ones"
+  },
+  "HOOKED IN": {
+    "Definition": "introduce someone to something so that they become dependent on it"
+  },
+  "INTERPRET": {
+    "Definition": "explain the meaning of something"
+  },
+  "LEGITIMISE": {
+    "Definition": "make something acceptable"
+  },
+  "LEVEL HEADED": {
+    "Definition": "calm and not erratic"
+  },
+  "MAINSTREAM": {
+    "Definition": "considered normal, or believed and used by many"
+  },
+  "MEMO": {
+    "Definition": "a message or document"
+  },
+  "NICHE": {
+    "Definition": "only appealing to a small amount of people"
+  },
+  "PLEDGED": {
+    "Definition": "promised"
+  },
+  "PRECISE": {
+    "Definition": "clear and accurate"
+  },
+  "PRIOR": {
+    "Definition": "before"
+  },
+  "PROCLAIMING": {
+    "Definition": "announcing publicly"
+  },
+  "PROPHECY": {
+    "Definition": "a statement that something will happen"
+  },
+  "RALLIES": {
+    "Definition": "large public meetings"
+  },
+  "RIDDLES": {
+    "Definition": "a question or clue that is deliberately confusing"
+  },
   "RIGHTED": {
     "Definition": "corrected"
   },
-  "CATCHPHRASES": {
-    "Definition": "phrases that are often used by someone or something"
+  "RUNNING MATE": {
+    "Definition": "a political partner"
+  },
+  "SCAVENGER HUNT": {
+    "Definition": "a game in which you collect different items"
+  },
+  "SCEPTICAL": {
+    "Definition": "doubting or not believing"
+  },
+  "SECURITY CLEARANCE": {
+    "Definition": "an official permission to see security or state secrets"
+  },
+  "STICKING AROUND": {
+    "Definition": "stay in one place, remaining"
+  },
+  "THE ESTABLISHMENT": {
+    "Definition": "the group of people in a society that have all of the power and influence"
+  },
+  "TIRELESSLY": {
+    "Definition": "in a very hard or determined way"
+  },
+  "UNDENIABLY": {
+    "Definition": "definitely true"
   }
 }

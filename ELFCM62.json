@@ -1,104 +1,104 @@
 {
-  "BLESSING": {
-    "Definition": "something that is extremely lucky or makes you happy"
-  },
-  "CURSE": {
-    "Definition": "a cause of trouble and unhappiness"
-  },
-  "CONFLICT": {
-    "Definition": "an active disagreement between people with opposing opinions or principles"
-  },
-  "FILTER": {
-    "Definition": "a tool for selecting or removing a particular type of information"
-  },
-  "SHOVEL": {
-    "Definition": "a tool consisting of a wide, square metal or plastic blade, usually with slightly raised sides, attached to a handle, for moving loose material such as sand, coal, or snow"
-  },
-  "STRIKES": {
-    "Definition": "hits, makes contact with"
-  },
-  "PROFITABLE": {
-    "Definition": "making or likely to make a profit, make money"
-  },
-  "PLETHORA": {
-    "Definition": "a very large amount of something, especially a larger amount than you need, want, or can deal with"
-  },
-  "GAIN TRACTION": {
-    "Definition": "become more popular"
+  "ACCOUNTABLE": {
+    "Defintion": "Someone who is accountable is completely responsible for what they do and must be able to give a satisfactory reason for it"
   },
   "AT FIRST GLANCE": {
-    "Definition": "to give a quick short look"
+    "Defintion": "to give a quick short look"
   },
-  "PROSPER": {
-    "Definition": "(of a person or a business) to be or become successful, especially financially"
-  },
-  "EXCEPTIONS": {
-    "Definition": "someone or something that is not included in a rule, group, or list or that does not behave in the expected way"
-  },
-  "CURRENCY": {
-    "Definition": "the money that is used in a particular country at a particular time"
-  },
-  "INFLATION": {
-    "Definition": "a general, continuous increase in prices"
-  },
-  "STRENGTHENS": {
-    "Definition": "to make something stronger or more effective, or to become stronger or more effective"
-  },
-  "RELIANT": {
-    "Definition": "the state of depending on or trusting in something or someone"
-  },
-  "ACCOUNTABLE": {
-    "Definition": "Someone who is accountable is completely responsible for what they do and must be able to give a satisfactory reason for it"
-  },
-  "INEVITABLY": {
-    "Definition": "certain to happen and unable to be avoided or prevented"
-  },
-  "NET WORTH": {
-    "Definition": "the ​value of the ​assets (= property and money) ​ that a ​person or business has, after any ​debts are taken away"
-  },
-  "GDP PER CAPITA": {
-    "Definition": "the total value of all the goods and services produced by a country in a particular year, divided by the number of people living there"
-  },
-  "TRICKLING DOWN": {
-    "Definition": "relating to the idea that poor people experience positive effects when rich people get richer and spend more money"
-  },
-  "LIKELIHOOD": {
-    "Definition": "the chance that something will happen"
+  "BLESSING": {
+    "Defintion": "something that is extremely lucky or makes you happy"
   },
   "COMMODITIES": {
-    "Definition": "a substance or product that can be traded, bought, or sold"
+    "Defintion": "a substance or product that can be traded, bought, or sold"
   },
-  "VOLATILE": {
-    "Definition": "likely to change suddenly and unexpectedly, especially by getting worse"
+  "CONFLICT": {
+    "Defintion": "an active disagreement between people with opposing opinions or principles"
   },
-  "SADDLED WITH": {
-    "Definition": "to put someone in a situation in which they have to deal with something difficult or unpleasant"
+  "CURRENCY": {
+    "Defintion": "the money that is used in a particular country at a particular time"
   },
-  "PERSUASIVE": {
-    "Definition": "easy to believe"
-  },
-  "INCENTIVES": {
-    "Definition": "something that encourages a person to do something"
-  },
-  "INFLUX": {
-    "Definition": "the fact of a large number of people or things arriving at the same time"
-  },
-  "FOUNDATIONS": {
-    "Definition": "an occasion when an organisation, state, etc. is established"
-  },
-  "PRESERVE": {
-    "Definition": "to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed"
-  },
-  "HANDFUL": {
-    "Definition": "an amount of something that can be held in one hand"
+  "CURSE": {
+    "Defintion": "a cause of trouble and unhappiness"
   },
   "DISPROVE": {
-    "Definition": "to prove that something is not true"
+    "Defintion": "to prove that something is not true"
   },
-  "FALLEN PREY": {
-    "Definition": "to suddenly begin to suffer as a result of something or someone bad"
+  "EXCEPTIONS": {
+    "Defintion": "someone or something that is not included in a rule, group, or list or that does not behave in the expected way"
   },
   "EXCREMENT": {
-    "Definition": "the solid waste that is released from the bowels of a person or animal"
+    "Defintion": "the solid waste that is released from the bowels of a person or animal"
+  },
+  "FALLEN PREY": {
+    "Defintion": "to suddenly begin to suffer as a result of something or someone bad"
+  },
+  "FILTER": {
+    "Defintion": "a tool for selecting or removing a particular type of information"
+  },
+  "FOUNDATIONS": {
+    "Defintion": "an occasion when an organisation, state, etc. is established"
+  },
+  "GAIN TRACTION": {
+    "Defintion": "become more popular"
+  },
+  "GDP PER CAPITA": {
+    "Defintion": "the total value of all the goods and services produced by a country in a particular year, divided by the number of people living there"
+  },
+  "HANDFUL": {
+    "Defintion": "an amount of something that can be held in one hand"
+  },
+  "INCENTIVES": {
+    "Defintion": "something that encourages a person to do something"
+  },
+  "INEVITABLY": {
+    "Defintion": "certain to happen and unable to be avoided or prevented"
+  },
+  "INFLATION": {
+    "Defintion": "a general, continuous increase in prices"
+  },
+  "INFLUX": {
+    "Defintion": "the fact of a large number of people or things arriving at the same time"
+  },
+  "LIKELIHOOD": {
+    "Defintion": "the chance that something will happen"
+  },
+  "NET WORTH": {
+    "Defintion": "the ​value of the ​assets (= property and money) ​ that a ​person or business has, after any ​debts are taken away"
+  },
+  "PERSUASIVE": {
+    "Defintion": "easy to believe"
+  },
+  "PLETHORA": {
+    "Defintion": "a very large amount of something, especially a larger amount than you need, want, or can deal with"
+  },
+  "PRESERVE": {
+    "Defintion": "to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed"
+  },
+  "PROFITABLE": {
+    "Defintion": "making or likely to make a profit, make money"
+  },
+  "PROSPER": {
+    "Defintion": "(of a person or a business) to be or become successful, especially financially"
+  },
+  "RELIANT": {
+    "Defintion": "the state of depending on or trusting in something or someone"
+  },
+  "SADDLED WITH": {
+    "Defintion": "to put someone in a situation in which they have to deal with something difficult or unpleasant"
+  },
+  "SHOVEL": {
+    "Defintion": "a tool consisting of a wide, square metal or plastic blade, usually with slightly raised sides, attached to a handle, for moving loose material such as sand, coal, or snow"
+  },
+  "STRIKES": {
+    "Defintion": "hits, makes contact with"
+  },
+  "STRIKING": {
+    "Defintion": "hitting, making contact with"
+  },
+  "TRICKLING DOWN": {
+    "Defintion": "relating to the idea that poor people experience positive effects when rich people get richer and spend more money"
+  },
+  "VOLATILE": {
+    "Defintion": "likely to change suddenly and unexpectedly, especially by getting worse"
   }
 }

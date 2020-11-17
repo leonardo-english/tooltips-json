@@ -1,44 +1,44 @@
 {
   "AIRSPACE": {
-    "Definition": "space in the air above a country, piece of land or sea"
+    "Defintion": "space in the air above a country, piece of land or sea"
   },
   "ALLY": {
-    "Definition": "a state formally cooperating with another for a military or other purpose"
+    "Defintion": "a state formally cooperating with another for a military or other purpose"
   },
   "BAN": {
-    "Definition": "restrict the use of"
-  },
-  "REVENUE": {
-    "Definition": "money received for services"
-  },
-  "DETOUR": {
-    "Definition": "a long or roundabout route that is taken to avoid something or to visit somewhere along the way"
+    "Defintion": "restrict the use of"
   },
   "BOOMING": {
-    "Definition": "having a period of great prosperity or rapid economic growth"
+    "Defintion": "having a period of great prosperity or rapid economic growth"
   },
   "DESIRABLE": {
-    "Definition": "wished for as being an attractive, useful, or necessary course of action"
+    "Defintion": "wished for as being an attractive, useful, or necessary course of action"
   },
-  "LOFTY": {
-    "Definition": "very high in altitude"
+  "DETOUR": {
+    "Defintion": "a long or roundabout route that is taken to avoid something or to visit somewhere along the way"
   },
   "ELEVATION": {
-    "Definition": "height"
-  },
-  "REGULATION": {
-    "Definition": "law"
-  },
-  "WARRANT": {
-    "Definition": "justify or necessitate (a course of action)"
-  },
-  "PROHIBITED": {
-    "Definition": "not allowed, restrict"
+    "Defintion": "height"
   },
   "INHABITANTS": {
-    "Definition": "people who live in a place"
+    "Defintion": "people who live in a place"
+  },
+  "LOFTY": {
+    "Defintion": "very high in altitude"
   },
   "OSTENSIBLY": {
-    "Definition": "as appears or is stated to be true, though not necessarily so; apparently"
+    "Defintion": "as appears or is stated to be true, though not necessarily so; apparently"
+  },
+  "PROHIBITED": {
+    "Defintion": "not allowed, restrict"
+  },
+  "REGULATION": {
+    "Defintion": "law"
+  },
+  "REVENUE": {
+    "Defintion": "money received for services"
+  },
+  "WARRANT": {
+    "Defintion": "justify or necessitate (a course of action)"
   }
 }

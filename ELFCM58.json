@@ -1,101 +1,113 @@
 {
-  "COUNTLESS": {
-    "Definition": "very many, or too many to be counted"
-  },
-  "COMBS": {
-    "Definition": "a flat piece of plastic, wood, or metal with a thin row of long, narrow parts along one side, used to tidy and arrange your hair"
-  },
-  "BILLIARD": {
-    "Definition": "used in or relating to billiards (= a game played by two people on a table covered in green cloth, in which a long stick is used to hit balls into pockets around the table)"
-  },
-  "POOL": {
-    "Definition": "a game in which two people use cues (= long, thin poles) to hit 16 coloured balls into six holes around the edge of a large table covered in soft cloth"
-  },
-  "IVORY": {
-    "Definition": "the hard yellowish-white substance that forms the tusks of some animals such as elephants, used especially in the past to make decorative objects"
-  },
-  "TUSKS": {
-    "Definition": "either of the two long, pointed teeth of some animals such as elephants"
-  },
-  "SCARCE": {
-    "Definition": "not easy to find or get"
-  },
-  "THE RAW MATERIALS": {
-    "Definition": "any material, such as oil, cotton, or sugar in its natural condition, before it has been processed for use"
-  },
-  "OUT OF THE GOODNESS OF THEIR OWN HEART": {
-    "Definition": "out of personal generosity and not because he or she wanted to get anything for himself or herself"
+  "ADDICTION": {
+    "Defintion": "an inability to stop doing or using something, especially something harmful"
   },
   "AMATEUR": {
-    "Definition": "taking part in an activity for pleasure, not as a job"
-  },
-  "TRIAL AND ERROR": {
-    "Definition": "a way of achieving an aim or solving a problem by trying a number of different methods and learning from the mistakes that you make"
-  },
-  "POLYMER": {
-    "Definition": "a chemical substance consisting of large molecules made from many smaller and simpler molecules"
-  },
-  "HYDROCARBONS": {
-    "Definition": "a chemical combination of hydrogen and carbon, such as in oil or petrol"
-  },
-  "BOOM": {
-    "Definition": "a period of sudden economic growth, especially one that results in a lot of money being made"
-  },
-  "CONSEQUENCES": {
-    "Definition": "a result of a particular action or situation, often one that is bad or not convenient"
-  },
-  "VERSATILE": {
-    "Definition": "able to change easily from one activity to another or able to be used for many different purposes"
-  },
-  "DISPOSE": {
-    "Definition": "to get rid of something; throw out or destroy"
-  },
-  "BIODEGRADE": {
-    "Definition": "to decay naturally and in a way that is not harmful"
-  },
-  "NAPPIES": {
-    "Definition": "a square of thick soft paper or cloth that is fastened around a baby's bottom and between its legs to absorb its urine and solid waste"
-  },
-  "RUBBISH DUMPS": {
-    "Definition": "places where rubbish is left, disposed of"
-  },
-  "INGESTING": {
-    "Definition": "to eat or drink something"
-  },
-  "PARTICLES": {
-    "Definition": "very small pieces of matter"
+    "Defintion": "taking part in an activity for pleasure, not as a job"
   },
   "AUTHORITATIVE": {
-    "Definition": "containing complete and accurate information, and therefore respected"
+    "Defintion": "containing complete and accurate information, and therefore respected"
   },
-  "UBIQUITOUS": {
-    "Definition": "seeming to be everywhere"
+  "BILLIARD": {
+    "Defintion": "used in or relating to billiards (= a game played by two people on a table covered in green cloth, in which a long stick is used to hit balls into pockets around the table)"
   },
-  "ELEMENT": {
-    "Definition": "a part of something"
+  "BILLIARDS": {
+    "Defintion": "a game played by two people on a table covered in green cloth, in which a long stick is used to hit balls into pockets around the table"
   },
-  "DWARFED": {
-    "Definition": "If one thing dwarfs another, it makes it seem small by comparison"
+  "BIODEGRADE": {
+    "Defintion": "to decay naturally and in a way that is not harmful"
   },
-  "INITIATIVES": {
-    "Definition": "a new plan or process to achieve something or solve a problem"
+  "BOOM": {
+    "Defintion": "a period of sudden economic growth, especially one that results in a lot of money being made"
   },
-  "ENCOURAGING": {
-    "Definition": "positive"
+  "COMB": {
+    "Defintion": "a flat piece of plastic, wood, or metal with a thin row of long, narrow parts along one side, used to tidy and arrange your hair"
   },
-  "TRIALING": {
-    "Definition": "testing, usually over a limited period of time, to discover how effective or suitable something or someone is"
+  "COMBS": {
+    "Defintion": "a flat piece of plastic, wood, or metal with a thin row of long, narrow parts along one side, used to tidy and arrange your hair"
+  },
+  "CONSEQUENCES": {
+    "Defintion": "a result of a particular action or situation, often one that is bad or not convenient"
+  },
+  "COUNTLESS": {
+    "Defintion": "very many, or too many to be counted"
   },
   "DEGRADE": {
-    "Definition": "see biodegrade"
+    "Defintion": "see biodegrade"
   },
-  "PLEDGED": {
-    "Definition": "promise"
+  "DISPOSE": {
+    "Defintion": "to get rid of something; throw out or destroy"
   },
-  "ADDICTION": {
-    "Definition": "an inability to stop doing or using something, especially something harmful"
+  "DISPOSED OF": {
+    "Defintion": "got rid of something"
+  },
+  "DWARFED": {
+    "Defintion": "If one thing dwarfs another, it makes it seem small by comparison"
+  },
+  "ELEMENT": {
+    "Defintion": "a part of something"
+  },
+  "ENCOURAGING": {
+    "Defintion": "positive"
+  },
+  "HYDROCARBONS": {
+    "Defintion": "a chemical combination of hydrogen and carbon, such as in oil or petrol"
   },
   "INFINITELY": {
-    "Definition": "very or very much"
+    "Defintion": "very or very much"
+  },
+  "INGESTING": {
+    "Defintion": "to eat or drink something"
+  },
+  "INITIATIVES": {
+    "Defintion": "a new plan or process to achieve something or solve a problem"
+  },
+  "IVORY": {
+    "Defintion": "the hard yellowish-white substance that forms the tusks of some animals such as elephants, used especially in the past to make decorative objects"
+  },
+  "NAPPIES": {
+    "Defintion": "a square of thick soft paper or cloth that is fastened around a baby's bottom and between its legs to absorb its urine and solid waste"
+  },
+  "NAPPY": {
+    "Defintion": "a square of thick soft paper or cloth that is fastened around a baby's bottom and between its legs to absorb its urine and solid waste"
+  },
+  "OUT OF THE GOODNESS OF THEIR OWN HEART": {
+    "Defintion": "out of personal generosity and not because he or she wanted to get anything for himself or herself"
+  },
+  "PARTICLES": {
+    "Defintion": "very small pieces of matter"
+  },
+  "PLEDGED": {
+    "Defintion": "promise"
+  },
+  "POLYMER": {
+    "Defintion": "a chemical substance consisting of large molecules made from many smaller and simpler molecules"
+  },
+  "POOL": {
+    "Defintion": "a game in which two people use cues (= long, thin poles) to hit 16 coloured balls into six holes around the edge of a large table covered in soft cloth"
+  },
+  "RUBBISH DUMPS": {
+    "Defintion": "places where rubbish is left, disposed of"
+  },
+  "SCARCE": {
+    "Defintion": "not easy to find or get"
+  },
+  "THE RAW MATERIALS": {
+    "Defintion": "any material, such as oil, cotton, or sugar in its natural condition, before it has been processed for use"
+  },
+  "TRIAL AND ERROR": {
+    "Defintion": "a way of achieving an aim or solving a problem by trying a number of different methods and learning from the mistakes that you make"
+  },
+  "TRIALING": {
+    "Defintion": "testing, usually over a limited period of time, to discover how effective or suitable something or someone is"
+  },
+  "TUSKS": {
+    "Defintion": "either of the two long, pointed teeth of some animals such as elephants"
+  },
+  "UBIQUITOUS": {
+    "Defintion": "seeming to be everywhere"
+  },
+  "VERSATILE": {
+    "Defintion": "able to change easily from one activity to another or able to be used for many different purposes"
   }
 }

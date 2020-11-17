@@ -1,122 +1,131 @@
 {
-  "STATUS SYMBOL": {
-    "Definition": "a thing that people want to have because they think other people will admire them if they have it:"
-  },
-  "SETTLEMENTS": {
-    "Definition": "a place where people come to live or the process of settling in such a place"
-  },
-  "WELLS": {
-    "Definition": "a deep hole in the ground from which you can get water, oil, or gas"
-  },
-  "SPA": {
-    "Definition": "a town where water comes out of the ground and people come to drink it or lie in it because they think it will improve their health"
-  },
-  "ENCOUNTER": {
-    "Definition": "a meeting, especially one that happens by chance"
-  },
-  "EFFERVESCENT": {
-    "Definition": "sparkling, fizzy"
-  },
-  "ROADBLOCK": {
-    "Definition": "anything that stops progress"
-  },
-  "CHLORINE": {
-    "Definition": "a chemical element that is a greenish-yellow gas with a strong smell, added to water in order to kill organisms that might cause infection"
-  },
-  "MUNICIPAL": {
-    "Definition": "of or belonging to a town or city"
-  },
-  "PLUMMETED": {
-    "Definition": "to fall very quickly and suddenly"
-  },
-  "ON THE CONTINENT": {
-    "Definition": "used in the United Kingdom to refer to the main land of Europe"
-  },
-  "SPARKLE": {
-    "Definition": "to shine brightly with a lot of small points of light"
-  },
-  "QUENCHING": {
-    "Definition": "(of a liquid) stops you from being thirsty"
-  },
-  "OUT OF REACH": {
-    "Definition": "not available"
-  },
-  "ASPIRING": {
-    "Definition": "hoping and trying to be successful at a particular activity"
-  },
-  "COINCIDED": {
-    "Definition": "to happen at or near the same time"
-  },
-  "ASPIRATIONAL": {
-    "Definition": "see 'aspiring'"
-  },
-  "SKYROCKETED": {
-    "Definition": "to rise extremely quickly or make extremely quick progress towards success"
-  },
-  "CAMPAIGNS": {
-    "Definition": "a planned group of especially political, business, or military activities that are intended to achieve a particular aim"
-  },
-  "PREYED ON": {
-    "Definition": "to hurt or deceive a group of people, especially people who are weak or can easily be hurt or deceived"
-  },
-  "CAPITALISED": {
-    "Definition": "to use a situation to your own advantage"
-  },
-  "TAGLINES": {
-    "Definition": "a short, easily remembered phrase that a company uses in its advertisements, especially on television or the internet, so that people will recognize it or its products"
-  },
-  "TAKE OFF": {
-    "Definition": "succeed, grow"
+  "ALASTAIR BUDGE:": {
+    "Defintion": null
   },
   "ASCENT": {
-    "Definition": "the act of climbing or moving upwards"
+    "Defintion": "the act of climbing or moving upwards"
   },
-  "UNFIT": {
-    "Definition": "not suitable or good enough for a particular purpose or activity"
+  "ASPIRATIONAL": {
+    "Defintion": "see 'aspiring'"
   },
-  "PHENOMENON": {
-    "Definition": "something that exists and can be seen, felt, tasted, etc., especially something unusual or interesting"
+  "ASPIRING": {
+    "Defintion": "hoping and trying to be successful at a particular activity"
   },
-  "GALLON": {
-    "Definition": "a unit for measuring volume"
+  "CAMPAIGNS": {
+    "Defintion": "a planned group of especially political, business, or military activities that are intended to achieve a particular aim"
   },
-  "CONDITIONED": {
-    "Definition": "made to think or believe something"
-  },
-  "VAST MAJORITY": {
-    "Definition": "most of"
-  },
-  "LOGO": {
-    "Definition": "a design or symbol used by a company to advertise its products"
-  },
-  "GLACIER": {
-    "Definition": "a large mass of ice that moves slowly"
-  },
-  "TREATED": {
-    "Definition": "put through a special process"
-  },
-  "FLOP": {
-    "Definition": "a failure"
-  },
-  "FORMULA": {
-    "Definition": "a standard or accepted way of doing or making something"
-  },
-  "PRICE TAG": {
-    "Definition": "a piece of paper with a price that is attached to a product, or the amount that something costs"
-  },
-  "UPROAR": {
-    "Definition": "a situation in which a lot of people complain about something angrily or make a lot of noise"
+  "CAPITALISED": {
+    "Defintion": "to use a situation to your own advantage"
   },
   "CHILLED": {
-    "Definition": "cool"
+    "Defintion": "cool"
   },
-  "NECESSITY": {
-    "Definition": "the need for something"
+  "CHLORINE": {
+    "Defintion": "a chemical element that is a greenish-yellow gas with a strong smell, added to water in order to kill organisms that might cause infection"
   },
   "CHOLERA": {
-    "Definition": "a serious infection of the bowels caused by drinking infected water or eating infected food, causing diarrhoea, vomiting, and often death"
+    "Defintion": "a serious infection of the bowels caused by drinking infected water or eating infected food, causing diarrhoea, vomiting, and often death"
+  },
+  "COINCIDED": {
+    "Defintion": "to happen at or near the same time"
+  },
+  "CONDITIONED": {
+    "Defintion": "made to think or believe something"
+  },
+  "EFFERVESCENT": {
+    "Defintion": "sparkling, fizzy"
+  },
+  "ENCOUNTER": {
+    "Defintion": "a meeting, especially one that happens by chance"
+  },
+  "FLOP": {
+    "Defintion": "a failure"
+  },
+  "FORMULA": {
+    "Defintion": "a standard or accepted way of doing or making something"
+  },
+  "GALLON": {
+    "Defintion": "a unit for measuring volume"
+  },
+  "GLACIER": {
+    "Defintion": "a large mass of ice that moves slowly"
+  },
+  "LOGO": {
+    "Defintion": "a design or symbol used by a company to advertise its products"
+  },
+  "MUNICIPAL": {
+    "Defintion": "of or belonging to a town or city"
+  },
+  "NECESSITY": {
+    "Defintion": "the need for something"
+  },
+  "ON THE CONTINENT": {
+    "Defintion": "used in the United Kingdom to refer to the main land of Europe"
+  },
+  "ORSON WELLES:": {
+    "Defintion": null
+  },
+  "OUT OF REACH": {
+    "Defintion": "not available"
+  },
+  "PHENOMENON": {
+    "Defintion": "something that exists and can be seen, felt, tasted, etc., especially something unusual or interesting"
+  },
+  "PLUMMETED": {
+    "Defintion": "to fall very quickly and suddenly"
+  },
+  "PREYED ON": {
+    "Defintion": "to hurt or deceive a group of people, especially people who are weak or can easily be hurt or deceived"
+  },
+  "PRICE TAG": {
+    "Defintion": "a piece of paper with a price that is attached to a product, or the amount that something costs"
+  },
+  "QUENCHING": {
+    "Defintion": "(of a liquid) stops you from being thirsty"
+  },
+  "ROADBLOCK": {
+    "Defintion": "anything that stops progress"
+  },
+  "SETTLEMENTS": {
+    "Defintion": "a place where people come to live or the process of settling in such a place"
+  },
+  "SKYROCKETED": {
+    "Defintion": "to rise extremely quickly or make extremely quick progress towards success"
+  },
+  "SPA": {
+    "Defintion": "a town where water comes out of the ground and people come to drink it or lie in it because they think it will improve their health"
+  },
+  "SPARKLE": {
+    "Defintion": "to shine brightly with a lot of small points of light"
+  },
+  "SPAS": {
+    "Defintion": "towns where water comes out of the ground and people come to drink it or lie in it because they think it will improve their health"
+  },
+  "STATUS SYMBOL": {
+    "Defintion": "a thing that people want to have because they think other people will admire them if they have it:"
+  },
+  "TAGLINES": {
+    "Defintion": "a short, easily remembered phrase that a company uses in its advertisements, especially on television or the internet, so that people will recognize it or its products"
+  },
+  "TAKE OFF": {
+    "Defintion": "succeed, grow"
+  },
+  "TREATED": {
+    "Defintion": "put through a special process"
+  },
+  "UNFIT": {
+    "Defintion": "not suitable or good enough for a particular purpose or activity"
+  },
+  "UPROAR": {
+    "Defintion": "a situation in which a lot of people complain about something angrily or make a lot of noise"
+  },
+  "VAST MAJORITY": {
+    "Defintion": "most of"
+  },
+  "WELLS": {
+    "Defintion": "a deep hole in the ground from which you can get water, oil, or gas"
   },
   "WITH MY MARKETING HAT": {
-    "Definition": "thinking as a marketing person"
+    "Defintion": "thinking as a marketing person"
   }
 }

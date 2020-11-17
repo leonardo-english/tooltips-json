@@ -1,90 +1,72 @@
 {
-  "DIVISIVE": {
-    "Definition": "something or someone that divides opinion"
-  },
-  "STICK": {
-    "Definition": "continue"
-  },
-  "MILDLY": {
-    "Definition": "slightly"
-  },
-  "DOMINATE": {
-    "Definition": "control"
-  },
-  "NEWS CYCLE": {
-    "Definition": "the daily news"
-  },
-  "SUBSTANCE": {
-    "Definition": "what someone believes"
-  },
-  "TRAITS": {
-    "Definition": "characteristics"
-  },
-  "CLIP": {
-    "Definition": "short piece of video or audio"
-  },
-  "EQUIVALENT": {
-    "Definition": "the same as"
-  },
-  "COHERENT": {
-    "Definition": "in a way that is clear and makes sense"
-  },
-  "WANDER": {
-    "Definition": "to move around without clear purpose or direction"
-  },
-  "TANGENT": {
-    "Definition": "to \"go off on a tangent\" is to talk about something that is unrelated"
-  },
-  "VULGAR": {
-    "Definition": "rude, not suitable for the circumstances it is used in"
-  },
-  "SWEAR WORDS": {
-    "Definition": "rude words"
-  },
-  "DEROGATORY": {
-    "Definition": "in a way that lacks respect"
-  },
-  "NICKNAMES": {
-    "Definition": "informal names, often used by children"
-  },
-  "REMARKS": {
-    "Definition": "thoughts or comments"
-  },
-  "GRAPPLING WITH": {
-    "Definition": "struggling to manage"
+  "ALASTAIR BUDGE:": {
+    "Definition": null
   },
   "AMBIGUITY": {
     "Definition": "with more than one meaning"
   },
-  "CLARIFYING": {
-    "Definition": "making clear"
-  },
-  "SUSPENSE": {
-    "Definition": "the feeling of waiting for something"
-  },
-  "LOATHE": {
-    "Definition": "hate, strongly dislike"
-  },
   "APPEAL": {
     "Definition": "be liked"
   },
-  "REPEL": {
-    "Definition": "cause someone to strongly dislike you"
+  "CLARIFYING": {
+    "Definition": "making clear"
+  },
+  "CLIP": {
+    "Definition": "short piece of video or audio"
+  },
+  "CLIPS": {
+    "Definition": "short pieces of video or audio"
+  },
+  "COHERENT": {
+    "Definition": "in a way that is clear and makes sense"
+  },
+  "CULTIVATING": {
+    "Definition": "developing, growing"
+  },
+  "DEROGATORY": {
+    "Definition": "in a way that lacks respect"
+  },
+  "DIVISIVE": {
+    "Definition": "something or someone that divides opinion"
+  },
+  "DOMINATE": {
+    "Definition": "control"
+  },
+  "DONALD TRUMP:": {
+    "Definition": null
+  },
+  "EQUIVALENT": {
+    "Definition": "the same as"
+  },
+  "EXPLOIT": {
+    "Definition": "use to your advantage"
+  },
+  "GRABBING": {
+    "Definition": "taking hold of"
+  },
+  "GRAPPLING WITH": {
+    "Definition": "struggling to manage"
   },
   "JUXTAPOSITION": {
     "Definition": "opposite things that are next to one another"
   },
-  "PREDECESSOR": {
-    "Definition": "the person who came before"
+  "LOATHE": {
+    "Definition": "hate, strongly dislike"
+  },
+  "LOSE HIS TRAIN OF THOUGHT": {
+    "Definition": "forget what he is talking about"
+  },
+  "MANIPULATOR": {
+    "Definition": "someone who knows how to get others to do what they want"
+  },
+  "MILDLY": {
+    "Definition": "slightly"
   },
   "NEMESIS": {
     "Definition": "main enemy"
   },
-  "PROFOUND": {
-    "Definition": "deep and thoughtful"
-  },
-  "LOSE HIS TRAIN OF THOUGHT": {
-    "Definition": "forget what he is talking about"
+  "NEWS CYCLE": {
+    "Definition": "the daily news"
   },
   "POLAR OPPOSITE": {
     "Definition": "the complete opposite"
@@ -92,25 +74,49 @@
   "PRACTICED": {
     "Definition": "experienced and good (at something)"
   },
-  "SHOWMAN": {
-    "Definition": "someone who is an entertainer"
+  "PREDECESSOR": {
+    "Definition": "the person who came before"
   },
-  "MANIPULATOR": {
-    "Definition": "someone who knows how to get others to do what they want"
+  "PROFOUND": {
+    "Definition": "deep and thoughtful"
   },
-  "GRABBING": {
-    "Definition": "taking hold of"
+  "REMARKS": {
+    "Definition": "thoughts or comments"
+  },
+  "REPEL": {
+    "Definition": "cause someone to strongly dislike you"
+  },
+  "SOPHISTICATED": {
+    "Definition": "clever and articulate"
+  },
+  "STICK": {
+    "Definition": "continue"
+  },
+  "SUBSTANCE": {
+    "Definition": "what someone believes"
+  },
+  "SUSPENSE": {
+    "Definition": "the feeling of waiting for something"
+  },
+  "SWEAR WORDS": {
+    "Definition": "rude words"
+  },
+  "TANGENT": {
+    "Definition": "to go off on a tangent is to talk about something that is unrelated"
+  },
+  "TRAIT": {
+    "Definition": "characteristic"
+  },
+  "TRAITS": {
+    "Definition": "characteristics"
   },
   "TUNE IN": {
     "Definition": "to watch (radio, TV, etc.)"
   },
-  "EXPLOIT": {
-    "Definition": "use to your advantage"
+  "VULGAR": {
+    "Definition": "rude, not suitable for the circumstances it is used in"
   },
-  "CULTIVATING": {
-    "Definition": "developing, growing"
-  },
-  "SOPHISTICATED": {
-    "Definition": "clever and articulate"
+  "WANDER": {
+    "Definition": "to move around without clear purpose or direction"
   }
 }

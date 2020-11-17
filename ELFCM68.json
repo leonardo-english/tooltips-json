@@ -1,116 +1,125 @@
 {
-  "SETS US APART": {
-    "Definition": "makes us different from or better than other people or things"
-  },
-  "LIMITING": {
-    "Definition": "preventing, stopping"
-  },
-  "OVER AND ABOVE": {
-    "Definition": "in addition to"
-  },
-  "MEANS": {
-    "Definition": "way, a method to do something"
-  },
-  "THEORETICAL": {
-    "Definition": "based on an idea, not the practical use (of something)"
-  },
-  "WIPED AWAY": {
-    "Definition": "destroyed"
-  },
-  "DOMINANT": {
-    "Definition": "most important or strong than similar things"
-  },
-  "DOMINATE": {
-    "Definition": "see dominant"
-  },
-  "ENDANGER": {
-    "Definition": "to put someone or something at risk of being hurt or harmed"
-  },
-  "PROSPERED": {
-    "Definition": "became successful"
-  },
-  "CRUSH": {
-    "Definition": "destroy, get rid of"
-  },
-  "OUTLAWING": {
-    "Definition": "completely stop something by making it illegal"
-  },
-  "NON-CORE": {
-    "Definition": "not the main, not the normal"
-  },
-  "PERSECUTING": {
-    "Definition": "treating someone or something unfairly"
-  },
-  "DECLINE": {
-    "Definition": "to decrease, to become worse and worse"
-  },
-  "SANDS OF TIME": {
-    "Definition": "the passing of time"
-  },
-  "TENDS": {
-    "Definition": "naturally goes towards"
-  },
-  "DISDAIN": {
-    "Definition": "hatred, normally shown through a lack of respect"
-  },
-  "FOR THE SAKE OF": {
-    "Definition": "in order to allow something to happen"
-  },
-  "MADE-UP": {
-    "Definition": "invented, fake"
-  },
-  "GOES TO THE GRAVE": {
-    "Definition": "dies"
-  },
-  "CONSCIOUS": {
-    "Definition": "purposeful, deliberate"
-  },
-  "REVIVAL": {
-    "Definition": "becoming more popular and in use again"
+  "ARTIFICIALLY": {
+    "Defintion": "in a non-natural way"
   },
   "CONCERTED": {
-    "Definition": "done for a shared purpose"
+    "Defintion": "done for a shared purpose"
   },
-  "DANGER ZONE": {
-    "Definition": "in a dangerous place"
-  },
-  "THRIVING": {
-    "Definition": "successful and growing"
-  },
-  "PRESERVED": {
-    "Definition": "saved from being destroyed or harmed"
-  },
-  "WILL": {
-    "Definition": "desire to do something"
-  },
-  "FLOURISH": {
-    "Definition": "to develop and become successful"
-  },
-  "PLETHORA": {
-    "Definition": "a very large amount"
-  },
-  "OCCURRENCE": {
-    "Definition": "something that happens"
-  },
-  "INTERFERE": {
-    "Definition": "get in the way of"
-  },
-  "UTILITARIAN": {
-    "Definition": "not caring for anything other than usefulness or practicality"
-  },
-  "FRESCO": {
-    "Definition": "a painting on a wall, painted when the paint is still fresh"
+  "CONSCIOUS": {
+    "Defintion": "purposeful, deliberate"
   },
   "CONVEY": {
-    "Definition": "to express a thought or meaning"
+    "Defintion": "to express a thought or meaning"
   },
-  "HANDFUL": {
-    "Definition": "a small amount of something"
+  "CRUSH": {
+    "Defintion": "destroy, get rid of"
+  },
+  "DANGER ZONE": {
+    "Defintion": "in a dangerous place"
+  },
+  "DECLINE": {
+    "Defintion": "to decrease, to become worse and worse"
+  },
+  "DISDAIN": {
+    "Defintion": "hatred, normally shown through a lack of respect"
   },
   "DIVERSE": {
-    "Definition": "including many different types of people or things:"
+    "Defintion": "including many different types of people or things:"
   },
-  "ARTIFICIALLY": {
-    "Definition": "in a non-natural way"
+  "DOMINANT": {
+    "Defintion": "most important or strong than similar things"
+  },
+  "DOMINATE": {
+    "Defintion": "see dominant"
+  },
+  "ENDANGER": {
+    "Defintion": "to put someone or something at risk of being hurt or harmed"
+  },
+  "ENDANGERED": {
+    "Defintion": "put at risk of being hurt of harmed"
+  },
+  "FLOURISH": {
+    "Defintion": "to develop and become successful"
+  },
+  "FOR THE SAKE OF": {
+    "Defintion": "in order to allow something to happen"
+  },
+  "FRESCO": {
+    "Defintion": "a painting on a wall, painted when the paint is still fresh"
+  },
+  "GOES TO THE GRAVE": {
+    "Defintion": "dies"
+  },
+  "HANDFUL": {
+    "Defintion": "a small amount of something"
+  },
+  "INTERFERE": {
+    "Defintion": "get in the way of"
+  },
+  "LIMITING": {
+    "Defintion": "preventing, stopping"
+  },
+  "MADE-UP": {
+    "Defintion": "invented, fake"
+  },
+  "MEANS": {
+    "Defintion": "way, a method to do something"
+  },
+  "NON-CORE": {
+    "Defintion": "not the main, not the normal"
+  },
+  "OCCURRENCE": {
+    "Defintion": "something that happens"
+  },
+  "OUTLAWING": {
+    "Defintion": "completely stop something by making it illegal"
+  },
+  "OVER AND ABOVE": {
+    "Defintion": "in addition to"
+  },
+  "PERSECUTING": {
+    "Defintion": "treating someone or something unfairly"
+  },
+  "PLETHORA": {
+    "Defintion": "a very large amount"
+  },
+  "PRESERVED": {
+    "Defintion": "saved from being destroyed or harmed"
+  },
+  "PROSPERED": {
+    "Defintion": "became successful"
+  },
+  "REVIVAL": {
+    "Defintion": "becoming more popular and in use again"
+  },
+  "REVIVE": {
+    "Defintion": "become more popular again"
+  },
+  "REVIVED": {
+    "Defintion": "became more popular again"
+  },
+  "SANDS OF TIME": {
+    "Defintion": "the passing of time"
+  },
+  "SETS US APART": {
+    "Defintion": "makes us different from or better than other people or things"
+  },
+  "TENDS": {
+    "Defintion": "naturally goes towards"
+  },
+  "THEORETICAL": {
+    "Defintion": "based on an idea, not the practical use (of something)"
+  },
+  "THRIVING": {
+    "Defintion": "successful and growing"
+  },
+  "UTILITARIAN": {
+    "Defintion": "not caring for anything other than usefulness or practicality"
+  },
+  "WILL": {
+    "Defintion": "desire to do something"
+  },
+  "WIPED AWAY": {
+    "Defintion": "destroyed"
   }
 }

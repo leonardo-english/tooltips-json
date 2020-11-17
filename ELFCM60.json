@@ -1,113 +1,119 @@
 {
-  "DARE I SAY IT": {
-    "Definition": "used to say that you agree or think that something is true"
-  },
   "ACQUIRED TASTE": {
-    "Definition": "something that you may not like at first, but begin to like after you have tried it"
-  },
-  "ENCOUNTER": {
-    "Definition": "a meeting, especially one that happens by chance"
-  },
-  "OFF-LIMITS": {
-    "Definition": "If an area of land is off-limits, you are not allowed to enter it"
-  },
-  "QUINTESSENTIALLY": {
-    "Definition": "in a way that is the most typical example or most important part of something"
-  },
-  "TABOO": {
-    "Definition": "a subject, word, or action that is avoided for religious or social reasons"
-  },
-  "KEY": {
-    "Definition": "very important"
-  },
-  "IRONY": {
-    "Definition": "a situation in which something which was intended to have a particular result has the opposite or a very different result"
-  },
-  "MOCK": {
-    "Definition": "to laugh at someone, often by copying them in a funny but unkind way"
-  },
-  "CONVEY": {
-    "Definition": "to express a thought, feeling, or idea so that it is understood by other people"
-  },
-  "CONTEMPT": {
-    "Definition": "a strong feeling of disliking and having no respect for someone or something"
-  },
-  "CARDINAL SIN": {
-    "Definition": "a very bad crime"
-  },
-  "SELF-DEPRECATION": {
-    "Definition": "the quality of trying to make yourself, your abilities, or your achievements seem less important"
-  },
-  "CRUCIAL": {
-    "Definition": "extremely important or necessary"
-  },
-  "ASPECT": {
-    "Definition": "one part of a situation, problem, subject, etc."
-  },
-  "VITAL": {
-    "Definition": "necessary for the success or continued existence of something; extremely important"
-  },
-  "STRAIGHT FACE": {
-    "Definition": "a serious expression on your face that you use when you do not want someone to know that you think something is funny"
-  },
-  "MUTUAL UNDERSTANDING": {
-    "Definition": "common understanding or agreement"
-  },
-  "AMUSEMENT": {
-    "Definition": "the feeling of being entertained or made to laugh"
-  },
-  "LAUGHTER TRACK": {
-    "Definition": "a separate soundtrack for a recorded comedy show containing the sound of audience laughter"
-  },
-  "ON SCREEN": {
-    "Definition": "used to refer to something or someone seen or appearing on a television or computer screen"
-  },
-  "COMPONENT": {
-    "Definition": "a part that combines with other parts to form something bigger"
-  },
-  "MUNDANE": {
-    "Definition": "very ordinary and therefore not interesting"
-  },
-  "POKING FUN AT": {
-    "Definition": "making fun of"
-  },
-  "STORYLINES": {
-    "Definition": "(in a book, film, play, etc.) the plot (= the series of events that happen in it)"
-  },
-  "MONOTONY": {
-    "Definition": "a situation in which something stays the same and is therefore boring"
-  },
-  "ELABORATE": {
-    "Definition": "containing a lot of careful detail or many detailed parts"
-  },
-  "INNUENDO": {
-    "Definition": "(the making of) a remark or remarks that suggest something sexual or something unpleasant but do not refer to it directly"
-  },
-  "DOUBLE-ENTENDRE": {
-    "Definition": "a word or phrase that might be understood in two ways, one of which is usually sexual"
+    "Defintion": "something that you may not like at first, but begin to like after you have tried it"
   },
   "ALLUDES": {
-    "Definition": "to mention someone or something in a brief or indirect way"
+    "Defintion": "to mention someone or something in a brief or indirect way"
   },
-  "DEADPAN DELIVERY": {
-    "Definition": "looking or seeming serious when you are telling a joke"
+  "AMUSEMENT": {
+    "Defintion": "the feeling of being entertained or made to laugh"
   },
-  "STEREOTYPES": {
-    "Definition": "a set idea that people have about what someone or something is like, especially an idea that is wrong"
+  "ASPECT": {
+    "Defintion": "one part of a situation, problem, subject, etc."
   },
-  "FORMAT": {
-    "Definition": "a pattern, plan, or arrangement"
-  },
-  "SHIPWRECKED": {
-    "Definition": "an accident in which a ship is destroyed or sunk at sea, especially by hitting rocks, or a ship that has been destroyed or sunk in such an accident"
-  },
-  "SHY": {
-    "Definition": "nervous and uncomfortable with other people"
-  },
-  "TRAITS": {
-    "Definition": "a particular characteristic that can produce a particular type of behaviour"
+  "ASPECTS": {
+    "Defintion": "one part of a situation, problem, subject, etc."
   },
   "BIASED": {
-    "Definition": "showing an unreasonable like or dislike for a person based on personal opinions"
+    "Defintion": "showing an unreasonable like or dislike for a person based on personal opinions"
+  },
+  "CARDINAL SIN": {
+    "Defintion": "a very bad crime"
+  },
+  "COMPONENT": {
+    "Defintion": "a part that combines with other parts to form something bigger"
+  },
+  "CONVEY": {
+    "Defintion": "to express a thought, feeling, or idea so that it is understood by other people"
+  },
+  "CRUCIAL": {
+    "Defintion": "extremely important or necessary"
+  },
+  "DARE I SAY IT": {
+    "Defintion": "used to say that you agree or think that something is true"
+  },
+  "DEADPAN DELIVERY": {
+    "Defintion": "looking or seeming serious when you are telling a joke"
+  },
+  "DOUBLE-ENTENDRE": {
+    "Defintion": "a word or phrase that might be understood in two ways, one of which is usually sexual"
+  },
+  "ELABORATE": {
+    "Defintion": "containing a lot of careful detail or many detailed parts"
+  },
+  "ENCOUNTER": {
+    "Defintion": "a meeting, especially one that happens by chance"
+  },
+  "FORMAT": {
+    "Defintion": "a pattern, plan, or arrangement"
+  },
+  "INNUENDO": {
+    "Defintion": "(the making of) a remark or remarks that suggest something sexual or something unpleasant but do not refer to it directly"
+  },
+  "IRONY": {
+    "Defintion": "a situation in which something which was intended to have a particular result has the opposite or a very different result"
+  },
+  "KEY": {
+    "Defintion": "very important"
+  },
+  "LAUGHTER TRACK": {
+    "Defintion": "a separate soundtrack for a recorded comedy show containing the sound of audience laughter"
+  },
+  "MOCK": {
+    "Defintion": "to laugh at someone, often by copying them in a funny but unkind way"
+  },
+  "MONOTONY": {
+    "Defintion": "a situation in which something stays the same and is therefore boring"
+  },
+  "MUNDANE": {
+    "Defintion": "very ordinary and therefore not interesting"
+  },
+  "MUTUAL UNDERSTANDING": {
+    "Defintion": "common understanding or agreement"
+  },
+  "OFF-LIMITS": {
+    "Defintion": "If an area of land is off-limits, you are not allowed to enter it"
+  },
+  "ON SCREEN": {
+    "Defintion": "used to refer to something or someone seen or appearing on a television or computer screen"
+  },
+  "POKING FUN AT": {
+    "Defintion": "making fun of"
+  },
+  "QUINTESSENTIALLY": {
+    "Defintion": "in a way that is the most typical example or most important part of something"
+  },
+  "SELF-DEPRECATION": {
+    "Defintion": "the quality of trying to make yourself, your abilities, or your achievements seem less important"
+  },
+  "SHIPWRECKED": {
+    "Defintion": "an accident in which a ship is destroyed or sunk at sea, especially by hitting rocks, or a ship that has been destroyed or sunk in such an accident"
+  },
+  "SHY": {
+    "Defintion": "nervous and uncomfortable with other people"
+  },
+  "STEREOTYPE": {
+    "Defintion": "a set idea that people have about what someone or something is like, especially an idea that is wrong"
+  },
+  "STEREOTYPES": {
+    "Defintion": "a set idea that people have about what someone or something is like, especially an idea that is wrong"
+  },
+  "STEREOTYPICAL": {
+    "Defintion": "relating to a set idea that people have about what someone or something is like, especially an idea that is wrong"
+  },
+  "STORYLINES": {
+    "Defintion": "(in a book, film, play, etc.) the plot (= the series of events that happen in it)"
+  },
+  "STRAIGHT FACE": {
+    "Defintion": "a serious expression on your face that you use when you do not want someone to know that you think something is funny"
+  },
+  "TABOO": {
+    "Defintion": "a subject, word, or action that is avoided for religious or social reasons"
+  },
+  "TRAITS": {
+    "Defintion": "a particular characteristic that can produce a particular type of behaviour"
+  },
+  "VITAL": {
+    "Defintion": "necessary for the success or continued existence of something; extremely important"
   }
 }

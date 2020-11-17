@@ -1,134 +1,146 @@
 {
-  "INTERFERE": {
-    "Definition": "to involve yourself in a situation when your involvement is not wanted or is not helpful"
-  },
-  "HAVE A HARD TIME": {
-    "Definition": "have difficulty"
-  },
-  "BROWSER": {
-    "Definition": "a computer programme that makes it possible for you to read information on the internet"
-  },
-  "BROWSING": {
-    "Definition": "to look at information on the internet"
-  },
-  "UPSTANDING CITIZENS": {
-    "Definition": "good and honourable (law-abiding) citizens"
-  },
-  "LAYERS": {
-    "Definition": "a level of material, such as a type of rock or gas, that is different from the material above or below it, or a thin sheet of a substance"
-  },
-  "ENCRYPTION": {
-    "Definition": "the process of changing electronic information or signals into a secret code (= system of letters, numbers, or symbols) that people cannot understand or use without special equipment"
-  },
-  "PARALLEL": {
-    "Definition": "something very similar to something else, or a similarity between two things"
-  },
   "ANALOGY": {
-    "Definition": "a comparison between things that have similar features, often used to help explain a principle or idea"
-  },
-  "CONSTRUCTED": {
-    "Definition": "built, made"
-  },
-  "INTENDED": {
-    "Definition": "planned"
-  },
-  "ENABLE": {
-    "Definition": "to make someone able to do something, or to make something possible"
-  },
-  "TRACE": {
-    "Definition": "to find the origin of something"
-  },
-  "BROADLY": {
-    "Definition": "in a general way, without considering specific examples or all the details"
-  },
-  "IDEOLOGICAL": {
-    "Definition": "based on or relating to a particular set of ideas or beliefs"
-  },
-  "THIRD PARTIES": {
-    "Definition": "a third person or organisation less directly involved in a matter than the main people or organisations that are involved"
+    "Defintion": "a comparison between things that have similar features, often used to help explain a principle or idea"
   },
   "AUTHORITARIAN": {
-    "Definition": "demanding that people obey completely and refusing to allow them freedom to act as they wish"
-  },
-  "MIGRATED": {
-    "Definition": "moved to a different place"
-  },
-  "SHADY": {
-    "Definition": "sheltered from direct light from the sun"
-  },
-  "PURPOSE": {
-    "Definition": "why you do something or why something exists"
-  },
-  "COVERING YOUR TRACKS": {
-    "Definition": "hiding where you have been"
-  },
-  "TRACED": {
-    "Definition": "to find someone or something that was lost"
-  },
-  "TRACEABLE": {
-    "Definition": "possible to find or follow, especially using technology"
-  },
-  "DODGY": {
-    "Definition": "dishonest"
-  },
-  "FIREARMS": {
-    "Definition": "guns that can be carried easily"
-  },
-  "CONCURRENT": {
-    "Definition": "happening or existing at the same time"
+    "Defintion": "demanding that people obey completely and refusing to allow them freedom to act as they wish"
   },
   "BEHIND BARS": {
-    "Definition": "in prison"
+    "Defintion": "in prison"
   },
-  "MASTERMIND": {
-    "Definition": "to plan a difficult activity, often a crime, in detail and make certain that it happens successfully"
+  "BROADLY": {
+    "Defintion": "in a general way, without considering specific examples or all the details"
+  },
+  "BROWSE": {
+    "Defintion": "look at things on the internet"
+  },
+  "BROWSER": {
+    "Defintion": "a computer programme that makes it possible for you to read information on the internet"
+  },
+  "BROWSING": {
+    "Defintion": "to look at information on the internet"
+  },
+  "CONCURRENT": {
+    "Defintion": "happening or existing at the same time"
   },
   "CONDEMNED": {
-    "Definition": "criticise something or someone strongly, usually for moral reasons"
+    "Defintion": "criticise something or someone strongly, usually for moral reasons"
   },
-  "ENCRYPTED": {
-    "Definition": "to change electronic information or signals into a secret code (= system of letters, numbers, or symbols) that people cannot understand or use on normal equipment"
+  "CONSTRUCTED": {
+    "Defintion": "built, made"
   },
-  "SNOOPING": {
-    "Definition": "to look around a place secretly, in order to discover things or find out information about someone or something"
-  },
-  "EXPOSE": {
-    "Definition": "to make public something bad or dishonest"
-  },
-  "MALPRACTICE": {
-    "Definition": "failure to act correctly or legally when doing your job, often causing injury or loss"
-  },
-  "WHISTLEBLOWERS": {
-    "Definition": "a person who tells someone in authority about something illegal that is happening, especially in a government department or a company"
-  },
-  "PUBLIC DOMAIN": {
-    "Definition": "if information is in the public domain, it is available for everyone to see or know about"
-  },
-  "FAR RIGHT": {
-    "Definition": "extreme right wing political group"
-  },
-  "REPRISALS": {
-    "Definition": "(an example of) activity against another person, especially as a punishment by military forces or a political group"
-  },
-  "TRANSPARENCY": {
-    "Definition": "a situation in which business and financial activities are done in an open way without secrets, so that people can trust that they are fair and honest"
-  },
-  "MISINTERPRET": {
-    "Definition": "to form an understanding that is not correct of something that is said or done"
-  },
-  "THE LATTER": {
-    "Definition": "the second of two people, things, or groups previously mentioned"
+  "COVERING YOUR TRACKS": {
+    "Defintion": "hiding where you have been"
   },
   "DIFFERENTIATION": {
-    "Definition": "the act of differentiating"
+    "Defintion": "the act of differentiating"
   },
-  "JUMP TO THE CONCLUSION": {
-    "Definition": "to guess the facts about a situation without having enough information"
+  "DODGY": {
+    "Defintion": "dishonest"
   },
-  "ON THE HUNT FOR": {
-    "Definition": "looking for"
+  "ENABLE": {
+    "Defintion": "to make someone able to do something, or to make something possible"
+  },
+  "ENABLES": {
+    "Defintion": "to make someone able to do something, or to make something possible"
+  },
+  "ENCRYPTED": {
+    "Defintion": "to change electronic information or signals into a secret code (= system of letters, numbers, or symbols) that people cannot understand or use on normal equipment"
+  },
+  "ENCRYPTION": {
+    "Defintion": "the process of changing electronic information or signals into a secret code (= system of letters, numbers, or symbols) that people cannot understand or use without special equipment"
+  },
+  "EXPOSE": {
+    "Defintion": "to make public something bad or dishonest"
+  },
+  "FAR RIGHT": {
+    "Defintion": "extreme right wing political group"
   },
   "FAUSTIAN PACT": {
-    "Definition": "A pact whereby a person trades something of supreme moral or spiritual importance, such as personal values or the soul, for some worldly or material benefit, such as knowledge, power, or riches"
+    "Defintion": "A pact whereby a person trades something of supreme moral or spiritual importance, such as personal values or the soul, for some worldly or material benefit, such as knowledge, power, or riches"
+  },
+  "FIREARMS": {
+    "Defintion": "guns that can be carried easily"
+  },
+  "HAVE A HARD TIME": {
+    "Defintion": "have difficulty"
+  },
+  "IDEOLOGICAL": {
+    "Defintion": "based on or relating to a particular set of ideas or beliefs"
+  },
+  "INTENDED": {
+    "Defintion": "planned"
+  },
+  "INTERFERE": {
+    "Defintion": "to involve yourself in a situation when your involvement is not wanted or is not helpful"
+  },
+  "JUMP TO THE CONCLUSION": {
+    "Defintion": "to guess the facts about a situation without having enough information"
+  },
+  "LAYER": {
+    "Defintion": "one of several different levels in a complicated organisation, system, set of ideas"
+  },
+  "LAYERS": {
+    "Defintion": "one of several different levels in a complicated organisation, system, set of ideas"
+  },
+  "MALPRACTICE": {
+    "Defintion": "failure to act correctly or legally when doing your job, often causing injury or loss"
+  },
+  "MASTERMIND": {
+    "Defintion": "to plan a difficult activity, often a crime, in detail and make certain that it happens successfully"
+  },
+  "MIGRATED": {
+    "Defintion": "moved to a different place"
+  },
+  "MISINTERPRET": {
+    "Defintion": "to form an understanding that is not correct of something that is said or done"
+  },
+  "ON THE HUNT FOR": {
+    "Defintion": "looking for"
+  },
+  "PARALLEL": {
+    "Defintion": "something very similar to something else, or a similarity between two things"
+  },
+  "PUBLIC DOMAIN": {
+    "Defintion": "if information is in the public domain, it is available for everyone to see or know about"
+  },
+  "PURPOSE": {
+    "Defintion": "why you do something or why something exists"
+  },
+  "REPRISALS": {
+    "Defintion": "(an example of) activity against another person, especially as a punishment by military forces or a political group"
+  },
+  "SHADY": {
+    "Defintion": "sheltered from direct light from the sun"
+  },
+  "SNOOPING": {
+    "Defintion": "to look around a place secretly, in order to discover things or find out information about someone or something"
+  },
+  "THE LATTER": {
+    "Defintion": "the second of two people, things, or groups previously mentioned"
+  },
+  "THIRD PARTIES": {
+    "Defintion": "a third person or organisation less directly involved in a matter than the main people or organisations that are involved"
+  },
+  "TRACE": {
+    "Defintion": "to find the origin of something"
+  },
+  "TRACEABLE": {
+    "Defintion": "possible to find or follow, especially using technology"
+  },
+  "TRACED": {
+    "Defintion": "to find someone or something that was lost"
+  },
+  "TRANSPARENCY": {
+    "Defintion": "a situation in which business and financial activities are done in an open way without secrets, so that people can trust that they are fair and honest"
+  },
+  "UPSTANDING CITIZENS": {
+    "Defintion": "good and honourable (law-abiding) citizens"
+  },
+  "WHISTLEBLOWER": {
+    "Defintion": "a person who tells someone in authority about something illegal that is happening, especially in a government department or a company"
+  },
+  "WHISTLEBLOWERS": {
+    "Defintion": "a person who tells someone in authority about something illegal that is happening, especially in a government department or a company"
   }
 }

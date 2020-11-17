@@ -1,95 +1,95 @@
 {
+  "BAN": {
+    "Defintion": "prohibit, not allow"
+  },
+  "CAPTIVATED": {
+    "Defintion": "attract and hold the interest and attention of; charm"
+  },
+  "CATCHY": {
+    "Defintion": "easy to remember"
+  },
+  "CONGESTED": {
+    "Defintion": "busy, full of traffic"
+  },
   "CUSTOMARY": {
-    "Definition": "usual, normal"
+    "Defintion": "usual, normal"
   },
-  "‍CAPTIVATED": {
-    "Definition": "attract and hold the interest and attention of; charm"
+  "DEMARCATION": {
+    "Defintion": "a dividing line"
   },
-  "‍REALM": {
-    "Definition": "a field or domain of activity or interest"
+  "FIGURATIVE": {
+    "Defintion": "without real meaning"
   },
-  "‍SUPERNATURAL": {
-    "Definition": "(of a manifestation or event) attributed to some force beyond scientific understanding or the laws of nature."
+  "FRAMEWORK": {
+    "Defintion": "a basic structure underlying a system, concept, or text."
+  },
+  "GRAB YOURSELF": {
+    "Defintion": "buy, get"
+  },
+  "HOLDING UP": {
+    "Defintion": "be considered legally binding"
   },
   "IMPLAUSIBLE": {
-    "Definition": "unbelievable"
+    "Defintion": "unbelievable"
   },
-  "‍INTO ORBIT": {
-    "Definition": "sent into space"
-  },
-  "‍REALMS OF POSSIBILITY": {
-    "Definition": "what people think is possible"
-  },
-  "‍LOGICAL": {
-    "Definition": "something that makes sense"
-  },
-  "‍IMPLIED": {
-    "Definition": "suggested but not directly expressed; implicit"
-  },
-  "‍FIGURATIVE": {
-    "Definition": "without real meaning"
-  },
-  "‍CATCHY": {
-    "Definition": "easy to remember"
-  },
-  "‍SIDE NOTE": {
-    "Definition": "something that's not relevant to the main argument or subject"
-  },
-  "BAN": {
-    "Definition": "prohibit, not allow"
-  },
-  "‍VICE VERSA": {
-    "Definition": "also the opposite way around"
-  },
-  "‍LOOSE": {
-    "Definition": "unclear"
-  },
-  "‍DEMARCATION": {
-    "Definition": "a dividing line"
-  },
-  "‍PROVISION": {
-    "Definition": "a condition or requirement in a legal document"
-  },
-  "‍MINE": {
-    "Definition": "dig in (the earth) for coal or other minerals"
-  },
-  "‍PROLIFERATION": {
-    "Definition": "rapid increase in the number or amount of something"
-  },
-  "‍FRAMEWORK": {
-    "Definition": "a basic structure underlying a system, concept, or text."
-  },
-  "UNTAPPED": {
-    "Definition": "(of a resource) not yet exploited or used"
-  },
-  "‍SOVEREIGN TERRITORY": {
-    "Definition": "land owned by a nation state‍"
+  "IMPLIED": {
+    "Defintion": "suggested but not directly expressed; implicit"
   },
   "INTERPRETED": {
-    "Definition": "understood"
+    "Defintion": "understood"
   },
-  "‍SET UP": {
-    "Definition": "prepared, ready"
+  "INTO ORBIT": {
+    "Defintion": "sent into space"
   },
-  "‍GRAB YOURSELF": {
-    "Definition": "buy, get"
+  "LOGICAL": {
+    "Defintion": "something that makes sense"
   },
-  "‍HOLDING UP": {
-    "Definition": "be considered legally binding"
+  "LOOSE": {
+    "Defintion": "unclear"
   },
-  "‍PLOUGH": {
-    "Definition": "invest, put all your money"
+  "LUNAR": {
+    "Defintion": "relating to the moon"
   },
-  "‍LUNAR": {
-    "Definition": "relating to the moon"
+  "MINE": {
+    "Defintion": "dig in (the earth) for coal or other minerals"
   },
-  "‍TYCOON": {
-    "Definition": "a wealthy, powerful person in business or industry"
+  "PLOUGH": {
+    "Defintion": "invest, put all your money"
   },
-  "‍CONGESTED": {
-    "Definition": "busy, full of traffic"
+  "PROLIFERATION": {
+    "Defintion": "rapid increase in the number or amount of something"
   },
-  "‍THORNY": {
-    "Definition": "difficult to manage"
+  "PROVISION": {
+    "Defintion": "a condition or requirement in a legal document"
+  },
+  "REALM": {
+    "Defintion": "a field or domain of activity or interest"
+  },
+  "REALMS OF POSSIBILITY": {
+    "Defintion": "what people think is possible"
+  },
+  "SET UP": {
+    "Defintion": "prepared, ready"
+  },
+  "SIDE NOTE": {
+    "Defintion": "something that's not relevant to the main argument or subject"
+  },
+  "SOVEREIGN TERRITORY": {
+    "Defintion": "land owned by a nation state‍"
+  },
+  "SUPERNATURAL": {
+    "Defintion": "(of a manifestation or event) attributed to some force beyond scientific understanding or the laws of nature."
+  },
+  "THORNY": {
+    "Defintion": "difficult to manage"
+  },
+  "TYCOON": {
+    "Defintion": "a wealthy, powerful person in business or industry"
+  },
+  "UNTAPPED": {
+    "Defintion": "(of a resource) not yet exploited or used"
+  },
+  "VICE-VERSA": {
+    "Defintion": "also the opposite way around"
   }
 }

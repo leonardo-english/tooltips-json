@@ -1,158 +1,161 @@
 {
-  "STARVATION": {
-    "Definition": "the state of being incredibly hungry"
-  },
-  "PRESTIGIOUS": {
-    "Definition": "admired as very important"
-  },
-  "CLERK": {
-    "Definition": "an administrative position"
-  },
-  "ANNUM": {
-    "Definition": "year"
-  },
-  "UNDERGONE": {
-    "Definition": "done"
-  },
-  "AT MY DISPOSAL": {
-    "Definition": "available to me"
-  },
-  "TRODDEN": {
-    "Definition": "completed"
-  },
-  "DIVERGENT SERIES": {
-    "Definition": "In mathematics, a divergent series is an infinite series that is not convergent, meaning that the infinite sequence of the partial sums of the series does not have a finite limit."
-  },
-  "TERMED": {
-    "Definition": "described"
-  },
-  "STARTLING": {
-    "Definition": "very unusual or surprising"
-  },
-  "PROFOUND": {
-    "Definition": "deep and important"
-  },
-  "PROOFS": {
-    "Definition": "tests in mathematics that show that a theory is correct"
-  },
   "ADDRESSED": {
     "Definition": "given as an address"
-  },
-  "ENDURING": {
-    "Definition": "lasting"
-  },
-  "CASTE": {
-    "Definition": "the system of dividing Hindu society into different classes"
-  },
-  "DEVOURING": {
-    "Definition": "consuming in great amounts"
-  },
-  "BY NO MEANS": {
-    "Definition": "not at all"
-  },
-  "SLATE": {
-    "Definition": "a dark grey rock that can be written on"
-  },
-  "SCHOLARSHIP": {
-    "Definition": "an amount of money given to someone to help pay for their education"
-  },
-  "DEVOTED": {
-    "Definition": "used all of his time"
-  },
-  "ENROL": {
-    "Definition": "to start a course"
-  },
-  "SUBSTANTIAL": {
-    "Definition": "very large and important"
-  },
-  "ODD JOBS": {
-    "Definition": "small jobs"
-  },
-  "FRAUD": {
-    "Definition": "someone who isn't what they say they are"
-  },
-  "THE REAL DEAL": {
-    "Definition": "someone who is very good and is who they say they are"
-  },
-  "DAZZLED": {
-    "Definition": "impressed"
-  },
-  "RECITE": {
-    "Definition": "say something from memory"
-  },
-  "KEEN": {
-    "Definition": "very interested"
-  },
-  "EXPATS": {
-    "Definition": "people who do not live in their home country"
-  },
-  "MESSY": {
-    "Definition": "not tidy"
-  },
-  "TOOK IT UPON HIMSELF": {
-    "Definition": "decided to do something for himself"
-  },
-  "STRUCK": {
-    "Definition": "impressed"
-  },
-  "ASTOUNDING": {
-    "Definition": "so surprising that it's hard to believe"
-  },
-  "EXCEEDINGLY": {
-    "Definition": "very"
-  },
-  "THEOREMS": {
-    "Definition": "in mathematics, a statement that can be shown to be true"
-  },
-  "BACK AND FORTH": {
-    "Definition": "the movement of things in both directions"
-  },
-  "INTUITION": {
-    "Definition": "knowing that something is true based on feelings, rather than proof"
-  },
-  "INSTINCTIVELY": {
-    "Definition": "knowing by feeling, rather than detailed thought"
-  },
-  "SET THE WHEELS IN MOTION": {
-    "Definition": "start the process of something happening"
-  },
-  "UNDERGRADUATE": {
-    "Definition": "the first degree at a college/university"
-  },
-  "POSTGRADUATE": {
-    "Definition": "a second degree at a college/university"
-  },
-  "PROHIBITED": {
-    "Definition": "not allowed"
-  },
-  "WHISKED UP": {
-    "Definition": "taken quickly up"
-  },
-  "PUBLISH": {
-    "Definition": "publish academic papers"
-  },
-  "PARASITE": {
-    "Definition": "an animal or plant that lives in another animal"
-  },
-  "DIAGNOSE": {
-    "Definition": "be able to say what the exact medical problem is"
-  },
-  "FELLOW": {
-    "Definition": "an important member of an official society"
-  },
-  "LEGACY": {
-    "Definition": "what is left after someone dies"
-  },
-  "POSTER BOY": {
-    "Definition": "an example to others of what is possible"
   },
   "ALBEIT": {
     "Definition": "although, despite"
   },
+  "ANNUM": {
+    "Definition": "year"
+  },
+  "ASTOUNDING": {
+    "Definition": "so surprising that it's hard to believe"
+  },
+  "AT MY DISPOSAL": {
+    "Definition": "available to me"
+  },
+  "BACK AND FORTH": {
+    "Definition": "the movement of things in both directions"
+  },
+  "BY NO MEANS": {
+    "Definition": "not at all"
+  },
+  "CASTE": {
+    "Definition": "the system of dividing Hindu society into different classes"
+  },
+  "CLERK": {
+    "Definition": "an administrative position"
+  },
+  "DAZZLED": {
+    "Definition": "impressed"
+  },
   "DESPITE ALL THE ODDS": {
     "Definition": "if something happens 'despite all the odds', it is very unlikely"
   },
+  "DEVOTED": {
+    "Definition": "used all of his time"
+  },
+  "DEVOURING": {
+    "Definition": "consuming in great amounts"
+  },
+  "DIAGNOSE": {
+    "Definition": "be able to say what the exact medical problem is"
+  },
+  "DIVERGENT SERIES": {
+    "Definition": "In mathematics, a divergent series is an infinite series that is not convergent, meaning that the infinite sequence of the partial sums of the series does not have a finite limit."
+  },
+  "ENDURING": {
+    "Definition": "lasting"
+  },
+  "ENROL": {
+    "Definition": "to start a course"
+  },
+  "EXCEEDINGLY": {
+    "Definition": "very"
+  },
+  "EXPAT": {
+    "Definition": "someone who does not live in their home country"
+  },
+  "EXPATS": {
+    "Definition": "people who do not live in their home country"
+  },
+  "FELLOW": {
+    "Definition": "an important member of an official society"
+  },
+  "FRAUD": {
+    "Definition": "someone who isn't what they say they are"
+  },
+  "INSTINCTIVELY": {
+    "Definition": "knowing by feeling, rather than detailed thought"
+  },
+  "INTUITION": {
+    "Definition": "knowing that something is true based on feelings, rather than proof"
+  },
+  "KEEN": {
+    "Definition": "very interested"
+  },
+  "LEGACY": {
+    "Definition": "what is left after someone dies"
+  },
+  "MESSY": {
+    "Definition": "not tidy"
+  },
+  "ODD JOBS": {
+    "Definition": "small jobs"
+  },
+  "PARASITE": {
+    "Definition": "an animal or plant that lives in another animal"
+  },
+  "POSTER BOY": {
+    "Definition": "an example to others of what is possible"
+  },
+  "POSTGRADUATE": {
+    "Definition": "a second degree at a college/university"
+  },
+  "PRESTIGIOUS": {
+    "Definition": "admired as very important"
+  },
+  "PROFOUND": {
+    "Definition": "deep and important"
+  },
+  "PROHIBITED": {
+    "Definition": "not allowed"
+  },
+  "PROOFS": {
+    "Definition": "tests in mathematics that show that a theory is correct"
+  },
+  "PUBLISH": {
+    "Definition": "publish academic papers"
+  },
+  "RECITE": {
+    "Definition": "say something from memory"
+  },
+  "SCHOLARSHIP": {
+    "Definition": "an amount of money given to someone to help pay for their education"
+  },
+  "SET THE WHEELS IN MOTION": {
+    "Definition": "start the process of something happening"
+  },
   "SIDETRACKED": {
     "Definition": "if you get sidetracked, you get distracted from what you were doing"
+  },
+  "SLATE": {
+    "Definition": "a dark grey rock that can be written on"
+  },
+  "STARTLING": {
+    "Definition": "very unusual or surprising"
+  },
+  "STARVATION": {
+    "Definition": "the state of being incredibly hungry"
+  },
+  "STRUCK": {
+    "Definition": "impressed"
+  },
+  "SUBSTANTIAL": {
+    "Definition": "very large and important"
+  },
+  "TERMED": {
+    "Definition": "described"
+  },
+  "THE REAL DEAL": {
+    "Definition": "someone who is very good and is who they say they are"
+  },
+  "THEOREMS": {
+    "Definition": "in mathematics, a statement that can be shown to be true"
+  },
+  "TOOK IT UPON HIMSELF": {
+    "Definition": "decided to do something for himself"
+  },
+  "TRODDEN": {
+    "Definition": "completed"
+  },
+  "UNDERGONE": {
+    "Definition": "done"
+  },
+  "UNDERGRADUATE": {
+    "Definition": "the first degree at a college/university"
+  },
+  "WHISKED UP": {
+    "Definition": "taken quickly up"
   }
 }

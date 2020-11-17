@@ -1,42 +1,132 @@
 {
-  "EXCEPTIONALLY": {
-    "Definition": "very much"
+  "A LOT TO ANSWER FOR": {
+    "Definition": "to be responsible for a lot of bad things"
   },
-  "VENTURES": {
-    "Definition": "goes into"
+  "A STRETCH": {
+    "Definition": "something that is hard to believe"
   },
-  "LIFT THE CURTAIN": {
-    "Definition": "tell the truth (about something)"
+  "ABANDON": {
+    "Definition": "leave"
   },
-  "REPUTABLE": {
-    "Definition": "trustworthy, having a good reputation"
-  },
-  "THOUGHT MUCH OF IT": {
-    "Definition": "think it is important or worth discussion"
-  },
-  "TREACHEROUS": {
-    "Definition": "extremely dangerous"
-  },
-  "INSISTED": {
-    "Definition": "said firmly, demanded"
-  },
-  "NANNIES": {
-    "Definition": "people whose job it is to look after the children of a family"
-  },
-  "SENSATIONALIST": {
-    "Definition": "reporting events to make them sound as strange as possible, even if they are not"
+  "ABDUCTING": {
+    "Definition": "making someone come with you, especially by using force"
   },
   "ABDUCTIONS": {
     "Definition": "making someone come with you, especially by using force"
   },
-  "SUCKS": {
-    "Definition": "to pull up (normally a liquid)"
+  "BARRELS": {
+    "Definition": "large, circular containers"
+  },
+  "BINOCULARS": {
+    "Definition": "a handheld tool to help you see things in the distance"
+  },
+  "BOARDED": {
+    "Definition": "gone onto another ship"
+  },
+  "CAPSIZE": {
+    "Definition": "(of a boat) to turn upside down"
+  },
+  "CAUSALITY": {
+    "Definition": "something that causes something else"
+  },
+  "CAUTIOUS": {
+    "Definition": "avoiding risks"
+  },
+  "CITED": {
+    "Definition": "mentioned as a way of explaining something"
+  },
+  "COMPENSATION": {
+    "Definition": "money that is paid in exchange for something, often lost or stolen"
+  },
+  "CONCLUSIVELY": {
+    "Definition": "without any doubt"
+  },
+  "CORRELATION": {
+    "Definition": "a connection between two things"
+  },
+  "DENSE": {
+    "Definition": "difficult to see through"
+  },
+  "DESERTED": {
+    "Definition": "without people in it"
+  },
+  "DOTS": {
+    "Definition": "very small marks"
+  },
+  "EXCEPTIONALLY": {
+    "Definition": "very much"
+  },
+  "FACTUAL": {
+    "Definition": "relating to the actual facts"
+  },
+  "FAINTER": {
+    "Definition": "less strong and able to be heard or seen"
+  },
+  "FAR-FETCHED": {
+    "Definition": "unlikely to be true and (therefore) hard to believe"
+  },
+  "FOG": {
+    "Definition": "cloudy air near the ground"
+  },
+  "IN TWO MINDS": {
+    "Definition": "to not have decided"
+  },
+  "INCIDENT": {
+    "Definition": "an event"
+  },
+  "INSISTED": {
+    "Definition": "said firmly, demanded"
+  },
+  "INTRIGUING": {
+    "Definition": "interesting"
+  },
+  "LATCH ON TO": {
+    "Definition": "to want to believe (a theory)"
+  },
+  "LIFT THE CURTAIN": {
+    "Definition": "tell the truth (about something)"
+  },
+  "MAHOGANY": {
+    "Definition": "a dark, expensive wood often used to make furniture"
+  },
+  "MASTS": {
+    "Definition": "tall poles"
+  },
+  "NANNIES": {
+    "Definition": "people whose job it is to look after the children of a family"
+  },
+  "PARANORMAL": {
+    "Definition": "impossible to explain with science"
   },
   "PASS JUDGMENT": {
     "Definition": "form your opinion on"
   },
-  "INTRIGUING": {
-    "Definition": "interesting"
+  "PLAUSIBLE": {
+    "Definition": "believable"
+  },
+  "PLOT": {
+    "Definition": "a secret plan"
+  },
+  "PRONE": {
+    "Definition": "likely (to do or have something)"
+  },
+  "PUZZLED": {
+    "Definition": "confused"
+  },
+  "RADICALLY": {
+    "Definition": "completely"
+  },
+  "RELUCTANT": {
+    "Definition": "not willing to do something"
+  },
+  "REPUTABLE": {
+    "Definition": "trustworthy, having a good reputation"
+  },
+  "SEEK": {
+    "Definition": "trying to find"
+  },
+  "SENSATIONALIST": {
+    "Definition": "reporting events to make them sound as strange as possible, even if they are not"
   },
   "SET OFF": {
     "Definition": "leave (for somewhere else)"
@@ -44,115 +134,25 @@
   "SHORE": {
     "Definition": "the mainland"
   },
-  "PLAUSIBLE": {
-    "Definition": "believable"
-  },
-  "SEEK": {
-    "Definition": "trying to find"
-  },
-  "BINOCULARS": {
-    "Definition": "a handheld tool to help you see things in the distance"
-  },
-  "CAUTIOUS": {
-    "Definition": "avoiding risks"
-  },
-  "BOARDED": {
-    "Definition": "gone onto another ship"
-  },
-  "MAHOGANY": {
-    "Definition": "a dark, expensive wood often used to make furniture"
-  },
-  "DESERTED": {
-    "Definition": "without people in it"
-  },
-  "RELUCTANT": {
-    "Definition": "not willing to do something"
-  },
-  "DENSE": {
-    "Definition": "difficult to see through"
-  },
-  "FOG": {
-    "Definition": "cloudy air near the ground"
-  },
-  "FAINTER": {
-    "Definition": "less strong and able to be heard or seen"
-  },
-  "FACTUAL": {
-    "Definition": "relating to the actual facts"
-  },
-  "INACCURACIES": {
-    "Definition": "mistakes, errors"
-  },
-  "CITED": {
-    "Definition": "mentioned as a way of explaining something"
-  },
-  "INCIDENT": {
-    "Definition": "an event"
-  },
-  "BARRELS": {
-    "Definition": "large, circular containers"
+  "SQUID": {
+    "Definition": "a sea creature with a long body and tentacles"
   },
   "STORMY": {
     "Definition": "with strong wind and rain"
   },
-  "PUZZLED": {
-    "Definition": "confused"
-  },
-  "PLOT": {
-    "Definition": "a secret plan"
-  },
-  "COMPENSATION": {
-    "Definition": "money that is paid in exchange for something, often lost or stolen"
-  },
-  "PARANORMAL": {
-    "Definition": "impossible to explain with science"
-  },
-  "SQUID": {
-    "Definition": "a sea creature with a long body and tentacles"
-  },
-  "FAR-FETCHED": {
-    "Definition": "unlikely to be true and (therefore) hard to believe"
-  },
-  "ABANDON": {
-    "Definition": "leave"
-  },
-  "PRONE": {
-    "Definition": "likely (to do or have something)"
-  },
-  "CAPSIZE": {
-    "Definition": "(of a boat) to turn upside down"
-  },
-  "LATCH ON TO": {
-    "Definition": "to want to believe (a theory)"
-  },
-  "RADICALLY": {
-    "Definition": "completely"
-  },
-  "CORRELATION": {
-    "Definition": "a connection between two things"
-  },
-  "CAUSALITY": {
-    "Definition": "something that causes something else"
+  "SUCKS": {
+    "Definition": "to pull up (normally a liquid)"
   },
   "SUPERNATURAL": {
     "Definition": "impossible to explain with science"
   },
-  "DOTS": {
-    "Definition": "very small marks"
+  "THOUGHT MUCH OF IT": {
+    "Definition": "think it is important or worth discussion"
   },
-  "CONCLUSIVELY": {
-    "Definition": "without any doubt"
+  "TREACHEROUS": {
+    "Definition": "extremely dangerous"
   },
-  "MASTS": {
-    "Definition": "tall poles"
-  },
-  "A STRETCH": {
-    "Definition": "something that is hard to believe"
-  },
-  "A LOT TO ANSWER FOR": {
-    "Definition": "to be responsible for a lot of bad things"
-  },
-  "IN TWO MINDS": {
-    "Definition": "to not have decided"
+  "VENTURES": {
+    "Definition": "goes into"
   }
 }

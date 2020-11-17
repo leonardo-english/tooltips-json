@@ -1,143 +1,146 @@
 {
-  "VIOLATION": {
-    "Definition": "an action that breaks a law, agreement, or principle"
-  },
-  "VIOLATED": {
-    "Definition": "see 'violation'"
-  },
-  "OPPRESSIVE": {
-    "Definition": "powerful, cruel and not fair"
-  },
-  "REGIMES": {
-    "Definition": "type of governments"
-  },
-  "INHERENTLY": {
-    "Definition": "in a way that is natural and basic"
-  },
-  "INALIENABLE": {
-    "Definition": "not able to be removed"
-  },
-  "DIGNITY": {
-    "Definition": "deserving of respect"
-  },
-  "HALLMARK": {
-    "Definition": "official, distinctive"
-  },
-  "TRACE": {
-    "Definition": "go back in time to find something"
-  },
-  "PROCLAIMED": {
-    "Definition": "announced publicly"
-  },
-  "PERSECUTION": {
-    "Definition": "treat someone unfairly over a long period of time, normally because of their religion or race"
-  },
-  "CONVERTED": {
-    "Definition": "forced to change religion"
+  "ABOLISHED": {
+    "Defintion": "officially ended"
   },
   "ABUSERS": {
-    "Definition": "people who treat others in a cruel and unfair way"
-  },
-  "REIGN": {
-    "Definition": "the period of time that someone was king or queen"
-  },
-  "PROMINENCE": {
-    "Definition": "being important and well known"
-  },
-  "CONSENSUS": {
-    "Definition": "generally accepted opinion and belief"
-  },
-  "PROFOUND": {
-    "Definition": "important"
-  },
-  "SOWED THE SEEDS": {
-    "Definition": "do something that causes something to happen in the future"
-  },
-  "CODIFIED": {
-    "Definition": "documented in writing, in the law"
-  },
-  "NOTABLE": {
-    "Definition": "important"
-  },
-  "ABOLISHED": {
-    "Definition": "officially ended"
-  },
-  "HORRIFIC": {
-    "Definition": "horrible and shocking"
-  },
-  "BINDING": {
-    "Definition": "(of a law or agreement) must be kept"
-  },
-  "EXECUTED": {
-    "Definition": "killed as a punishment"
-  },
-  "CONDEMNATION": {
-    "Definition": "an expression of strong disapproval"
-  },
-  "CLASSIFY": {
-    "Definition": "be considered"
-  },
-  "ASPIRE": {
-    "Definition": "want to do"
-  },
-  "CHERRY-PICKED": {
-    "Definition": "picked only the best or preferred things out of a larger group"
+    "Defintion": "people who treat others in a cruel and unfair way"
   },
   "AGENDA": {
-    "Definition": "ideas that a party or country things are important"
-  },
-  "WATERBOARDING": {
-    "Definition": "a torture that simulates drowning"
-  },
-  "HERDING UP": {
-    "Definition": "collecting (usually animals)"
-  },
-  "HANG ON": {
-    "Definition": "wait a minute"
-  },
-  "FUNDAMENTALLY": {
-    "Definition": "in a basic but important way"
+    "Defintion": "ideas that a party or country things are important"
   },
   "APARTHEID": {
-    "Definition": "the system in South Africa which separated different races"
+    "Defintion": "the system in South Africa which separated different races"
   },
-  "NORMS": {
-    "Definition": "customs or usual behaviours"
-  },
-  "PUT THIS DECLARATION UP ON A PEDESTAL": {
-    "Definition": "say that something (this declaration) is fantastic"
-  },
-  "DEGRADING": {
-    "Definition": "unpleasant and causing someone to feel like they have no value"
-  },
-  "INTERPRET": {
-    "Definition": "understand, decide the meaning of"
-  },
-  "POPULOUS": {
-    "Definition": "with lots of people"
-  },
-  "UNFATHOMABLE": {
-    "Definition": "unbelievable, impossible to understand"
-  },
-  "DROUGHTS": {
-    "Definition": "periods without rain"
-  },
-  "OPPRESSOR": {
-    "Definition": "someone who treats someone else unfairly and prevents them from having the same rights as other people"
+  "ASPIRE": {
+    "Defintion": "want to do"
   },
   "BATTERING DOWN": {
-    "Definition": "knocking down"
+    "Defintion": "knocking down"
   },
-  "POINT THE FINGER": {
-    "Definition": "assigning blame, saying someone is responsible"
+  "BINDING": {
+    "Defintion": "(of a law or agreement) must be kept"
   },
-  "CRACKED IT": {
-    "Definition": "figured it out, solved it"
+  "CHERRY-PICKED": {
+    "Defintion": "picked only the best or preferred things out of a larger group"
+  },
+  "CLASSIFY": {
+    "Defintion": "be considered"
+  },
+  "CODIFIED": {
+    "Defintion": "documented in writing, in the law"
+  },
+  "CONDEMN": {
+    "Defintion": "strongly disapprove of"
+  },
+  "CONDEMNATION": {
+    "Defintion": "an expression of strong disapproval"
+  },
+  "CONSENSUS": {
+    "Defintion": "generally accepted opinion and belief"
   },
   "CONSTITUTES": {
-    "Definition": "forms, is considered a part of"
+    "Defintion": "forms, is considered a part of"
+  },
+  "CONVERTED": {
+    "Defintion": "forced to change religion"
+  },
+  "CRACKED IT": {
+    "Defintion": "figured it out, solved it"
+  },
+  "DEGRADING": {
+    "Defintion": "unpleasant and causing someone to feel like they have no value"
+  },
+  "DIGNITY": {
+    "Defintion": "deserving of respect"
+  },
+  "DROUGHTS": {
+    "Defintion": "periods without rain"
+  },
+  "EXECUTED": {
+    "Defintion": "killed as a punishment"
+  },
+  "FUNDAMENTALLY": {
+    "Defintion": "in a basic but important way"
+  },
+  "HALLMARK": {
+    "Defintion": "official, distinctive"
+  },
+  "HANG ON": {
+    "Defintion": "wait a minute"
+  },
+  "HERDING UP": {
+    "Defintion": "collecting (usually animals)"
+  },
+  "HORRIFIC": {
+    "Defintion": "horrible and shocking"
+  },
+  "INALIENABLE": {
+    "Defintion": "not able to be removed"
+  },
+  "INHERENTLY": {
+    "Defintion": "in a way that is natural and basic"
+  },
+  "INTERPRET": {
+    "Defintion": "understand, decide the meaning of"
   },
   "JAUNT": {
-    "Definition": "a short journey, normally for fun"
+    "Defintion": "a short journey, normally for fun"
+  },
+  "NORMS": {
+    "Defintion": "customs or usual behaviours"
+  },
+  "NOTABLE": {
+    "Defintion": "important"
+  },
+  "OPPRESSIVE": {
+    "Defintion": "powerful, cruel and not fair"
+  },
+  "OPPRESSOR": {
+    "Defintion": "someone who treats someone else unfairly and prevents them from having the same rights as other people"
+  },
+  "PERSECUTION": {
+    "Defintion": "treat someone unfairly over a long period of time, normally because of their religion or race"
+  },
+  "POINT THE FINGER": {
+    "Defintion": "assigning blame, saying someone is responsible"
+  },
+  "POPULOUS": {
+    "Defintion": "with lots of people"
+  },
+  "PROCLAIMED": {
+    "Defintion": "announced publicly"
+  },
+  "PROFOUND": {
+    "Defintion": "important"
+  },
+  "PROMINENCE": {
+    "Defintion": "being important and well known"
+  },
+  "PUT THIS DECLARATION UP ON A PEDESTAL": {
+    "Defintion": "say that something (this declaration) is fantastic"
+  },
+  "REGIMES": {
+    "Defintion": "type of governments"
+  },
+  "REIGN": {
+    "Defintion": "the period of time that someone was king or queen"
+  },
+  "SOWED THE SEEDS": {
+    "Defintion": "do something that causes something to happen in the future"
+  },
+  "TRACE": {
+    "Defintion": "go back in time to find something"
+  },
+  "UNFATHOMABLE": {
+    "Defintion": "unbelievable, impossible to understand"
+  },
+  "VIOLATED": {
+    "Defintion": "see 'violation'"
+  },
+  "VIOLATION": {
+    "Defintion": "an action that breaks a law, agreement, or principle"
+  },
+  "WATERBOARDING": {
+    "Defintion": "a torture that simulates drowning"
   }
 }

@@ -1,116 +1,116 @@
 {
-  "SHRUNK": {
-    "Definition": "became smaller"
-  },
-  "‍ONE STEP AHEAD OF THE GAME": {
-    "Definition": "ahead of everyone else, already ahead"
-  },
-  "‍CRUCIALLY": {
-    "Definition": "very importantly"
-  },
-  "‍FRESHWATER": {
-    "Definition": "of or found in freshwater; not of the sea"
-  },
-  "‍SHIPWRECKS": {
-    "Definition": "abandoned ships"
-  },
-  "‍PLETHORA": {
-    "Definition": "a large or excessive amount of something"
-  },
-  "‍JUNK": {
-    "Definition": "rubbish, trash"
-  },
-  "‍CARCASSES": {
-    "Definition": "the structural framework or remains of a building, ship, or piece of furniture"
-  },
-  "SHIFT": {
-    "Definition": "change"
-  },
-  "‍THRIVING": {
-    "Definition": "prospering, flourishing, doing very well"
-  },
-  "‍GHOST TOWNS": {
-    "Definition": "uninhabited towns"
-  },
-  "‍UP STICKS": {
-    "Definition": "(informal) go and live elsewhere"
-  },
-  "‍ARID": {
-    "Definition": "very dry, without water"
-  },
-  "‍HUB": {
-    "Definition": "centre, main area"
-  },
-  "‍CROPS": {
-    "Definition": "plants used for farming"
-  },
-  "‍HAPHAZARD": {
-    "Definition": "without any obvious principle of organisation"
-  },
-  "‍BASIN": {
-    "Definition": "a circular or oval valley or natural depression on the earth's surface, especially one containing water"
-  },
   "ACRES": {
-    "Definition": "a unit of land area equal to 0.405 hectares"
+    "Defintion": "a unit of land area equal to 0.405 hectares"
   },
-  "‍IRRIGATE": {
-    "Definition": "supply water to (land or crops) to help growth, typically by means of channels"
+  "ARID": {
+    "Defintion": "very dry, without water"
   },
-  "IRRIGATION": {
-    "Definition": "see 'irrigate'"
+  "BASIN": {
+    "Defintion": "a circular or oval valley or natural depression on the earth's surface, especially one containing water"
   },
-  "‍RESERVOIRS": {
-    "Definition": "large natural or artificial lakes used as a source of water supply"
+  "BED": {
+    "Defintion": "the bottom of the sea"
+  },
+  "CARCASSES": {
+    "Defintion": "the structural framework or remains of a building, ship, or piece of furniture"
+  },
+  "CONTAMINATED": {
+    "Defintion": "having been made impure by exposure to or addition of a poisonous or polluting substance"
+  },
+  "CROPS": {
+    "Defintion": "plants used for farming"
+  },
+  "CRUCIALLY": {
+    "Defintion": "very importantly"
+  },
+  "CUTTING OFF": {
+    "Defintion": "an act of stopping or interrupting the supply of something"
+  },
+  "DIVERT": {
+    "Defintion": "move away from"
   },
   "EVAPORATE": {
-    "Definition": "turn from liquid into vapour"
-  },
-  "‍SALINITY": {
-    "Definition": "the amount of salt in a liquid"
-  },
-  "‍IN THEIR MASSES": {
-    "Definition": "in large amounts"
-  },
-  "‍BED": {
-    "Definition": "the bottom of the sea"
-  },
-  "‍CONTAMINATED": {
-    "Definition": "having been made impure by exposure to or addition of a poisonous or polluting substance"
+    "Defintion": "turn from liquid into vapour"
   },
   "FERTILIZER": {
-    "Definition": "a chemical or natural substance added to land to increase its fertility"
+    "Defintion": "a chemical or natural substance added to land to increase its fertility"
   },
-  "PESTICIDES": {
-    "Definition": "a substance used for destroying insects or other organisms harmful to cultivated plants or to animals"
+  "FLOURISHING": {
+    "Defintion": "developing rapidly and successfully; thriving"
   },
-  "SOIL": {
-    "Definition": "the upper layer of earth in which plants grow"
+  "FRESHWATER": {
+    "Defintion": "of or found in freshwater; not of the sea"
   },
-  "‍HALT": {
-    "Definition": "stop"
+  "GHOST TOWNS": {
+    "Defintion": "uninhabited towns"
   },
-  "‍CUTTING OFF": {
-    "Definition": "an act of stopping or interrupting the supply of something"
+  "HALT": {
+    "Defintion": "stop"
+  },
+  "HAPHAZARD": {
+    "Defintion": "without any obvious principle of organisation"
+  },
+  "HUB": {
+    "Defintion": "centre, main area"
+  },
+  "IN THEIR MASSES": {
+    "Defintion": "in large amounts"
+  },
+  "INEXORABLY": {
+    "Defintion": "in a way that is impossible to stop or prevent"
+  },
+  "IRRIGATE": {
+    "Defintion": "supply water to (land or crops) to help growth, typically by means of channels"
+  },
+  "IRRIGATION": {
+    "Defintion": "see 'irrigate'"
+  },
+  "JEOPARDISE": {
+    "Defintion": "put (someone or something) into a situation in which there is a danger of loss, harm, or failure"
+  },
+  "JUNK": {
+    "Defintion": "rubbish, trash"
   },
   "LIGHT AT THE END OF THIS TUNNEL": {
-    "Definition": "an indication that a long period of difficulty is nearing an end"
-  },
-  "REJUVENATION": {
-    "Definition": "restoration to its previous glory"
-  },
-  "‍DIVERT": {
-    "Definition": "move away from"
-  },
-  "‍JEOPARDISE": {
-    "Definition": "put (someone or something) into a situation in which there is a danger of loss, harm, or failure"
+    "Defintion": "an indication that a long period of difficulty is nearing an end"
   },
   "LIVELIHOOD": {
-    "Definition": "a means of securing the necessities of life"
+    "Defintion": "a means of securing the necessities of life"
   },
-  "‍INEXORABLY": {
-    "Definition": "in a way that is impossible to stop or prevent"
+  "ONE STEP AHEAD OF THE GAME.": {
+    "Defintion": "ahead of everyone else, already ahead"
   },
-  "‍FLOURISHING": {
-    "Definition": "developing rapidly and successfully; thriving"
+  "PESTICIDES": {
+    "Defintion": "a substance used for destroying insects or other organisms harmful to cultivated plants or to animals"
+  },
+  "PLETHORA": {
+    "Defintion": "a large or excessive amount of something"
+  },
+  "REJUVENATION": {
+    "Defintion": "restoration to its previous glory"
+  },
+  "RESERVOIRS": {
+    "Defintion": "large natural or artificial lakes used as a source of water supply"
+  },
+  "SALINITY": {
+    "Defintion": "the amount of salt in a liquid"
+  },
+  "SHIFT": {
+    "Defintion": "change"
+  },
+  "SHIPWRECKS": {
+    "Defintion": "abandoned ships"
+  },
+  "SHRUNK": {
+    "Defintion": "became smaller"
+  },
+  "SOIL": {
+    "Defintion": "the upper layer of earth in which plants grow"
+  },
+  "THRIVING": {
+    "Defintion": "prospering, flourishing, doing very well"
+  },
+  "UP STICKS": {
+    "Defintion": "(informal) go and live elsewhere"
   }
 }

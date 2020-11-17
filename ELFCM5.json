@@ -1,119 +1,122 @@
 {
-  "PROJECTED": {
-    "Definition": "present or promote (a particular view or image)"
-  },
-  "SELF-PROCLAIMED": {
-    "Definition": "described as or proclaimed to be such by oneself, without endorsement by others"
-  },
-  "ZERO-SUM": {
-    "Definition": "relating to or denoting a situation in which whatever is gained by one side is lost by the other‍"
-  },
-  "COERCION": {
-    "Definition": "force"
-  },
-  "SANCTIONS": {
-    "Definition": "a threatened penalty for disobeying a law or rule"
-  },
-  "ASPIRATIONAL": {
-    "Definition": "having or characterized by aspirations to achieve social prestige and material success"
-  },
-  "COINED": {
-    "Definition": "invent (a new word or phrase)"
-  },
-  "LINGUA FRANCA": {
-    "Definition": "a language that is adopted as a common language between speakers whose native languages are different"
-  },
-  "DOMINANT": {
-    "Definition": "having power and influence over others"
-  },
-  "PACKS A SIZEABLE PUNCH": {
-    "Definition": "is powerful, normally beyond expectations"
-  },
-  "PREVALENCE": {
-    "Definition": "commonness"
-  },
-  "GRADUAL": {
-    "Definition": "slow"
-  },
-  "DECLINE": {
-    "Definition": "reduction in size or power"
-  },
-  "INSTITUTIONS": {
-    "Definition": "an established official organization having an important role in a society, such as the Church or parliament"
-  },
-  "SLIPPED": {
-    "Definition": "pass or change to a lower, worse, or different condition, typically in a gradual or imperceptible way"
-  },
-  "FOOTPRINT": {
-    "Definition": "the impression left by a foot or shoe on the ground or a surface"
-  },
-  "REPUBLICAN": {
-    "Definition": "advocating republican government"
-  },
-  "IMPRINT": {
-    "Definition": "make an impression or mark on"
-  },
-  "MASTERY": {
-    "Definition": "comprehensive knowledge or skill in a particular subject or activity"
+  "AGENDA": {
+    "Defintion": "the underlying intentions or motives of a particular person or group"
   },
   "AMPLIFIES": {
-    "Definition": "makes louder"
+    "Defintion": "makes louder"
   },
-  "DEEMED": {
-    "Definition": "considered, thought"
-  },
-  "AGENDA": {
-    "Definition": "the underlying intentions or motives of a particular person or group"
-  },
-  "FUNDING": {
-    "Definition": "providing money for"
-  },
-  "PORTRAY": {
-    "Definition": "show"
-  },
-  "TOOLBOX": {
-    "Definition": "a box or container for keeping tools in"
-  },
-  "TIMEFRAMES": {
-    "Definition": "a specified period of time in which something occurs or is planned to take place"
-  },
-  "REAP": {
-    "Definition": "receive (something, especially something beneficial) as a consequence of one's own or another's actions"
-  },
-  "FOSTER": {
-    "Definition": "encourage the development of (something, especially something desirable)"
+  "ASPIRATIONAL": {
+    "Defintion": "having or characterized by aspirations to achieve social prestige and material success"
   },
   "BLOSSOM": {
-    "Definition": "mature or develop in a promising or healthy way"
-  },
-  "SOUNDBITES": {
-    "Definition": "a short extract from a recorded interview or speech, chosen for its succinctness or concision"
-  },
-  "HOSTILE": {
-    "Definition": "unfriendly towards"
-  },
-  "STRUGGLE": {
-    "Definition": "have trouble doing"
-  },
-  "RANKED": {
-    "Definition": "considered within a ratings system"
+    "Defintion": "mature or develop in a promising or healthy way"
   },
   "BOUND": {
-    "Definition": "likely"
+    "Defintion": "likely"
+  },
+  "COERCION": {
+    "Defintion": "force"
+  },
+  "COINED": {
+    "Defintion": "invent (a new word or phrase)"
+  },
+  "DEEMED": {
+    "Defintion": "considered, thought"
   },
   "DIVIDENDS": {
-    "Definition": "a benefit from an action or policy"
+    "Defintion": "a benefit from an action or policy"
   },
-  "SET IN MOTION": {
-    "Definition": "put into place"
+  "DOMINANT": {
+    "Defintion": "having power and influence over others"
   },
-  "SHIFT": {
-    "Definition": "a slight change in position, direction, or tendency.: \"a shift in public opinion\" \"a shift of wind took us by surprise\"."
+  "FOOTPRINT": {
+    "Defintion": "the impression left by a foot or shoe on the ground or a surface"
   },
-  "PACKS A SUBSTANTIAL SOFT POWER PUNCH": {
-    "Definition": "see ‘packs a sizeable punch’"
+  "FOSTER": {
+    "Defintion": "encourage the development of (something, especially something desirable)"
+  },
+  "FUNDING": {
+    "Defintion": "providing money for"
+  },
+  "GRADUAL": {
+    "Defintion": "slow"
+  },
+  "HOSTILE": {
+    "Defintion": "unfriendly towards"
+  },
+  "IMPRINT": {
+    "Defintion": "make an impression or mark on"
+  },
+  "INSTITUTIONS": {
+    "Defintion": "an established official organization having an important role in a society, such as the Church or parliament"
+  },
+  "LINGUA FRANCA": {
+    "Defintion": "a language that is adopted as a common language between speakers whose native languages are different"
+  },
+  "MASTERY": {
+    "Defintion": "comprehensive knowledge or skill in a particular subject or activity"
   },
   "NEGLECT": {
-    "Definition": "fail to care for properly"
+    "Defintion": "fail to care for properly"
+  },
+  "PACKS A SIZABLE PUNCH": {
+    "Defintion": "is powerful, normally beyond expectations"
+  },
+  "PACKS A SUBSTANTIAL SOFT POWER PUNCH": {
+    "Defintion": "is powerful, normally beyond expectations"
+  },
+  "PORTRAY": {
+    "Defintion": "show"
+  },
+  "PREVALENCE": {
+    "Defintion": "commonness"
+  },
+  "PROJECT": {
+    "Defintion": "present or promote (a particular view or image)"
+  },
+  "PROJECTED": {
+    "Defintion": "present or promote (a particular view or image)"
+  },
+  "RANKED": {
+    "Defintion": "considered within a ratings system"
+  },
+  "RANKS": {
+    "Defintion": "considered within a ratings system"
+  },
+  "REAPING": {
+    "Defintion": "receive (something, especially something beneficial) as a consequence of one's own or another's actions"
+  },
+  "REPUBLICAN": {
+    "Defintion": "advocating republican government"
+  },
+  "SANCTIONS": {
+    "Defintion": "a threatened penalty for disobeying a law or rule"
+  },
+  "SELF-PROCLAIMED": {
+    "Defintion": "described as or proclaimed to be such by oneself, without endorsement by others"
+  },
+  "SET IN MOTION": {
+    "Defintion": "put into place"
+  },
+  "SHIFT": {
+    "Defintion": "a slight change in position, direction, or tendency.: 'a shift in public opinion' 'a shift of wind took us by surprise'."
+  },
+  "SLIPPED": {
+    "Defintion": "pass or change to a lower, worse, or different condition, typically in a gradual or imperceptible way"
+  },
+  "SOUNDBITES": {
+    "Defintion": "a short extract from a recorded interview or speech, chosen for its succinctness or concision"
+  },
+  "STRUGGLE": {
+    "Defintion": "have trouble doing"
+  },
+  "TIME FRAMES": {
+    "Defintion": "#N/A"
+  },
+  "TOOLBOX": {
+    "Defintion": "a box or container for keeping tools in"
+  },
+  "ZERO SUM": {
+    "Defintion": "#N/A"
   }
 }

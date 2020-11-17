@@ -1,75 +1,15 @@
 {
-  "LABELS": {
-    "Definition": "a word or phrase used to describe something"
-  },
-  "AGRARIAN": {
-    "Definition": "relating to farming"
-  },
-  "TIMEKEEPING": {
-    "Definition": "the system of keeping the time"
+  "ABOLISHED": {
+    "Definition": "getting rid of, stopping doing"
   },
   "ACCORDINGLY": {
     "Definition": "as a result of something"
   },
-  "SLICE": {
-    "Definition": "a thin piece"
+  "ACUTE": {
+    "Definition": "severe, bad"
   },
-  "EXCEPTIONS": {
-    "Definition": "something that isn't included in a rule"
-  },
-  "OFFSET": {
-    "Definition": "the difference from the main time zone"
-  },
-  "LEISURE": {
-    "Definition": "time when you aren't working"
-  },
-  "KEEN": {
-    "Definition": "very interested, wanting to do something a lot"
-  },
-  "SHIFTING": {
-    "Definition": "moving"
-  },
-  "TO MAKE THE MOST": {
-    "Definition": "to get the greatest advantage from something"
-  },
-  "PHENOMENON": {
-    "Definition": "something that exists can be felt, especially something that's unusual"
-  },
-  "CATCH ON": {
-    "Definition": "become popular"
-  },
-  "OUTBREAK": {
-    "Definition": "a time when something starts happening"
-  },
-  "DITCHED": {
-    "Definition": "stopped using"
-  },
-  "REVERTING": {
-    "Definition": "going back"
-  },
-  "ABOLISHED": {
-    "Definition": "getting rid of, stopping doing"
-  },
-  "CONTROVERSY": {
-    "Definition": "a large amount of disagreement about something"
-  },
-  "PROPONENTS": {
-    "Definition": "people who want to do something"
-  },
-  "RECREATIONAL": {
-    "Definition": "related to recreation, an activity done for pleasure"
-  },
-  "ASSAULTS": {
-    "Definition": "violent attacks"
-  },
-  "FACTOR": {
-    "Definition": "an important point, a reason"
-  },
-  "OUTWEIGHED": {
-    "Definition": "to be more important (than something else)"
-  },
-  "VEHEMENTLY": {
-    "Definition": "very strongly"
+  "AGRARIAN": {
+    "Definition": "relating to farming"
   },
   "ANNOYANCE": {
     "Definition": "something that makes you angry"
@@ -77,40 +17,100 @@
   "ANNOYING": {
     "Definition": "see 'annoyance'"
   },
-  "PRODUCTIVITY": {
-    "Definition": "the rate at which workers produce goods"
-  },
-  "SPIKE": {
-    "Definition": "sharp increase"
+  "ASSAULTS": {
+    "Definition": "violent attacks"
   },
   "BENEFICIARIES": {
     "Definition": "people or groups who benefit from something happening"
   },
-  "RHYTHMS": {
-    "Definition": "regular movements"
+  "CATCH ON": {
+    "Definition": "become popular"
   },
-  "ACUTE": {
-    "Definition": "severe, bad"
+  "CONTROVERSY": {
+    "Definition": "a large amount of disagreement about something"
   },
-  "PROPOSALS": {
-    "Definition": "suggestions"
-  },
-  "ONE-SIZE-FITS-ALL": {
-    "Definition": "suitable for everyone"
-  },
-  "THEORETICAL": {
-    "Definition": "based on ideas, not reality"
-  },
-  "FAST": {
-    "Definition": "a fast is a period where you do not eat"
+  "COUNTED YOUR LUCKY STARS": {
+    "Definition": "be grateful for being lucky"
   },
   "DIRECTIVE": {
     "Definition": "an official instruction"
   },
+  "DITCHED": {
+    "Definition": "stopped using"
+  },
+  "EXCEPTIONS": {
+    "Definition": "something that isn't included in a rule"
+  },
+  "FACTOR": {
+    "Definition": "an important point, a reason"
+  },
+  "FAST": {
+    "Definition": "a fast is a period where you do not eat"
+  },
+  "KEEN": {
+    "Definition": "very interested, wanting to do something a lot"
+  },
+  "LABELS": {
+    "Definition": "a word or phrase used to describe something"
+  },
+  "LEISURE": {
+    "Definition": "time when you aren't working"
+  },
+  "OFFSET": {
+    "Definition": "the difference from the main time zone"
+  },
+  "ONE-SIZE-FITS-ALL": {
+    "Definition": "suitable for everyone"
+  },
+  "OUTBREAK": {
+    "Definition": "a time when something starts happening"
+  },
+  "OUTWEIGHED": {
+    "Definition": "to be more important (than something else)"
+  },
+  "PHENOMENON": {
+    "Definition": "something that exists can be felt, especially something that's unusual"
+  },
+  "PRODUCTIVITY": {
+    "Definition": "the rate at which workers produce goods"
+  },
+  "PROPONENTS": {
+    "Definition": "people who want to do something"
+  },
+  "PROPOSALS": {
+    "Definition": "suggestions"
+  },
+  "RECREATIONAL": {
+    "Definition": "related to recreation, an activity done for pleasure"
+  },
+  "REVERTING": {
+    "Definition": "going back"
+  },
+  "RHYTHMS": {
+    "Definition": "regular movements"
+  },
+  "SHIFTING": {
+    "Definition": "moving"
+  },
+  "SLICE": {
+    "Definition": "a thin piece"
+  },
+  "SPIKE": {
+    "Definition": "sharp increase"
+  },
   "STALLED": {
     "Definition": "stopped using"
   },
-  "COUNTED YOUR LUCKY STARS": {
-    "Definition": "be grateful for being lucky"
+  "THEORETICAL": {
+    "Definition": "based on ideas, not reality"
+  },
+  "TIMEKEEPING": {
+    "Definition": "the system of keeping the time"
+  },
+  "TO MAKE THE MOST": {
+    "Definition": "to get the greatest advantage from something"
+  },
+  "VEHEMENTLY": {
+    "Definition": "very strongly"
   }
 }

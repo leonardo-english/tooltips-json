@@ -1,134 +1,134 @@
 {
-  "WITHOUT FURTHER ADO": {
-    "Definition": "without wasting any more time"
-  },
   "ACUTELY": {
-    "Definition": "feeling or noticing something very strongly"
-  },
-  "DESCENDED": {
-    "Definition": "come from, to be related to"
-  },
-  "YIDDISH": {
-    "Definition": "a language related to German that is spoken by some Jewish people, especially in Eastern Europe"
-  },
-  "BUFF": {
-    "Definition": "someone who knows a lot about something and is interested in it"
-  },
-  "THEORISED": {
-    "Definition": "thought that something could be explained by something else"
-  },
-  "ROOM": {
-    "Definition": "opportunity, place"
-  },
-  "PLAGUED": {
-    "Definition": "cause pain and suffering to (for a long time)"
-  },
-  "MELTING POT": {
-    "Definition": "a place with many different people, cultures, religions and ideas"
-  },
-  "FIERCELY": {
-    "Definition": "very strongly"
-  },
-  "ELEMENTS": {
-    "Definition": "parts"
-  },
-  "INCORPORATED": {
-    "Definition": "used as part of"
-  },
-  "PSEUDONYM": {
-    "Definition": "a name used instead of a real name"
-  },
-  "OUTLINED": {
-    "Definition": "set out, described"
-  },
-  "SUPPOSED": {
-    "Definition": "believed to be"
-  },
-  "ROOTS": {
-    "Definition": "origins"
-  },
-  "INTENTIONALLY": {
-    "Definition": "on purpose"
-  },
-  "FORMAL": {
-    "Definition": "official, public"
-  },
-  "TONES": {
-    "Definition": "different ways of pronouncing the same syllable"
-  },
-  "ROOT": {
-    "Definition": "main part"
-  },
-  "GET BY": {
-    "Definition": "manage, be able to deal with a situation"
-  },
-  "BANNED": {
-    "Definition": "forbidden, not allowed to be used"
-  },
-  "DEPORTATION": {
-    "Definition": "forced to leave a country"
-  },
-  "EXECUTION": {
-    "Definition": "the punishment of killing someone"
-  },
-  "CAME ACROSS": {
-    "Definition": "found, discovered"
-  },
-  "ROUNDED UP": {
-    "Definition": "found and forced to go to prison or jail"
-  },
-  "PRECURSOR": {
-    "Definition": "something that happened before something else"
-  },
-  "PLOT": {
-    "Definition": "a secret plan by a group of people"
-  },
-  "LINGUISTIC": {
-    "Definition": "relating to language or the study of language"
-  },
-  "FOUNDING": {
-    "Definition": "creation"
-  },
-  "PINPOINT": {
-    "Definition": "say exactly"
-  },
-  "RANGE": {
-    "Definition": "vary, differ"
-  },
-  "INTELLECTUAL": {
-    "Definition": "relating to a desire to understand things"
-  },
-  "FELLOW": {
-    "Definition": "someone with the same interests or job as you"
-  },
-  "NETWORK EFFECTS": {
-    "Definition": "a situation when anyone who does the same thing adds value to the entire community"
-  },
-  "NICHE": {
-    "Definition": "something enjoyed by a small amount of people"
-  },
-  "HOBBYIST": {
-    "Definition": "something that people do in their free time"
-  },
-  "RAISED": {
-    "Definition": "brought up"
-  },
-  "LENDS ITSELF": {
-    "Definition": "is naturally a good fit for"
+    "Defintion": "feeling or noticing something very strongly"
   },
   "ADVOCATES": {
-    "Definition": "someone who publicly supports an idea"
+    "Defintion": "someone who publicly supports an idea"
+  },
+  "BANNED": {
+    "Defintion": "forbidden, not allowed to be used"
+  },
+  "BUFF": {
+    "Defintion": "someone who knows a lot about something and is interested in it"
+  },
+  "CAME ACROSS": {
+    "Defintion": "found, discovered"
+  },
+  "DEPORTATION": {
+    "Defintion": "forced to leave a country"
+  },
+  "DESCENDED": {
+    "Defintion": "come from, to be related to"
   },
   "DEVOTED": {
-    "Definition": "very loyal and passionate"
+    "Defintion": "very loyal and passionate"
   },
-  "REALISED": {
-    "Definition": "achieved, fulfilled"
+  "ELEMENTS": {
+    "Defintion": "parts"
   },
-  "NOBLE": {
-    "Definition": "good in an honest and brave sense"
+  "EXECUTION": {
+    "Defintion": "the punishment of killing someone"
+  },
+  "FELLOW": {
+    "Defintion": "someone with the same interests or job as you"
+  },
+  "FIERCELY": {
+    "Defintion": "very strongly"
+  },
+  "FORMAL": {
+    "Defintion": "official, public"
+  },
+  "FOUNDING": {
+    "Defintion": "creation"
   },
   "GAVE ME THE BUG": {
-    "Definition": "made (me) very interested in"
+    "Defintion": "made (me) very interested in"
+  },
+  "GET BY": {
+    "Defintion": "manage, be able to deal with a situation"
+  },
+  "HOBBYIST": {
+    "Defintion": "something that people do in their free time"
+  },
+  "INCORPORATED": {
+    "Defintion": "used as part of"
+  },
+  "INTELLECTUAL": {
+    "Defintion": "relating to a desire to understand things"
+  },
+  "INTENTIONALLY": {
+    "Defintion": "on purpose"
+  },
+  "LENDS ITSELF": {
+    "Defintion": "is naturally a good fit for"
+  },
+  "LINGUISTIC": {
+    "Defintion": "relating to language or the study of language"
+  },
+  "MELTING POT": {
+    "Defintion": "a place with many different people, cultures, religions and ideas"
+  },
+  "NETWORK EFFECTS": {
+    "Defintion": "a situation when anyone who does the same thing adds value to the entire community"
+  },
+  "NICHE": {
+    "Defintion": "something enjoyed by a small amount of people"
+  },
+  "NOBLE": {
+    "Defintion": "good in an honest and brave sense"
+  },
+  "OUTLINED": {
+    "Defintion": "set out, described"
+  },
+  "PINPOINT": {
+    "Defintion": "say exactly"
+  },
+  "PLAGUED": {
+    "Defintion": "cause pain and suffering to (for a long time)"
+  },
+  "PLOT": {
+    "Defintion": "a secret plan by a group of people"
+  },
+  "PRECURSOR": {
+    "Defintion": "something that happened before something else"
+  },
+  "PSEUDONYM": {
+    "Defintion": "a name used instead of a real name"
+  },
+  "RAISED": {
+    "Defintion": "brought up"
+  },
+  "RANGE": {
+    "Defintion": "vary, differ"
+  },
+  "REALISED": {
+    "Defintion": "achieved, fulfilled"
+  },
+  "ROOM": {
+    "Defintion": "opportunity, place"
+  },
+  "ROOT": {
+    "Defintion": "main part"
+  },
+  "ROOTS": {
+    "Defintion": "origins"
+  },
+  "ROUNDED UP": {
+    "Defintion": "found and forced to go to prison or jail"
+  },
+  "SUPPOSED": {
+    "Defintion": "believed to be"
+  },
+  "THEORISED": {
+    "Defintion": "thought that something could be explained by something else"
+  },
+  "TONES": {
+    "Defintion": "different ways of pronouncing the same syllable"
+  },
+  "WITHOUT FURTHER ADO": {
+    "Defintion": "without wasting any more time"
+  },
+  "YIDDISH": {
+    "Defintion": "a language related to German that is spoken by some Jewish people, especially in Eastern Europe"
   }
 }

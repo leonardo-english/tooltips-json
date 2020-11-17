@@ -1,152 +1,143 @@
 {
-  "ABOLISHED": {
-    "Definition": "formally put an end to (a system, practice, or institution)."
-  },
-  "‍AMASS": {
-    "Definition": "obtain, get control of"
-  },
-  "‍STAGNANT": {
-    "Definition": "without major movement, hasn't grown"
-  },
-  "‍SPOILS": {
-    "Definition": "goods stolen or taken forcibly from a person or place, treasure"
-  },
-  "INITIATIVES": {
-    "Definition": "an act or strategy intended to resolve a difficulty or improve a situation; a fresh approach to something."
-  },
-  "EQUITABLE": {
-    "Definition": "equal, fair"
-  },
-  "‍BIDDER": {
-    "Definition": "a person or organization making a formal offer for something, especially at an auction."
-  },
-  "ASSETS": {
-    "Definition": "things owned by someone, goods"
-  },
-  "‍FORMALISING": {
-    "Definition": "make formal, put into action"
-  },
-  "‍NOMINAL": {
-    "Definition": "in name only"
-  },
-  "‍SHARE OWNERSHIP": {
-    "Definition": "the concept that something can be owned by multiple different people"
-  },
-  "PRESSING": {
-    "Definition": "important"
-  },
-  "‍INGENIOUS": {
-    "Definition": "clever"
-  },
-  "‍SCHEMES": {
-    "Definition": "a secret or underhanded plan; a plot."
-  },
-  "‍SCHEMING": {
-    "Definition": "make plans, especially in a devious way or with intent to do something illegal or wrong."
-  },
-  "LOOPHOLES": {
-    "Definition": "an ambiguity or inadequacy in the law or a set of rules."
-  },
-  "‍EXPLOITED": {
-    "Definition": "taken advantage of"
-  },
-  "‍ENTERPRISING": {
-    "Definition": "having or showing initiative and resourcefulness."
-  },
-  "‍SUBSIDIES": {
-    "Definition": "a sum of money granted by the state or a public body to help an industry or business keep the price of a commodity or service low."
-  },
   "A PILE OF CASH": {
-    "Definition": "A large amount of money"
+    "Defintion": "A large amount of money"
   },
-  "‍SPECULATE": {
-    "Definition": "invest in stocks, property, or other ventures in the hope of gain but with the risk of loss."
+  "ABOLISHED": {
+    "Defintion": "formally put an end to (a system, practice, or institution)."
   },
-  "CURRENCY MARKETS": {
-    "Definition": "the markets where people buy and sell different currencies (different types of money)"
+  "ALONG CAME": {
+    "Defintion": "Arrived, used here to emphasis dramatic entry"
+  },
+  "AMASS": {
+    "Defintion": "obtain, get control of"
+  },
+  "AMASSED": {
+    "Defintion": "See amass"
+  },
+  "ANXIOUS": {
+    "Defintion": "keen to, wanted to"
   },
   "ARBITRAGING": {
-    "Definition": "the simultaneous buying and selling of securities, currency, or commodities in different markets or in derivative forms in order to take advantage of differing prices for the same asset."
+    "Defintion": "the simultaneous buying and selling of securities, currency, or commodities in different markets or in derivative forms in order to take advantage of differing prices for the same asset."
   },
-  "COMMAND": {
-    "Definition": "get, or obtain"
+  "ASSETS": {
+    "Defintion": "things owned by someone, goods"
   },
-  "‍DOZEN": {
-    "Definition": "twelve"
-  },
-  "‍STOOD": {
-    "Definition": "to go towards or be destined for"
-  },
-  "‍THREW ALL OF THEIR WEIGHT": {
-    "Definition": "put all of their power"
-  },
-  "‍FREE REIN": {
-    "Definition": "the freedom to do what they want"
-  },
-  "‍CUT-PRICE": {
-    "Definition": "with a big discount"
-  },
-  "‍TENDERS": {
-    "Definition": "seek offers to carry out work at a stated fixed price"
-  },
-  "‍ANXIOUS": {
-    "Definition": "keen to, wanted to"
-  },
-  "‍SELL-OFF": {
-    "Definition": "the sale of"
-  },
-  "‍UNPRODUCTIVE": {
-    "Definition": "badly performing (in a business sense)"
-  },
-  "‍MARKET ECONOMY": {
-    "Definition": "an economy driven by markets, as exists in a capitalist system. Opposite of a centrally-planned economy"
-  },
-  "SNAPPED UP": {
-    "Definition": "bought quickly"
-  },
-  "‍ROCK BOTTOM PRICES": {
-    "Definition": "very low prices"
-  },
-  "‍LOOT": {
-    "Definition": "money, used here to convey that the money wasn't got legally. Usually used for criminal activity"
-  },
-  "SCANDALOUS": {
-    "Definition": "causing general public outrage by a perceived offence against morality or law."
+  "AUCTIONEER": {
+    "Defintion": "the person or company who is in charge of an auction"
   },
   "AUCTIONING OFF": {
-    "Definition": "to sell off to the person who says they will pay the most money"
+    "Defintion": "to sell off to the person who says they will pay the most money"
   },
-  "RIGGED": {
-    "Definition": "unfair"
+  "BARGAIN": {
+    "Defintion": "low cost"
   },
-  "‍AUCTIONEER": {
-    "Definition": "the person or company who is in charge of an auction"
+  "BIDDER": {
+    "Defintion": "a person or organization making a formal offer for something, especially at an auction."
   },
-  "‍STAKE": {
-    "Definition": "a percentage of a company"
+  "CHUNK": {
+    "Defintion": "A large amount or percentage of"
   },
-  "‍BARGAIN": {
-    "Definition": "low cost"
+  "COMMAND": {
+    "Defintion": "get, or obtain"
   },
-  "‍ALONG CAME": {
-    "Definition": "Arrived, used here to emphasis dramatic entry"
+  "CURRENCY MARKETS": {
+    "Defintion": "the markets where people buy and sell different currencies (different types of money)"
   },
-  "‍REIGN": {
-    "Definition": "the rule of"
-  },
-  "‍PURGED": {
-    "Definition": "remove (a group of people considered undesirable) from an organization or place in an abrupt or violent way."
-  },
-  "UNCORROBORATED": {
-    "Definition": "not confirmed or supported by other evidence or information"
+  "CUT-PRICE": {
+    "Defintion": "with a big discount"
   },
   "DEALS WERE STRUCK": {
-    "Definition": "agreements were made"
+    "Defintion": "agreements were made"
   },
-  "‍CHUNK": {
-    "Definition": "A large amount or percentage of"
+  "DOZEN": {
+    "Defintion": "twelve"
   },
-  "‍AMASSED": {
-    "Definition": "See amass"
+  "ENTERPRISING": {
+    "Defintion": "having or showing initiative and resourcefulness."
+  },
+  "EQUITABLE": {
+    "Defintion": "equal, fair"
+  },
+  "EXPLOITED": {
+    "Defintion": "taken advantage of"
+  },
+  "FORMALISING": {
+    "Defintion": "make formal, put into action"
+  },
+  "FREE REIN": {
+    "Defintion": "the freedom to do what they want"
+  },
+  "INGENIOUS": {
+    "Defintion": "clever"
+  },
+  "INITIATIVES": {
+    "Defintion": "an act or strategy intended to resolve a difficulty or improve a situation; a fresh approach to something."
+  },
+  "LOOPHOLE": {
+    "Defintion": "an ambiguity or inadequacy in the law or a set of rules."
+  },
+  "LOOPHOLES": {
+    "Defintion": "an ambiguity or inadequacy in the law or a set of rules."
+  },
+  "MARKET ECONOMY": {
+    "Defintion": "an economy driven by markets, as exists in a capitalist system. Opposite of a centrally-planned economy"
+  },
+  "NOMINAL": {
+    "Defintion": "in name only"
+  },
+  "PRESSING": {
+    "Defintion": "important"
+  },
+  "PURGED": {
+    "Defintion": "remove (a group of people considered undesirable) from an organization or place in an abrupt or violent way."
+  },
+  "REIGN": {
+    "Defintion": "the rule of"
+  },
+  "RIGGED": {
+    "Defintion": "unfair"
+  },
+  "SCANDALOUS": {
+    "Defintion": "causing general public outrage by a perceived offence against morality or law."
+  },
+  "SCHEMING": {
+    "Defintion": "make plans, especially in a devious way or with intent to do something illegal or wrong."
+  },
+  "SELL-OFF": {
+    "Defintion": "the sale of"
+  },
+  "SHARE OWNERSHIP": {
+    "Defintion": "the concept that something can be owned by multiple different people"
+  },
+  "SPECULATE": {
+    "Defintion": "invest in stocks, property, or other ventures in the hope of gain but with the risk of loss."
+  },
+  "SPOILS": {
+    "Defintion": "goods stolen or taken forcibly from a person or place, treasure"
+  },
+  "STAGNANT": {
+    "Defintion": "without major movement, hasn't grown"
+  },
+  "STAKE": {
+    "Defintion": "a percentage of a company"
+  },
+  "STOOD": {
+    "Defintion": "to go towards or be destined for"
+  },
+  "SUBSIDIES": {
+    "Defintion": "a sum of money granted by the state or a public body to help an industry or business keep the price of a commodity or service low."
+  },
+  "TENDERS": {
+    "Defintion": "seek offers to carry out work at a stated fixed price"
+  },
+  "THREW ALL OF THEIR WEIGHT": {
+    "Defintion": "put all of their power"
+  },
+  "UNCORROBORATED": {
+    "Defintion": "not confirmed or supported by other evidence or information"
+  },
+  "UNPRODUCTIVE": {
+    "Defintion": "badly performing (in a business sense)"
   }
 }

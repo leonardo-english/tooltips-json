@@ -1,131 +1,107 @@
 {
-  "MYOPIC": {
-    "Definition": "not able to see things that are far away"
-  },
-  "HYPEROPIC": {
-    "Definition": "not able to see things that are close"
-  },
-  "SHORT-SIGHTED": {
-    "Definition": "not able to see things that are far away"
-  },
-  "LONG-SIGHTED": {
-    "Definition": "not able to see things that are close"
-  },
-  "MILDLY": {
-    "Definition": "slightly"
-  },
-  "VISION CORRECTION": {
-    "Definition": "glasses, contact lenses or laser eye surgery"
-  },
-  "TREND": {
-    "Definition": "a general development"
-  },
-  "TO MAKE ENDS MEET": {
-    "Definition": "to be able to earn enough money to survive"
-  },
-  "ORPHANAGE": {
-    "Definition": "a home for children with no parents, or whose parents cannot care for them"
-  },
   "APPRENTICE": {
     "Definition": "someone who works for a skilled craftsperson, normally as a way to learn how to do a particular job"
-  },
-  "ENGRAVING": {
-    "Definition": "the skill of designing by cutting into metal"
-  },
-  "ISOLATED": {
-    "Definition": "not close to other places"
-  },
-  "ENCOURAGING": {
-    "Definition": "trying to get others to do something"
-  },
-  "OPTICIAN": {
-    "Definition": "someone who examines people's eyes"
-  },
-  "PRESCRIBE": {
-    "Definition": "(of a doctor or optician) to say what treatment is required"
-  },
-  "DISTRIBUTORS": {
-    "Definition": "companies that supply products to shops"
-  },
-  "RETAILERS": {
-    "Definition": "shops that sell products to the public"
-  },
-  "CHUNK": {
-    "Definition": "piece"
-  },
-  "PROFITS": {
-    "Definition": "the money that is made after the costs are taken away"
   },
   "AT THE MERCY OF": {
     "Definition": "if you are at the mercy of something, you cannot do anything to protect yourself from it"
   },
+  "BEFOREHAND": {
+    "Definition": "earlier"
+  },
+  "CHUNK": {
+    "Definition": "piece"
+  },
+  "DISTRIBUTORS": {
+    "Definition": "companies that supply products to shops"
+  },
+  "ENCOURAGING": {
+    "Definition": "trying to get others to do something"
+  },
+  "ENGRAVING": {
+    "Definition": "the skill of designing by cutting into metal"
+  },
   "FASHION STATEMENT": {
     "Definition": "a piece of clothing that is chosen to make others notice you"
-  },
-  "SWIFTLY": {
-    "Definition": "quickly"
-  },
-  "VAST": {
-    "Definition": "very big"
-  },
-  "SELF-MADE": {
-    "Definition": "rich and successful because of what you have done, not because you have been given money by your family"
-  },
-  "NET WORTH": {
-    "Definition": "the value of your assets"
-  },
-  "UNGLASSED": {
-    "Definition": "without glasses"
-  },
-  "KITTED OUT": {
-    "Definition": "provided with"
-  },
-  "MONOPOLY": {
-    "Definition": "a monopoly is when a company or organisation has total control of a market"
   },
   "FRAMES": {
     "Definition": "the part of glasses that hold the lenses"
   },
-  "BEFOREHAND": {
-    "Definition": "earlier"
+  "HYPEROPIC": {
+    "Definition": "not able to see things that are close"
+  },
+  "ISOLATED": {
+    "Definition": "not close to other places"
+  },
+  "KITTED OUT": {
+    "Definition": "provided with"
+  },
+  "LONG-SIGHTED": {
+    "Definition": "not able to see things that are close"
   },
   "MERGED": {
     "Definition": "if a company merges with another, they join and become one company"
   },
-  "SUPPLIERS": {
-    "Definition": "companies that supply products to other companies"
+  "MILDLY": {
+    "Definition": "slightly"
+  },
+  "MONOPOLY": {
+    "Definition": "a monopoly is when a company or organisation has total control of a market"
+  },
+  "MYOPIC": {
+    "Definition": "not able to see things that are far away"
+  },
+  "NET WORTH": {
+    "Definition": "the value of your assets"
+  },
+  "OPTICIAN": {
+    "Definition": "someone who examines people's eyes"
+  },
+  "OPTICIANS": {
+    "Definition": "people who examine your eyes"
+  },
+  "ORPHANAGE": {
+    "Definition": "a home for children with no parents, or whose parents cannot care for them"
+  },
+  "PRESCRIBE": {
+    "Definition": "(of a doctor or optician) to say what treatment is required"
+  },
+  "PRESCRIBED": {
+    "Definition": "(of a doctor or optician) said what treatment is required"
   },
   "PRESCRIPTION": {
     "Definition": "an optical prescription is a piece of paper that details what strength glasses or vision correction is required"
   },
-  "DISCRETIONARY PURCHASE": {
-    "Definition": "something you buy that you don't need"
+  "PROFITS": {
+    "Definition": "the money that is made after the costs are taken away"
   },
-  "UV LIGHT": {
-    "Definition": "ultraviolet light"
+  "RETAILERS": {
+    "Definition": "shops that sell products to the public"
   },
-  "SCRATCHES": {
-    "Definition": "cuts or damages"
+  "SELF-MADE": {
+    "Definition": "rich and successful because of what you have done, not because you have been given money by your family"
   },
-  "RAW DEAL": {
-    "Definition": "a bad deal"
+  "SHORT-SIGHTED": {
+    "Definition": "not able to see things that are far away"
   },
-  "PLUMMETED": {
-    "Definition": "fell quickly"
+  "SUPPLIERS": {
+    "Definition": "companies that supply products to other companies"
   },
-  "SHARE PRICE": {
-    "Definition": "the price of shares in a company"
+  "SWIFTLY": {
+    "Definition": "quickly"
   },
-  "CUT-DOWN": {
-    "Definition": "very low"
+  "TO MAKE ENDS MEET": {
+    "Definition": "to be able to earn enough money to survive"
   },
-  "ILL": {
-    "Definition": "bad"
+  "TREND": {
+    "Definition": "a general development"
   },
-  "EXPLOITING": {
-    "Definition": "using in a way that helps you, often at the expense of others"
+  "UNGLASSED": {
+    "Definition": "without glasses"
   },
-  "JACKING UP": {
-    "Definition": "increasing prices by a large amount"
+  "VAST": {
+    "Definition": "very big"
+  },
+  "VISION CORRECTION": {
+    "Definition": "glasses, contact lenses or laser eye surgery"
   }
 }

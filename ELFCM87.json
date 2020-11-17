@@ -1,24 +1,111 @@
 {
-  "PULL THE STRINGS": {
-    "Definition": "to secretly be in control"
+  "ABSURDITY": {
+    "Definition": "something that is stupid"
   },
-  "ORDAINED": {
-    "Definition": "officially given a (religious) position"
+  "ALBEIT": {
+    "Definition": "although"
   },
-  "FLOURISHING": {
-    "Definition": "growing"
+  "ALLURE": {
+    "Definition": "attractiveness, appeal"
+  },
+  "ALLURING": {
+    "Definition": "attractive, exciting"
+  },
+  "AUTHORITARIAN": {
+    "Definition": "demanding that people obey the rules (of a country, government)"
+  },
+  "CELLS": {
+    "Definition": "small units"
+  },
+  "CHAOS": {
+    "Definition": "a situation where there is no order and everything is confused"
   },
   "CIRCULATING": {
     "Definition": "moving around"
   },
-  "HERETICAL": {
-    "Definition": "a belief that is contrary to a particular religious belief"
+  "CONSPIRING": {
+    "Definition": "planning to do something in secret"
+  },
+  "CROP UP": {
+    "Definition": "appears"
+  },
+  "CULT": {
+    "Definition": "very important to a small group of people"
   },
   "DEVOURING": {
     "Definition": "reading in large quantities, literally 'eating quickly'"
   },
+  "DISBANDED": {
+    "Definition": "stopped existing as a group"
+  },
+  "EXPOSÉ": {
+    "Definition": "a story in a newspaper that reveals the truth about something or someone"
+  },
+  "FACTIONS": {
+    "Definition": "small groups within a larger group"
+  },
+  "FLED": {
+    "Definition": "escaped"
+  },
+  "FLOURISHING": {
+    "Definition": "growing"
+  },
+  "FREEWHEELING": {
+    "Definition": "liberal, not limited by rules"
+  },
+  "HERETICAL": {
+    "Definition": "a belief that is contrary to a particular religious belief"
+  },
+  "IMPOSED": {
+    "Definition": "officialy forced to accept something"
+  },
+  "INSTRUMENTAL": {
+    "Definition": "very important"
+  },
+  "MERE": {
+    "Definition": "used to emphasise that something or someone is small and unimportant"
+  },
+  "ON THE LOOKOUT": {
+    "Definition": "looking for"
+  },
+  "OPPOSING": {
+    "Definition": "against"
+  },
+  "ORDAINED": {
+    "Definition": "officially given a (religious) position"
+  },
+  "PARODY": {
+    "Definition": "a piece of art (e.g. book, film) that copies something else in a funny way"
+  },
+  "PEAK": {
+    "Definition": "the top, highest point"
+  },
+  "PROMINENT": {
+    "Definition": "well known"
+  },
+  "PULL THE STRINGS": {
+    "Definition": "to secretly be in control"
+  },
+  "RACKED UP": {
+    "Definition": "got (a large number) of"
+  },
+  "RECEPTIVE": {
+    "Definition": "willing to listen"
+  },
+  "REIGNITED": {
+    "Definition": "restarted"
+  },
   "REPUTABLE": {
     "Definition": "having a good reputation"
+  },
+  "RESURRECTION": {
+    "Definition": "when something is brought back to life"
+  },
+  "REVEAL": {
+    "Definition": "make known"
+  },
+  "REVELATIONS": {
+    "Definition": "secrets that are made known"
   },
   "SELECT": {
     "Definition": "small and special"
@@ -26,115 +113,28 @@
   "SET IN YOUR WAYS": {
     "Definition": "not willing to change"
   },
-  "RECEPTIVE": {
-    "Definition": "willing to listen"
-  },
-  "SUPERIOR": {
-    "Definition": "the person above you in an organisation"
-  },
-  "REVEAL": {
-    "Definition": "make known"
-  },
-  "TASKED": {
-    "Definition": "given the job (of doing)"
-  },
-  "CELLS": {
-    "Definition": "small units"
-  },
-  "UNIFIED": {
-    "Definition": "united"
-  },
-  "FACTIONS": {
-    "Definition": "small groups within a larger group"
-  },
-  "PROMINENT": {
-    "Definition": "well known"
-  },
-  "REVELATIONS": {
-    "Definition": "secrets that are made known"
-  },
-  "EXPOSÉ": {
-    "Definition": "a story in a newspaper that reveals the truth about something or someone"
-  },
-  "SUICIDE": {
-    "Definition": "the act of killing yourself"
-  },
-  "ABSURDITY": {
-    "Definition": "something that is stupid"
-  },
-  "CONSPIRING": {
-    "Definition": "planning to do something in secret"
-  },
-  "IMPOSED": {
-    "Definition": "officialy forced to accept something"
-  },
-  "ALLURE": {
-    "Definition": "attractiveness, appeal"
-  },
-  "FLED": {
-    "Definition": "escaped"
-  },
-  "DISBANDED": {
-    "Definition": "stopped existing as a group"
-  },
-  "PEAK": {
-    "Definition": "the top, highest point"
-  },
-  "FREEWHEELING": {
-    "Definition": "liberal, not limited by rules"
-  },
-  "INSTRUMENTAL": {
-    "Definition": "very important"
-  },
-  "ALBEIT": {
-    "Definition": "although"
-  },
-  "RESURRECTION": {
-    "Definition": "when something is brought back to life"
-  },
-  "PARODY": {
-    "Definition": "a piece of art (e.g. book, film) that copies something else in a funny way"
-  },
-  "CHAOS": {
-    "Definition": "a situation where there is no order and everything is confused"
-  },
-  "UPTIGHT": {
-    "Definition": "strict and not willing to accept new ideas"
-  },
-  "AUTHORITARIAN": {
-    "Definition": "demanding that people obey the rules (of a country, government)"
-  },
   "SOW": {
     "Definition": "to do something that will cause a future action"
-  },
-  "OPPOSING": {
-    "Definition": "against"
   },
   "SOWING": {
     "Definition": "see 'sow'"
   },
-  "CULT": {
-    "Definition": "very important to a small group of people"
+  "SUICIDE": {
+    "Definition": "the act of killing yourself"
   },
-  "ALLURING": {
-    "Definition": "attractive, exciting"
-  },
-  "MERE": {
-    "Definition": "used to emphasise that something or someone is small and unimportant"
-  },
-  "REIGNITED": {
-    "Definition": "restarted"
-  },
-  "ON THE LOOKOUT": {
-    "Definition": "looking for"
+  "SUPERIOR": {
+    "Definition": "the person above you in an organisation"
   },
   "SUPPOSED": {
     "Definition": "claimed by other people"
   },
-  "CROP UP": {
-    "Definition": "appears"
+  "TASKED": {
+    "Definition": "given the job (of doing)"
   },
-  "RACKED UP": {
-    "Definition": "got (a large number) of"
+  "UNIFIED": {
+    "Definition": "united"
+  },
+  "UPTIGHT": {
+    "Definition": "strict and not willing to accept new ideas"
   }
 }

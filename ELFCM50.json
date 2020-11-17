@@ -1,17 +1,17 @@
 {
-  "SPONSOR": {
-    "Definition": "a person or company that supports a person, organisation, or activity by giving money, encouragement, or other help"
-  },
   "BACK CATALOGUE": {
-    "Definition": "a list of the books, music, etc. that a person or company has produced, which can be made available for sale"
-  },
-  "TOPICS": {
-    "Definition": "subjects that are discussed, written about, or studied"
+    "Defintion": "a list of the books, music, etc. that a person or company has produced, which can be made available for sale"
   },
   "FOUNDING": {
-    "Definition": "original and first"
+    "Defintion": "original and first"
+  },
+  "SPONSOR": {
+    "Defintion": "a person or company that supports a person, organisation, or activity by giving money, encouragement, or other help"
   },
   "THRIVING": {
-    "Definition": "growing, developing, or being successful"
+    "Defintion": "growing, developing, or being successful"
+  },
+  "TOPICS": {
+    "Defintion": "subjects that are discussed, written about, or studied"
   }
 }

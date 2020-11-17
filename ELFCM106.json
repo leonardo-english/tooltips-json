@@ -1,126 +1,204 @@
 {
-  "IMPLICATIONS": {
-    "Definition": "possible future effects"
-  },
-  "DEFINE": {
-    "Definition": "say what the meaning of something is"
-  },
-  "CONCEPTION": {
-    "Definition": "understanding"
-  },
-  "CAUSATION": {
-    "Definition": "what causes something to happen"
-  },
-  "MILLENNIA": {
-    "Definition": "thousands of years"
-  },
-  "SUPERSTITIOUS": {
-    "Definition": "believing in superstition"
-  },
-  "IGNORANT": {
-    "Definition": "not having enough knowledge"
-  },
-  "ORIGINS": {
-    "Definition": "where something comes from"
-  },
-  "EMBEDDED": {
-    "Definition": "fixed strongly"
-  },
-  "OVER AND ABOVE": {
-    "Definition": "above and higher than anything else"
-  },
-  "DOCTRINAL": {
-    "Definition": "relating to the set of beliefs that form religion"
-  },
-  "MUNDANE": {
-    "Definition": "ordinary and not interesting"
-  },
-  "FATE": {
-    "Definition": "what happens to a particular person or thing"
-  },
-  "CODES": {
-    "Definition": "systems"
-  },
-  "SEEMINGLY": {
-    "Definition": "appearing to be"
-  },
-  "SINFUL": {
-    "Definition": "against the rules of a religion"
-  },
-  "RECONCILE": {
-    "Definition": "find a way where two situations or beliefs can exist at the same time"
-  },
-  "CATECHISM": {
-    "Definition": "a group of questions or answers about a belief"
-  },
-  "WORSHIPING": {
-    "Definition": "showing love and respect for"
-  },
-  "PERVERSE": {
-    "Definition": "strange and unreasonable"
-  },
-  "EXCESS": {
-    "Definition": "too much"
-  },
-  "THEOLOGICALLY": {
-    "Definition": "relating to religion"
+  "A PINCH": {
+    "Definition": "a small amount"
   },
   "AT ODDS": {
     "Definition": "if something is at odds with something else, they are different"
   },
-  "SCRIPTURES": {
-    "Definition": "religious texts"
+  "BETRAYED": {
+    "Definition": "be disloyal to someone"
+  },
+  "CATECHISM": {
+    "Definition": "a group of questions or answers about a belief"
+  },
+  "CAUSATION": {
+    "Definition": "what causes something to happen"
+  },
+  "CHASE": {
+    "Definition": "run after"
   },
   "CLOVER": {
     "Definition": "a small plant that normally has three round leaves"
   },
-  "INTENSITY": {
-    "Definition": "strength"
-  },
-  "ENGAGING": {
-    "Definition": "doing"
-  },
-  "SUNSHADES": {
-    "Definition": "objects similar to umbrellas, but they protect you from sun, not rain"
-  },
-  "HANDY": {
-    "Definition": "useful"
-  },
-  "WIDESPREAD": {
-    "Definition": "existing in many places"
-  },
-  "SPIKES": {
-    "Definition": "something that's long and thin with a sharp point"
-  },
-  "INJURING": {
-    "Definition": "hurting"
-  },
-  "PRESUMABLY": {
-    "Definition": "used when you think something is probably true"
+  "CODES": {
+    "Definition": "systems"
   },
   "COMMODITY": {
     "Definition": "something that can be bought or sold"
   },
-  "SPILLING": {
-    "Definition": "causing to fall on the ground"
+  "CONCEPTION": {
+    "Definition": "understanding"
   },
-  "PRECIOUS": {
-    "Definition": "expensive and rare"
+  "COUGHING": {
+    "Definition": "when you force air out of your lungs with a short sound"
   },
-  "A PINCH": {
-    "Definition": "a small amount"
+  "CRASHING": {
+    "Definition": "(of a party) going despite not being invited"
   },
-  "NULLIFYING": {
-    "Definition": "canceling out"
+  "CREDIBILITY": {
+    "Definition": "the quality of deserving to be trusted"
+  },
+  "CRUCIFIX": {
+    "Definition": "a model representing Jesus Christ"
+  },
+  "DEFINE": {
+    "Definition": "say what the meaning of something is"
+  },
+  "DETRACTS": {
+    "Definition": "make something seem less good"
   },
   "DISCIPLE": {
     "Definition": "someone who believes in the ideas of someone else"
   },
-  "SPILLED": {
-    "Definition": "caused to fall on the ground"
+  "DISPROVE": {
+    "Definition": "prove that something isn't true"
+  },
+  "DISPUTED": {
+    "Definition": "not agreed on"
+  },
+  "DOCTRINAL": {
+    "Definition": "relating to the set of beliefs that form religion"
+  },
+  "DOCTRINALLY": {
+    "Definition": "relating to a set of religious beliefs"
+  },
+  "EMBEDDED": {
+    "Definition": "fixed strongly"
+  },
+  "ENGAGING": {
+    "Definition": "doing"
+  },
+  "FATE": {
+    "Definition": "what happens to a particular person or thing"
+  },
+  "HANDY": {
+    "Definition": "useful"
+  },
+  "IGNORANT": {
+    "Definition": "not having enough knowledge"
+  },
+  "IMPLICATIONS": {
+    "Definition": "possible future effects"
+  },
+  "INJURING": {
+    "Definition": "hurting"
+  },
+  "INTENSITY": {
+    "Definition": "strength"
+  },
+  "KEEP A LOOKOUT": {
+    "Definition": "pay attention because something bad might happen"
+  },
+  "KNOCK": {
+    "Definition": "touch in order to make a noise"
+  },
+  "LINGUISTIC": {
+    "Definition": "relating to language"
+  },
+  "MARVELOUS": {
+    "Definition": "very good"
+  },
+  "MILLENNIA": {
+    "Definition": "thousands of years"
+  },
+  "MUNDANE": {
+    "Definition": "ordinary and not interesting"
+  },
+  "MYTHOLOGY": {
+    "Definition": "a set of classical myths"
+  },
+  "NULLIFYING": {
+    "Definition": "canceling out"
+  },
+  "ORIGINS": {
+    "Definition": "where something comes from"
+  },
+  "OUTSIDER": {
+    "Definition": "someone or something who isn't involved with a particular group"
+  },
+  "OVER AND ABOVE": {
+    "Definition": "above and higher than anything else"
+  },
+  "PEASANTS": {
+    "Definition": "people who own or rent small pieces of land"
+  },
+  "PERVERSE": {
+    "Definition": "strange and unreasonable"
+  },
+  "PLUNGING": {
+    "Definition": "causing (something bad) to happen"
   },
   "PORTRAYED": {
     "Definition": "represented in a painting, film, or book"
+  },
+  "PRECIOUS": {
+    "Definition": "expensive and rare"
+  },
+  "PRESUMABLY": {
+    "Definition": "used when you think something is probably true"
+  },
+  "RAGING": {
+    "Definition": "moving quickly and uncontrollably"
+  },
+  "RECONCILE": {
+    "Definition": "find a way where two situations or beliefs can exist at the same time"
+  },
+  "REPORTEDLY": {
+    "Definition": "according to some"
+  },
+  "ROLLED INTO ONE": {
+    "Definition": "multiple things combined into one"
+  },
+  "RUBBISH": {
+    "Definition": "not true, silly or wrong"
+  },
+  "SCRIPTURES": {
+    "Definition": "religious texts"
+  },
+  "SEEMINGLY": {
+    "Definition": "appearing to be"
+  },
+  "SHED SOME LIGHT": {
+    "Definition": "given some information"
+  },
+  "SINFUL": {
+    "Definition": "against the rules of a religion"
+  },
+  "SNEEZE": {
+    "Definition": "when small drops or liquid suddenly come out of your mouth"
+  },
+  "SNEEZED": {
+    "Definition": "see 'sneeze'"
+  },
+  "SNEEZES": {
+    "Definition": "when small drops or liquid suddenly come out of your mouth"
+  },
+  "SNEEZING": {
+    "Definition": "see 'sneeze'"
+  },
+  "SPIKES": {
+    "Definition": "something that's long and thin with a sharp point"
+  },
+  "SPILLED": {
+    "Definition": "caused to fall on the ground"
+  },
+  "SPILLING": {
+    "Definition": "causing to fall on the ground"
+  },
+  "SPIRIT": {
+    "Definition": "a magical creature"
+  },
+  "SPIRITS": {
+    "Definition": "magical creatures"
+  },
+  "SUNSHADES": {
+    "Definition": "objects similar to umbrellas, but they protect you from sun, not rain"
+  },
+  "SUPERSTITIOUS": {
+    "Definition": "believing in superstition"
+  },
+  "SWEAR": {
+    "Definition": "promise"
   },
   "SWEEP": {
     "Definition": "clean something by using a brush"
@@ -128,103 +206,19 @@
   "SWEEPING": {
     "Definition": "cleaning something by using a brush"
   },
-  "KNOCK": {
-    "Definition": "touch in order to make a noise"
-  },
-  "SWEAR": {
-    "Definition": "promise"
-  },
-  "CRUCIFIX": {
-    "Definition": "a model representing Jesus Christ"
+  "TAPPING": {
+    "Definition": "touching briefly"
   },
   "TEMPT FATE": {
     "Definition": "to do something that involves a lot of risk"
   },
-  "TAPPING": {
-    "Definition": "touching briefly"
+  "THEOLOGICALLY": {
+    "Definition": "relating to religion"
   },
-  "PEASANTS": {
-    "Definition": "people who own or rent small pieces of land"
+  "WIDESPREAD": {
+    "Definition": "existing in many places"
   },
-  "SPIRITS": {
-    "Definition": "magical creatures"
-  },
-  "SPIRIT": {
-    "Definition": "a magical creature"
-  },
-  "CHASE": {
-    "Definition": "run after"
-  },
-  "DISPUTED": {
-    "Definition": "not agreed on"
-  },
-  "CREDIBILITY": {
-    "Definition": "the quality of deserving to be trusted"
-  },
-  "TEND": {
-    "Definition": "likely to be"
-  },
-  "LINGUISTIC": {
-    "Definition": "relating to language"
-  },
-  "SNEEZES": {
-    "Definition": "when small drops or liquid suddenly come out of your mouth"
-  },
-  "RAGING": {
-    "Definition": "moving quickly and uncontrollably"
-  },
-  "COUGHING": {
-    "Definition": "when you force air out of your lungs with a short sound"
-  },
-  "SNEEZING": {
-    "Definition": "see 'sneeze'"
-  },
-  "SNEEZED": {
-    "Definition": "see 'sneeze'"
-  },
-  "REPORTEDLY": {
-    "Definition": "according to some"
-  },
-  "DOCTRINALLY": {
-    "Definition": "relating to a set of religious beliefs"
-  },
-  "SNEEZE": {
-    "Definition": "when small drops or liquid suddenly come out of your mouth"
-  },
-  "ROLLED INTO ONE": {
-    "Definition": "multiple things combined into one"
-  },
-  "DISPROVE": {
-    "Definition": "prove that something isn't true"
-  },
-  "OUTSIDER": {
-    "Definition": "someone or something who isn't involved with a particular group"
-  },
-  "DETRACTS": {
-    "Definition": "make something seem less good"
-  },
-  "BETRAYED": {
-    "Definition": "be disloyal to someone"
-  },
-  "MYTHOLOGY": {
-    "Definition": "a set of classical myths"
-  },
-  "CRASHING": {
-    "Definition": "(of a party) going despite not being invited"
-  },
-  "PLUNGING": {
-    "Definition": "causing (something bad) to happen"
-  },
-  "KEEP A LOOKOUT": {
-    "Definition": "pay attention because something bad might happen"
-  },
-  "MARVELOUS": {
-    "Definition": "very good"
-  },
-  "SHED SOME LIGHT": {
-    "Definition": "given some information"
-  },
-  "RUBBISH": {
-    "Definition": "not true, silly or wrong"
+  "WORSHIPING": {
+    "Definition": "showing love and respect for"
   }
 }

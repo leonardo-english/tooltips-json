@@ -1,6 +1,69 @@
 {
-  "LAUNDERING": {
-    "Definition": "(of money) the process of making illegal money seem like it is real"
+  "AIM": {
+    "Definition": "your aim is what you want to achieve"
+  },
+  "ANONYMOUS": {
+    "Definition": "unknown by name"
+  },
+  "ANONYMOUSLY": {
+    "Definition": "without anyone knowing your name"
+  },
+  "AROUSE": {
+    "Definition": "if you arouse suspicion, people become suspicious of you"
+  },
+  "ASSET": {
+    "Definition": "something valuable that you own"
+  },
+  "ASSETS": {
+    "Definition": "things that you own"
+  },
+  "ASSOCIATE": {
+    "Definition": "make a connection in your mind"
+  },
+  "BARRELS": {
+    "Definition": "large containers"
+  },
+  "BOB’S YOUR UNCLE": {
+    "Definition": "(British English) used to show that something can be done easily"
+  },
+  "BUMPER PROFIT": {
+    "Definition": "a very large profit, a large amount of money gained"
+  },
+  "CASH": {
+    "Definition": "money in the form of notes or coins"
+  },
+  "CASHIER": {
+    "Definition": "someone whose job is to take money in a shop"
+  },
+  "CHIPS": {
+    "Definition": "a small, normally plastic coin used in casinos"
+  },
+  "CLAMP DOWN": {
+    "Definition": "to take a firm action on something, e.g. a crime"
+  },
+  "CLEAN AS A WHISTLE": {
+    "Definition": "very clean"
+  },
+  "COTTON ON": {
+    "Definition": "to begin to understand something"
+  },
+  "CRACK DOWN": {
+    "Definition": "become more strict in dealing with something"
+  },
+  "CRACKING DOWN": {
+    "Definition": "to become more strict in dealing with something"
+  },
+  "CRYPTOCURRENCIES": {
+    "Definition": "a digital currency that uses encryption, e.g. Bitcoin"
+  },
+  "CRYPTOCURRENCY": {
+    "Definition": "a digital currencies that uses encryption, e.g. Bitcoin"
+  },
+  "CURRENCY": {
+    "Definition": "money used in a country"
+  },
+  "DARK WEB": {
+    "Definition": "the part of the Internet that is only accessible using special software"
   },
   "DISCLAIMER": {
     "Definition": "a formal statement where you say you are not responsible for something"
@@ -8,38 +71,95 @@
   "ENDORSES": {
     "Definition": "publicly supports"
   },
+  "EXTORTION": {
+    "Definition": "to force someone to give you something by threatening them"
+  },
   "FINES": {
     "Definition": "financial punishments"
   },
-  "UNDERWORLD": {
-    "Definition": "the criminals in a particular place"
-  },
-  "INCENTIVES": {
-    "Definition": "things that encourage you to do something"
-  },
-  "GANGSTER": {
-    "Definition": "a member of an organised criminal gang"
-  },
-  "LAUNDROMATS": {
-    "Definition": "shops where you can pay to use a washing or drying machine"
-  },
-  "LAUNDER": {
-    "Definition": "(of money) make illegal money seem legal"
-  },
-  "MEANS": {
-    "Definition": "methods"
+  "FISHY": {
+    "Definition": "if something seems fishy, it looks dishonest or bad"
   },
   "GAMBLING": {
     "Definition": "when you risk money to potentially get more, e.g. on a card game"
   },
-  "EXTORTION": {
-    "Definition": "to force someone to give you something by threatening them"
+  "GANGSTER": {
+    "Definition": "a member of an organised criminal gang"
   },
-  "CASH": {
-    "Definition": "money in the form of notes or coins"
+  "GENERATES": {
+    "Definition": "makes"
   },
-  "BUMPER PROFIT": {
-    "Definition": "a very large profit, a large amount of money gained"
+  "GOT AWAY WITH": {
+    "Definition": "to succeed in doing something without being caught"
+  },
+  "GREASE": {
+    "Definition": "a thick oily substance that helps things move smoothly"
+  },
+  "GREEDY": {
+    "Definition": "having a wish to have more of something"
+  },
+  "INCENTIVE": {
+    "Definition": "something that encourages you to do something else"
+  },
+  "INCENTIVES": {
+    "Definition": "things that encourage you to do something else"
+  },
+  "INTEGRATION": {
+    "Definition": "the process of taking money out of the financial system and transforming it into an asset"
+  },
+  "LAUNDER": {
+    "Definition": "(of money) make illegal money seem legal"
+  },
+  "LAUNDERED": {
+    "Definition": "(of money) made illegal money seem legal"
+  },
+  "LAUNDERER": {
+    "Definition": "someone who engages in money laundering"
+  },
+  "LAUNDERERS": {
+    "Definition": "people who engage in money laundering"
+  },
+  "LAUNDERING": {
+    "Definition": "(of money) the process of making illegal money seem like it is real"
+  },
+  "LAUNDROMAT": {
+    "Definition": "a shop where you can pay to use a washing or drying machine"
+  },
+  "LAUNDROMATS": {
+    "Definition": "shops where you can pay to use a washing or drying machine"
+  },
+  "LAYERING": {
+    "Definition": "the process of moving money around the financial system"
+  },
+  "LOOSE": {
+    "Definition": "not secure"
+  },
+  "MAINSTREAM": {
+    "Definition": "considered normal, or accepted by large parts of society"
+  },
+  "MEANS": {
+    "Definition": "methods"
+  },
+  "MINIMAL": {
+    "Definition": "very small"
+  },
+  "MONEY TRAIL": {
+    "Definition": "the record of where money has gone"
+  },
+  "MURKY": {
+    "Definition": "dark and dirty"
+  },
+  "NEVERTHELESS": {
+    "Definition": "despite what was said"
+  },
+  "PAYDAY": {
+    "Definition": "the day when you are paid"
+  },
+  "PERMANENT": {
+    "Definition": "lasting forever"
+  },
+  "PLACEMENT": {
+    "Definition": "the process of putting money into the financial system"
   },
   "PROFITABLE": {
     "Definition": "making more in income than paying in costs"
@@ -47,142 +167,46 @@
   "PROFITS": {
     "Definition": "money that is left in a business after costs"
   },
-  "TAX EVASION": {
-    "Definition": "avoiding paying tax"
+  "RECURRENT": {
+    "Definition": "happening repeatedly"
   },
   "SOPHISTICATED": {
     "Definition": "clever or complicated"
   },
-  "GENERATES": {
-    "Definition": "makes"
-  },
-  "AROUSE": {
-    "Definition": "if you arouse suspicion, people become suspicious of you"
-  },
-  "CURRENCY": {
-    "Definition": "money used in a country"
-  },
-  "PLACEMENT": {
-    "Definition": "the process of putting money into the financial system"
-  },
-  "LAYERING": {
-    "Definition": "the process of moving money around the financial system"
-  },
-  "INTEGRATION": {
-    "Definition": "the process of taking money out of the financial system and transforming it into an asset"
-  },
-  "BARRELS": {
-    "Definition": "large containers"
-  },
-  "CHIPS": {
-    "Definition": "a small, normally plastic coin used in casinos"
-  },
-  "BOB’S YOUR UNCLE": {
-    "Definition": "(British English) used to show that something can be done easily"
-  },
-  "CASHIER": {
-    "Definition": "someone whose job is to take money in a shop"
-  },
-  "ANONYMOUSLY": {
-    "Definition": "without anyone knowing your name"
-  },
-  "MONEY TRAIL": {
-    "Definition": "the record of where money has gone"
-  },
-  "LOOSE": {
-    "Definition": "not secure"
-  },
-  "TRACE": {
-    "Definition": "find"
-  },
-  "ASSOCIATE": {
-    "Definition": "make a connection in your mind"
-  },
-  "PAYDAY": {
-    "Definition": "the day when you are paid"
-  },
-  "ASSETS": {
-    "Definition": "things that you own"
-  },
-  "RECURRENT": {
-    "Definition": "happening repeatedly"
-  },
-  "GREEDY": {
-    "Definition": "having a wish to have more of something"
-  },
-  "GOT AWAY WITH": {
-    "Definition": "to succeed in doing something without being caught"
-  },
-  "COTTON ON": {
-    "Definition": "to begin to understand something"
-  },
-  "FISHY": {
-    "Definition": "if something seems fishy, it looks dishonest or bad"
+  "SPINS OUT": {
+    "Definition": "produces"
   },
   "SUSPECTED": {
     "Definition": "believed to be true"
   },
-  "WATCHED LIKE A HAWK": {
-    "Definition": "watched closely"
+  "TAX EVASION": {
+    "Definition": "avoiding paying tax"
   },
   "TERRORIST SYNDICATES": {
     "Definition": "terrorist groups"
   },
-  "WHITE COLLAR": {
-    "Definition": "relating to people who work in offices doing knowledge work, rather than manual work"
-  },
-  "GREASE": {
-    "Definition": "a thick oily substance that helps things move smoothly"
-  },
-  "CLAMP DOWN": {
-    "Definition": "to take a firm action on something, e.g. a crime"
-  },
-  "CRACKING DOWN": {
-    "Definition": "to become more strict in dealing with something"
+  "TRACE": {
+    "Definition": "find"
   },
   "TRAFFICKING": {
     "Definition": "moving illegal things"
   },
+  "UNDERWORLD": {
+    "Definition": "the criminals in a particular place"
+  },
   "VARYING": {
     "Definition": "different"
-  },
-  "CRYPTOCURRENCIES": {
-    "Definition": "a digital currency that uses encryption, e.g. Bitcoin"
-  },
-  "MAINSTREAM": {
-    "Definition": "considered normal, or accepted by large parts of society"
-  },
-  "WAGED": {
-    "Definition": "if a complaint is waged at you, it is made at you"
-  },
-  "DARK WEB": {
-    "Definition": "the part of the Internet that is only accessible using special software"
-  },
-  "ANONYMOUS": {
-    "Definition": "unknown by name"
-  },
-  "MINIMAL": {
-    "Definition": "very small"
-  },
-  "PERMANENT": {
-    "Definition": "lasting forever"
-  },
-  "AIM": {
-    "Definition": "your aim is what you want to achieve"
   },
   "VAST": {
     "Definition": "very large"
   },
-  "SPINS OUT": {
-    "Definition": "produces"
+  "WAGED": {
+    "Definition": "if a complaint is waged at you, it is made at you"
   },
-  "CLEAN AS A WHISTLE": {
-    "Definition": "very clean"
+  "WATCHED LIKE A HAWK": {
+    "Definition": "watched closely"
   },
-  "MURKY": {
-    "Definition": "dark and dirty"
-  },
-  "NEVERTHELESS": {
-    "Definition": "despite what was said"
+  "WHITE COLLAR": {
+    "Definition": "relating to people who work in offices doing knowledge work, rather than manual work"
   }
 }

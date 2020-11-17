@@ -1,128 +1,128 @@
 {
-  "MINDSET": {
-    "Definition": "a way of thinking"
+  "AIRTIGHT": {
+    "Definition": "completely closed so no air can come in"
   },
-  "INTERCHANGEABLY": {
-    "Definition": "things that are interchangeable can be used instead of each other"
-  },
-  "PERCEPTIONS": {
-    "Definition": "beliefs or opinions"
-  },
-  "FEASIBLE": {
-    "Definition": "able to be done, possible"
-  },
-  "SHORTAGES": {
-    "Definition": "situations where there isn't enough of something"
-  },
-  "BUNKERS": {
-    "Definition": "shelters, usually underground, to protect the people inside"
-  },
-  "KITTED OUT": {
-    "Definition": "provided with the necessary equipment"
-  },
-  "STOCKPILING": {
-    "Definition": "building a supply of goods (for future use)"
-  },
-  "CROPS": {
-    "Definition": "a plant grown for food"
-  },
-  "SELF-SUFFICIENT": {
-    "Definition": "able to provide for yourself without the help of others"
-  },
-  "TICKING OVER": {
-    "Definition": "continues working without input"
-  },
-  "WRITTEN IN STONE": {
-    "Definition": "if something is written in stone, it does not change"
-  },
-  "MONETARY": {
-    "Definition": "related to the money in a country"
+  "APOCALYPSE": {
+    "Definition": "the end of the world"
   },
   "APOCALYPTIC": {
     "Definition": "connected with the final destruction of the world"
   },
-  "RIDICULE": {
-    "Definition": "make fun of"
-  },
-  "POKED FUN": {
-    "Definition": "made fun of"
-  },
-  "DOOMSDAY": {
-    "Definition": "the end of the world"
-  },
-  "AIRTIGHT": {
-    "Definition": "completely closed so no air can come in"
-  },
-  "FORTRESSES": {
-    "Definition": "large, strong, building"
-  },
-  "MELTDOWN": {
-    "Definition": "complete collapse"
-  },
-  "SHONE A LIGHT": {
-    "Definition": "helped explain (something)"
-  },
-  "MISSILE SILO": {
-    "Definition": "a large structure under the ground from where missiles can be fired"
-  },
-  "DISRUPT": {
-    "Definition": "prevent from continuing as normal"
-  },
-  "STATUS QUO": {
-    "Definition": "the present situation"
-  },
-  "PAINT": {
-    "Definition": "describe, portray"
-  },
-  "MADWOMAN": {
-    "Definition": "a woman who is mad / crazy"
-  },
-  "OVERCOME": {
-    "Definition": "if you are overcome by a feeling, you can't continue your normal life without thinking about it"
-  },
-  "HANDY": {
-    "Definition": "useful"
-  },
-  "OUT OF THE BLUE": {
-    "Definition": "completely unexpected"
-  },
   "BUNKER": {
     "Definition": "a shelter, usually underground, to protect the people inside"
   },
-  "ELITE": {
-    "Definition": "the richest, most powerful in society"
+  "BUNKERS": {
+    "Definition": "shelters, usually underground, to protect the people inside"
   },
-  "FIRSTHAND": {
-    "Definition": "if you experience something firsthand, you experience it for yourself"
-  },
-  "REGULATING": {
-    "Definition": "controlling"
-  },
-  "DISPROPORTIONATELY": {
-    "Definition": "in a way that is too large or too small when compared to something else"
-  },
-  "FRACTURES": {
-    "Definition": "breaks"
-  },
-  "UNDERLINED": {
-    "Definition": "shown"
+  "CROPS": {
+    "Definition": "a plant grown for food"
   },
   "CRUMBLING DOWN": {
     "Definition": "falling down"
   },
+  "DISPROPORTIONATELY": {
+    "Definition": "in a way that is too large or too small when compared to something else"
+  },
+  "DISRUPT": {
+    "Definition": "prevent from continuing as normal"
+  },
+  "DOOMSDAY": {
+    "Definition": "the end of the world"
+  },
   "DUTY": {
     "Definition": "something that you have to do"
+  },
+  "ELITE": {
+    "Definition": "the richest, most powerful in society"
+  },
+  "FEASIBLE": {
+    "Definition": "able to be done, possible"
+  },
+  "FIRSTHAND": {
+    "Definition": "if you experience something firsthand, you experience it for yourself"
+  },
+  "FRACTURES": {
+    "Definition": "breaks"
+  },
+  "HANDY": {
+    "Definition": "useful"
+  },
+  "INTERCHANGEABLY": {
+    "Definition": "things that are interchangeable can be used instead of each other"
   },
   "IT’S ALL WELL AND GOOD": {
     "Definition": "used to say that something may be ok, but it has disadvantages"
   },
-  "SPARE": {
-    "Definition": "extra"
+  "KITTED OUT": {
+    "Definition": "provided with the necessary equipment"
+  },
+  "MADWOMAN": {
+    "Definition": "a woman who is mad / crazy"
+  },
+  "MELTDOWN": {
+    "Definition": "complete collapse"
+  },
+  "MINDSET": {
+    "Definition": "a way of thinking"
+  },
+  "MISSILE SILO": {
+    "Definition": "a large structure under the ground from where missiles can be fired"
+  },
+  "MONETARY": {
+    "Definition": "related to the money in a country"
+  },
+  "OUT OF THE BLUE": {
+    "Definition": "completely unexpected"
+  },
+  "OVERCOME": {
+    "Definition": "if you are overcome by a feeling, you can't continue your normal life without thinking about it"
+  },
+  "PAINT": {
+    "Definition": "describe, portray"
+  },
+  "PERCEPTIONS": {
+    "Definition": "beliefs or opinions"
+  },
+  "POKED FUN": {
+    "Definition": "made fun of"
+  },
+  "REGULATING": {
+    "Definition": "controlling"
+  },
+  "RIDICULE": {
+    "Definition": "make fun of"
+  },
+  "SELF-SUFFICIENT": {
+    "Definition": "able to provide for yourself without the help of others"
   },
   "SEWER": {
     "Definition": "a large pipe, normally underground, used to carry away waste water from buildings"
   },
-  "APOCALYPSE": {
-    "Definition": "the end of the world"
+  "SHONE A LIGHT": {
+    "Definition": "helped explain (something)"
+  },
+  "SHORTAGES": {
+    "Definition": "situations where there isn't enough of something"
+  },
+  "SPARE": {
+    "Definition": "extra"
+  },
+  "STATUS QUO": {
+    "Definition": "the present situation"
+  },
+  "STOCKPILE": {
+    "Definition": "a supply of goods for future use"
+  },
+  "STOCKPILING": {
+    "Definition": "building a supply of goods (for future use)"
+  },
+  "TICKING OVER": {
+    "Definition": "continues working without input"
+  },
+  "UNDERLINED": {
+    "Definition": "shown"
+  },
+  "WRITTEN IN STONE": {
+    "Definition": "if something is written in stone, it does not change"
   }
 }

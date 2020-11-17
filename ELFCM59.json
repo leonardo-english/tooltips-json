@@ -1,110 +1,125 @@
 {
-  "THE LIKES OF WHICH": {
-    "Definition": "a person, thing, or group similar in character or quality to the one mentioned"
-  },
-  "SHOW OFF": {
-    "Definition": "to display in a way that tries to catch attention"
-  },
-  "PAINTING A PICTURE": {
-    "Definition": "to describe or show something in a particular way"
-  },
-  "JEWELS": {
-    "Definition": "something that is very beautiful or valuable"
-  },
-  "THE CHANNEL": {
-    "Definition": "the piece of water between the UK and France"
-  },
-  "CAPITALISE": {
-    "Definition": "to get benefit from"
-  },
-  "SUFFICIENTLY": {
-    "Definition": "enough"
-  },
-  "OUTDONE": {
-    "Definition": "be superior to in action or performance"
-  },
-  "LUXURIOUS": {
-    "Definition": "very comfortable and expensive"
-  },
-  "OPULENT": {
-    "Definition": "expensive and luxurious"
-  },
-  "CONSERVATORY": {
-    "Definition": "a room with glass walls and a glass roof, usually connected to a house, used for growing plants or for relaxing in"
-  },
-  "ERA": {
-    "Definition": "a period of time of which particular events or stages of development are typical"
-  },
-  "ERECT": {
-    "Definition": "to build a building, wall, or other structure"
-  },
-  "SPECTACLE": {
-    "Definition": "an unusual or unexpected event or situation that attracts attention, interest, or disapproval"
-  },
-  "BEHOLD": {
-    "Definition": "to see or look at someone or something"
-  },
-  "BATTLING AGAINST THE CLOCK": {
-    "Definition": "to hurry to finish something"
-  },
-  "STATED": {
-    "Definition": "a condition or way of being that exists at a particular time"
-  },
-  "ATTENDEES": {
-    "Definition": "people who go to a place, event, etc."
-  },
-  "EN MASSE": {
-    "Definition": "If a group of people do something en masse, they do it together and at the same time"
-  },
-  "MARVEL": {
-    "Definition": "to show or experience great surprise or admiration"
-  },
-  "EXAGGERATED": {
-    "Definition": "seeming larger, more important, better, or worse than it really is"
-  },
-  "WIDESPREAD": {
-    "Definition": "existing or happening in many places and/or among many people"
-  },
-  "ACUTELY": {
-    "Definition": "completely or extremely"
-  },
-  "CONTRIBUTORS": {
-    "Definition": "a person who contributes something, especially money, in order to provide or achieve something together with other people"
-  },
-  "REMAINDER": {
-    "Definition": "the part of something that is left after the other parts have gone, been used, or been taken away"
-  },
-  "PRINTING PRESS": {
-    "Definition": "a machine that prints books, newspapers, or magazines"
-  },
-  "CONCEIVABLE": {
-    "Definition": "possible to imagine or to believe"
-  },
-  "FLUSHING": {
-    "Definition": "emptying and refilling with water"
-  },
-  "SHOWCASE": {
-    "Definition": "to show the best qualities or parts of something"
-  },
-  "GOT QUITE A TASTE": {
-    "Definition": "start to like or enjoy something"
-  },
-  "SWALLOWED UP": {
-    "Definition": "to become part of something else"
-  },
-  "LEGACY": {
-    "Definition": "money or property that you receive from someone after they die"
-  },
-  "SYMBOLIC": {
-    "Definition": "a sign, shape, or object that is used to represent something else"
-  },
-  "CONCRETE": {
-    "Definition": "clear and certain, or real and existing in a form that can be seen or felt"
-  },
-  "CONTRARY TO": {
-    "Definition": "the opposite"
+  "A PILE": {
+    "Defintion": "a large amount"
   },
   "A PILE OF": {
-    "Definition": "a large amount of"
+    "Defintion": "a large amount of"
+  },
+  "ACUTELY": {
+    "Defintion": "completely or extremely"
+  },
+  "ATTENDEES": {
+    "Defintion": "people who go to a place, event, etc."
+  },
+  "BATTLING AGAINST THE CLOCK": {
+    "Defintion": "to hurry to finish something"
+  },
+  "BEHOLD": {
+    "Defintion": "to see or look at someone or something"
+  },
+  "CAPITALISE": {
+    "Defintion": "to get benefit from"
+  },
+  "CONCEIVABLE": {
+    "Defintion": "possible to imagine or to believe"
+  },
+  "CONCRETE": {
+    "Defintion": "clear and certain, or real and existing in a form that can be seen or felt"
+  },
+  "CONSERVATORY": {
+    "Defintion": "a room with glass walls and a glass roof, usually connected to a house, used for growing plants or for relaxing in"
+  },
+  "CONTRARY TO": {
+    "Defintion": "the opposite"
+  },
+  "CONTRIBUTORS": {
+    "Defintion": "a person who contributes something, especially money, in order to provide or achieve something together with other people"
+  },
+  "EN MASSE": {
+    "Defintion": "If a group of people do something en masse, they do it together and at the same time"
+  },
+  "ERA": {
+    "Defintion": "a period of time of which particular events or stages of development are typical"
+  },
+  "ERECT": {
+    "Defintion": "to build a building, wall, or other structure"
+  },
+  "EXAGGERATED": {
+    "Defintion": "seeming larger, more important, better, or worse than it really is"
+  },
+  "FLUSHING": {
+    "Defintion": "emptying and refilling with water"
+  },
+  "GOT QUITE A TASTE": {
+    "Defintion": "start to like or enjoy something"
+  },
+  "JEWELS": {
+    "Defintion": "something that is very beautiful or valuable"
+  },
+  "LEGACIES": {
+    "Defintion": "something that is left after someone or something is gone"
+  },
+  "LEGACY": {
+    "Defintion": "money or property that you receive from someone after they die"
+  },
+  "LUXURIOUS": {
+    "Defintion": "very comfortable and expensive"
+  },
+  "MARVEL": {
+    "Defintion": "to show or experience great surprise or admiration"
+  },
+  "OPULENT": {
+    "Defintion": "expensive and luxurious"
+  },
+  "OUTDONE": {
+    "Defintion": "be superior to in action or performance"
+  },
+  "PAINTING A PICTURE": {
+    "Defintion": "to describe or show something in a particular way"
+  },
+  "PRINTING PRESS": {
+    "Defintion": "a machine that prints books, newspapers, or magazines"
+  },
+  "REMAINDER": {
+    "Defintion": "the part of something that is left after the other parts have gone, been used, or been taken away"
+  },
+  "SHOW ITSELF OFF": {
+    "Defintion": "to display in a way that tries to catch attention"
+  },
+  "SHOW OFF": {
+    "Defintion": "to display in a way that tries to catch attention"
+  },
+  "SHOW THEMSELVES OFF": {
+    "Defintion": "to display in a way that tries to catch attention"
+  },
+  "SHOWCASE": {
+    "Defintion": "to show the best qualities or parts of something"
+  },
+  "SHOWING ITSELF OFF": {
+    "Defintion": "to display in a way that tries to catch attention"
+  },
+  "SPECTACLE": {
+    "Defintion": "an unusual or unexpected event or situation that attracts attention, interest, or disapproval"
+  },
+  "STATED": {
+    "Defintion": "a condition or way of being that exists at a particular time"
+  },
+  "SUFFICIENTLY": {
+    "Defintion": "enough"
+  },
+  "SWALLOWED UP": {
+    "Defintion": "to become part of something else"
+  },
+  "SYMBOLIC": {
+    "Defintion": "a sign, shape, or object that is used to represent something else"
+  },
+  "THE CHANNEL": {
+    "Defintion": "the piece of water between the UK and France"
+  },
+  "THE LIKES OF WHICH": {
+    "Defintion": "a person, thing, or group similar in character or quality to the one mentioned"
+  },
+  "WIDESPREAD": {
+    "Defintion": "existing or happening in many places and/or among many people"
   }
 }

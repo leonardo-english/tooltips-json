@@ -1,113 +1,182 @@
 {
+  "AFFILIATED": {
+    "Defintion": "connected with or controlled by a group or organisation"
+  },
+  "ANIMATES": {
+    "Defintion": "moves"
+  },
+  "ANNEXED": {
+    "Defintion": "to take possession of an area of land or a country, usually by force or without permission"
+  },
+  "ARMISTICE": {
+    "Defintion": "a formal agreement between two countries or groups at war to stop fighting for a particular time, especially to talk about possible peace"
+  },
+  "BACKING": {
+    "Defintion": "support, especially money, that someone gives to a person or plan"
+  },
+  "BARGAINING": {
+    "Defintion": "discussions between people in order to reach agreement on something such as prices, wages, working conditions, etc."
+  },
+  "BRUTAL": {
+    "Defintion": "cruel, violent, and completely without feelings"
+  },
+  "BUFFER": {
+    "Defintion": "something or someone that helps protect from harm"
+  },
+  "COLONY": {
+    "Defintion": "a country or area controlled politically by a more powerful country that is often far away"
+  },
+  "CONCESSIONS": {
+    "Defintion": "something that is allowed or given up, often in order to end a disagreement, or the act of allowing or giving this‍"
+  },
+  "CONSTRUCT": {
+    "Defintion": "an idea or an imaginary situation"
+  },
+  "COUNTERPART": {
+    "Defintion": "a person or thing that has the same purpose as another one in a different place or organization"
+  },
+  "COZY UP": {
+    "Defintion": "to try to become more friendly with"
+  },
+  "CREDENTIALS": {
+    "Defintion": "documents that state the abilities and experience of a person and show that the person is qualified for a particular job or activity"
+  },
+  "CURTAILED": {
+    "Defintion": "to stop something before it is finished, or to reduce or limit something"
+  },
+  "DETERRENT": {
+    "Defintion": "to prevent someone from doing something or to make someone less enthusiastic about doing something by making it difficult for that person to do it or by threatening bad results if they do it"
+  },
+  "DICTATOR": {
+    "Defintion": "a leader who has complete power in a country and has not been elected by the people"
+  },
+  "DIPLOMATIC": {
+    "Defintion": "involving the management of relationships between countries"
+  },
+  "DISMAL": {
+    "Defintion": "sad and without hope"
+  },
+  "DISSOLUTION": {
+    "Defintion": "the act or process of ending an official organisation or legal agreement"
+  },
+  "ENLIGHTENING": {
+    "Defintion": "giving you more information and understanding of something"
+  },
+  "ENRICHING": {
+    "Defintion": "to increase the level of a particular isotope (= one form of an atom) in an element in order to make it more powerful or make it explode more powerfully"
+  },
+  "ERRATIC": {
+    "Defintion": "moving or behaving in a way that is not regular, certain, or expected"
+  },
+  "FEATS": {
+    "Defintion": "difficult things needing a lot of skill, strength, courage, etc. to achieve"
+  },
+  "FEATURE": {
+    "Defintion": "something that makes a product, machine, or system different, and usually better, than others of a similar type"
+  },
+  "GESTURES": {
+    "Defintion": "an action that expresses your feelings or intentions, although it might have little practical effect"
+  },
+  "GUERILLA": {
+    "Defintion": "a member of an unofficial military group that is trying to change the government by making sudden, unexpected attacks on the official army forces"
+  },
+  "HERMIT": {
+    "Defintion": "a person who lives alone and apart from the rest of society , especially for religious reasons"
+  },
+  "HOLES IN ONE": {
+    "Defintion": "in golf, an occasion when someone's ball goes into the hole the first time they hit it"
+  },
   "ISOLATED": {
-    "Definition": "having minimal contact or little in common with others"
+    "Defintion": "having minimal contact or little in common with others"
   },
-  "‍FEATURE": {
-    "Definition": "something that makes a product, machine, or system different, and usually better, than others of a similar type"
+  "JURISDICTION": {
+    "Defintion": "a country, state, or other area where a particular set of laws or rules must be obeyed"
   },
-  "‍ANIMATES": {
-    "Definition": "moves"
+  "LEGITIMACY": {
+    "Defintion": "the quality of being legal"
   },
-  "‍NEAT": {
-    "Definition": "cool"
+  "LIGHTHEARTED": {
+    "Defintion": "amusing"
   },
-  "‍SLAP BANG IN THE MIDDLE": {
-    "Definition": "exactly in the middle"
+  "LONGEVITY": {
+    "Defintion": "living for a long time"
   },
-  "‍POWERHOUSE": {
-    "Definition": "a country, organization, or person with a lot of influence, power, or energy"
+  "MISSILES": {
+    "Defintion": "a flying weapon that has its own engine so that it can travel a long distance before exploding at the place that it has been aimed at"
   },
-  "‍PARIAH": {
-    "Definition": "a person who is not accepted by a social group, especially because he or she is not liked, respected, or trusted"
+  "NEAT": {
+    "Defintion": "cool"
   },
-  "‍HERMIT": {
-    "Definition": "a person who lives alone and apart from the rest of society , especially for religious reasons"
+  "OFFENSIVE": {
+    "Defintion": "used for attacking"
   },
-  "‍DICTATOR": {
-    "Definition": "a leader who has complete power in a country and has not been elected by the people"
+  "OFFENSIVELY": {
+    "Defintion": "in a way that relates to attacking someone or something"
   },
-  "‍RECAPPING": {
-    "Definition": "repeating the main points of an explanation or description"
+  "PARIAH": {
+    "Defintion": "a person who is not accepted by a social group, especially because he or she is not liked, respected, or trusted"
   },
-  "‍PENINSULA": {
-    "Definition": "a long piece of land that sticks out from a larger area of land into the sea or into a lake"
+  "PENINSULA": {
+    "Defintion": "a long piece of land that sticks out from a larger area of land into the sea or into a lake"
   },
-  "‍ANNEXED": {
-    "Definition": "to take possession of an area of land or a country, usually by force or without permission"
+  "PERISHED": {
+    "Defintion": "died"
   },
-  "‍COLONY": {
-    "Definition": "a country or area controlled politically by a more powerful country that is often far away"
+  "PHENOMENALLY": {
+    "Defintion": "extremely"
   },
-  "‍GUERILLA": {
-    "Definition": "a member of an unofficial military group that is trying to change the government by making sudden, unexpected attacks on the official army forces"
+  "POLAR": {
+    "Defintion": "complete"
   },
-  "‍CONSTRUCT": {
-    "Definition": "an idea or an imaginary situation"
+  "PORTRAYED": {
+    "Defintion": "shown to be"
   },
-  "‍JURISDICTION": {
-    "Definition": "a country, state, or other area where a particular set of laws or rules must be obeyed"
+  "POWERHOUSES": {
+    "Defintion": "a country, organisation, or person with a lot of influence, power, or energy"
   },
-  "‍BACKING": {
-    "Definition": "support, especially money, that someone gives to a person or plan"
+  "PRECARIOUS": {
+    "Defintion": "in a dangerous state because of not being safe or not being held in place firmly"
   },
-  "‍STRONGHOLD": {
-    "Definition": "a building or position that is strongly defended"
+  "PRESTIGE": {
+    "Defintion": "respect and admiration given to someone or something, usually because of a reputation for high quality, success, or social influence"
   },
-  "‍ARMISTICE": {
-    "Definition": "a formal agreement between two countries or groups at war to stop fighting for a particular time, especially to talk about possible peace"
+  "RECAPPING": {
+    "Defintion": "repeating the main points of an explanation or description"
   },
-  "‍THRIVING": {
-    "Definition": "growing, developing, or being successful"
+  "REPRISALS": {
+    "Defintion": "(an example of) activity against another person, especially as a punishment by military forces or a political group"
   },
-  "‍POLAR": {
-    "Definition": "complete"
+  "RUTHLESS": {
+    "Defintion": "not thinking or worrying about any pain caused to others; cruel"
   },
-  "‍UNWIND": {
-    "Definition": "if you unwind something that is wrapped around an object, you unfasten it, and if it unwinds, it becomes unfastened"
+  "SANK": {
+    "Defintion": "hit a ball into a hole or pocket, especially in golf or snooker"
   },
-  "‍DISSOLUTION": {
-    "Definition": "the act or process of ending an official organisation or legal agreement"
+  "SENTENCED": {
+    "Defintion": "given an official punishment"
   },
-  "‍TOPPLED": {
-    "Definition": "forced out of power"
+  "SLAP BANG IN THE MIDDLE": {
+    "Defintion": "exactly in the middle"
   },
-  "‍PRECARIOUS": {
-    "Definition": "in a dangerous state because of not being safe or not being held in place firmly"
+  "STRONGHOLD": {
+    "Defintion": "a building or position that is strongly defended"
   },
-  "‍COZY UP": {
-    "Definition": "to try to become more friendly with"
+  "SURREAL": {
+    "Defintion": "strange; not seeming real; like a dream"
   },
-  "‍BUFFER": {
-    "Definition": "something or someone that helps protect from harm"
+  "THRIVING": {
+    "Defintion": "growing, developing, or being successful"
   },
-  "‍AFFILIATED": {
-    "Definition": "connected with or controlled by a group or organisation"
+  "TOPPLED": {
+    "Defintion": "forced out of power"
   },
-  "‍PERISHED": {
-    "Definition": "died"
+  "TRIVIA": {
+    "Defintion": "details or information that are not important"
   },
-  "‍ENRICHING": {
-    "Definition": "to increase the level of a particular isotope (= one form of an atom) in an element in order to make it more powerful or make it explode more powerfully"
+  "UNWIND": {
+    "Defintion": "if you unwind something that is wrapped around an object, you unfasten it, and if it unwinds, it becomes unfastened"
   },
-  "‍URANIUM": {
-    "Definition": "a chemical element that is a heavy, radioactive metal, used in the production of nuclear power and in some types of nuclear weapon"
-  },
-  "‍VOLATILE": {
-    "Definition": "likely to change suddenly and unexpectedly, especially by getting worse"
-  },
-  "‍RUTHLESS": {
-    "Definition": "not thinking or worrying about any pain caused to others; cruel"
-  },
-  "‍ERRATIC": {
-    "Definition": "moving or behaving in a way that is not regular, certain, or expected"
-  },
-  "‍COUNTERPART": {
-    "Definition": "a person or thing that has the same purpose as another one in a different place or organization"
-  },
-  "‍OFFENSIVELY": {
-    "Definition": "in a way that relates to attacking someone or something"
-  },
-  "‍REPRISAL": {
-    "Definition": "(an example of) activity against another person, especially as a punishment by military forces or a political group"
+  "VOLATILE": {
+    "Defintion": "likely to change suddenly and unexpectedly, especially by getting worse"
   }
 }

@@ -1,158 +1,167 @@
 {
-  "PATERNAL": {
-    "Definition": "on the father's side"
-  },
-  "ORPHAN": {
-    "Definition": "a child with no parents"
-  },
-  "APPRENTICE": {
-    "Definition": "someone who has agreed to work for a skilled person for a period of time"
-  },
-  "CHIC": {
-    "Definition": "stylish"
-  },
-  "SIN": {
-    "Definition": "law-breaking, often against religious laws"
-  },
-  "SWIFTLY": {
-    "Definition": "quickly"
-  },
-  "FLEE": {
-    "Definition": "escape by running away"
-  },
-  "ODD-JOBS": {
-    "Definition": "small jobs"
-  },
-  "BIG BREAK": {
-    "Definition": "an event that gives you the chance to become successful in your job"
-  },
-  "SPONSORED": {
-    "Definition": "supported with payments"
-  },
-  "COMMISSIONING": {
-    "Definition": "formally choosing someone to do something"
-  },
-  "TURBULENT": {
-    "Definition": "full of changes and violence"
-  },
-  "IDEALISED": {
-    "Definition": "represented as perfect"
-  },
-  "FIGURES": {
-    "Definition": "characters"
-  },
-  "BEGGARS": {
-    "Definition": "poor people who ask others for money or food"
-  },
-  "CUPID": {
-    "Definition": "in Roman mythology, Cupid was the son of Venus, the Goddess of Love"
-  },
-  "APPALLED": {
-    "Definition": "shocked and upset"
-  },
-  "DEPICT": {
-    "Definition": "represent"
-  },
-  "BLASPHEMOUS": {
-    "Definition": "offensive to God or religion"
-  },
-  "METICULOUS": {
-    "Definition": "very careful"
-  },
-  "LENGTHY": {
-    "Definition": "very long"
-  },
-  "ENGAGE": {
-    "Definition": "participate (in)"
-  },
-  "DUELS": {
-    "Definition": "a formal, arranged fight"
-  },
-  "PISTOL": {
-    "Definition": "a small gun"
-  },
-  "SATIRICAL": {
-    "Definition": "criticising of others in a funny, clever, way"
-  },
-  "ARRAY": {
-    "Definition": "large group"
-  },
-  "IN DEMAND": {
-    "Definition": "requested by many"
-  },
   "ACCOUNTS DIFFER": {
     "Definition": "there are different versions (of a story)"
-  },
-  "CASTRATE": {
-    "Definition": "to remove the testicles of a male"
-  },
-  "EXILED": {
-    "Definition": "forced to leave a city or country"
-  },
-  "PARDON": {
-    "Definition": "officially forgiven (for something)"
   },
   "ADMITTED": {
     "Definition": "given entry (to)"
   },
-  "SIGNATURE": {
-    "Definition": "typical of someone"
+  "APPALLED": {
+    "Definition": "shocked and upset"
+  },
+  "APPRENTICE": {
+    "Definition": "someone who has agreed to work for a skilled person for a period of time"
+  },
+  "ARRAY": {
+    "Definition": "large group"
+  },
+  "BEGGARS": {
+    "Definition": "poor people who ask others for money or food"
   },
   "BEHEADING": {
     "Definition": "cutting the head off"
   },
-  "OBSESSED": {
-    "Definition": "unable to stop thinking about something"
+  "BIG BREAK": {
+    "Definition": "an event that gives you the chance to become successful in your job"
   },
-  "SEVERED": {
-    "Definition": "cut off"
-  },
-  "GAME OVER": {
-    "Definition": "finished, ended"
-  },
-  "FLED": {
-    "Definition": "past participle of 'flee'"
-  },
-  "FLOATED AROUND": {
-    "Definition": "to move around without purpose"
-  },
-  "ERRATIC": {
-    "Definition": "in an irregular, unpredictable way"
-  },
-  "VICIOUSLY": {
-    "Definition": "in a cruel way"
-  },
-  "TAVERN": {
-    "Definition": "a bar or pub"
-  },
-  "SLASHED": {
-    "Definition": "cut with a sharp blade"
-  },
-  "RETRIBUTION": {
-    "Definition": "revenge for something"
-  },
-  "DECAPITATED": {
-    "Definition": "cut off"
+  "BLASPHEMOUS": {
+    "Definition": "offensive to God or religion"
   },
   "CARDINAL": {
     "Definition": "a high-rank priest of the Catholic church"
   },
-  "SUCCUMBED": {
-    "Definition": "if you succumb to an illness, you die of it"
+  "CASTRATE": {
+    "Definition": "to remove the testicles of a male"
   },
-  "IGNOMINIOUS": {
-    "Definition": "embarrassing or humiliating"
+  "CHIC": {
+    "Definition": "stylish"
+  },
+  "COMMISSIONED": {
+    "Definition": "formally choose someone to do something"
+  },
+  "COMMISSIONING": {
+    "Definition": "formally choosing someone to do something"
+  },
+  "COMMISSIONS": {
+    "Definition": "requests for an artist, designer, or musician to make a piece of art or music, for which they are paid"
   },
   "CREDITED": {
     "Definition": "given credit for"
   },
-  "MORALITY": {
-    "Definition": "personal or social standards for behaviour"
+  "CUPID": {
+    "Definition": "in Roman mythology, Cupid was the son of Venus, the Goddess of Love"
+  },
+  "DECAPITATED": {
+    "Definition": "cut off"
+  },
+  "DEPICT": {
+    "Definition": "represent"
+  },
+  "DEPICTED": {
+    "Definition": "represented"
+  },
+  "DUELS": {
+    "Definition": "a formal, arranged fight"
+  },
+  "ENGAGE": {
+    "Definition": "participate (in)"
+  },
+  "ERRATIC": {
+    "Definition": "in an irregular, unpredictable way"
+  },
+  "EXILED": {
+    "Definition": "forced to leave a city or country"
+  },
+  "FIGURES": {
+    "Definition": "characters"
+  },
+  "FLED": {
+    "Definition": "past participle of 'flee'"
+  },
+  "FLEE": {
+    "Definition": "escape by running away"
+  },
+  "FLOATED AROUND": {
+    "Definition": "to move around without purpose"
+  },
+  "GAME OVER": {
+    "Definition": "finished, ended"
+  },
+  "IDEALISED": {
+    "Definition": "represented as perfect"
+  },
+  "IGNOMINIOUS": {
+    "Definition": "embarrassing or humiliating"
+  },
+  "IN DEMAND": {
+    "Definition": "requested by many"
+  },
+  "IN THE FLESH": {
+    "Definition": "in real life"
   },
   "IN THE SLIGHTEST": {
     "Definition": "at all"
   },
-  "IN THE FLESH": {
-    "Definition": "in real life"
+  "LENGTHY": {
+    "Definition": "very long"
+  },
+  "METICULOUS": {
+    "Definition": "very careful"
+  },
+  "MORALITY": {
+    "Definition": "personal or social standards for behaviour"
+  },
+  "OBSESSED": {
+    "Definition": "unable to stop thinking about something"
+  },
+  "ODD-JOBS": {
+    "Definition": "small jobs"
+  },
+  "ORPHAN": {
+    "Definition": "a child with no parents"
+  },
+  "PARDON": {
+    "Definition": "officially forgiven (for something)"
+  },
+  "PATERNAL": {
+    "Definition": "on the father's side"
+  },
+  "PISTOL": {
+    "Definition": "a small gun"
+  },
+  "RETRIBUTION": {
+    "Definition": "revenge for something"
+  },
+  "SATIRICAL": {
+    "Definition": "criticising of others in a funny, clever, way"
+  },
+  "SEVERED": {
+    "Definition": "cut off"
+  },
+  "SIGNATURE": {
+    "Definition": "typical of someone"
+  },
+  "SIN": {
+    "Definition": "law-breaking, often against religious laws"
+  },
+  "SLASHED": {
+    "Definition": "cut with a sharp blade"
+  },
+  "SPONSORED": {
+    "Definition": "supported with payments"
+  },
+  "SUCCUMBED": {
+    "Definition": "if you succumb to an illness, you die of it"
+  },
+  "SWIFTLY": {
+    "Definition": "quickly"
+  },
+  "TAVERN": {
+    "Definition": "a bar or pub"
+  },
+  "TURBULENT": {
+    "Definition": "full of changes and violence"
+  },
+  "VICIOUSLY": {
+    "Definition": "in a cruel way"
   }
 }

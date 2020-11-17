@@ -1,51 +1,108 @@
 {
+  "AGENDA": {
+    "Definition": "the things that a party or group wants to achieve"
+  },
+  "AKA": {
+    "Definition": "Also Known As"
+  },
+  "ALLEGED": {
+    "Definition": "see allegedly"
+  },
+  "ALLEGEDLY": {
+    "Definition": "according to some people"
+  },
+  "ASSASSINATE": {
+    "Definition": "to kill"
+  },
   "ASSASSINATION": {
     "Definition": "the murder (often of someone famous)"
   },
-  "LIVE TO TELL THE TALE": {
-    "Definition": "to survive (a dangerous experience)"
+  "ASSET": {
+    "Definition": "a valuable person"
   },
-  "DESTITUTE": {
-    "Definition": "without any possessions"
+  "AUTONOMY": {
+    "Definition": "the right to rule itself"
   },
-  "IMPOVERISHED": {
-    "Definition": "very poor"
+  "AXIS": {
+    "Definition": "the countries (Germany, Japan, Italy & others) who fought against the Allies in World War Two"
   },
-  "DEBATED": {
-    "Definition": "contested"
+  "BANNED": {
+    "Definition": "not allowed"
   },
-  "SKIP": {
-    "Definition": "move over"
+  "BARGAINING": {
+    "Definition": "discussing in order to reach an agreement"
   },
-  "WANDERED AROUND": {
-    "Definition": "moved around without purpose"
+  "BARGAINING POWER": {
+    "Definition": "the ability of a person or organisation to get what they want"
   },
-  "ODD-JOBS": {
-    "Definition": "small jobs"
+  "BARREN": {
+    "Definition": "without plants or trees"
+  },
+  "BLOSSOMED": {
+    "Definition": "become more beautiful"
+  },
+  "CHAOS": {
+    "Definition": "total confusion"
+  },
+  "COLLABORATED": {
+    "Definition": "worked together with another group or person"
+  },
+  "COLLAPSE": {
+    "Definition": "the sudden fall"
+  },
+  "COMRADES": {
+    "Definition": "friends"
+  },
+  "CONCENTRATED": {
+    "Definition": "mainly held (by)"
   },
   "CONSCRIPTION": {
     "Definition": "when people are made to join the armed forces"
   },
-  "DISTINGUISHED HIMSELF": {
-    "Definition": "to stand out"
+  "CONSTITUTION": {
+    "Definition": "the set of political principles by which a country is governed"
   },
-  "LANCER": {
-    "Definition": "a soldier carrying a long, sharp stick"
+  "CONTEMPORARIES": {
+    "Definition": "people in the same position as you"
   },
-  "POLE": {
-    "Definition": "a long stick"
+  "COURTED": {
+    "Definition": "sought alliances with"
   },
-  "INCIDENT": {
-    "Definition": "an event"
+  "COURTING": {
+    "Definition": "trying to form an alliance with"
+  },
+  "CRACKING DOWN ON": {
+    "Definition": "becoming more strict (about)"
+  },
+  "CRUMBLED": {
+    "Definition": "fell"
+  },
+  "CULT OF PERSONALITY": {
+    "Definition": "when people are encouraged to admire a famous person, often politician"
+  },
+  "DEBATED": {
+    "Definition": "contested"
   },
   "DEFINING": {
     "Definition": "very important"
   },
-  "SYMPATHETIC": {
-    "Definition": "(of a cause) understanding"
+  "DESTITUTE": {
+    "Definition": "without any possessions"
   },
-  "CONCENTRATED": {
-    "Definition": "mainly held (by)"
+  "DIGNITARIES": {
+    "Definition": "important people"
+  },
+  "DISTINGUISHED HIMSELF": {
+    "Definition": "to stand out"
+  },
+  "ENFORCING": {
+    "Definition": "making people obey (a law)"
+  },
+  "EVALUATE": {
+    "Definition": "consider"
+  },
+  "EVIDENTLY": {
+    "Definition": "clearly and easy to see"
   },
   "FACTIONS": {
     "Definition": "groups within a larger group"
@@ -53,208 +110,151 @@
   "FAVOURED": {
     "Definition": "preferred"
   },
-  "AUTONOMY": {
-    "Definition": "the right to rule itself"
-  },
-  "AGENDA": {
-    "Definition": "the things that a party or group wants to achieve"
-  },
-  "BANNED": {
-    "Definition": "not allowed"
-  },
-  "OUTLAWED": {
-    "Definition": "not allowed"
-  },
-  "COMRADES": {
-    "Definition": "friends"
-  },
-  "ALLEGEDLY": {
-    "Definition": "according to some people"
-  },
-  "ROSE THROUGH THE RANKS": {
-    "Definition": "got promoted"
-  },
-  "ASSET": {
-    "Definition": "a valuable person"
-  },
-  "PREDECESSOR": {
-    "Definition": "the person who held a position before someone else"
-  },
-  "PURGED": {
-    "Definition": "to get rid of a person from an organisation"
-  },
-  "ALLEGED": {
-    "Definition": "see allegedly"
-  },
-  "AXIS": {
-    "Definition": "the countries (Germany, Japan, Italy & others) who fought against the Allies in World War Two"
-  },
-  "CRUMBLED": {
-    "Definition": "fell"
-  },
-  "PARTISAN": {
-    "Definition": "the groups that fight against an occupying military force"
-  },
-  "CHAOS": {
-    "Definition": "total confusion"
-  },
-  "FURTHER": {
-    "Definition": "develop, advance"
-  },
-  "COLLABORATED": {
-    "Definition": "worked together with another group or person"
-  },
-  "THRONE": {
-    "Definition": "the chair used by a king or queen"
-  },
-  "SUPERIOR": {
-    "Definition": "better"
-  },
-  "TROOPS": {
-    "Definition": "soldiers"
-  },
-  "BARGAINING": {
-    "Definition": "discussing in order to reach an agreement"
-  },
-  "OVERWHELMING": {
-    "Definition": "very large"
-  },
-  "OUSTED": {
-    "Definition": "forced to leave"
-  },
-  "WARY": {
-    "Definition": "cautious (about someone)"
-  },
-  "EVIDENTLY": {
-    "Definition": "clearly and easy to see"
-  },
-  "MOTHERSHIP": {
-    "Definition": "the larger ship from which smaller ships are launched"
-  },
-  "SATELLITE COUNTRIES": {
-    "Definition": "countries that are dependent on another, larger one"
-  },
-  "SUBSERVIENT": {
-    "Definition": "willing to do what someone else says"
-  },
-  "COURTING": {
-    "Definition": "trying to form an alliance with"
-  },
-  "GET ON THE WRONG SIDE OF": {
-    "Definition": "to cause someone to be angry (with you)"
-  },
   "FELLOW": {
     "Definition": "someone who is in the same situation"
-  },
-  "TURN ON": {
-    "Definition": "suddenly attack (someone)"
-  },
-  "ISOLATING": {
-    "Definition": "separating, cutting off"
-  },
-  "OBEDIENT": {
-    "Definition": "willing to do what someone else wants"
-  },
-  "WALKED THE LINE": {
-    "Definition": "managed to balance two different sides"
-  },
-  "SIDELINED": {
-    "Definition": "pushed to the side"
-  },
-  "LIFELINE": {
-    "Definition": "a way of getting help"
-  },
-  "BARGAINING POWER": {
-    "Definition": "the ability of a person or organisation to get what they want"
-  },
-  "ASSASSINATE": {
-    "Definition": "to kill"
-  },
-  "MADE GOOD": {
-    "Definition": "complete"
-  },
-  "IMPLAUSIBLE": {
-    "Definition": "not believable"
-  },
-  "RELIEF": {
-    "Definition": "a feeling of comfort when something you don't like is not there any more"
-  },
-  "RECONCILIATION": {
-    "Definition": "when two parties become friends again"
-  },
-  "BLOSSOMED": {
-    "Definition": "become more beautiful"
-  },
-  "LEANING": {
-    "Definition": "moving"
-  },
-  "CONSTITUTION": {
-    "Definition": "the set of political principles by which a country is governed"
-  },
-  "PERSECUTION": {
-    "Definition": "to treat a people unfairly over a long period of time"
-  },
-  "CONTEMPORARIES": {
-    "Definition": "people in the same position as you"
-  },
-  "CULT OF PERSONALITY": {
-    "Definition": "when people are encouraged to admire a famous person, often politician"
-  },
-  "RUTHLESS": {
-    "Definition": "not worrying about the impact on others"
-  },
-  "BARREN": {
-    "Definition": "without plants or trees"
-  },
-  "PICTURE": {
-    "Definition": "think about"
-  },
-  "VEGETATION": {
-    "Definition": "plants"
-  },
-  "COURTED": {
-    "Definition": "sought alliances with"
-  },
-  "DIGNITARIES": {
-    "Definition": "important people"
-  },
-  "EVALUATE": {
-    "Definition": "consider"
-  },
-  "PLUNGED": {
-    "Definition": "to quickly fall (into a situation)"
-  },
-  "RECAP": {
-    "Definition": "to repeat"
   },
   "FRAGMENTED": {
     "Definition": "formed of lots of different parts"
   },
-  "PICKING UP THE MANTLE": {
-    "Definition": "to continue a job that someone else was doing"
+  "FURTHER": {
+    "Definition": "develop, advance"
   },
-  "SQUANDERED": {
-    "Definition": "wasted"
+  "GET ON THE WRONG SIDE OF": {
+    "Definition": "to cause someone to be angry (with you)"
   },
-  "CRACKING DOWN ON": {
-    "Definition": "becoming more strict (about)"
+  "IMPLAUSIBLE": {
+    "Definition": "not believable"
   },
-  "DISSENT": {
-    "Definition": "differences of opinion"
+  "IMPOVERISHED": {
+    "Definition": "very poor"
   },
-  "ENFORCING": {
-    "Definition": "making people obey (a law)"
+  "INCIDENT": {
+    "Definition": "an event"
   },
-  "COLLAPSE": {
-    "Definition": "the sudden fall"
+  "ISOLATING": {
+    "Definition": "separating, cutting off"
+  },
+  "LANCER": {
+    "Definition": "a soldier carrying a long, sharp stick"
+  },
+  "LEANING": {
+    "Definition": "moving"
+  },
+  "LIFELINE": {
+    "Definition": "a way of getting help"
+  },
+  "LIVE TO TELL THE TALE": {
+    "Definition": "to survive (a dangerous experience)"
+  },
+  "MADE GOOD": {
+    "Definition": "complete"
   },
   "MAUSOLEUM": {
     "Definition": "the building where someone important is buried"
   },
+  "MOTHERSHIP": {
+    "Definition": "the larger ship from which smaller ships are launched"
+  },
+  "OBEDIENT": {
+    "Definition": "willing to do what someone else wants"
+  },
+  "ODD-JOBS": {
+    "Definition": "small jobs"
+  },
+  "OUSTED": {
+    "Definition": "forced to leave"
+  },
+  "OUTLAWED": {
+    "Definition": "not allowed"
+  },
+  "OVERWHELMING": {
+    "Definition": "very large"
+  },
+  "PARTISAN": {
+    "Definition": "the groups that fight against an occupying military force"
+  },
+  "PERSECUTION": {
+    "Definition": "to treat a people unfairly over a long period of time"
+  },
+  "PICKING UP THE MANTLE": {
+    "Definition": "to continue a job that someone else was doing"
+  },
+  "PICTURE": {
+    "Definition": "think about"
+  },
+  "PLUNGED": {
+    "Definition": "to quickly fall (into a situation)"
+  },
+  "POLE": {
+    "Definition": "a long stick"
+  },
+  "PREDECESSOR": {
+    "Definition": "the person who held a position before someone else"
+  },
+  "PURGE": {
+    "Definition": "get rid of a person from an organisation"
+  },
+  "PURGED": {
+    "Definition": "to get rid of a person from an organisation"
+  },
+  "RECAP": {
+    "Definition": "to repeat"
+  },
+  "RECONCILIATION": {
+    "Definition": "when two parties become friends again"
+  },
+  "RELIEF": {
+    "Definition": "a feeling of comfort when something you don't like is not there any more"
+  },
+  "ROSE THROUGH THE RANKS": {
+    "Definition": "got promoted"
+  },
+  "RUTHLESS": {
+    "Definition": "not worrying about the impact on others"
+  },
+  "SATELLITE COUNTRIES": {
+    "Definition": "countries that are dependent on another, larger one"
+  },
+  "SIDELINED": {
+    "Definition": "pushed to the side"
+  },
+  "SKIP": {
+    "Definition": "move over"
+  },
+  "SQUANDERED": {
+    "Definition": "wasted"
+  },
+  "SUBSERVIENT": {
+    "Definition": "willing to do what someone else says"
+  },
+  "SUPERIOR": {
+    "Definition": "better"
+  },
+  "SYMPATHETIC": {
+    "Definition": "(of a cause) understanding"
+  },
+  "THRONE": {
+    "Definition": "the chair used by a king or queen"
+  },
+  "TROOPS": {
+    "Definition": "soldiers"
+  },
+  "TURN ON": {
+    "Definition": "suddenly attack (someone)"
+  },
   "UNDENIABLY": {
     "Definition": "definitely true"
   },
-  "AKA": {
-    "Definition": "Also Known As"
+  "VEGETATION": {
+    "Definition": "plants"
+  },
+  "WALKED THE LINE": {
+    "Definition": "managed to balance two different sides"
+  },
+  "WANDERED AROUND": {
+    "Definition": "moved around without purpose"
+  },
+  "WARY": {
+    "Definition": "cautious (about someone)"
   }
 }

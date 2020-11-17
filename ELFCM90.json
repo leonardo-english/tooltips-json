@@ -1,81 +1,90 @@
 {
-  "HOT OFF THE HEELS": {
-    "Definition": "soon after"
+  "ABUNDANTLY": {
+    "Definition": "very"
   },
-  "TURBULENT": {
-    "Definition": "troubled, involving lots of changes"
+  "ALTRUISTIC": {
+    "Definition": "caring about other people, not just for yourself"
   },
-  "SELF-GOVERNING": {
-    "Definition": "controlled by the people"
+  "ARCHBISHOP": {
+    "Definition": "a bishop of the highest rank"
   },
-  "MONARCHY": {
-    "Definition": "a state with a king or queen"
-  },
-  "NOBLEMEN": {
-    "Definition": "men of a high social class"
-  },
-  "MERCHANTS": {
-    "Definition": "people who buy and sell goods"
+  "ARISTOCRATIC": {
+    "Definition": "see 'aristocrat'"
   },
   "ARISTOCRATS": {
     "Definition": "people who belong to the highest social class"
   },
-  "MANOEUVERING": {
-    "Definition": "using clever and dishonest methods to gain something"
-  },
-  "MANIPULATION": {
-    "Definition": "controlling someone for your own advantage"
-  },
-  "PATRONAGE": {
-    "Definition": "support given to someone"
-  },
-  "INEXTRICABLE": {
-    "Definition": "unable to be separated (from)"
-  },
-  "POWERHOUSE": {
-    "Definition": "very powerful country, city, or organisation"
-  },
-  "DOWRY": {
-    "Definition": "money given by a woman's family to the man she marries"
-  },
-  "LOANS": {
-    "Definition": "money that is lent"
-  },
-  "SHREWD": {
-    "Definition": "clever"
-  },
-  "PAPACY": {
-    "Definition": "relating to the pope"
-  },
-  "SHORT OF MONEY": {
-    "Definition": "poor"
-  },
   "ASCENT": {
     "Definition": "rise (to power)"
-  },
-  "BRANCHES": {
-    "Definition": "office of a business"
-  },
-  "DE FACTO": {
-    "Definition": "existing, although not always officially"
   },
   "BANK BALANCE": {
     "Definition": "the amount of money someone has in the bank"
   },
-  "PATRON": {
-    "Definition": "a person who supports an activity"
+  "BANKRUPT": {
+    "Definition": "not able to pay your debts"
+  },
+  "BLOODLINE": {
+    "Definition": "all the members of a family over a period of time"
+  },
+  "BRANCHES": {
+    "Definition": "office of a business"
+  },
+  "CARDINAL": {
+    "Definition": "a very high-ranking priest in the Catholic church"
   },
   "COMMISSIONED": {
     "Definition": "formally chosen to do a piece of work"
   },
-  "LOT": {
-    "Definition": "fortune"
+  "COMMISSIONING": {
+    "Definition": "formally chosing to do a piece of work"
+  },
+  "CONSPIRATORIAL": {
+    "Definition": "relating to a conspiracy, a plan to do something bad"
+  },
+  "COUNTLESS": {
+    "Definition": "very many"
+  },
+  "CRUMBLE": {
+    "Definition": "break into small pieces"
+  },
+  "CUSTODIANS": {
+    "Definition": "people with responsibility for protecting something"
+  },
+  "DE FACTO": {
+    "Definition": "existing, although not always officially"
+  },
+  "DIPLOMAT": {
+    "Definition": "an official representing a country or city"
+  },
+  "DOWRY": {
+    "Definition": "money given by a woman's family to the man she marries"
+  },
+  "DULY": {
+    "Definition": "as expected"
+  },
+  "EXCOMMUNICATED": {
+    "Definition": "kicked out of the church"
+  },
+  "EXECUTED": {
+    "Definition": "killed, especially as a legal punishment"
   },
   "EXILED": {
     "Definition": "sent away"
   },
-  "ALTRUISTIC": {
-    "Definition": "caring about other people, not just for yourself"
+  "FLEE": {
+    "Definition": "escape"
+  },
+  "HATCHED": {
+    "Definition": "formed"
+  },
+  "HEIR": {
+    "Definition": "someone who will receive money or inherit a name or title"
+  },
+  "HOT OFF THE HEELS": {
+    "Definition": "soon after"
+  },
+  "INEXTRICABLE": {
+    "Definition": "unable to be separated (from)"
   },
   "INHERITED": {
     "Definition": "received from someone who died"
@@ -83,97 +92,91 @@
   "LACKED": {
     "Definition": "didn't have"
   },
-  "HATCHED": {
-    "Definition": "formed"
+  "LOANS": {
+    "Definition": "money that is lent"
   },
-  "ARCHBISHOP": {
-    "Definition": "a bishop of the highest rank"
+  "LOT": {
+    "Definition": "fortune"
   },
-  "CONSPIRATORIAL": {
-    "Definition": "relating to a conspiracy, a plan to do something bad"
+  "MANIPULATION": {
+    "Definition": "controlling someone for your own advantage"
   },
-  "PACKED": {
-    "Definition": "very full"
+  "MANOEUVERING": {
+    "Definition": "using clever and dishonest methods to gain something"
   },
-  "PRIME": {
-    "Definition": "most important"
+  "MERCHANTS": {
+    "Definition": "people who buy and sell goods"
   },
-  "FLEE": {
-    "Definition": "escape"
+  "MONARCHY": {
+    "Definition": "a state with a king or queen"
   },
-  "STABBED": {
-    "Definition": "if someone stabs you, they push a knife into your body"
+  "NOBLEMEN": {
+    "Definition": "men of a high social class"
   },
-  "SACRISTY": {
-    "Definition": "the room where members of the church get ready"
-  },
-  "EXECUTED": {
-    "Definition": "killed, especially as a legal punishment"
-  },
-  "EXCOMMUNICATED": {
-    "Definition": "kicked out of the church"
+  "NORMALISED": {
+    "Definition": "made normal"
   },
   "OPERATED": {
     "Definition": "worked"
   },
-  "WOOING": {
-    "Definition": "persuading"
+  "PACKED": {
+    "Definition": "very full"
   },
-  "WITHDRAWING": {
-    "Definition": "moving away"
+  "PAPACY": {
+    "Definition": "relating to the pope"
   },
-  "DULY": {
-    "Definition": "as expected"
+  "PATRON": {
+    "Definition": "a person who supports an activity"
   },
-  "ABUNDANTLY": {
-    "Definition": "very"
-  },
-  "UNDERLINED": {
-    "Definition": "showed the importance (of something)"
-  },
-  "CARDINAL": {
-    "Definition": "a very high-ranking priest in the Catholic church"
-  },
-  "DIPLOMAT": {
-    "Definition": "an official representing a country or city"
-  },
-  "CRUMBLE": {
-    "Definition": "break into small pieces"
-  },
-  "BANKRUPT": {
-    "Definition": "not able to pay your debts"
-  },
-  "TENDENCY": {
-    "Definition": "if someone has a tendency to do something, it means it usually happens"
-  },
-  "SUBSEQUENT": {
-    "Definition": "following"
-  },
-  "CUSTODIANS": {
-    "Definition": "people with responsibility for protecting something"
-  },
-  "PREDECESSORS": {
-    "Definition": "people who came before"
-  },
-  "ARISTOCRATIC": {
-    "Definition": "see 'aristocrat'"
-  },
-  "HEIR": {
-    "Definition": "someone who will receive money or inherit a name or title"
-  },
-  "UNDOING": {
-    "Definition": "the cause of someone's failure or decline"
-  },
-  "BLOODLINE": {
-    "Definition": "all the members of a family over a period of time"
-  },
-  "COUNTLESS": {
-    "Definition": "very many"
+  "PATRONAGE": {
+    "Definition": "support given to someone"
   },
   "PHILANTHROPY": {
     "Definition": "the activity of giving money or paying for things to support those who need it"
   },
-  "NORMALISED": {
-    "Definition": "made normal"
+  "POWERHOUSE": {
+    "Definition": "very powerful country, city, or organisation"
+  },
+  "PREDECESSORS": {
+    "Definition": "people who came before"
+  },
+  "PRIME": {
+    "Definition": "most important"
+  },
+  "SACRISTY": {
+    "Definition": "the room where members of the church get ready"
+  },
+  "SELF-GOVERNING": {
+    "Definition": "controlled by the people"
+  },
+  "SHORT OF MONEY": {
+    "Definition": "poor"
+  },
+  "SHREWD": {
+    "Definition": "clever"
+  },
+  "STABBED": {
+    "Definition": "if someone stabs you, they push a knife into your body"
+  },
+  "SUBSEQUENT": {
+    "Definition": "following"
+  },
+  "TENDENCY": {
+    "Definition": "if someone has a tendency to do something, it means it usually happens"
+  },
+  "TURBULENT": {
+    "Definition": "troubled, involving lots of changes"
+  },
+  "UNDERLINED": {
+    "Definition": "showed the importance (of something)"
+  },
+  "UNDOING": {
+    "Definition": "the cause of someone's failure or decline"
+  },
+  "WITHDRAWING": {
+    "Definition": "moving away"
+  },
+  "WOOING": {
+    "Definition": "persuading"
   }
 }

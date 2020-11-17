@@ -1,137 +1,140 @@
 {
-  "FRONTIER": {
-    "Definition": "a line or border separating two countries"
+  "A BODY OF WATER": {
+    "Defintion": "a piece or stretch of water"
   },
-  "‍SOVEREIGN": {
-    "Definition": "(of a nation or its affairs) acting or done independently and without outside interference"
+  "ABIDE BY": {
+    "Defintion": "obey, conform to"
   },
-  "STRAIGHTFORWARD": {
-    "Definition": "easy, simple"
+  "ANOMALIES": {
+    "Defintion": "something that is different to what is normal or expected"
   },
-  "‍ENSHRINED IN LAW": {
-    "Definition": "preserve (a right, tradition, or idea) in a form that ensures it will be protected and respected"
-  },
-  "COME IN PRETTY HANDY": {
-    "Definition": "be useful"
-  },
-  "‍GLOSSING OVER": {
-    "Definition": "treat with less attention than it deserves, miss parts of it"
+  "BOIL THIS DOWN": {
+    "Defintion": "simplify, make more concise"
   },
   "CANNON": {
-    "Definition": "a large, heavy gun"
+    "Defintion": "a large, heavy gun"
   },
-  "‍CANNONBALL": {
-    "Definition": "the bullet or ball fired by a cannon"
+  "CANNONBALL": {
+    "Defintion": "the bullet or ball fired by a cannon"
   },
-  "‍ANOMALIES": {
-    "Definition": "something that is different to what is normal or expected"
+  "CLAIM JURISDICTION": {
+    "Defintion": "claim ownership of"
+  },
+  "COME IN PRETTY HANDY": {
+    "Defintion": "be useful"
   },
   "CONSENSUS": {
-    "Definition": "a general agreement"
+    "Defintion": "a general agreement"
   },
-  "‍A BODY OF WATER": {
-    "Definition": "a piece or stretch of water"
+  "DEMARCATE": {
+    "Defintion": "set the boundaries or limits of"
   },
-  "‍DEMARCATE": {
-    "Definition": "set the boundaries or limits of"
+  "DENT": {
+    "Defintion": "a reduction"
   },
-  "‍ZERO-SUM": {
-    "Definition": "relating to or denoting a situation in which whatever is gained by one side is lost by the other"
+  "ENDED UP": {
+    "Defintion": "finished with, resulted in"
+  },
+  "ENGAGED IN": {
+    "Defintion": "participate or become involved in"
+  },
+  "ENSHRINED IN LAW": {
+    "Defintion": "preserve (a right, tradition, or idea) in a form that ensures it will be protected and respected"
+  },
+  "FLARE UP": {
+    "Defintion": "a sudden outburst of something, especially violence or hostility"
+  },
+  "FRONTIER": {
+    "Defintion": "a line or border separating two countries"
   },
   "GARGANTUAN": {
-    "Definition": "very large"
+    "Defintion": "very large"
   },
-  "‍UNDERMINES": {
-    "Definition": "lessen the effectiveness, power, or ability of, especially gradually or insidiously"
-  },
-  "OPEN UP": {
-    "Definition": "require to comply with"
-  },
-  "‍DENT": {
-    "Definition": "a reduction"
-  },
-  "‍IN SHORT": {
-    "Definition": "to summarise"
-  },
-  "‍BOIL THIS DOWN": {
-    "Definition": "simplify, make more concise"
-  },
-  "‍IMPINGES": {
-    "Definition": "advance over an area belonging to someone or something else; encroach"
-  },
-  "SUBMERGED": {
-    "Definition": "under water"
-  },
-  "‍ENDED UP": {
-    "Definition": "finished with, resulted in"
-  },
-  "‍RECAP": {
-    "Definition": "state again as a summary"
-  },
-  "‍RATIFIED": {
-    "Definition": "sign or give formal consent to (a treaty, contract, or agreement), making it officially valid"
-  },
-  "SCRAMBLING": {
-    "Definition": "searching for quickly"
-  },
-  "‍PREVALENT": {
-    "Definition": "common, frequent"
-  },
-  "‍ABIDE BY": {
-    "Definition": "obey, conform to"
-  },
-  "‍ENGAGED IN": {
-    "Definition": "participate or become involved in"
-  },
-  "‍PIRACY": {
-    "Definition": "the practice of attacking and robbing ships at sea"
-  },
-  "‍GET ROUND": {
-    "Definition": "avoid"
-  },
-  "‍VIOLATING": {
-    "Definition": "break or fail to comply with (a rule or formal agreement)"
-  },
-  "MARITIME": {
-    "Definition": "relating to the sea"
-  },
-  "‍CLAIM JURISDICTION": {
-    "Definition": "claim ownership of"
-  },
-  "‍UNINTENDED": {
-    "Definition": "not predicted"
-  },
-  "‍UNINHABITED": {
-    "Definition": "not lived in"
-  },
-  "‍PRIZED": {
-    "Definition": "valued extremely highly"
-  },
-  "‍FLARE UP": {
-    "Definition": "a sudden outburst of something, especially violence or hostility"
-  },
-  "SINGLE OUT": {
-    "Definition": "choose someone or something from a group for special treatment"
+  "GET AROUND": {
+    "Defintion": "avoid"
   },
   "GIVES YOU THE MEASURE": {
-    "Definition": "helps you understand (normally relating to the character or abilities of someone or something)"
+    "Defintion": "helps you understand (normally relating to the character or abilities of someone or something)"
   },
-  "ORPHANED": {
-    "Definition": "(of a child) both parents have died"
-  },
-  "‍PENNILESS": {
-    "Definition": "extremely poor"
-  },
-  "‍TIRELESSLY": {
-    "Definition": "without stopping, continuously"
-  },
-  "‍IMPASSIONED": {
-    "Definition": "full of passion and vigour"
-  },
-  "‍TREACLE": {
-    "Definition": "a thick, sticky dark syrup made from partly refined sugar, used here to indicate that there is a lot of bureaucracy"
+  "GLOSSING OVER": {
+    "Defintion": "treat with less attention than it deserves, miss parts of it"
   },
   "HERITAGE": {
-    "Definition": "valued objects and qualities such as historic buildings and cultural traditions that have been passed down from previous generations"
+    "Defintion": "valued objects and qualities such as historic buildings and cultural traditions that have been passed down from previous generations"
+  },
+  "IMPASSIONED": {
+    "Defintion": "full of passion and vigour"
+  },
+  "IMPINGE": {
+    "Defintion": "advance over an area belonging to someone or something else; encroach"
+  },
+  "IMPINGES": {
+    "Defintion": "advance over an area belonging to someone or something else; encroach"
+  },
+  "IN SHORT": {
+    "Defintion": "to summarise"
+  },
+  "MARITIME": {
+    "Defintion": "relating to the sea"
+  },
+  "OPEN UP": {
+    "Defintion": "require to comply with"
+  },
+  "ORPHANED": {
+    "Defintion": "(of a child) both parents have died"
+  },
+  "PENNILESS": {
+    "Defintion": "extremely poor"
+  },
+  "PIRACY": {
+    "Defintion": "the practice of attacking and robbing ships at sea"
+  },
+  "PREVALENT": {
+    "Defintion": "common, frequent"
+  },
+  "PRIZED": {
+    "Defintion": "valued extremely highly"
+  },
+  "RATIFIED": {
+    "Defintion": "sign or give formal consent to (a treaty, contract, or agreement), making it officially valid"
+  },
+  "RECAP": {
+    "Defintion": "state again as a summary"
+  },
+  "SCRAMBLING": {
+    "Defintion": "searching for quickly"
+  },
+  "SINGLE OUT": {
+    "Defintion": "choose someone or something from a group for special treatment"
+  },
+  "SOVEREIGN": {
+    "Defintion": "(of a nation or its affairs) acting or done independently and without outside interference"
+  },
+  "STRAIGHTFORWARD": {
+    "Defintion": "easy, simple"
+  },
+  "SUBMERGED": {
+    "Defintion": "under water"
+  },
+  "TIRELESSLY": {
+    "Defintion": "without stopping, continuously"
+  },
+  "TREACLE": {
+    "Defintion": "a thick, sticky dark syrup made from partly refined sugar, used here to indicate that there is a lot of bureaucracy"
+  },
+  "UNDERMINES": {
+    "Defintion": "lessen the effectiveness, power, or ability of, especially gradually or insidiously"
+  },
+  "UNINHABITED": {
+    "Defintion": "not lived in"
+  },
+  "UNINTENDED": {
+    "Defintion": "not predicted"
+  },
+  "VIOLATING": {
+    "Defintion": "break or fail to comply with (a rule or formal agreement)"
+  },
+  "ZERO-SUM": {
+    "Defintion": "relating to or denoting a situation in which whatever is gained by one side is lost by the other"
   }
 }
