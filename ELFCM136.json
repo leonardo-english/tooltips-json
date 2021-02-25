@@ -1,109 +1,326 @@
 {
-  "cartoon": {},
-  "snappy": {},
-  "associated": {},
-  "in sequence": {},
-  "keen": {},
-  "illustrator": {},
-  "notable": {},
-  "laid off": {},
-  "seek": {},
-  "hope": {},
-  "cartoonist": {},
-  "have a shot": {},
-  "tuberculosis": {},
-  "prior to": {},
-  "loosely": {},
-  "cartoons": {},
-  "distribute": {},
-  "distributor": {},
-  "reel": {},
-  "equivalent": {},
-  "funding": {},
-  "handled": {},
-  "distribution": {},
-  "illustrators": {},
-  "distributed": {},
-  "permission": {},
-  "own": {},
-  "rights": {},
-  "familiar with": {},
-  "breakout": {},
-  "synchronised": {},
-  "reflected": {},
-  "merchandising": {},
-  "comic books": {},
-  "adverts": {},
-  "reinvest": {},
-  "ambitious": {},
-  "pushing the boundaries": {},
-  "animators": {},
-  "sold on": {},
-  "sensible": {},
-  "convinced": {},
-  "hit": {},
-  "grossing": {},
-  "box office": {},
-  "overtaken": {},
-  "feature-length": {},
-  "erased": {},
-  "dud": {},
-  "go bankrupt": {},
-  "dangerous": {},
-  "timeless": {},
-  "exceptionally": {},
-  "on the verge of": {},
-  "bankruptcy": {},
-  "into the flow of things": {},
-  "diversifying": {},
-  "profitable": {},
-  "painstakingly": {},
-  "amusement park": {},
-  "amusement parks": {},
-  "fairgrounds": {},
-  "left out": {},
-  "theme park": {},
-  "attractions": {},
-  "rides": {},
-  "cemented": {},
-  "branched out": {},
-  "theme parks": {},
-  "merchandise": {},
-  "character": {},
-  "embarrassed": {},
-  "public-facing": {},
-  "aired": {},
-  "painfully": {},
-  "aware": {},
-  "mysterious": {},
-  "accusations": {},
-  "anti-semitism": {},
-  "racism": {},
-  "manipulator": {},
-  "outnumbered": {},
-  "founding": {},
-  "father": {},
-  "telling": {},
-  "adapting": {},
-  "bread and butter": {},
-  "diminish": {},
-  "stepped up": {},
-  "owned": {},
-  "mention": {},
-  "out of the picture": {},
-  "out of sight": {},
-  "strategy": {},
-  "snapped up": {},
-  "broadcasting": {},
-  "cruise lines": {},
-  "subscription": {},
-  "spending spree": {},
-  "franchise": {},
-  "acquiring": {},
-  "smash-hit": {},
-  "take into account": {},
-  "tentacles": {},
-  "stretch": {},
-  "enterprise": {},
-  "appeal": {}
+  "CARTOON": {
+    "Definition": "animated film"
+  },
+  "SNAPPY": {
+    "Definition": "clear and concise"
+  },
+  "ASSOCIATED": {
+    "Definition": "connected"
+  },
+  "IN SEQUENCE": {
+    "Definition": "one after another"
+  },
+  "KEEN": {
+    "Definition": "very interested"
+  },
+  "ILLUSTRATOR": {
+    "Definition": "someone who draws pictures"
+  },
+  "NOTABLE": {
+    "Definition": "unusual enough to be noticed"
+  },
+  "LAID OFF": {
+    "Definition": "lost his job"
+  },
+  "SEEK": {
+    "Definition": "look for"
+  },
+  "HOPE": {
+    "Definition": "wish"
+  },
+  "CARTOONIST": {
+    "Definition": "someone who draws cartoons (animated films)"
+  },
+  "HAVE A SHOT": {
+    "Definition": "have a chance"
+  },
+  "TUBERCULOSIS": {
+    "Definition": "a serious disease, especially affecting the lungs"
+  },
+  "PRIOR TO": {
+    "Definition": "before"
+  },
+  "LOOSELY": {
+    "Definition": "not clearly, not exactly"
+  },
+  "CARTOONS": {
+    "Definition": "animated films"
+  },
+  "DISTRIBUTE": {
+    "Definition": "market and sell (films) to cinemas and customers"
+  },
+  "DISTRIBUTOR": {
+    "Definition": "a company that markets and sells films"
+  },
+  "REEL": {
+    "Definition": "a wheel shaped object which old films used to be held on"
+  },
+  "EQUIVALENT": {
+    "Definition": "being of the same value as"
+  },
+  "FUNDING": {
+    "Definition": "money to start something"
+  },
+  "HANDLED": {
+    "Definition": "managed"
+  },
+  "DISTRIBUTION": {
+    "Definition": "the selling and marketing (of a film)"
+  },
+  "ILLUSTRATORS": {
+    "Definition": "people who draw pictures"
+  },
+  "DISTRIBUTED": {
+    "Definition": "(of a film) sold and marketed"
+  },
+  "PERMISSION": {
+    "Definition": "if you have permission to do something, you are allowed to do it"
+  },
+  "OWN": {
+    "Definition": "if you own something, it belongs to you"
+  },
+  "RIGHTS": {
+    "Definition": "the legal ability to do or have something"
+  },
+  "FAMILIAR WITH": {
+    "Definition": "know well"
+  },
+  "BREAKOUT": {
+    "Definition": "very successful, often unexpectedly"
+  },
+  "SYNCHRONISED": {
+    "Definition": "happening at the same time"
+  },
+  "REFLECTED": {
+    "Definition": "was the same as"
+  },
+  "MERCHANDISING": {
+    "Definition": "the selling of products connected with a film, song etc."
+  },
+  "COMIC BOOKS": {
+    "Definition": "books with illustrated figures, usually making you laugh"
+  },
+  "ADVERTS": {
+    "Definition": "films, posters or pictures created by companies in order to make you want to buy something"
+  },
+  "REINVEST": {
+    "Definition": "put (money) back into"
+  },
+  "AMBITIOUS": {
+    "Definition": "wanting to succeed"
+  },
+  "PUSHING THE BOUNDARIES": {
+    "Definition": "doing new and adventurous things"
+  },
+  "ANIMATORS": {
+    "Definition": "people who make animated films"
+  },
+  "SOLD ON": {
+    "Definition": "if you are sold on something, you believe it and want to do it"
+  },
+  "SENSIBLE": {
+    "Definition": "having good judgment"
+  },
+  "CONVINCED": {
+    "Definition": "sure (of something)"
+  },
+  "HIT": {
+    "Definition": "large success"
+  },
+  "GROSSING": {
+    "Definition": "making money"
+  },
+  "BOX OFFICE": {
+    "Definition": "if a film makes a certain amount of money at the box office, it is how much money people pay (in total) to see the film"
+  },
+  "OVERTAKEN": {
+    "Definition": "if something is overtaken, something else has become more successful or more important than it"
+  },
+  "FEATURE-LENGTH": {
+    "Definition": "a feature-length film is a full-length film"
+  },
+  "ERASED": {
+    "Definition": "removed"
+  },
+  "DUD": {
+    "Definition": "very bad, does not work"
+  },
+  "GO BANKRUPT": {
+    "Definition": "run out of money"
+  },
+  "DANGEROUS": {
+    "Definition": "difficult and potentially harmful"
+  },
+  "TIMELESS": {
+    "Definition": "does not change with time"
+  },
+  "EXCEPTIONALLY": {
+    "Definition": "very"
+  },
+  "ON THE VERGE OF": {
+    "Definition": "very close to"
+  },
+  "BANKRUPTCY": {
+    "Definition": "(of a business) the state of running out of money"
+  },
+  "INTO THE FLOW OF THINGS": {
+    "Definition": "if you are in the flow of things, you are in a good state"
+  },
+  "DIVERSIFYING": {
+    "Definition": "starting to include differing things"
+  },
+  "PROFITABLE": {
+    "Definition": "generating more money than costs"
+  },
+  "PAINSTAKINGLY": {
+    "Definition": "very carefully"
+  },
+  "AMUSEMENT PARK": {
+    "Definition": "a type of park with rides"
+  },
+  "AMUSEMENT PARKS": {
+    "Definition": "types of parks with rides"
+  },
+  "FAIRGROUNDS": {
+    "Definition": "an open space with rides"
+  },
+  "LEFT OUT": {
+    "Definition": "not included"
+  },
+  "THEME PARK": {
+    "Definition": "a type of park with rides, often with a unified theme"
+  },
+  "ATTRACTIONS": {
+    "Definition": "rides and games at an adventure park"
+  },
+  "RIDES": {
+    "Definition": "the large machines that people go on for fun (at a park)"
+  },
+  "CEMENTED": {
+    "Definition": "made strong"
+  },
+  "BRANCHED OUT": {
+    "Definition": "started doing different things"
+  },
+  "THEME PARKS": {
+    "Definition": "types of park with rides, often with a unified theme"
+  },
+  "MERCHANDISE": {
+    "Definition": "things that are bought"
+  },
+  "CHARACTER": {
+    "Definition": "qualities of a person (who a person really is)"
+  },
+  "EMBARRASSED": {
+    "Definition": "feeling shy and uncomfortable"
+  },
+  "PUBLIC-FACING": {
+    "Definition": "what people in the public see"
+  },
+  "AIRED": {
+    "Definition": "shown (to the public)"
+  },
+  "PAINFULLY": {
+    "Definition": "very"
+  },
+  "AWARE": {
+    "Definition": "conscious, knowing that something exists or is true"
+  },
+  "MYSTERIOUS": {
+    "Definition": "strange and unknown"
+  },
+  "ACCUSATIONS": {
+    "Definition": "statements (usually negative) about someone"
+  },
+  "ANTI-SEMITISM": {
+    "Definition": "anti-Jewish people"
+  },
+  "RACISM": {
+    "Definition": "treating different races differently"
+  },
+  "MANIPULATOR": {
+    "Definition": "someone who changes something, normally in a negative way"
+  },
+  "OUTNUMBERED": {
+    "Definition": "to be more than"
+  },
+  "FOUNDING": {
+    "Definition": "first and most important"
+  },
+  "FATHER": {
+    "Definition": "if you are the father of something, you are the important person for it"
+  },
+  "TELLING": {
+    "Definition": "showing what is true"
+  },
+  "ADAPTING": {
+    "Definition": "changing"
+  },
+  "BREAD AND BUTTER": {
+    "Definition": "if something is your bread and butter, it isn't necessarily exciting but makes money for you"
+  },
+  "DIMINISH": {
+    "Definition": "reduce (in size)"
+  },
+  "STEPPED UP": {
+    "Definition": "took on, start doing"
+  },
+  "OWNED": {
+    "Definition": "belonging to, having ownership of"
+  },
+  "MENTION": {
+    "Definition": "reference, writing about"
+  },
+  "OUT OF THE PICTURE": {
+    "Definition": "not visible, can't be seen"
+  },
+  "OUT OF SIGHT": {
+    "Definition": "not visible, can't be seen"
+  },
+  "STRATEGY": {
+    "Definition": "plan to do something"
+  },
+  "SNAPPED UP": {
+    "Definition": "bought quickly"
+  },
+  "BROADCASTING": {
+    "Definition": "relating to the news"
+  },
+  "CRUISE LINES": {
+    "Definition": "very large ships people used for holidays"
+  },
+  "SUBSCRIPTION": {
+    "Definition": "paying money to receive access to a regular service"
+  },
+  "SPENDING SPREE": {
+    "Definition": "a period where you spend lots of money"
+  },
+  "FRANCHISE": {
+    "Definition": "the right to sell a product or brand"
+  },
+  "ACQUIRING": {
+    "Definition": "getting, buying"
+  },
+  "SMASH-HIT": {
+    "Definition": "a large success"
+  },
+  "TAKE INTO ACCOUNT": {
+    "Definition": "take into consideration"
+  },
+  "TENTACLES": {
+    "Definition": "the long, thin legs of a sea creature e.g. octopus"
+  },
+  "STRETCH": {
+    "Definition": "reach, extend"
+  },
+  "ENTERPRISE": {
+    "Definition": "business"
+  },
+  "APPEAL": {
+    "Definition": "a quality that makes people like it"
+  },
+  "": {
+    "Definition": null
+  }
 }
