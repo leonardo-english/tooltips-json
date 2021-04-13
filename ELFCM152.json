@@ -1,0 +1,422 @@
+{
+  "POPULOUS": {
+    "Definition": "having a large population"
+  },
+  "MONARCHY": {
+    "Definition": "a form of government with a king or queen at its head"
+  },
+  "DICTATORSHIP": {
+    "Definition": "a form of government with a ruler who took control by force"
+  },
+  "COURSE": {
+    "Definition": "the way in which something progresses"
+  },
+  "INFLUENTIAL": {
+    "Definition": "having a great effect"
+  },
+  "SCRATCHING YOUR HEAD": {
+    "Definition": "thinking hard trying to solve a puzzle"
+  },
+  "SUPERFICIAL": {
+    "Definition": "existing on the surface, not deep"
+  },
+  "SOUNDBITES": {
+    "Definition": "short phrases that are easy to remember"
+  },
+  "ROSY": {
+    "Definition": "easy and pleasant"
+  },
+  "FEUDAL": {
+    "Definition": "according to a system which gave power to the upper class (nobles), but made life difficult for the working class (vassals)"
+  },
+  "PYRAMID": {
+    "Definition": "a system that is made with fewer people at its level as one approaches the top"
+  },
+  "PEASANTS": {
+    "Definition": "poor farmers"
+  },
+  "ARISTOCRATS": {
+    "Definition": "people belonging to the highest class in certain societies and having titles and offices, passed from generation to generation"
+  },
+  "LUXURIOUS": {
+    "Definition": "extremely comfortable and expensive"
+  },
+  "IMPOVERISHED": {
+    "Definition": "made poor"
+  },
+  "HARVESTS": {
+    "Definition": "the quantity of crops (plants grown to be used as food) gathered"
+  },
+  "SYMPATHY": {
+    "Definition": "feeling of understanding, support and compassion"
+  },
+  "PREJUDICE": {
+    "Definition": "an unfair opinion about someone, especially when formed without thought or knowledge"
+  },
+  "FINANCED BY": {
+    "Definition": "paid by"
+  },
+  "INEFFICIENT": {
+    "Definition": "not organised"
+  },
+  "SNAP HIS FINGERS": {
+    "Definition": "make a sudden decision and expect everyone to follow it"
+  },
+  "CLERGY": {
+    "Definition": "people performing religious activities and services"
+  },
+  "NOBILITY": {
+    "Definition": "the highest class in certain societies"
+  },
+  "THE VAST MAJORITY": {
+    "Definition": "almost all"
+  },
+  "COMMONERS": {
+    "Definition": "the social class of ordinary, common people"
+  },
+  "VETO": {
+    "Definition": "an official right to refuse to accept something"
+  },
+  "VOTE DOWN": {
+    "Definition": "to refuse to accept something by voting"
+  },
+  "FLOURISHING": {
+    "Definition": "growing"
+  },
+  "LEGISLATION": {
+    "Definition": "a set of laws according to which a state is governed"
+  },
+  "CONSTITUTION": {
+    "Definition": "the system of laws which states people's rights and duties"
+  },
+  "RELENTED": {
+    "Definition": "became less strict, allowed something he had refused before"
+  },
+  "AFOOT": {
+    "Definition": "being in progress, happening"
+  },
+  "EYEWITNESS": {
+    "Definition": "a person who saw something happen"
+  },
+  "INTOXICATED": {
+    "Definition": "emotionally excited, like being drunk"
+  },
+  "ARISTOCRATIC": {
+    "Definition": "related to people who belong to the highest class"
+  },
+  "CONSPIRACY": {
+    "Definition": "the act of secretly planning with other people to do something bad"
+  },
+  "CRACK DOWN": {
+    "Definition": "become stricter in making them obey"
+  },
+  "CONGREGATED": {
+    "Definition": "came together, gathered"
+  },
+  "STORMED": {
+    "Definition": "moved with force against"
+  },
+  "POLE": {
+    "Definition": "a long, thick stick"
+  },
+  "SHIFTED": {
+    "Definition": "moved"
+  },
+  "WIDE-SWEEPING": {
+    "Definition": "acting in a large area"
+  },
+  "BURDEN": {
+    "Definition": "weight"
+  },
+  "IRON GRIP": {
+    "Definition": "complete control"
+  },
+  "TRIVIAL": {
+    "Definition": "having little importance"
+  },
+  "UNREMARKABLE": {
+    "Definition": "ordinary"
+  },
+  "SHIFT": {
+    "Definition": "move, change"
+  },
+  "LANDOWNERS": {
+    "Definition": "people who own large amounts of land"
+  },
+  "LAVISH": {
+    "Definition": "plentiful and expensive"
+  },
+  "LEISURE": {
+    "Definition": "free time"
+  },
+  "MONUMENTALLY": {
+    "Definition": "to an extreme degree"
+  },
+  "ENSHRINED": {
+    "Definition": "kept as something holy"
+  },
+  "BLOODSHED": {
+    "Definition": "killing and violence"
+  },
+  "INTENSE": {
+    "Definition": "extreme or very strong"
+  },
+  "RADICAL": {
+    "Definition": "extreme"
+  },
+  "COMPATIBLE": {
+    "Definition": "able to exist together without problems"
+  },
+  "FLEE": {
+    "Definition": "escape something due to being dangerous"
+  },
+  "COUNTER-REVOLUTION": {
+    "Definition": "a revolution against the previous uprising"
+  },
+  "TRAPPED": {
+    "Definition": "in a position from which it's difficult to escape"
+  },
+  "FRACTION": {
+    "Definition": "a small part"
+  },
+  "SWEPT UP": {
+    "Definition": "very excited"
+  },
+  "FLED": {
+    "Definition": "left while escaping from danger"
+  },
+  "REUNITE": {
+    "Definition": "come together again"
+  },
+  "MOUNT AN ATTACK": {
+    "Definition": "organise an attack"
+  },
+  "SPREAD": {
+    "Definition": "spread the word, make known in a wide area"
+  },
+  "STUCK": {
+    "Definition": "not able to move"
+  },
+  "SPARED": {
+    "Definition": "kept alive"
+  },
+  "INTIMIDATE": {
+    "Definition": "frighten"
+  },
+  "ABOLISHED": {
+    "Definition": "ended"
+  },
+  "EXECUTED": {
+    "Definition": "killed as someone who is sentenced to death"
+  },
+  "HIGH TREASON": {
+    "Definition": "the crime of acting against one's country"
+  },
+  "BETRAYING": {
+    "Definition": "doing something harmful to your country"
+  },
+  "SLICED OFF": {
+    "Definition": "cut off from"
+  },
+  "GUILLOTINE": {
+    "Definition": "a machine used in the past for killing criminals by cutting off their heads"
+  },
+  "MET THE SAME FATE": {
+    "Definition": "had the same thing happen to her"
+  },
+  "ATTRIBUTED": {
+    "Definition": "is considered to have been said by"
+  },
+  "MISTRANSLATION": {
+    "Definition": "something not accurately translated"
+  },
+  "LUXURY": {
+    "Definition": "expensive, not necessary and very enjoyable"
+  },
+  "OUT OF TOUCH": {
+    "Definition": "in a state of not knowing what was happening"
+  },
+  "UNDENIABLE": {
+    "Definition": "certainly true"
+  },
+  "HIDEOUSLY": {
+    "Definition": "in an extremely unpleasant manner"
+  },
+  "FATE": {
+    "Definition": "what happens to a person"
+  },
+  "PRESUMABLY": {
+    "Definition": "very likely but not said with certainty"
+  },
+  "STROKING": {
+    "Definition": "touching gently, petting"
+  },
+  "CART": {
+    "Definition": "an open vehicle that was used in the past"
+  },
+  "NOBLE": {
+    "Definition": "belonging in the highest society class"
+  },
+  "MODERATE": {
+    "Definition": "not extreme"
+  },
+  "IDEOLOGICAL": {
+    "Definition": "related to a system of ideas and ideals"
+  },
+  "FACTION": {
+    "Definition": "a small group within a larger one"
+  },
+  "COUNTER-REVOLUTIONARY": {
+    "Definition": "related to a revolution against the previous uprising"
+  },
+  "STEEL": {
+    "Definition": "a strong metal"
+  },
+  "TAKE STOCK": {
+    "Definition": "stop and think"
+  },
+  "DISTINGUISHING": {
+    "Definition": "making himself worthy of respect"
+  },
+  "RISING THROUGH THE RANKS": {
+    "Definition": "continuing moving to more important positions"
+  },
+  "CRUSHED": {
+    "Definition": "defeated completely"
+  },
+  "UPRISING": {
+    "Definition": "an act of violent opposition"
+  },
+  "DECISIVE": {
+    "Definition": "that provided a particular result, important"
+  },
+  "OVERTHREW": {
+    "Definition": "removed from power with force"
+  },
+  "SKIPPED OVER": {
+    "Definition": "not included"
+  },
+  "FAR-REACHING": {
+    "Definition": "of great influence and effect"
+  },
+  "FURTHER AFIELD": {
+    "Definition": "in areas other than the nearest ones"
+  },
+  "MONARCH": {
+    "Definition": "absolute ruler, a king or queen"
+  },
+  "AMBITIONS": {
+    "Definition": "strong wishes to be something"
+  },
+  "CONSTITUTIONAL": {
+    "Definition": "related to the system of laws which states people's rights and duties"
+  },
+  "OVERTHROW": {
+    "Definition": "remove from power with force"
+  },
+  "DECAPITATE": {
+    "Definition": "cut off the head of someone"
+  },
+  "PROCLAIM": {
+    "Definition": "announce something officially"
+  },
+  "PROFOUND": {
+    "Definition": "great and deep"
+  },
+  "RISEN UP": {
+    "Definition": "taken part in a revolution"
+  },
+  "GOT RID OF": {
+    "Definition": "removed"
+  },
+  "MONARCHS": {
+    "Definition": "absolute rulers, kings or queens"
+  },
+  "UNTOUCHABLE": {
+    "Definition": "not able to be affected"
+  },
+  "SUBJECTS": {
+    "Definition": "people living under the rule of a monarch"
+  },
+  "UNDERLINED": {
+    "Definition": "presented as important"
+  },
+  "RISING UP": {
+    "Definition": "taking part in a revolution"
+  },
+  "COLONIAL": {
+    "Definition": "related to the practice of one country controlling another one"
+  },
+  "NATIONALISM": {
+    "Definition": "support of one's country"
+  },
+  "UNITY": {
+    "Definition": "the state of being in agreement"
+  },
+  "BROTHERHOOD": {
+    "Definition": "the feeling of companionship and togetherness"
+  },
+  "MOTTO": {
+    "Definition": "a short phrase that expresses a belief"
+  },
+  "ARISTOCRACY": {
+    "Definition": "a class of people who belong to a high social rank"
+  },
+  "NOBLES": {
+    "Definition": "people belonging to the highest class in certain societies"
+  },
+  "PRIVILEGES": {
+    "Definition": "rights, advantages"
+  },
+  "REGARDLESS": {
+    "Definition": "in spite"
+  },
+  "FESTIVITIES": {
+    "Definition": "celebrations"
+  },
+  "ACKNOWLEDGED": {
+    "Definition": "accepted, admitted"
+  },
+  "ANCESTORS": {
+    "Definition": "persons that are related to someone but lived a long time ago"
+  },
+  "CAUTIOUS": {
+    "Definition": "careful"
+  },
+  "HEADLESS": {
+    "Definition": "having their heads cut off"
+  },
+  "CORPSES": {
+    "Definition": "dead bodies"
+  },
+  "TYRANT": {
+    "Definition": "dictator, a cruel ruler"
+  },
+  "BALANCE": {
+    "Definition": "considering the importance in comparison to something else"
+  },
+  "FAIRNESS": {
+    "Definition": "being fair and just"
+  },
+  "FOOLISHNESS": {
+    "Definition": "lack of good sense or judgement"
+  },
+  "EPOCH": {
+    "Definition": "era, time"
+  },
+  "BELIEF": {
+    "Definition": "trust in ideas"
+  },
+  "INCREDULITY": {
+    "Definition": "the state of being unable to believe something"
+  },
+  "DESPAIR": {
+    "Definition": "complete loss of hope"
+  },
+  "INSPIRED": {
+    "Definition": "filled someone with the will and ability to do something"
+  },
+  "": {
+    "Definition": null
+  }
+}
