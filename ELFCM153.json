@@ -1,0 +1,392 @@
+{
+  "APPETISING": {
+    "Definition": "so interesting that you want to learn more about"
+  },
+  "INNOVATION": {
+    "Definition": "the use of a new idea"
+  },
+  "RIVALRY": {
+    "Definition": "competition for the same objective"
+  },
+  "ECCENTRIC": {
+    "Definition": "strange or unusual"
+  },
+  "OBSESSION": {
+    "Definition": "something that you think about all the time"
+  },
+  "TALE": {
+    "Definition": "story"
+  },
+  "THWARTED": {
+    "Definition": "prevented (from achieving)"
+  },
+  "BOLD": {
+    "Definition": "confident but risky"
+  },
+  "PIONEERS": {
+    "Definition": "people who are the first to do something"
+  },
+  "VITAL": {
+    "Definition": "very important"
+  },
+  "CONCEPTUALISED": {
+    "Definition": "form the concept or idea of something"
+  },
+  "REASSURINGLY": {
+    "Definition": "in a way that removes someone's worries and fears"
+  },
+  "TIMELESS": {
+    "Definition": "not affected by changes over the years"
+  },
+  "RIVALRIES": {
+    "Definition": "situations of competition for the same objective"
+  },
+  "ASPIRATIONS": {
+    "Definition": "ambitions or hopes of achieving something"
+  },
+  "FAILINGS": {
+    "Definition": "failures"
+  },
+  "ENCOUNTER": {
+    "Definition": "experience, meet"
+  },
+  "SET THE SCENE": {
+    "Definition": "describe the situation in which something is about to happen"
+  },
+  "STIMULATING": {
+    "Definition": "causing interest and enthusiasm"
+  },
+  "INDUSTRIALISING": {
+    "Definition": "developing industry"
+  },
+  "OBSESSED": {
+    "Definition": "thinking about it all the time"
+  },
+  "BEWILDERING": {
+    "Definition": "confusing"
+  },
+  "PACE": {
+    "Definition": "the speed at which something happens"
+  },
+  "PROTAGONISTS": {
+    "Definition": "the main people of this story"
+  },
+  "PRIVILEGED": {
+    "Definition": "having special advantages"
+  },
+  "STABLE": {
+    "Definition": "sensible, without ups and downs"
+  },
+  "FORTUNE": {
+    "Definition": "a large amount of money"
+  },
+  "INHERITANCE": {
+    "Definition": "property and/or money a person receives from someone who has died"
+  },
+  "ENABLED": {
+    "Definition": "made possible"
+  },
+  "PURSUE": {
+    "Definition": "follow"
+  },
+  "AT WILL": {
+    "Definition": "at whatever time and in whatever way he wanted"
+  },
+  "EXOTIC": {
+    "Definition": "unusual and exciting"
+  },
+  "NOTORIOUS": {
+    "Definition": "famous for something bad"
+  },
+  "LEGITIMATE": {
+    "Definition": "acknowledged, accepted by the law"
+  },
+  "COUNTLESS": {
+    "Definition": "too many to count"
+  },
+  "PRECISE": {
+    "Definition": "exact and accurate"
+  },
+  "METHODICAL": {
+    "Definition": "in a careful, controlled and orderly way"
+  },
+  "PARALLELOGRAMS": {
+    "Definition": "flat shapes with four sides"
+  },
+  "VOLATILE": {
+    "Definition": "likely to change suddenly"
+  },
+  "INSANITY": {
+    "Definition": "the condition of being seriously mentally ill"
+  },
+  "AFFAIRS": {
+    "Definition": "sexual relations"
+  },
+  "HAVOC": {
+    "Definition": "trouble and lack of order"
+  },
+  "TRACE": {
+    "Definition": "any mark or sign of his existence"
+  },
+  "INSANE": {
+    "Definition": "mentally ill, mad"
+  },
+  "INHERITED": {
+    "Definition": "received from someone who has died"
+  },
+  "ENGAGE": {
+    "Definition": "hire"
+  },
+  "NORM": {
+    "Definition": "the normal thing to do"
+  },
+  "INSTANCES": {
+    "Definition": "examples, events"
+  },
+  "INFERIOR": {
+    "Definition": "worse than someone else"
+  },
+  "CUSTOM": {
+    "Definition": "a traditional way of doing something, specific to a particular time or place"
+  },
+  "ARISTOCRATIC": {
+    "Definition": "belonging to the high society class"
+  },
+  "FANCY": {
+    "Definition": "impressive and not simple"
+  },
+  "SOIRÉE": {
+    "Definition": "an evening party in a private house"
+  },
+  "RANK": {
+    "Definition": "social importance"
+  },
+  "DISTINGUISHED": {
+    "Definition": "respected and admired"
+  },
+  "EMINENT": {
+    "Definition": "famous and respected"
+  },
+  "ENVIABLE": {
+    "Definition": "very desirable"
+  },
+  "VAST": {
+    "Definition": "extremely big"
+  },
+  "HANDY": {
+    "Definition": "useful, convenient to use"
+  },
+  "POLYMATH": {
+    "Definition": "a person of wide knowledge"
+  },
+  "EXPERTISE": {
+    "Definition": "high level of knowledge"
+  },
+  "SPEEDOMETER": {
+    "Definition": "an instrument that shows the speed of a vehicle"
+  },
+  "ASTRONOMY": {
+    "Definition": "the science of studying the objects that exist in space"
+  },
+  "INCIDENTALLY": {
+    "Definition": "by chance"
+  },
+  "POST": {
+    "Definition": "position"
+  },
+  "ILLUSTRIOUS": {
+    "Definition": "well known and respected"
+  },
+  "ACCOMPANIED": {
+    "Definition": "been in the company of, been with someone"
+  },
+  "CONDUCTING": {
+    "Definition": "organising"
+  },
+  "CAMPAIGNS": {
+    "Definition": "organised activities intended to achieve a certain goal"
+  },
+  "PORTABLE": {
+    "Definition": "light and small enough to be easily carried"
+  },
+  "ORGANS": {
+    "Definition": "musical instruments"
+  },
+  "BUSKERS": {
+    "Definition": "people who play music on the streets for money"
+  },
+  "CONDUCTED": {
+    "Definition": "organised"
+  },
+  "CAMPAIGN": {
+    "Definition": "an organised activity intended to achieve a certain goal"
+  },
+  "A BEE IN HIS BONNET": {
+    "Definition": "something he thought about all the time"
+  },
+  "HOOPS": {
+    "Definition": "rings of wood or metal used as toys"
+  },
+  "HARMLESS": {
+    "Definition": "not likely to cause damage, not dangerous"
+  },
+  "GRUMPY": {
+    "Definition": "easily annoyed and complaining"
+  },
+  "CAREFREE": {
+    "Definition": "relaxing, not worrying"
+  },
+  "BANNED": {
+    "Definition": "made illegal"
+  },
+  "HOOP-ROLLING": {
+    "Definition": "that played with hoops using sticks"
+  },
+  "CRUCIAL": {
+    "Definition": "extremely important or necessary"
+  },
+  "ASTRONOMER": {
+    "Definition": "someone who studies the objects that exists in space"
+  },
+  "EXECUTED": {
+    "Definition": "done, performed"
+  },
+  "STEAM": {
+    "Definition": "the hot gas that is produced when water boils used as source of power for machines (used here  to say that the process should be done by machines)"
+  },
+  "AUTOMATED": {
+    "Definition": "done by machines and not people"
+  },
+  "ASPIRATION": {
+    "Definition": "ambition or hope of achieving something"
+  },
+  "COMPLEX": {
+    "Definition": "complicated, not simple"
+  },
+  "INTRICATE": {
+    "Definition": "very complicated"
+  },
+  "ORIGINATED": {
+    "Definition": "created"
+  },
+  "INQUISITIVENESS": {
+    "Definition": "the quality of wanting to learn, to ask questions and discover as much as you can"
+  },
+  "ENTERPRISING": {
+    "Definition": "energetic and good at doing new and difficult things"
+  },
+  "WEAVING": {
+    "Definition": "making clothes by using threads"
+  },
+  "PUNCH": {
+    "Definition": "make a hole in paper"
+  },
+  "CARDS": {
+    "Definition": "pieces of hard paper"
+  },
+  "EMBROIDERY": {
+    "Definition": "designs on cloth"
+  },
+  "CORRESPONDENCE": {
+    "Definition": "communication by sending letters"
+  },
+  "FRUITFUL": {
+    "Definition": "producing good results"
+  },
+  "COLLABORATIVE": {
+    "Definition": "working together, cooperative"
+  },
+  "PEER": {
+    "Definition": "a person of the same status and ability"
+  },
+  "PECULIAR": {
+    "Definition": "unusual and strange"
+  },
+  "LECTURE": {
+    "Definition": "a formal talk on a serious subject, usually scientific"
+  },
+  "COMMENTARY": {
+    "Definition": "a set of explanatory notes on a text"
+  },
+  "EXCERPT": {
+    "Definition": "a short part taken from a text"
+  },
+  "WEAVE": {
+    "Definition": "make a cloth or designs on cloth by using thread (used here as 'create')"
+  },
+  "ALGEBRAIC": {
+    "Definition": "relating to a type of mathematics"
+  },
+  "WEAVES": {
+    "Definition": "makes a cloth or designs on cloth by using thread"
+  },
+  "CONSTRAINED": {
+    "Definition": "limited"
+  },
+  "CONCEPTS": {
+    "Definition": "ideas"
+  },
+  "MERELY": {
+    "Definition": "simply, just"
+  },
+  "CREDITED": {
+    "Definition": "publicly acknowledged"
+  },
+  "ALGORITHM": {
+    "Definition": "a set of mathematical rules that will help a machine do calculations"
+  },
+  "SUBSEQUENT": {
+    "Definition": "happening one after the other, following"
+  },
+  "PROTOTYPE": {
+    "Definition": "the first example of something"
+  },
+  "EQUIVALENT": {
+    "Definition": "having the same value"
+  },
+  "AWKWARD": {
+    "Definition": "difficult to deal with"
+  },
+  "UNDIPLOMATIC": {
+    "Definition": "being insensitive and difficult when being with people"
+  },
+  "TENDED": {
+    "Definition": "usually behaved in a particular way"
+  },
+  "FALL OUT WITH": {
+    "Definition": "argue with"
+  },
+  "ENVISIONED": {
+    "Definition": "imagined as a future possibility"
+  },
+  "COMMEMORATED": {
+    "Definition": "remembered and shown respect"
+  },
+  "AVIATION": {
+    "Definition": "the activity of flying an aircraft"
+  },
+  "PROFILE": {
+    "Definition": "the level of public acknowledgement"
+  },
+  "FULL SCALE": {
+    "Definition": "of the same size as the original"
+  },
+  "GROUND-BREAKING": {
+    "Definition": "introducing new and  important ideas"
+  },
+  "COLOURFUL": {
+    "Definition": "very interesting and exciting"
+  },
+  "IMMORTALITY": {
+    "Definition": "the quality of deserving to be remembered for a very long time"
+  },
+  "MEMORIALS": {
+    "Definition": "activities made to remind people of a person"
+  },
+  "GRAND": {
+    "Definition": "very important and impressive"
+  },
+  "": {
+    "Definition": null
+  }
+}
