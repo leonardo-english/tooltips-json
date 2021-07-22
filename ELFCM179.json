@@ -1,444 +1,378 @@
 {
-  "ICONIC": {
-    "Definition": "vary famous"
+  "EPIC": {
+    "Definition": "long and full of impressive adventures"
   },
-  "VARIED": {
-    "Definition": "having many different events"
+  "CONSUMPTION": {
+    "Definition": "the amount drunk"
   },
-  "UNORTHODOX": {
-    "Definition": "different from what is usual"
+  "ORATOR": {
+    "Definition": "public speaker"
   },
-  "GALVANISE": {
-    "Definition": "cause someone to take action"
+  "SKILLFUL": {
+    "Definition": "having an ability or being expert at something"
   },
-  "CONDUCTED": {
-    "Definition": "organised"
+  "GALVANISED": {
+    "Definition": "excited into taking action"
   },
-  "POLL": {
-    "Definition": "a public vote or study in which people are asked for their opinions about something"
+  "COURSE": {
+    "Definition": "the way in which something progresses"
   },
-  "SURVEY": {
-    "Definition": "a public study in which people are asked for their opinions about something"
+  "SUPREMELY": {
+    "Definition": "extremely"
   },
-  "TOURIST BOARD": {
-    "Definition": "the official organisation of a country whose job is to attract tourists"
-  },
-  "PLAYWRIGHT": {
-    "Definition": "someone who writes plays"
-  },
-  "LONGEST-REIGNING": {
-    "Definition": "being queen for longer time than any king or queen"
-  },
-  "MONARCH": {
-    "Definition": "a king or queen"
-  },
-  "SIGNIFICANCE": {
-    "Definition": "importance"
-  },
-  "BOW TIE": {
-    "Definition": "a neck tie in the shape of a bow"
-  },
-  "#REF!": {
-    "Definition": "#REF!"
-  },
-  "BOWLER HAT": {
-    "Definition": "a round type of hat"
-  },
-  "CONTROVERSY": {
-    "Definition": "disagreements and arguments"
-  },
-  "DISGRACE": {
-    "Definition": "shame and loss of respect"
-  },
-  "FAR FROM": {
-    "Definition": "not at all"
-  },
-  "OUTLINE": {
-    "Definition": "give a summary of something"
-  },
-  "REMARKABLE": {
-    "Definition": "impressive and worthy of attention"
-  },
-  "PROFOUND": {
-    "Definition": "very important"
-  },
-  "ASSESS": {
-    "Definition": "evaluate or decide on the importance of something"
-  },
-  "ACCUSATIONS": {
-    "Definition": "claims that he had done something wrong"
-  },
-  "REIGN": {
-    "Definition": "the period of rule"
-  },
-  "MONARCHS": {
-    "Definition": "kings or queens"
-  },
-  "CAVALRY": {
-    "Definition": "a group of soldiers who fight on horses"
-  },
-  "CHARGES": {
-    "Definition": "attacks"
-  },
-  "COLOURFUL": {
-    "Definition": "interesting and exciting"
-  },
-  "ULTRA-SELECTIVE": {
-    "Definition": "very selective"
-  },
-  "JOURNALIST": {
-    "Definition": "a person who writes articles and new stories for a newspaper or magazine"
-  },
-  "LECTURER": {
-    "Definition": "someone who gives speeches for educational purposes"
-  },
-  "BRICK LAYING": {
-    "Definition": "the activity of building using bricks"
-  },
-  "PRIVILEGED": {
-    "Definition": "having certain advantages"
-  },
-  "ARISTOCRATIC": {
-    "Definition": "related to the high society class"
-  },
-  "ANCESTOR": {
-    "Definition": "a relative who lived a long time ago"
-  },
-  "TRIBUTE": {
-    "Definition": "something given that shows admiration and respect for someone"
-  },
-  "LANDSCAPED": {
-    "Definition": "improved with trees, flowers and other decorations"
-  },
-  "SETTING": {
-    "Definition": "place, environmnent"
-  },
-  "ACUTELY": {
-    "Definition": "in a way that shows a deep understanding"
-  },
-  "GLOW-WORM": {
-    "Definition": "a kind of worm that gives off light in the darkness"
-  },
-  "GLOW-WORMS": {
-    "Definition": "worms that gives off light in the darkness"
-  },
-  "RESOURCEFULNESS": {
-    "Definition": "the ability to find clever ways to deal with problems"
-  },
-  "CABINET": {
-    "Definition": "a container with shelves"
-  },
-  "ARMOURED": {
-    "Definition": "having a protecting covering"
-  },
-  "MANHUNT": {
-    "Definition": "an organised search for a person"
-  },
-  "EVADE": {
-    "Definition": "avoid"
-  },
-  "CAPTURE": {
-    "Definition": "being caught"
-  },
-  "OVERNIGHT": {
-    "Definition": "very quickly"
-  },
-  "CULTIVATED": {
-    "Definition": "developed"
-  },
-  "HAVE HIS HEART SET": {
-    "Definition": "want very much to"
-  },
-  "DISTINCTIVE": {
-    "Definition": "characteristic of him"
-  },
-  "BOUNDARIES": {
-    "Definition": "limits"
-  },
-  "CONTROVERSIAL": {
-    "Definition": "causing discussion and disagreement"
-  },
-  "STALEMATE": {
-    "Definition": "a situation in which none of the opposing groups can get an advantage"
-  },
-  "DEADLOCK": {
-    "Definition": "a situation in which no progress can be made"
-  },
-  "FAILED": {
-    "Definition": "didn't succeed"
-  },
-  "SPECTACULARLY": {
-    "Definition": "in an impressive way"
-  },
-  "REPUTATION": {
-    "Definition": "opinion of the people about him"
-  },
-  "TAUNTED": {
-    "Definition": "made fun of"
-  },
-  "PROMINENCE": {
-    "Definition": "important and famous position"
-  },
-  "PACIFISM": {
-    "Definition": "the belief that war is wrong"
-  },
-  "DISARMAMENT": {
-    "Definition": "the act of cutting down the size of armed forces"
-  },
-  "NASTY": {
-    "Definition": "harmful and extremely unpleasant"
-  },
-  "DISASTROUS": {
-    "Definition": "extremely bad"
-  },
-  "WHEREBY": {
-    "Definition": "by which way"
-  },
-  "RETROSPECT": {
-    "Definition": "thinking now about something in the past"
-  },
-  "PROMINENT": {
-    "Definition": "important"
-  },
-  "NAVIES": {
-    "Definition": "sea armed forces"
-  },
-  "ALAS": {
-    "Definition": "unfortunately"
-  },
-  "APPEASEMENT": {
-    "Definition": "trying to keep someone happy by giving in to him"
-  },
-  "CONCEDING": {
-    "Definition": "admitting that he was right"
-  },
-  "ENERGETICALLY": {
-    "Definition": "ina very active way"
-  },
-  "WAVING": {
-    "Definition": "moving back and forth"
-  },
-  "TREATY": {
-    "Definition": "a written agreement between two countries"
-  },
-  "UNMITIGATED": {
-    "Definition": "absolute, without exceptions"
-  },
-  "DEFEAT": {
-    "Definition": "loss"
-  },
-  "DISASTROUSLY": {
-    "Definition": "in a way that causes great damage"
-  },
-  "FELL OUT OF FAVOUR": {
-    "Definition": "was no longer supported"
-  },
-  "COALITION": {
-    "Definition": "the joining together of different political groups for a particular purpose"
-  },
-  "CHAOTIC": {
-    "Definition": "bringing confusion and disorder"
-  },
-  "EVACUATION": {
-    "Definition": "removal"
-  },
-  "TROOPS": {
-    "Definition": "soldiers"
-  },
-  "ALLIANCE": {
-    "Definition": "countries that have agreed to work together"
-  },
-  "THEREFORE": {
-    "Definition": "for that reason"
-  },
-  "WESTWARDS": {
-    "Definition": "towards the west"
-  },
-  "CONCESSION": {
-    "Definition": "an agreement, especially after giving something"
-  },
-  "THEREBY": {
-    "Definition": "as a result"
-  },
-  "ORATORY": {
-    "Definition": "the way he used language"
-  },
-  "POCKMARKED": {
-    "Definition": "left ugly marks on"
-  },
-  "SCARS": {
-    "Definition": "marks left on the skin after an injury"
-  },
-  "SPOTS": {
-    "Definition": "small rounds marks"
+  "FACTOR": {
+    "Definition": "a fact that influences the result of something"
   },
   "MORALE": {
-    "Definition": "the confidence and emotional condition"
-  },
-  "SOLE": {
-    "Definition": "one and only"
-  },
-  "CHAMPIONS": {
-    "Definition": "people who support a cause"
-  },
-  "TYRANNY": {
-    "Definition": "cruel and not fair rule or government"
-  },
-  "RALLIED": {
-    "Definition": "brought together"
-  },
-  "SURRENDER": {
-    "Definition": "stop fighting or give up"
-  },
-  "DEFEATED": {
-    "Definition": "beaten"
-  },
-  "ALLY": {
-    "Definition": "a country that has agreed officially to help another one during a war"
-  },
-  "ALLIANCES": {
-    "Definition": "countries that have agreed to work together"
-  },
-  "INSTITUTIONS": {
-    "Definition": "organisations"
-  },
-  "PERSUADING": {
-    "Definition": "making him accept his point of view"
-  },
-  "STRAIGHTAWAY": {
-    "Definition": "immediately"
-  },
-  "CENTRAL": {
-    "Definition": "most important part of something"
-  },
-  "RECURRENCES": {
-    "Definition": "the facts of something happening again"
-  },
-  "ESTABLISHED": {
-    "Definition": "set up, introduced"
-  },
-  "CORE": {
-    "Definition": "centre"
+    "Definition": "confidence and general emotional condition"
   },
   "DETERMINATION": {
-    "Definition": "fixed purpose or intention"
+    "Definition": "the ability to continue trying to do something difficult"
   },
-  "MIGHT": {
-    "Definition": "strength"
+  "ACCOMPANYING": {
+    "Definition": "going with"
   },
-  "INSTINCT": {
-    "Definition": "the natural ability to understand how things work"
+  "ORATORY": {
+    "Definition": "effective public speaking"
   },
-  "KNACK": {
-    "Definition": "a natural skill at doing something"
+  "EXALTED": {
+    "Definition": "noble, higher"
   },
-  "IRON CURTAIN": {
-    "Definition": "the military, political, and ideological barrier separating  the Soviet nations and western Europe from 1945 to 1990."
+  "ENSLAVED": {
+    "Definition": "forced to lose their freedom"
   },
-  "WITHDRAWAL": {
-    "Definition": "the action of stopping participating in something"
+  "VITAL": {
+    "Definition": "very important, necessary"
   },
-  "REVIVED": {
-    "Definition": "brought back interest in something"
+  "DIGNITY": {
+    "Definition": "the quality of being worthy of respect and honour"
   },
-  "REVIVAL": {
-    "Definition": "the act of bringing something back"
+  "IN SPITE OF": {
+    "Definition": "without being affected by, regardless of"
   },
-  "FOLKLORE": {
-    "Definition": "culture"
+  "OBSTACLES": {
+    "Definition": "things that make it difficult to do something"
   },
-  "UNDOUBTEDLY": {
-    "Definition": "without a doubt, certainly"
+  "STAMMER": {
+    "Definition": "difficulty in speaking including repetitions, breaks and pauses"
   },
-  "CONTEMPORARIES": {
-    "Definition": "people who were living at the same time as him"
+  "STRUGGLE": {
+    "Definition": "experience difficulty in doing something"
   },
-  "SUPERIOR": {
-    "Definition": "better"
+  "LISP": {
+    "Definition": "the inability to pronounce 'sh' or 'th' correctly"
   },
-  "HIERARCHY": {
-    "Definition": "a system in which people are organised according to their status or rank"
+  "EXCELLED": {
+    "Definition": "was very good at something"
   },
-  "INHUMANE": {
-    "Definition": "cruel and lacking compassion and humanity"
+  "DISMISSIVE": {
+    "Definition": "showing that he didn't consider him worthy of attention"
   },
-  "OBJECTED": {
-    "Definition": "disagreed"
+  "ENCOURAGING": {
+    "Definition": "giving support and confidence"
   },
-  "FAMINE": {
-    "Definition": "lack of food"
+  "FOND": {
+    "Definition": "having a liking for"
   },
-  "CYCLONE": {
-    "Definition": "a violent storm"
+  "CHUNKS": {
+    "Definition": "parts, pieces"
   },
-  "FLOODING": {
-    "Definition": "the covering of land with a large amount of water"
+  "AMBITION": {
+    "Definition": "a strong wish to achieve something"
   },
-  "ARDENT": {
-    "Definition": "very passionate"
+  "DETERMINED": {
+    "Definition": "strongly motivated"
   },
-  "SWIFTLY": {
-    "Definition": "in a quick way, without delay"
+  "METHODICALLY": {
+    "Definition": "in an orderly way and according to a plan"
   },
-  "ON STRIKE": {
-    "Definition": "refusing to work as an act of complaint or protest"
+  "DESPITE": {
+    "Definition": "without being affected by, regardless of"
   },
-  "CRITICAL": {
-    "Definition": "very important"
+  "SYPHILIS": {
+    "Definition": "a dangerous disease"
   },
-  "VIRTUES": {
-    "Definition": "qualities and standards"
+  "PARLIAMENTARY": {
+    "Definition": "relating to the representative body that makes the laws of a state"
   },
-  "OUTWEIGH": {
-    "Definition": "are more important than"
+  "SYSTEMATIC": {
+    "Definition": "done according to a plan or system"
   },
-  "OPPONENT": {
-    "Definition": "someone who competes with someone about something"
+  "STORYTELLING": {
+    "Definition": "the ability to tell a story in an effective way"
   },
-  "SUCCESSOR": {
-    "Definition": "someone who follows and takes the place of someone else"
-  },
-  "REMARKED": {
-    "Definition": "mentioned, commented"
+  "THRILL": {
+    "Definition": "excitement"
   },
   "RHETORIC": {
-    "Definition": "the art of using the language effectively"
+    "Definition": "the art of using language effectively"
   },
-  "DESTINED": {
-    "Definition": "intended, meant"
+  "MEDIUM": {
+    "Definition": "means of communication"
   },
-  "CARELESS": {
-    "Definition": "not careful"
+  "COINCIDED": {
+    "Definition": "happened at the same"
   },
-  "SERVED": {
-    "Definition": "did his military service"
+  "INSIGHT": {
+    "Definition": "an accurate understanding"
   },
-  "WORKING REGIME": {
-    "Definition": "work schedule"
+  "AVIDLY": {
+    "Definition": "with great interest"
   },
-  "BRANDY": {
-    "Definition": "a strong alcoholic drink"
+  "COMPOSED": {
+    "Definition": "wrote"
   },
-  "MOUTHWASH": {
-    "Definition": "a liquid used to clean the mouth"
+  "CONSTRUCTED": {
+    "Definition": "formed or made"
   },
-  "CREDITED": {
-    "Definition": "publicly acknowledged for something"
+  "CLARIFYING": {
+    "Definition": "making it clear"
   },
-  "RADICAL": {
-    "Definition": "bringing big changes"
+  "SPEECHWRITERS": {
+    "Definition": "people whose job is to write speeches for politicians"
   },
-  "SOCIAL REFORM": {
-    "Definition": "a movement organised by a group in order to create changes in society"
+  "CONSULTANTS": {
+    "Definition": "people whose job is to advise politicians"
   },
-  "PRESIDED OVER": {
-    "Definition": "was in charge of"
+  "DICTATE": {
+    "Definition": "say aloud"
   },
-  "UNDENIABLE": {
-    "Definition": "unable to be denied, certainly true"
+  "AIDES": {
+    "Definition": "people whose job is to help someone important"
   },
-  "SHAPED": {
-    "Definition": "had a great effect on"
+  "WIDE ARRAY": {
+    "Definition": "large number"
+  },
+  "DRESSING GOWN": {
+    "Definition": "a long loose robe being wore inside the house"
+  },
+  "PUFFING ON": {
+    "Definition": "smoking"
+  },
+  "OUTPUT": {
+    "Definition": "the amount of something produced by a person"
+  },
+  "UNFOLDING": {
+    "Definition": "gradually developing"
+  },
+  "IMMINENT": {
+    "Definition": "coming very soon"
+  },
+  "WORRYING": {
+    "Definition": "causing worry and anxiety"
+  },
+  "DISARMAMENT": {
+    "Definition": "the act of giving up weapons"
+  },
+  "APPEASEMENT": {
+    "Definition": "peace by satisfying their demands"
+  },
+  "CYNICAL": {
+    "Definition": "concerned only with achieving their goal"
+  },
+  "BRUTAL": {
+    "Definition": "violent and without feelings"
+  },
+  "SPOKEN OUT": {
+    "Definition": "expressed his opinion openly and publicly"
+  },
+  "ALLY": {
+    "Definition": "a country that has agreed officially to help another during a war"
+  },
+  "ALLIANCE": {
+    "Definition": "a group of countries that have agreed to work together towards a common cause"
+  },
+  "SEIZING": {
+    "Definition": "taking something suddenly with force"
+  },
+  "ON THE SIDELINES": {
+    "Definition": "not taking part in"
+  },
+  "METAPHORS": {
+    "Definition": "expressions of speech that describe something by referring to something else with similar characteristics"
+  },
+  "SIMILES": {
+    "Definition": "expressions of speech comparing two things using the words 'as' or ' like'"
+  },
+  "COALITION": {
+    "Definition": "the government that is formed by different political groups"
+  },
+  "TOIL": {
+    "Definition": "hard work"
+  },
+  "ORDEAL": {
+    "Definition": "a painful and difficult experience"
+  },
+  "GRIEVOUS": {
+    "Definition": "having very serious and unpleasant effects"
+  },
+  "WAGE": {
+    "Definition": "engage in, carry on"
+  },
+  "MIGHT": {
+    "Definition": "great strength, especially of a nation"
+  },
+  "MONSTROUS": {
+    "Definition": "very cruel and terrible"
+  },
+  "TYRANNY": {
+    "Definition": "an unfair and cruel type of government or rule"
+  },
+  "SURPASSED": {
+    "Definition": "overtaken, replaced as number one"
+  },
+  "LAMENTABLE": {
+    "Definition": "very bad and regrettable"
+  },
+  "CATALOGUE": {
+    "Definition": "list"
+  },
+  "UNPLEASANT": {
+    "Definition": "causing unhappiness"
+  },
+  "OUTDONE": {
+    "Definition": "been greater than"
+  },
+  "INITIALLY": {
+    "Definition": "at first"
+  },
+  "CONTRASTING": {
+    "Definition": "differing, being different"
+  },
+  "EVACUATION": {
+    "Definition": "the moving of people from a dangerous place"
+  },
+  "BROADCAST": {
+    "Definition": "radio programme"
+  },
+  "AIDING": {
+    "Definition": "helping"
+  },
+  "COMRADES": {
+    "Definition": "friends, especially in war"
+  },
+  "UTMOST": {
+    "Definition": "the greatest amount"
+  },
+  "LANDING": {
+    "Definition": "the unloading of troops or armies in enemy ground"
+  },
+  "SURRENDER": {
+    "Definition": "accept defeat"
+  },
+  "SUBJUGATED": {
+    "Definition": "under enemy control"
+  },
+  "STARVING": {
+    "Definition": "dying due to the lack of food"
+  },
+  "RECAP": {
+    "Definition": "repeat"
+  },
+  "TANGIBLE": {
+    "Definition": "real and not imaginary"
+  },
+  "PATRIOTISM": {
+    "Definition": "love of and loyalty to one's country"
+  },
+  "REFERRED": {
+    "Definition": "mentioned them"
+  },
+  "ODIOUS": {
+    "Definition": "deserving hate"
+  },
+  "APPARATUS": {
+    "Definition": "a system of machines"
+  },
+  "HATEFUL": {
+    "Definition": "deserving hate"
+  },
+  "MACHINERY": {
+    "Definition": "a system of machines"
+  },
+  "CLIMAX": {
+    "Definition": "the most intense and exciting point"
+  },
+  "IRON": {
+    "Definition": "a strong metal used as a symbol of strength and firmness"
+  },
+  "CONVICTION": {
+    "Definition": "a firmly held belief"
+  },
+  "RESOLVE": {
+    "Definition": "fixed intention and strength of opinion"
+  },
+  "CORD": {
+    "Definition": "influence tied to the meaning of his words"
+  },
+  "LIBERATING": {
+    "Definition": "setting free"
+  },
+  "HANDY": {
+    "Definition": "useful"
+  },
+  "RHETORICAL": {
+    "Definition": "(of a question) asked in order to make a point and not to be answered"
+  },
+  "FAITH": {
+    "Definition": "trust and confidence"
+  },
+  "BLESSING": {
+    "Definition": "support"
+  },
+  "PROVIDENCE": {
+    "Definition": "the protective care of God"
+  },
+  "FALTER": {
+    "Definition": "lose strength and stop"
+  },
+  "TIRE": {
+    "Definition": "be tired"
+  },
+  "SUDDEN": {
+    "Definition": "happening quickly and without warning"
+  },
+  "SHOCK": {
+    "Definition": "a sudden experience that causes pain and anxiety"
+  },
+  "LONG-DRAWN": {
+    "Definition": "continuing for a long of time"
+  },
+  "TRIALS": {
+    "Definition": "processes or events that test one's strength and endurance"
+  },
+  "VIGILANCE": {
+    "Definition": "the state of always being careful in time of danger"
+  },
+  "EXERTION": {
+    "Definition": "physical and mental effort"
+  },
+  "WEAR DOWN": {
+    "Definition": "make us very tired, exhaust"
+  },
+  "LOAN": {
+    "Definition": "lend, give something which has to be returned in the future"
+  },
+  "CONVEY": {
+    "Definition": "express, communicate"
+  },
+  "PULSE": {
+    "Definition": "rhythm"
+  },
+  "MOBILISED": {
+    "Definition": "used as a weapon"
+  },
+  "WIT": {
+    "Definition": "the ability to use words in a clever and funny way"
+  },
+  "MODEST": {
+    "Definition": "not extreme or prideful"
+  },
+  "MAKER": {
+    "Definition": "God"
+  },
+  "MATTER": {
+    "Definition": "subject, situation"
   },
   "": {
     "Definition": null
