@@ -1,0 +1,308 @@
+{
+  "BANNED": {
+    "Definition": "not allowed, prohibited"
+  },
+  "FORBIDDEN": {
+    "Definition": "not allowed, prohibited"
+  },
+  "QUOTATIONS": {
+    "Definition": "phrases or passages of writings from a book"
+  },
+  "INTRIGUING": {
+    "Definition": "very interesting"
+  },
+  "BAN": {
+    "Definition": "not allow"
+  },
+  "BANS": {
+    "Definition": "doesn't allow"
+  },
+  "ENCOUNTER": {
+    "Definition": "meet"
+  },
+  "PROFOUND": {
+    "Definition": "significant, far-reaching"
+  },
+  "CONDITIONS": {
+    "Definition": "situations, circumstances"
+  },
+  "PROHIBITION": {
+    "Definition": "the act of officially not allowing something"
+  },
+  "BANNING": {
+    "Definition": "the act of officially not allowing something"
+  },
+  "SMUGGLED": {
+    "Definition": "brought illegally"
+  },
+  "CENSORSHIP": {
+    "Definition": "the act of not allowing books or parts of books because they are unacceptable to some people"
+  },
+  "EMBARK": {
+    "Definition": "begin an action"
+  },
+  "ARTICULATE": {
+    "Definition": "express"
+  },
+  "ELITE": {
+    "Definition": "the richest and most powerful group in a society"
+  },
+  "INSTITUTION": {
+    "Definition": "an important organisation"
+  },
+  "BOARD": {
+    "Definition": "an organised body that takes decisions for an organisation"
+  },
+  "A BADGE OF SHAME": {
+    "Definition": "something that shows that someone has done something wrong"
+  },
+  "REGIMES": {
+    "Definition": "governments"
+  },
+  "APARTHEID": {
+    "Definition": "a political system in South Africa in which people were separated based on the colour of their skin"
+  },
+  "UNAPPETISING": {
+    "Definition": "not attractive"
+  },
+  "LOOK UP TO": {
+    "Definition": "respect"
+  },
+  "EXCEPTIONS": {
+    "Definition": "things that are not included in a general list"
+  },
+  "CORRELATION": {
+    "Definition": "connection"
+  },
+  "PERSECUTE": {
+    "Definition": "treat someone in a bad way because of their beliefs, race etc."
+  },
+  "PROPHECY": {
+    "Definition": "a statement that says what is going to happen in the future"
+  },
+  "FULFILLED": {
+    "Definition": "made real"
+  },
+  "PROPORTION": {
+    "Definition": "part"
+  },
+  "LITERATE": {
+    "Definition": "able to read and write"
+  },
+  "SEISMIC": {
+    "Definition": "of very big effect"
+  },
+  "INDULGENCES": {
+    "Definition": "papers sold by the church which forgave the sins of the buyer"
+  },
+  "FORMS": {
+    "Definition": "documents with blank spaces to be filled with the details of the buyer"
+  },
+  "PERSONALISED": {
+    "Definition": "marked with the name of the owner"
+  },
+  "FORGIVENESS": {
+    "Definition": "the act of excusing or forgiving a sin"
+  },
+  "ABUSE": {
+    "Definition": "use something for the wrong purpose"
+  },
+  "WORSENING": {
+    "Definition": "becoming worse"
+  },
+  "THESES": {
+    "Definition": "statements or propositions"
+  },
+  "NAILED": {
+    "Definition": "attached or fastened with a nail"
+  },
+  "CLERGY": {
+    "Definition": "people with a religious rank, the priests"
+  },
+  "SWIFTLY": {
+    "Definition": "quickly"
+  },
+  "TURBO-CHARGING": {
+    "Definition": "making it more powerful and fast"
+  },
+  "STRAIGHTFORWARD": {
+    "Definition": "easy to understand"
+  },
+  "LITERACY": {
+    "Definition": "the ability to read and write"
+  },
+  "CULTIVATION": {
+    "Definition": "education"
+  },
+  "SPREAD": {
+    "Definition": "reach more people"
+  },
+  "BENEFICIARIES": {
+    "Definition": "people who receive advantages as a result of something"
+  },
+  "CAUTIOUS": {
+    "Definition": "careful"
+  },
+  "UNORTHODOX": {
+    "Definition": "different from what is expected or considered normal"
+  },
+  "SPREADING": {
+    "Definition": "making an idea reach more people"
+  },
+  "OVERLAP": {
+    "Definition": "cover parts of the same areas"
+  },
+  "TOTALITARIAN": {
+    "Definition": "of a political system with absolute power and complete control"
+  },
+  "FEARFUL": {
+    "Definition": "afraid of or worried about"
+  },
+  "RUN COUNTER TO": {
+    "Definition": "are different to their own"
+  },
+  "DISSENT": {
+    "Definition": "refusal to accept the opinions and policies of authority"
+  },
+  "RENEWED": {
+    "Definition": "happening again after a pause"
+  },
+  "FLED": {
+    "Definition": "escaped"
+  },
+  "GULAG": {
+    "Definition": "work prisons for people who expressed different to the authority's political opinions"
+  },
+  "REJECTED": {
+    "Definition": "not accepted"
+  },
+  "REFUSE": {
+    "Definition": "not accept"
+  },
+  "CONTENTIOUS": {
+    "Definition": "causing disagreement and argument"
+  },
+  "OFFENSIVE": {
+    "Definition": "causing someone to be upset"
+  },
+  "BADGE OF HONOUR": {
+    "Definition": "something that shows that someone has done something important"
+  },
+  "EXPLICIT": {
+    "Definition": "fully and clearly expressed"
+  },
+  "BOARDS": {
+    "Definition": "organised bodies that takes decisions for an organisation"
+  },
+  "PROMOTING": {
+    "Definition": "supporting"
+  },
+  "FOR INSTANCE": {
+    "Definition": "as an example"
+  },
+  "AVOID": {
+    "Definition": "prevent something from happening"
+  },
+  "CENSORED": {
+    "Definition": "the act of not allowing books or parts of books because they are unacceptable to some people"
+  },
+  "PASSAGES": {
+    "Definition": "parts"
+  },
+  "PROSECUTED": {
+    "Definition": "was led to be tried in a court of Law"
+  },
+  "OFFENCE": {
+    "Definition": "illegal act"
+  },
+  "OBSCENITY": {
+    "Definition": "unaccepted behaviour that upsets and offends people"
+  },
+  "MORALS": {
+    "Definition": "standards of behaviour"
+  },
+  "PROSECUTION": {
+    "Definition": "the act of starting a legal case against someone"
+  },
+  "JURY": {
+    "Definition": "a group of people that judge a trial"
+  },
+  "BOOST": {
+    "Definition": "increase"
+  },
+  "AWARENESS": {
+    "Definition": "knowledge that something exists"
+  },
+  "SKYROCKETED": {
+    "Definition": "rose extremely quickly"
+  },
+  "DEGENERACY": {
+    "Definition": "the state of having very low standards of behaviour"
+  },
+  "IN LINE WITH": {
+    "Definition": "similar to"
+  },
+  "CENSORS": {
+    "Definition": "people whose job is to examine books in order to remove what is considered unaccepted"
+  },
+  "NARRATOR": {
+    "Definition": "the character that tells what is happening in a book"
+  },
+  "SWEARS": {
+    "Definition": "uses rude, insulting and upsetting words"
+  },
+  "CULT": {
+    "Definition": "something that is popular among a particular group of society"
+  },
+  "CURRICULUMS": {
+    "Definition": "programmes of activities"
+  },
+  "URBAN MYTH": {
+    "Definition": "a story which many people believe but which is not true"
+  },
+  "THEOCRATIC": {
+    "Definition": "having an official state religion"
+  },
+  "PROVOKED": {
+    "Definition": "caused"
+  },
+  "BLASPHEMOUS": {
+    "Definition": "showing no respect to a god or religion"
+  },
+  "DISRESPECTFUL": {
+    "Definition": "showing lack of respect"
+  },
+  "PROPHET": {
+    "Definition": "someone who is believed to have the power to say what will happen in the future"
+  },
+  "UNPRECEDENTED": {
+    "Definition": "never done in the past"
+  },
+  "INITIALLY": {
+    "Definition": "at the beginning"
+  },
+  "RESOUNDING": {
+    "Definition": "loud"
+  },
+  "POINTLESS": {
+    "Definition": "without meaning, a waste of time"
+  },
+  "DISTRIBUTED": {
+    "Definition": "shared to several people"
+  },
+  "CENSOR": {
+    "Definition": "ban a part of a book or a book because it is considered unaccepted"
+  },
+  "OTHER KETTLE OF FISH": {
+    "Definition": "another topic altogether"
+  },
+  "#REF!": {
+    "Definition": "#REF!"
+  },
+  "LOOKED UP TO": {
+    "Definition": "respected"
+  },
+  "": {
+    "Definition": null
+  }
+}
