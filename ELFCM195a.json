@@ -8,6 +8,9 @@
   "NON-FUNGIBLE TOKEN": {
     "Definition": "a digital object that represents a real-life object like art, music, video etc."
   },
+  "#REF!": {
+    "Definition": "#REF!"
+  },
   "BOOM": {
     "Definition": "sudden increase"
   },
@@ -64,9 +67,6 @@
   },
   "INTERCHANGEABLE": {
     "Definition": "able to be changed with something else without making any difference"
-  },
-  "NON-FUNGIBLE": {
-    "Definition": "not possible to be changed for something else of the same type and value"
   },
   "UNIQUE": {
     "Definition": "being the only one of its kind"
