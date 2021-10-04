@@ -1,548 +1,278 @@
 {
-  "Relics": {
-    "Definition": "items of great historical or cultural value",
-    "Definition (Cambridge automatic)": "an object , tradition , or system from the past that continues to exist :",
-    "IPA": "ˈrel.ɪk",
-    "IELTS": "#N/A"
-  },
-  "Prolific": {
-    "Definition": "producing a great number of something or having repeated an activity many times",
-    "Definition (Cambridge automatic)": "producing a great number or amount of something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Extensive": {
-    "Definition": "of great extent or length",
-    "Definition (Cambridge automatic)": "covering a large area ; having a great range :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Credited": {
-    "Definition": "considered a result of something",
-    "Definition (Cambridge automatic)": "praise , approval , or honour :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Get-out-of-jail-free card": {
-    "Definition": "something that is used as an insurance in order to avoid an unpleasant situation, like going to jail. (A reference to the board game Monopoly, in which this card allows players to leave the jail space without missing a turn.)",
-    "Definition (Cambridge automatic)": "something that",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bargaining chip": {
-    "Definition": "something that you are prepared to give up in order to reach an agreement and get what you want",
-    "Definition (Cambridge automatic)": "something that someone else wants that you are willing to lose in order to reach an agreement :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Collateral": {
-    "Definition": "something used as security for the payment of a loan",
-    "Definition (Cambridge automatic)": "valuable property owned by someone who wants to borrow money , that they agree will become the property of the company or person who lends the money if the debt is not paid back:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Estimate": {
-    "Definition": "guessed or calculated the value",
-    "Definition (Cambridge automatic)": "to guess or calculate the cost , size , value , etc. of something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Monetary value": {
-    "Definition": "value in money",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Glamorous": {
-    "Definition": "dressing with impressive clothes and being exciting",
-    "Definition (Cambridge automatic)": "attractive in an exciting and special way:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Chateau": {
-    "Definition": "a large house",
-    "Definition (Cambridge automatic)": "a large house or castle in France",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Nondescript": {
-    "Definition": "very ordinary",
-    "Definition (Cambridge automatic)": "very ordinary , or having no interesting or exciting features or qualities :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Clue": {
-    "Definition": "information that helps us understand something better",
-    "Definition (Cambridge automatic)": "a sign or some information that helps you to find the answer to a problem , question , or mystery :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Lavish": {
-    "Definition": "expensive and impressive",
-    "Definition (Cambridge automatic)": "large in quantity and expensive or impressive :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Antique": {
-    "Definition": "dating from a period long ago",
-    "Definition (Cambridge automatic)": "something made in an earlier period that is collected and considered to have value because it is beautiful , rare , old , or of high quality :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Accomplice": {
-    "Definition": "a person who helps someone to commit a crime",
-    "Definition (Cambridge automatic)": "a person who helps someone else to commit a crime or to do something morally wrong",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Partner in crime": {
-    "Definition": "a person who helps someone to commit a crime",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Two peas in a pod": {
-    "Definition": "very similar",
-    "Definition (Cambridge automatic)": "very",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Introverted": {
-    "Definition": "shy",
-    "Definition (Cambridge automatic)": "shy",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Transition": {
-    "Definition": "change from one form to another",
-    "Definition (Cambridge automatic)": "a change from one form or type to another, or the process by which this happens :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Pistol": {
-    "Definition": "a small hand-held gun",
-    "Definition (Cambridge automatic)": "a small gun that is held in and fired from one hand :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Pistols": {
-    "Definition": "small hand-held guns",
-    "Definition (Cambridge automatic)": "a small gun that is held in and fired from one hand :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Resist": {
-    "Definition": "stop himself from doing it",
-    "Definition (Cambridge automatic)": "to fight against something or someone that is attacking you:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Encouraged": {
-    "Definition": "gave his support to",
-    "Definition (Cambridge automatic)": "having more",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Machine guns": {
-    "Definition": "automatic guns that can fire lots of bullets very quickly",
-    "Definition (Cambridge automatic)": "an automatic gun that can fire a lot of bullets one after the other very quickly :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Smashing": {
-    "Definition": "breaking with force",
-    "Definition (Cambridge automatic)": "extremely",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Unusual": {
-    "Definition": "not common or ordinary",
-    "Definition (Cambridge automatic)": "different from others of the same type in a way that is surprising , interesting , or attractive :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Snuck into": {
-    "Definition": "went in, in a quiet way so as not to be seen or heard",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Threatened": {
-    "Definition": "told someone that he would harm them",
-    "Definition (Cambridge automatic)": "in danger , or likely to stop existing :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Antiques": {
-    "Definition": "items dating from a period long ago",
-    "Definition (Cambridge automatic)": "something made in an earlier period that is collected and considered to have value because it is beautiful , rare , old , or of high quality :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Disguise": {
-    "Definition": "fake appearance",
-    "Definition (Cambridge automatic)": "to give a new appearance to a person or thing, especially in order to hide its TRUE form :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Stockings": {
-    "Definition": "tight-fit coverings for the feet and part of the legs",
-    "Definition (Cambridge automatic)": "one of a pair of tight-fitting coverings for the feet and legs made of thin material and often worn under skirts and dresses :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Fingerprints": {
-    "Definition": "the different in every person pattern of lines on the end of a finger",
-    "Definition (Cambridge automatic)": "the pattern of curved lines on the end of a finger or thumb that is different in every person , or a mark left by this pattern :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Meticulously": {
-    "Definition": "in a way that shows extreme care and attention to detail",
-    "Definition (Cambridge automatic)": "in a way that",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Surefire": {
-    "Definition": "certain",
-    "Definition (Cambridge automatic)": "certain",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cough": {
-    "Definition": "the act of forcing air out of his lungs suddenly and noisily",
-    "Definition (Cambridge automatic)": "to force air out of your lungs through your throat with a short , loud sound :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Smash": {
-    "Definition": "break with force",
-    "Definition (Cambridge automatic)": "to cause something to break noisily into a lot of small pieces :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Screwdriver": {
-    "Definition": "a tool for turning screws (short sharp-pointed metal pins, used to bind two objects together)",
-    "Definition (Cambridge automatic)": "a tool for turning screws , consisting of a handle joined to a metal rod shaped at one end to fit in the cut in the top of the screw",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Unscrew": {
-    "Definition": "take out the screws",
-    "Definition (Cambridge automatic)": "to take the lid or top off something by twisting it round:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Purposefully": {
-    "Definition": "intentionally, not by chance",
-    "Definition (Cambridge automatic)": "in a way that shows that you know what you want to do:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "On loan": {
-    "Definition": "for a period of time after which they had to be returned",
-    "Definition (Cambridge automatic)": "an amount of money that is borrowed , often from a bank , and has to be paid back, usually together with an extra amount of money that you have to pay as a charge for borrowing :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Restoration": {
-    "Definition": "the process of keeping something to its earlier  good condition",
-    "Definition (Cambridge automatic)": "the act or process of returning something to its earlier good condition or position , or to its owner :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Maintenance": {
-    "Definition": "the work needed to keep something in good condition",
-    "Definition (Cambridge automatic)": "the work needed to keep a road , building , machine , etc. in good condition :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Keeping track": {
-    "Definition": "keeping informed about",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Knew this all too well": {
-    "Definition": "was very well informed",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Recounts": {
-    "Definition": "tells",
-    "Definition (Cambridge automatic)": "to describe how something happened , or to tell a story :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Tactic": {
-    "Definition": "planned way of doing something",
-    "Definition (Cambridge automatic)": "a planned way of doing something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Ironies": {
-    "Definition": "situations in which something is actually the opposite of what would be expected to be",
-    "Definition (Cambridge automatic)": "a situation in which something which was intended to have a particular result has the opposite or a very different result :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Broke": {
-    "Definition": "poor",
-    "Definition (Cambridge automatic)": "past simple of break",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Struggling": {
-    "Definition": "having difficulties with something",
-    "Definition (Cambridge automatic)": "unsuccessful",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Toll roads": {
-    "Definition": "roads he has to pay to use",
-    "Definition (Cambridge automatic)": "a road that you pay to use:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "The highest bidder": {
-    "Definition": "someone who offers the most money for something",
-    "Definition (Cambridge automatic)": "someone who offers to pay a particular amount of money for something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hopelessly": {
-    "Definition": "extremely",
-    "Definition (Cambridge automatic)": "extremely , or in a way that makes you lose hope :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Addicted": {
-    "Definition": "unable to stop doing something",
-    "Definition (Cambridge automatic)": "unable",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Thrill": {
-    "Definition": "a feeling of great excitement",
-    "Definition (Cambridge automatic)": "a feeling of extreme excitement , usually caused by something pleasant :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Possess": {
-    "Definition": "own, have",
-    "Definition (Cambridge automatic)": "to have or own something, or to have a particular quality :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "In the slightest": {
-    "Definition": "at all",
-    "Definition (Cambridge automatic)": "small in amount or degree :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Encounters": {
-    "Definition": "meetings",
-    "Definition (Cambridge automatic)": "a meeting , especially one that happens by chance :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Closest call": {
-    "Definition": "most dangerous escape from danger",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Encounter": {
-    "Definition": "meeting",
-    "Definition (Cambridge automatic)": "a meeting , especially one that happens by chance :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Persuade": {
-    "Definition": "make them believe they were telling the truth by talking to them",
-    "Definition (Cambridge automatic)": "to make someone do or believe something by giving them a good reason to do it or by talking to that person and making them believe it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Prior": {
-    "Definition": "previous",
-    "Definition (Cambridge automatic)": "existing or happening before something else , or before a particular time :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Tended": {
-    "Definition": "were likely",
-    "Definition (Cambridge automatic)": "to be likely to behave in a particular way or have a particular characteristic :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Scale": {
-    "Definition": "level or seriousness",
-    "Definition (Cambridge automatic)": "a set of numbers , amounts , etc., used to measure or compare the level of something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Boldness": {
-    "Definition": "willingness to accept risks",
-    "Definition (Cambridge automatic)": "a",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Invincible": {
-    "Definition": "impossible to be defeated",
-    "Definition (Cambridge automatic)": "impossible to defeat or prevent from doing what is intended :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Tensions": {
-    "Definition": "situations of disagreement and uneasiness",
-    "Definition (Cambridge automatic)": "the",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Sworn": {
-    "Definition": "promised",
-    "Definition (Cambridge automatic)": "past participle of swear",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bugle": {
-    "Definition": "a musical instrument like a small trumpet",
-    "Definition (Cambridge automatic)": "a musical instrument like a simple trumpet , used especially in the army",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Wipe off": {
-    "Definition": "remove",
-    "Definition (Cambridge automatic)": "to remove something from something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Obey": {
-    "Definition": "follow",
-    "Definition (Cambridge automatic)": "to act according to what you have been asked or ordered to do by someone in authority , or to behave according to a rule , law , or instruction :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Stepped out": {
-    "Definition": "went out",
-    "Definition (Cambridge automatic)": "If you",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Getting on": {
-    "Definition": "progressing, managing",
-    "Definition (Cambridge automatic)": "to have a good relationship :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Suspiciously": {
-    "Definition": "in a way that made him think that something is wrong",
-    "Definition (Cambridge automatic)": "in a way that makes you think that something is wrong :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Denies": {
-    "Definition": "said that it wasn't true",
-    "Definition (Cambridge automatic)": "to say that something is not TRUE :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Small-time": {
-    "Definition": "not important",
-    "Definition (Cambridge automatic)": "not very successful or important :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Opportunist": {
-    "Definition": "someone who tries to take advantage of a situation",
-    "Definition (Cambridge automatic)": "someone who tries to get power or an advantage in every situation :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Search warrant": {
-    "Definition": "an official document that would allow them to search his house",
-    "Definition (Cambridge automatic)": "an official document that gives police officers the authority to search a building for stolen property , illegal goods , or information that might help to solve a crime",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Expectantly": {
-    "Definition": "expecting to find something",
-    "Definition (Cambridge automatic)": "to think or believe something will happen , or someone will arrive :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Extent": {
-    "Definition": "amount",
-    "Definition (Cambridge automatic)": "area or length ; amount :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "In police custody": {
-    "Definition": "arrested and guarded by the police",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Crumble": {
-    "Definition": "break",
-    "Definition (Cambridge automatic)": "to break , or cause something to break , into small pieces :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Pile": {
-    "Definition": "objects positioned on top of each other",
-    "Definition (Cambridge automatic)": "objects positioned one on top of another:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Canal": {
-    "Definition": "a waterway made by people",
-    "Definition (Cambridge automatic)": "a long , thin stretch of water that is artificially made either for boats to travel along or for taking water from one area to another:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Confessed": {
-    "Definition": "admitted that he had done it",
-    "Definition (Cambridge automatic)": "to admit that you have done something wrong or something that you feel guilty or bad about:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "To this day": {
-    "Definition": "up to now",
-    "Definition (Cambridge automatic)": "a period of 24 hours , especially from twelve o'clock one night to twelve o'clock the next night :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Beyond repair": {
-    "Definition": "so damaged that it cannot be repaired",
-    "Definition (Cambridge automatic)": "to put something that is damaged , broken , or not working correctly , back into good condition or make it work again:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Wept": {
-    "Definition": "cried a lot",
-    "Definition (Cambridge automatic)": "past simple and past participle of weep",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Profusely": {
-    "Definition": "in large amounts",
-    "Definition (Cambridge automatic)": "in large amounts :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Severity": {
-    "Definition": "seriousness",
-    "Definition (Cambridge automatic)": "seriousness :",
-    "IPA": null,
-    "IELTS": null
+  "RELICS": {
+    "Definition": "items of great historical or cultural value"
+  },
+  "PROLIFIC": {
+    "Definition": "producing a great number of something or having repeated an activity many times"
+  },
+  "EXTENSIVE": {
+    "Definition": "of great extent or length"
+  },
+  "CREDITED": {
+    "Definition": "considered a result of something"
+  },
+  "GET-OUT-OF-JAIL-FREE CARD": {
+    "Definition": "something that is used as an insurance in order to avoid an unpleasant situation, like going to jail. (A reference to the board game Monopoly, in which this card allows players to leave the jail space without missing a turn.)"
+  },
+  "BARGAINING CHIP": {
+    "Definition": "something that you are prepared to give up in order to reach an agreement and get what you want"
+  },
+  "#REF!": {
+    "Definition": "#REF!"
+  },
+  "COLLATERAL": {
+    "Definition": "something used as security for the payment of a loan"
+  },
+  "ESTIMATE": {
+    "Definition": "guessed or calculated the value"
+  },
+  "MONETARY VALUE": {
+    "Definition": "value in money"
+  },
+  "GLAMOROUS": {
+    "Definition": "dressing with impressive clothes and being exciting"
+  },
+  "CHATEAU": {
+    "Definition": "a large house"
+  },
+  "NONDESCRIPT": {
+    "Definition": "very ordinary"
+  },
+  "CLUE": {
+    "Definition": "information that helps us understand something better"
+  },
+  "LAVISH": {
+    "Definition": "expensive and impressive"
+  },
+  "ANTIQUE": {
+    "Definition": "dating from a period long ago"
+  },
+  "ACCOMPLICE": {
+    "Definition": "a person who helps someone to commit a crime"
+  },
+  "PARTNER IN CRIME": {
+    "Definition": "a person who helps someone to commit a crime"
+  },
+  "TWO PEAS IN A POD": {
+    "Definition": "very similar"
+  },
+  "INTROVERTED": {
+    "Definition": "shy"
+  },
+  "TRANSITION": {
+    "Definition": "change from one form to another"
+  },
+  "PISTOL": {
+    "Definition": "a small hand-held gun"
+  },
+  "PISTOLS": {
+    "Definition": "small hand-held guns"
+  },
+  "RESIST": {
+    "Definition": "stop himself from doing it"
+  },
+  "ENCOURAGED": {
+    "Definition": "gave his support to"
+  },
+  "MACHINE GUNS": {
+    "Definition": "automatic guns that can fire lots of bullets very quickly"
+  },
+  "SMASHING": {
+    "Definition": "breaking with force"
+  },
+  "UNUSUAL": {
+    "Definition": "not common or ordinary"
+  },
+  "SNUCK INTO": {
+    "Definition": "went in, in a quiet way so as not to be seen or heard"
+  },
+  "THREATENED": {
+    "Definition": "told someone that he would harm them"
+  },
+  "ANTIQUES": {
+    "Definition": "items dating from a period long ago"
+  },
+  "DISGUISE": {
+    "Definition": "fake appearance"
+  },
+  "STOCKINGS": {
+    "Definition": "tight-fit coverings for the feet and part of the legs"
+  },
+  "FINGERPRINTS": {
+    "Definition": "the different in every person pattern of lines on the end of a finger"
+  },
+  "METICULOUSLY": {
+    "Definition": "in a way that shows extreme care and attention to detail"
+  },
+  "SUREFIRE": {
+    "Definition": "certain"
+  },
+  "COUGH": {
+    "Definition": "the act of forcing air out of his lungs suddenly and noisily"
+  },
+  "SMASH": {
+    "Definition": "break with force"
+  },
+  "SCREWDRIVER": {
+    "Definition": "a tool for turning screws (short sharp-pointed metal pins, used to bind two objects together)"
+  },
+  "UNSCREW": {
+    "Definition": "take out the screws"
+  },
+  "PURPOSEFULLY": {
+    "Definition": "intentionally, not by chance"
+  },
+  "ON LOAN": {
+    "Definition": "for a period of time after which they had to be returned"
+  },
+  "RESTORATION": {
+    "Definition": "the process of keeping something to its earlier  good condition"
+  },
+  "MAINTENANCE": {
+    "Definition": "the work needed to keep something in good condition"
+  },
+  "KEEPING TRACK": {
+    "Definition": "keeping informed about"
+  },
+  "KNEW THIS ALL TOO WELL": {
+    "Definition": "was very well informed"
+  },
+  "RECOUNTS": {
+    "Definition": "tells"
+  },
+  "TACTIC": {
+    "Definition": "planned way of doing something"
+  },
+  "IRONIES": {
+    "Definition": "situations in which something is actually the opposite of what would be expected to be"
+  },
+  "BROKE": {
+    "Definition": "poor"
+  },
+  "STRUGGLING": {
+    "Definition": "having difficulties with something"
+  },
+  "TOLL ROADS": {
+    "Definition": "roads he has to pay to use"
+  },
+  "THE HIGHEST BIDDER": {
+    "Definition": "someone who offers the most money for something"
+  },
+  "HOPELESSLY": {
+    "Definition": "extremely"
+  },
+  "ADDICTED": {
+    "Definition": "unable to stop doing something"
+  },
+  "THRILL": {
+    "Definition": "a feeling of great excitement"
+  },
+  "POSSESS": {
+    "Definition": "own, have"
+  },
+  "IN THE SLIGHTEST": {
+    "Definition": "at all"
+  },
+  "ENCOUNTERS": {
+    "Definition": "meetings"
+  },
+  "CLOSEST CALL": {
+    "Definition": "most dangerous escape from danger"
+  },
+  "ENCOUNTER": {
+    "Definition": "meeting"
+  },
+  "PERSUADE": {
+    "Definition": "make them believe they were telling the truth by talking to them"
+  },
+  "PRIOR": {
+    "Definition": "previous"
+  },
+  "TENDED": {
+    "Definition": "were likely"
+  },
+  "SCALE": {
+    "Definition": "level or seriousness"
+  },
+  "BOLDNESS": {
+    "Definition": "willingness to accept risks"
+  },
+  "INVINCIBLE": {
+    "Definition": "impossible to be defeated"
+  },
+  "TENSIONS": {
+    "Definition": "situations of disagreement and uneasiness"
+  },
+  "SWORN": {
+    "Definition": "promised"
+  },
+  "BUGLE": {
+    "Definition": "a musical instrument like a small trumpet"
+  },
+  "WIPE OFF": {
+    "Definition": "remove"
+  },
+  "OBEY": {
+    "Definition": "follow"
+  },
+  "STEPPED OUT": {
+    "Definition": "went out"
+  },
+  "GETTING ON": {
+    "Definition": "progressing, managing"
+  },
+  "SUSPICIOUSLY": {
+    "Definition": "in a way that made him think that something is wrong"
+  },
+  "DENIES": {
+    "Definition": "said that it wasn't true"
+  },
+  "SMALL-TIME": {
+    "Definition": "not important"
+  },
+  "OPPORTUNIST": {
+    "Definition": "someone who tries to take advantage of a situation"
+  },
+  "SEARCH WARRANT": {
+    "Definition": "an official document that would allow them to search his house"
+  },
+  "EXPECTANTLY": {
+    "Definition": "expecting to find something"
+  },
+  "EXTENT": {
+    "Definition": "amount"
+  },
+  "IN POLICE CUSTODY": {
+    "Definition": "arrested and guarded by the police"
+  },
+  "CRUMBLE": {
+    "Definition": "break"
+  },
+  "PILE": {
+    "Definition": "objects positioned on top of each other"
+  },
+  "CANAL": {
+    "Definition": "a waterway made by people"
+  },
+  "CONFESSED": {
+    "Definition": "admitted that he had done it"
+  },
+  "TO THIS DAY": {
+    "Definition": "up to now"
+  },
+  "BEYOND REPAIR": {
+    "Definition": "so damaged that it cannot be repaired"
+  },
+  "WEPT": {
+    "Definition": "cried a lot"
+  },
+  "PROFUSELY": {
+    "Definition": "in large amounts"
+  },
+  "SEVERITY": {
+    "Definition": "seriousness"
   },
   "": {
-    "Definition": null,
-    "Definition (Cambridge automatic)": null,
-    "IPA": null,
-    "IELTS": null
+    "Definition": null
   }
 }
