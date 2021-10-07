@@ -1,0 +1,311 @@
+{
+  "HANDYMAN": {
+    "Definition": "a person who does small repair jobs"
+  },
+  "DROPOUTS": {
+    "Definition": "people who have left university before completing their studies"
+  },
+  "RELIEVE": {
+    "Definition": "rob someone of something"
+  },
+  "PUZZLED": {
+    "Definition": "troubled, caused confusion because they could not understand it"
+  },
+  "MOB": {
+    "Definition": "criminal organisation"
+  },
+  "SOCIALITE": {
+    "Definition": "a stylish person who is well known in society"
+  },
+  "DODGY": {
+    "Definition": "dishonest or unreliable"
+  },
+  "BRAINCHILD": {
+    "Definition": "an original idea of a person"
+  },
+  "ARCHES": {
+    "Definition": "structures shaped like an inverted U, used as doorways etc."
+  },
+  "STROLL": {
+    "Definition": "walk in a slow, relaxed way"
+  },
+  "FRAMES": {
+    "Definition": "structures or borders that surround a painting"
+  },
+  "ANCESTRY": {
+    "Definition": "origin"
+  },
+  "REVELLERS": {
+    "Definition": "people celebrating in a noisy and lively way"
+  },
+  "PARTYGOERS": {
+    "Definition": "people attending a party"
+  },
+  "BUZZER": {
+    "Definition": "an electronic device that makes an alarming buzzing sound"
+  },
+  "DISTURBANCE": {
+    "Definition": "lawless behaviour"
+  },
+  "BUZZED": {
+    "Definition": "pressed the button that opened the door while making a buzzing sound"
+  },
+  "PANIC ALARM BUTTON": {
+    "Definition": "a button that is used to call for help in a dangerous situation"
+  },
+  "WARRANT": {
+    "Definition": "an official document that would allow the policemen to catch him"
+  },
+  "ARREST": {
+    "Definition": "the act of catching and holding someone under the authority of law"
+  },
+  "HANDCUFFS": {
+    "Definition": "two metal rings connected with a chain that are used to lock the wrists together"
+  },
+  "ARRESTED": {
+    "Definition": "caught and held under the authority of law"
+  },
+  "HANDCUFFED": {
+    "Definition": "secured or bound by using handcuffs"
+  },
+  "DUCT-TAPE": {
+    "Definition": "a strong type of sticky cloth used to bind things together, a very strong sellotape"
+  },
+  "RADIATOR": {
+    "Definition": "a device used for heating or cooling"
+  },
+  "ESTIMATE": {
+    "Definition": "guess or calculate the value of something"
+  },
+  "THE PLOT THICKENS": {
+    "Definition": "the situation becomes more mysterious and complicated"
+  },
+  "PROPORTION": {
+    "Definition": "number"
+  },
+  "OPPORTUNIST": {
+    "Definition": "someone who tries to take advantage of a situation"
+  },
+  "SEASCAPE": {
+    "Definition": "a painting of a sea scene"
+  },
+  "VASE": {
+    "Definition": "a container used for decoration or holding flowers"
+  },
+  "DEVALUING": {
+    "Definition": "reducing their value"
+  },
+  "SOPHISTICATED": {
+    "Definition": "experienced and having a great knowledge and understanding of things"
+  },
+  "INTENTION": {
+    "Definition": "plan"
+  },
+  "SUSPICIOUS": {
+    "Definition": "making someone feel that something is wrong"
+  },
+  "CUT CORNERS": {
+    "Definition": "save costs"
+  },
+  "TO PUT IT BLUNTLY": {
+    "Definition": "used when saying something honest but unpleasant"
+  },
+  "SUSPICION": {
+    "Definition": "a feeling or belief that someone is guilty"
+  },
+  "FOR STARTERS": {
+    "Definition": "to begin with"
+  },
+  "LEGITIMATE": {
+    "Definition": "allowed by law"
+  },
+  "SIGNALLING": {
+    "Definition": "communicating or making something known using an action or a sound"
+  },
+  "PROTOCOL": {
+    "Definition": "the system of rules used in an organisation"
+  },
+  "MOTION SENSORS": {
+    "Definition": "devices that detect physical movement"
+  },
+  "TARGETED": {
+    "Definition": "was treated as a person of attention"
+  },
+  "INFUSION": {
+    "Definition": "grab, possession"
+  },
+  "GET-OUT-OF-JAIL-FREE CARD": {
+    "Definition": "something that is used as an insurance in order to avoid an unpleasant situation, like going to jail. (A reference to the board game Monopoly, in which this card allows players to leave the jail space without missing a turn.)"
+  },
+  "BARGAINING CHIP": {
+    "Definition": "something that you are prepared to give up in order to reach an agreement and get what you want"
+  },
+  "#REF!": {
+    "Definition": "#REF!"
+  },
+  "IMMUNITY": {
+    "Definition": "a situation in which someone is protected from legal action"
+  },
+  "SUSPECTS": {
+    "Definition": "people thought to be guilty"
+  },
+  "MOTIVE": {
+    "Definition": "reason for doing something"
+  },
+  "TO ORDER": {
+    "Definition": "done after someone else ordered it"
+  },
+  "CLUMSY": {
+    "Definition": "careless and without skill"
+  },
+  "REWARD": {
+    "Definition": "something given in exchange of good work"
+  },
+  "TEMPTING": {
+    "Definition": "making someone want to do something"
+  },
+  "PROSECUTED": {
+    "Definition": "officially brought to a law court to face judgement"
+  },
+  "COME FORWARD": {
+    "Definition": "offer to give information"
+  },
+  "LEADS": {
+    "Definition": "pieces of information that helped find the answer to the mystery"
+  },
+  "CLUES": {
+    "Definition": "information that helped find the answer to the mystery"
+  },
+  "WHEREABOUTS": {
+    "Definition": "the place where something is"
+  },
+  "ANONYMOUS": {
+    "Definition": "without making their name known"
+  },
+  "NEGOTIATE": {
+    "Definition": "have discussions in order to reach an agreement about something"
+  },
+  "DISGUISES": {
+    "Definition": "fake appearances"
+  },
+  "CREDIBLE": {
+    "Definition": "believable"
+  },
+  "RESOLUTION": {
+    "Definition": "the action of solving a problem"
+  },
+  "NEGOTIATIONS": {
+    "Definition": "discussions in order to reach an agreement about something"
+  },
+  "TERMS": {
+    "Definition": "conditions that are part of an agreement"
+  },
+  "STOOD DOWN": {
+    "Definition": "stopped their investigations"
+  },
+  "INDICATING": {
+    "Definition": "showing"
+  },
+  "ENCOURAGED": {
+    "Definition": "given confidence or hope"
+  },
+  "STEPPED DOWN": {
+    "Definition": "stopped their investigations"
+  },
+  "INTENTLY": {
+    "Definition": "with great attention"
+  },
+  "HOT LEAD": {
+    "Definition": "important information that helped find answers"
+  },
+  "CANVAS": {
+    "Definition": "a heavy fabric on which a painting is done"
+  },
+  "FRAYED": {
+    "Definition": "damaged along the edges"
+  },
+  "FRAME": {
+    "Definition": "structure or border that surrounds a painting"
+  },
+  "CRACKING": {
+    "Definition": "breaking without complete separation of the parts"
+  },
+  "CHIPS": {
+    "Definition": "small broken or cut off pieces"
+  },
+  "LAB": {
+    "Definition": "laboratory, a room or building equipped for scientific experimentation or examination"
+  },
+  "CONSISTENT": {
+    "Definition": "in agreement or compatible"
+  },
+  "COOPERATE": {
+    "Definition": "act or work together"
+  },
+  "STALLED": {
+    "Definition": "stopped making progress"
+  },
+  "RAIDED": {
+    "Definition": "suddenly entered in order for them to find and remove the valuables"
+  },
+  "COOPERATING": {
+    "Definition": "acting or working together"
+  },
+  "BREAKTHROUGH": {
+    "Definition": "an important discovery that helped them improve their situation"
+  },
+  "INQUIRY": {
+    "Definition": "investigation"
+  },
+  "CORRUPTION": {
+    "Definition": "illegal behaviour by those in power"
+  },
+  "INFAMOUS": {
+    "Definition": "famous for something bad"
+  },
+  "INFORMANT": {
+    "Definition": "someone who gives information to an organisation"
+  },
+  "CORRUPT": {
+    "Definition": "caused them to behave in a dishonest or illegal way"
+  },
+  "INTENDED": {
+    "Definition": "planned"
+  },
+  "INTERCEPTED": {
+    "Definition": "caught before being able to reach its destination"
+  },
+  "GRAVE": {
+    "Definition": "a place in the ground where a dead person is buried"
+  },
+  "INMATES": {
+    "Definition": "people who are kept in prison"
+  },
+  "IMPLICATED": {
+    "Definition": "involved"
+  },
+  "FOR SAFEKEEPING": {
+    "Definition": "to look after"
+  },
+  "DENIED": {
+    "Definition": "refused to accept"
+  },
+  "PERSUADE": {
+    "Definition": "make them believe him by talking to them"
+  },
+  "HEALTH IS FAILING": {
+    "Definition": "health is getting worse"
+  },
+  "DENIES": {
+    "Definition": "refuses to accept"
+  },
+  "FEARFUL": {
+    "Definition": "afraid or worried"
+  },
+  "SPILL THE BEANS": {
+    "Definition": "give secret information"
+  },
+  "": {
+    "Definition": null
+  }
+}
