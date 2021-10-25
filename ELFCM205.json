@@ -1,0 +1,488 @@
+{
+  "REFERENDUM": {
+    "Definition": "a general, public vote on a single political question"
+  },
+  "EXPECTATIONS": {
+    "Definition": "things that were hoped for or looked forward to"
+  },
+  "COVER": {
+    "Definition": "deal with and take into account"
+  },
+  "SHOCK": {
+    "Definition": "a sudden and intense emotional experience"
+  },
+  "ESTABLISHMENT": {
+    "Definition": "a group of people holding most of the power and influence in a society"
+  },
+  "GONE AGAINST THE PREFERENCES": {
+    "Definition": "chosen the option which was opposite to the choice"
+  },
+  "GO ITS WAY": {
+    "Definition": "be favourable to them"
+  },
+  "CAMPS": {
+    "Definition": "sides or groups of people who support the same cause"
+  },
+  "PLAYBOOK": {
+    "Definition": "a book containing descriptions of how to deal with a situation"
+  },
+  "CLEAN BREAK": {
+    "Definition": "complete separation"
+  },
+  "CUTTING THE COUNTRY OFF": {
+    "Definition": "separating the country, breaking its connections with"
+  },
+  "SHARPLY": {
+    "Definition": "suddenly"
+  },
+  "PAINFUL": {
+    "Definition": "causing anxiety or trouble"
+  },
+  "GRADUAL": {
+    "Definition": "happening slowly over a period of time"
+  },
+  "GENTLE": {
+    "Definition": "calm"
+  },
+  "ANALOGY": {
+    "Definition": "comparison between things that have similar features"
+  },
+  "BREAKUP": {
+    "Definition": "end"
+  },
+  "SLAMMING": {
+    "Definition": "shutting forcefully and loudly"
+  },
+  "CHANGING THE LOCKS": {
+    "Definition": "placing new locks which will require new keys"
+  },
+  "PURELY": {
+    "Definition": "only"
+  },
+  "PLATONIC": {
+    "Definition": "not sexual"
+  },
+  "SOON-TO-BE-EX": {
+    "Definition": "planned-to-be-ex"
+  },
+  "HURDLE": {
+    "Definition": "problem or difficulty"
+  },
+  "CAREER-DESTROYING": {
+    "Definition": "that destroyed their careers"
+  },
+  "CAREER-MAKING": {
+    "Definition": "that created their careers"
+  },
+  "RESIGNED": {
+    "Definition": "gave up his office"
+  },
+  "POWER STRUGGLE": {
+    "Definition": "competition for control"
+  },
+  "ENSUED": {
+    "Definition": "happened as a result of the previous event"
+  },
+  "SHORE UP": {
+    "Definition": "give (support)"
+  },
+  "COALITION": {
+    "Definition": "the joining together of different political parties"
+  },
+  "CHARACTERISED": {
+    "Definition": "typical or characteristic of"
+  },
+  "ATTEMPTS": {
+    "Definition": "tries"
+  },
+  "PREDECESSOR": {
+    "Definition": "the person who had the same position before her"
+  },
+  "COST HER HER HEAD": {
+    "Definition": "cost her her position, her office"
+  },
+  "IN THE MEANTIME": {
+    "Definition": "while this was happening"
+  },
+  "DE FACTO": {
+    "Definition": "actual, existing in fact"
+  },
+  "OUT OF HIS WAY": {
+    "Definition": "no longer being a problem"
+  },
+  "LEGITIMACY": {
+    "Definition": "the quality of being legal"
+  },
+  "SECURED": {
+    "Definition": "made it certain, ensured"
+  },
+  "SLOGAN": {
+    "Definition": "a short, easily remembered phrase which expressed its aims"
+  },
+  "RESONATED": {
+    "Definition": "was met with agreement by"
+  },
+  "BACK AND FORTH": {
+    "Definition": "backward and forward"
+  },
+  "MANDATE": {
+    "Definition": "the authority given to his government"
+  },
+  "ON BEHALF": {
+    "Definition": "representing, in the interest of"
+  },
+  "UNDERLINE": {
+    "Definition": "stress, emphasise"
+  },
+  "UNCLEAR": {
+    "Definition": "not obvious"
+  },
+  "SWIFT": {
+    "Definition": "done quickly"
+  },
+  "RIGHT UP TO THE KNIFE’S EDGE": {
+    "Definition": "to a very stressful and difficult situation"
+  },
+  "HARDLINE": {
+    "Definition": "strict, extreme"
+  },
+  "FEARED": {
+    "Definition": "expected"
+  },
+  "NO-DEAL": {
+    "Definition": "failing to reach agreement"
+  },
+  "FOREIGN POLICY": {
+    "Definition": "a government's strategy in dealing with foreign nations"
+  },
+  "PREDICTIONS": {
+    "Definition": "opinions about what they thought would happen in the future"
+  },
+  "DIRE": {
+    "Definition": "very serious and causing fear"
+  },
+  "THE TREASURY": {
+    "Definition": "the department of the government responsible for financial matters"
+  },
+  "SHORTAGES": {
+    "Definition": "situations in which there wouldn't be enough"
+  },
+  "COLLAPSE": {
+    "Definition": "a sudden fall"
+  },
+  "SCENARIO": {
+    "Definition": "supposed situation"
+  },
+  "LEAVE THE CUSTOMS UNION": {
+    "Definition": "leave the group of countries that have agreed to allow free trade"
+  },
+  "STRIKE": {
+    "Definition": "reach or achieve"
+  },
+  "ADVANTAGEOUS": {
+    "Definition": "giving advantages"
+  },
+  "GRIM": {
+    "Definition": "bad, worrying"
+  },
+  "CONVERSELY": {
+    "Definition": "in an opposite way"
+  },
+  "PLUNGED": {
+    "Definition": "fallen suddenly"
+  },
+  "APOCALYPTIC": {
+    "Definition": "disastrous"
+  },
+  "FEAR MONGERS": {
+    "Definition": "people who intentionally and needlessly had tried to make people afraid of Brexit"
+  },
+  "WITHDRAWAL": {
+    "Definition": "the action of stopping being part of EU"
+  },
+  "FACTORED IN": {
+    "Definition": "taken into account, predicted"
+  },
+  "ASSESSMENT": {
+    "Definition": "judgement, analysis"
+  },
+  "ALL ROUND": {
+    "Definition": "complete"
+  },
+  "DISRUPTION": {
+    "Definition": "the action of interrupting the progress of"
+  },
+  "EXTENT": {
+    "Definition": "length, amount"
+  },
+  "DISTINCT": {
+    "Definition": "easy to see"
+  },
+  "LACK": {
+    "Definition": "absence"
+  },
+  "PROPONENTS": {
+    "Definition": "public supporters"
+  },
+  "CONVENIENT": {
+    "Definition": "suitable or favorable to their purpose"
+  },
+  "BLAME": {
+    "Definition": "say that they were responsible for the situation"
+  },
+  "SCORE POLITICAL POINTS": {
+    "Definition": "gain more political influence"
+  },
+  "ARGUE": {
+    "Definition": "to attempt to prove that they were right"
+  },
+  "STAUNCHEST": {
+    "Definition": "most loyal"
+  },
+  "STRUGGLE": {
+    "Definition": "find difficulties in"
+  },
+  "CLAIM": {
+    "Definition": "say it's true"
+  },
+  "TANGIBLE": {
+    "Definition": "able to be shown or experienced"
+  },
+  "POINTS-BASED": {
+    "Definition": "based on points"
+  },
+  "ASSESSED": {
+    "Definition": "judged, analysed"
+  },
+  "LOW-SKILLED": {
+    "Definition": "not having a high level of abilities or education"
+  },
+  "SKILLED": {
+    "Definition": "having abilities and a certain level of education"
+  },
+  "CAME INTO PLACE": {
+    "Definition": "was introduced"
+  },
+  "KEEN": {
+    "Definition": "interested in"
+  },
+  "ASSURING": {
+    "Definition": "making them feel sure"
+  },
+  "TEETHING ISSUE": {
+    "Definition": "short-term problem that appears in the early stages of a new situation"
+  },
+  "GENEROUS": {
+    "Definition": "willing to give money and help"
+  },
+  "HIGHLY-SKILLED": {
+    "Definition": "having a lot of abilities and a high level of education"
+  },
+  "RESTORATION": {
+    "Definition": "the act of bringing something back"
+  },
+  "SOVEREIGNTY": {
+    "Definition": "the power of the country to control its own government"
+  },
+  "ASPECT": {
+    "Definition": "part"
+  },
+  "POPULIST": {
+    "Definition": "supporting the right and power of the people"
+  },
+  "EVOLUTION": {
+    "Definition": "development"
+  },
+  "STRENGTHEN": {
+    "Definition": "make something stronger"
+  },
+  "STRONGHOLD": {
+    "Definition": "a place that serves as the center of certain group of people"
+  },
+  "PLEDGE": {
+    "Definition": "formal promise"
+  },
+  "SUFFICIENTLY": {
+    "Definition": "to a satisfying or acceptable degree, enough"
+  },
+  "PATRIOTIC": {
+    "Definition": "showing love and loyalty to their country"
+  },
+  "DIVISIVE": {
+    "Definition": "causing disagreement between people"
+  },
+  "ROUGHER": {
+    "Definition": "less smooth or harsher and unpleasant"
+  },
+  "AGGRESSIVE": {
+    "Definition": "behaving in an angry and violent way"
+  },
+  "HOSTILE": {
+    "Definition": "unfriendly"
+  },
+  "APPROACH": {
+    "Definition": "way of dealing with a situation"
+  },
+  "ASYLUM SEEKERS": {
+    "Definition": "people who have left their home country as political refugees and look for help and protection in another"
+  },
+  "POLITICAL BASE": {
+    "Definition": "voters"
+  },
+  "DISDAIN": {
+    "Definition": "a feeling that they were unworthy"
+  },
+  "HIS POLITICAL BASE": {
+    "Definition": "his voters"
+  },
+  "FULL WELL": {
+    "Definition": "without a doubt"
+  },
+  "RESONATES": {
+    "Definition": "is met with agreement by"
+  },
+  "STRENGTH": {
+    "Definition": "influence or power"
+  },
+  "RESTRAINED": {
+    "Definition": "prevented, kept under control"
+  },
+  "EXCESSES": {
+    "Definition": "actions that go beyond the accepted limits"
+  },
+  "NEUTRAL": {
+    "Definition": "not taking sides"
+  },
+  "UNBIASED": {
+    "Definition": "fair, showing no favouritism"
+  },
+  "AWARE": {
+    "Definition": "having knowledge"
+  },
+  "DEGRADATION": {
+    "Definition": "the process in which the quality of something is becoming worse"
+  },
+  "SUBSIDIES": {
+    "Definition": "money given by the state to help an industry"
+  },
+  "ENCOURAGED": {
+    "Definition": "gave support to or reasons for"
+  },
+  "BIODIVERSITY": {
+    "Definition": "variety of animal and plant life"
+  },
+  "ENDANGERED": {
+    "Definition": "at risk of extinction"
+  },
+  "SUSPECT": {
+    "Definition": "consider something to be true or probable"
+  },
+  "UNCONTROVERSIAL": {
+    "Definition": "not leading to public disagreement"
+  },
+  "PRECIOUS": {
+    "Definition": "of great value"
+  },
+  "ASSETS": {
+    "Definition": "useful and valuable resources"
+  },
+  "PENULTIMATE": {
+    "Definition": "next to last or second last"
+  },
+  "GLOBAL STANDING": {
+    "Definition": "the position of something in the world"
+  },
+  "NOSTALGIC": {
+    "Definition": "feeling desire or longing for situations of the past"
+  },
+  "DESIRE": {
+    "Definition": "a strong feeling of wanting to have something"
+  },
+  "FORMER": {
+    "Definition": "of the past"
+  },
+  "INDICATION": {
+    "Definition": "a sign or information that suggests something"
+  },
+  "ILLUSTRATED": {
+    "Definition": "presented"
+  },
+  "NUCLEAR-POWERED": {
+    "Definition": "using power that is generated by a nuclear reactor"
+  },
+  "ABANDON": {
+    "Definition": "stop something before completion"
+  },
+  "GIVE UP": {
+    "Definition": "stop something before completion"
+  },
+  "TRANSFER": {
+    "Definition": "move from one place to another"
+  },
+  "LUCRATIVE": {
+    "Definition": "producing great profit"
+  },
+  "IN THE STRONGEST TERMS": {
+    "Definition": "expressing strong disapproval"
+  },
+  "BOUND": {
+    "Definition": "tied, connected"
+  },
+  "FELLOW": {
+    "Definition": "sharing a particular condition or activity"
+  },
+  "ANGLOPHONE": {
+    "Definition": "English-speaking"
+  },
+  "WEAKENED": {
+    "Definition": "made weaker"
+  },
+  "TOXIC": {
+    "Definition": "very unpleasant"
+  },
+  "SETTLED": {
+    "Definition": "agreed to, resolved"
+  },
+  "REEMERGED": {
+    "Definition": "appeared again"
+  },
+  "DOMINANT": {
+    "Definition": "being most powerful"
+  },
+  "COMPLEXITIES": {
+    "Definition": "difficulties"
+  },
+  "CONSIDERED": {
+    "Definition": "thought about, taken into consideration"
+  },
+  "BLOODY": {
+    "Definition": "involving bloodshed and cruelty"
+  },
+  "REINSTITUTING": {
+    "Definition": "introducing again"
+  },
+  "DE-FACTO": {
+    "Definition": "existing whether by right or not"
+  },
+  "BETRAYAL": {
+    "Definition": "disloyalty or deception"
+  },
+  "IMPLICATIONS": {
+    "Definition": "consequences"
+  },
+  "AFTERMATH": {
+    "Definition": "the period after an important event and its effects"
+  },
+  "TO STATE THE OBVIOUS": {
+    "Definition": "to say what can be seen clearly"
+  },
+  "FOR HOURS ON END": {
+    "Definition": "for a long time"
+  },
+  "PECULIARITIES": {
+    "Definition": "unusual and strange things"
+  },
+  "": {
+    "Definition": null
+  }
+}
