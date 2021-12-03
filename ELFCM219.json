@@ -1,0 +1,428 @@
+{
+  "ATTEMPT": {
+    "Definition": "try"
+  },
+  "VAST": {
+    "Definition": "extremely big, of great extent"
+  },
+  "INFINITE": {
+    "Definition": "without end or limit"
+  },
+  "DISPLAY": {
+    "Definition": "show, present"
+  },
+  "ALPHANUMERIC": {
+    "Definition": "containing letters and numbers"
+  },
+  "TAKE FOR GRANTED": {
+    "Definition": "consider it as true without questioning it"
+  },
+  "TO STATE THE OBVIOUS": {
+    "Definition": "to say what is clearly visible"
+  },
+  "RESTRICTED": {
+    "Definition": "limited"
+  },
+  "MUD": {
+    "Definition": "earth from the ground mixed with water"
+  },
+  "CHALK": {
+    "Definition": "a type of soft white rock"
+  },
+  "BASE": {
+    "Definition": "main elements or ingredients"
+  },
+  "PRISM": {
+    "Definition": "glass object"
+  },
+  "SPECTRUM": {
+    "Definition": "the set of colours in which light can be separated"
+  },
+  "IMMATERIAL": {
+    "Definition": "not important or relevant"
+  },
+  "UNDERLYING": {
+    "Definition": "present but not easily noticeable"
+  },
+  "PREJUDICES": {
+    "Definition": "unreasonable opinions formed without thought or knowledge"
+  },
+  "MATADOR": {
+    "Definition": "a man who fights and kills bulls at a bullfight"
+  },
+  "BULLRING": {
+    "Definition": "an arena where bullfights are held"
+  },
+  "CHARGE": {
+    "Definition": "attack by running violently against something"
+  },
+  "CHARGES": {
+    "Definition": "attacks by running violently against something"
+  },
+  "WAVING": {
+    "Definition": "moving up and down in the air"
+  },
+  "SUSCEPTIBLE": {
+    "Definition": "easily affected or influenced by"
+  },
+  "LURE": {
+    "Definition": "strong attractive quality"
+  },
+  "TIPS": {
+    "Definition": "money given as a reward for a service"
+  },
+  "SUMPTUARY": {
+    "Definition": "relating to laws that limit certain behaviours"
+  },
+  "DICTATED": {
+    "Definition": "told you with authority"
+  },
+  "BIZARRELY": {
+    "Definition": "in a strange and unusual way"
+  },
+  "DYE": {
+    "Definition": "a substance used to colour materials"
+  },
+  "CLAY": {
+    "Definition": "a ceramic brownish material, used for making bricks and containers"
+  },
+  "PRESTIGIOUS": {
+    "Definition": "having or showing high social status"
+  },
+  "SCARLET": {
+    "Definition": "bright red"
+  },
+  "HIGH-RANKING": {
+    "Definition": "having an important position"
+  },
+  "BISHOPS": {
+    "Definition": "priests of high rank"
+  },
+  "CARDINALS": {
+    "Definition": "priests of very high rank"
+  },
+  "APPEAL": {
+    "Definition": "the quality of being attractive and interesting"
+  },
+  "EVOKING": {
+    "Definition": "making people feel something"
+  },
+  "VIRILITY": {
+    "Definition": "male sexual strength, manliness"
+  },
+  "FERTILITY": {
+    "Definition": "the ability to produce young or children"
+  },
+  "DISTINCTION": {
+    "Definition": "separation"
+  },
+  "DOMINANT": {
+    "Definition": "noticeable"
+  },
+  "SCATTERED": {
+    "Definition": "thrown in different random directions"
+  },
+  "ABSORBS": {
+    "Definition": "takes in"
+  },
+  "LOGOS": {
+    "Definition": "designs or symbols used by companies"
+  },
+  "FUNDAMENTAL": {
+    "Definition": "very important"
+  },
+  "BELOVED": {
+    "Definition": "loved very much"
+  },
+  "SOUGHT AFTER": {
+    "Definition": "wanted by many people"
+  },
+  "DESIRABLE": {
+    "Definition": "wanted and wished for by most people"
+  },
+  "DYED": {
+    "Definition": "coloured"
+  },
+  "MOURNING": {
+    "Definition": "the feeling of great sadness because of someone's death"
+  },
+  "MISFORTUNE": {
+    "Definition": "unfortunate event or bad luck"
+  },
+  "PROMINENCE": {
+    "Definition": "the state of being important and popular"
+  },
+  "PRIOR TO": {
+    "Definition": "before"
+  },
+  "SOURCE": {
+    "Definition": "the place where something comes from"
+  },
+  "APPEALED": {
+    "Definition": "attracted, interested"
+  },
+  "SINCE THE DAWN OF TIME": {
+    "Definition": "as long as we have known, since ever"
+  },
+  "TOMB": {
+    "Definition": "a large stone underground room where someone important is buried"
+  },
+  "MINED": {
+    "Definition": "obtained or extracted from a tunnel dug into the earth"
+  },
+  "POLISHED": {
+    "Definition": "made shiny, without rough edges"
+  },
+  "INTACT": {
+    "Definition": "in the original state, as found"
+  },
+  "GROUND": {
+    "Definition": "reduced to powder by crushing it"
+  },
+  "MINERAL": {
+    "Definition": "a hard natural substance found in the earth"
+  },
+  "RESERVED": {
+    "Definition": "kept specially"
+  },
+  "LUXURY": {
+    "Definition": "great comfort"
+  },
+  "GLANCING": {
+    "Definition": "taking a quick look"
+  },
+  "BRANDING": {
+    "Definition": "particular design used to identify a product or company"
+  },
+  "FOCUS GROUPS": {
+    "Definition": "groups of people brought together to participate in a discussion about a product before it is launched"
+  },
+  "STAIN": {
+    "Definition": "coloured mark or spot"
+  },
+  "GAVE OFF": {
+    "Definition": "sent out, emitted"
+  },
+  "SMELLY": {
+    "Definition": "having an unpleasant smell"
+  },
+  "GATHERING": {
+    "Definition": "picking up, collecting"
+  },
+  "CRUSH": {
+    "Definition": "press very hard"
+  },
+  "ENSURING": {
+    "Definition": "making sure, making something certain to happen"
+  },
+  "MOIST": {
+    "Definition": "wet"
+  },
+  "SIMMER": {
+    "Definition": "gently boil"
+  },
+  "FERMENT": {
+    "Definition": "change it chemically by using bacteria or microorganisms"
+  },
+  "URINE": {
+    "Definition": "yellowish liquid that is released from the body"
+  },
+  "GIVEN OFF": {
+    "Definition": "sent out, emitted"
+  },
+  "DISGUSTING": {
+    "Definition": "extremely unpleasant"
+  },
+  "FOUL": {
+    "Definition": "extremely unpleasant, sickening"
+  },
+  "UNSURPRISINGLY": {
+    "Definition": "in a way that is not surprising"
+  },
+  "AFFORDABLE": {
+    "Definition": "able to be bought by"
+  },
+  "TOGA": {
+    "Definition": "a one-piece outer piece of clothing worn by men in ancient Rome"
+  },
+  "STRIPE": {
+    "Definition": "a line on the surface that was a different colour"
+  },
+  "PRIVILEGE": {
+    "Definition": "advantage that only one person or a group of people has"
+  },
+  "SYNTHETIC": {
+    "Definition": "made from human-made materials and not natural ones"
+  },
+  "MALARIA": {
+    "Definition": "a kind of disease that causes fever"
+  },
+  "COAL TAR": {
+    "Definition": "a black liquid made from coal"
+  },
+  "SUBSEQUENTLY": {
+    "Definition": "afterwards"
+  },
+  "SET UP": {
+    "Definition": "established, started"
+  },
+  "INTRIGUING": {
+    "Definition": "very interesting because of being unusual"
+  },
+  "MISREPRESENTATION": {
+    "Definition": "false presentation"
+  },
+  "PENULTIMATE": {
+    "Definition": "second-last"
+  },
+  "EMITTING": {
+    "Definition": "sending out"
+  },
+  "DIVINE": {
+    "Definition": "god or gods"
+  },
+  "THROWN OVER": {
+    "Definition": "thrown on them or above their heads"
+  },
+  "NEWLYWEDS": {
+    "Definition": "newly married couples"
+  },
+  "APPETISING": {
+    "Definition": "making you want to eat it"
+  },
+  "DECAY": {
+    "Definition": "the state of something that has gone bad, rot"
+  },
+  "ROTTENNESS": {
+    "Definition": "the state of something that has gone bad, decomposition"
+  },
+  "UNWANTED": {
+    "Definition": "not wanted or desired"
+  },
+  "FOLIAGE": {
+    "Definition": "leaves of a tree"
+  },
+  "EMBLEM": {
+    "Definition": "something that represents an idea"
+  },
+  "AGEING": {
+    "Definition": "growing old"
+  },
+  "SERE": {
+    "Definition": "the condition of being dry"
+  },
+  "DRIED UP": {
+    "Definition": "being left without vitality or liveliness"
+  },
+  "ALARMING": {
+    "Definition": "worrying or disturbing"
+  },
+  "GRUESOME": {
+    "Definition": "extremely unpleasant and shocking"
+  },
+  "ABHORRENT": {
+    "Definition": "inspiring disgust, hated"
+  },
+  "OPPRESSION": {
+    "Definition": "unfair, violent or cruel behaviour"
+  },
+  "TRAGIC": {
+    "Definition": "very sad"
+  },
+  "ALAS": {
+    "Definition": "used to express being sorry about something"
+  },
+  "HEARTENING": {
+    "Definition": "making you feel happy and hopeful"
+  },
+  "WANDER": {
+    "Definition": "walk, stroll"
+  },
+  "ITS FAIR SHARE": {
+    "Definition": "more than enough"
+  },
+  "TRACE": {
+    "Definition": "find, track"
+  },
+  "AFFORD": {
+    "Definition": "have the financial means, pay"
+  },
+  "EMPLOY": {
+    "Definition": "have them work for them and pay them"
+  },
+  "EVIDENT": {
+    "Definition": "easy to see"
+  },
+  "WHOLEMEAL": {
+    "Definition": "made from whole grains of wheat"
+  },
+  "INCIDENTALLY": {
+    "Definition": "by the way, speaking of which"
+  },
+  "AFFLUENT": {
+    "Definition": "rich"
+  },
+  "ON TREND": {
+    "Definition": "very fashionable"
+  },
+  "AGE-OLD": {
+    "Definition": "very old"
+  },
+  "PURITY": {
+    "Definition": "the condition of not having had sexual relations, chastity"
+  },
+  "GRANDEUR": {
+    "Definition": "greatness and impressiveness in appearance"
+  },
+  "TIED IN": {
+    "Definition": "connected"
+  },
+  "MARBLE": {
+    "Definition": "a typically white form of stone used in art and architecture"
+  },
+  "SPREADING": {
+    "Definition": "growing, expanded"
+  },
+  "IMPERIALISTS": {
+    "Definition": "people whose goal is to increase their nation's authority by controlling other nations"
+  },
+  "FASHIONED": {
+    "Definition": "made into a particular form"
+  },
+  "IN THE SAME MOULD": {
+    "Definition": "in the same way or style"
+  },
+  "BIZARRE": {
+    "Definition": "strange or unusual"
+  },
+  "SUPPOSED": {
+    "Definition": "believed to be true but without proof"
+  },
+  "ABSURD": {
+    "Definition": "unreasonable, ridiculous"
+  },
+  "TENDENCY": {
+    "Definition": "a characteristic way of behaving"
+  },
+  "COWARDLY": {
+    "Definition": "not having courage, not brave"
+  },
+  "UNTRUTH": {
+    "Definition": "lie, false statement"
+  },
+  "THEREIN": {
+    "Definition": "of that subject, in that matter"
+  },
+  "PERCEPTION": {
+    "Definition": "understanding"
+  },
+  "ASSIGNED": {
+    "Definition": "connected something with something else"
+  },
+  "SCRATCHED THE SURFACE": {
+    "Definition": "dealt with a small part of the subject"
+  },
+  "": {
+    "Definition": null
+  }
+}
