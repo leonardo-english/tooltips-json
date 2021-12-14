@@ -1,0 +1,440 @@
+{
+  "GANGSTERS": {
+    "Definition": "members of organised criminal groups"
+  },
+  "VILLAINS": {
+    "Definition": "bad people who break the law"
+  },
+  "ILLEGAL": {
+    "Definition": "not allowed by law"
+  },
+  "BRUTAL": {
+    "Definition": "violent and cruel"
+  },
+  "ROAMED": {
+    "Definition": "moved about without a specific destination"
+  },
+  "STATESIDE": {
+    "Definition": "to the United States"
+  },
+  "NOTORIOUS": {
+    "Definition": "famous for something bad"
+  },
+  "PRECISE": {
+    "Definition": "exact, accurate"
+  },
+  "TERRORISED": {
+    "Definition": "filled with terror"
+  },
+  "LET ME PAINT YOU A PICTURE": {
+    "Definition": "describe you something, create an image through words"
+  },
+  "SHAVEN": {
+    "Definition": "shaved, having his beard cut"
+  },
+  "BACK-TO-BACK": {
+    "Definition": "built right next to each other"
+  },
+  "RIDER": {
+    "Definition": "a person who travels on a horse"
+  },
+  "STONY-FACED": {
+    "Definition": "showing no emotion"
+  },
+  "SCATTER": {
+    "Definition": "move apart in different directions"
+  },
+  "FORTUNE TELLER": {
+    "Definition": "a person who is believed to be able to predict someone's future"
+  },
+  "NOSTRILS": {
+    "Definition": "the two openings in the nose through which one smells and breathes"
+  },
+  "LINGERS": {
+    "Definition": "takes a lot time to disappear"
+  },
+  "PROTAGONIST": {
+    "Definition": "main character"
+  },
+  "AIRED": {
+    "Definition": "broadcast, shown on TV"
+  },
+  "CULT": {
+    "Definition": "popular among a particular group"
+  },
+  "HIT": {
+    "Definition": "success"
+  },
+  "ENTERPRISE": {
+    "Definition": "organisation"
+  },
+  "GYPSIES": {
+    "Definition": "Romani people, traditionally travelling from place to place, living across Europe and North and South America"
+  },
+  "ARISTOCRATS": {
+    "Definition": "people with high social rank"
+  },
+  "SEPARATISTS": {
+    "Definition": "people who believed their nation should be independent"
+  },
+  "CORRUPT": {
+    "Definition": "acting illegally or in an dishonest way in order to gain money"
+  },
+  "CRITICAL": {
+    "Definition": "of critics (the people who review works of art)"
+  },
+  "ACCLAIM": {
+    "Definition": "approval, praise"
+  },
+  "INSPIRED BY": {
+    "Definition": "influenced by, that got the main idea from"
+  },
+  "UNPACK": {
+    "Definition": "reveal, explain or analyse"
+  },
+  "ALBEIT": {
+    "Definition": "although"
+  },
+  "DRAMATIC": {
+    "Definition": "exciting or impressive"
+  },
+  "SUBSISTENCE LEVEL": {
+    "Definition": "standard of living that provides for the basic needs only"
+  },
+  "SUCKED": {
+    "Definition": "drawn, pulled"
+  },
+  "URBAN": {
+    "Definition": "in the city"
+  },
+  "SANITATION": {
+    "Definition": "conditions related to public health"
+  },
+  "FICTIONAL": {
+    "Definition": "imagined, not real"
+  },
+  "CRAMPED": {
+    "Definition": "without having enough space to live"
+  },
+  "NON-EXISTENT": {
+    "Definition": "not existing, absent"
+  },
+  "TENDED": {
+    "Definition": "were likely to"
+  },
+  "TRADE": {
+    "Definition": "type of job, craft"
+  },
+  "BROADLY SPEAKING": {
+    "Definition": "generally speaking"
+  },
+  "LEGITIMATE": {
+    "Definition": "allowed by law"
+  },
+  "LEISURE": {
+    "Definition": "the time when they weren't working, free time"
+  },
+  "BREED": {
+    "Definition": "kind"
+  },
+  "TWIN": {
+    "Definition": "connected, linked"
+  },
+  "FORM": {
+    "Definition": "begin to exist, be created"
+  },
+  "BLOW OFF STEAM": {
+    "Definition": "get rid of negative energy, release strong emotions"
+  },
+  "MONOTONY": {
+    "Definition": "a boring or not interesting situation"
+  },
+  "ALONGSIDE": {
+    "Definition": "together with"
+  },
+  "PETTY CRIME": {
+    "Definition": "minor or not serious crime"
+  },
+  "RIFE": {
+    "Definition": "very common"
+  },
+  "PICKING PEOPLE’S POCKETS": {
+    "Definition": "stealing people's valuables from their pockets"
+  },
+  "NUISANCE": {
+    "Definition": "annoyance, problems"
+  },
+  "COMPULSORY": {
+    "Definition": "required"
+  },
+  "CRACK DOWN ON": {
+    "Definition": "start dealing with them, take measures against them"
+  },
+  "BELTS": {
+    "Definition": "bands or strips of leather worn around the waist to support clothes"
+  },
+  "SEVERELY": {
+    "Definition": "extremely"
+  },
+  "OUTNUMBERED": {
+    "Definition": "less in number than"
+  },
+  "ASSAULTS": {
+    "Definition": "attacks"
+  },
+  "NEMESIS": {
+    "Definition": "the main and difficult to defeat opponent"
+  },
+  "BEATING THEM UP": {
+    "Definition": "hitting them, causing them physical injuries"
+  },
+  "FISTS": {
+    "Definition": "hands with the fingers held tightly in"
+  },
+  "BUCKLES": {
+    "Definition": "pieces of metal used to fasten or tie together the two ends of a belt"
+  },
+  "SOPHISTICATED": {
+    "Definition": "experienced, skilled"
+  },
+  "SPRAWLING": {
+    "Definition": "spreading out over a large area"
+  },
+  "ALLIANCES": {
+    "Definition": "agreements to work together"
+  },
+  "EXTORT": {
+    "Definition": "get money for them using unfair ways or force"
+  },
+  "ALIKE": {
+    "Definition": "in the same way"
+  },
+  "GLAMOROUS": {
+    "Definition": "attractive and stylish"
+  },
+  "FAR FROM IT": {
+    "Definition": "the opposite"
+  },
+  "ENCOUNTERING": {
+    "Definition": "meeting by chance"
+  },
+  "LEWD": {
+    "Definition": "very rude in a sexual way, vulgar"
+  },
+  "SWEARING": {
+    "Definition": "being rude, insulting"
+  },
+  "BRICK": {
+    "Definition": "a block of hard material used for building walls"
+  },
+  "SKULL": {
+    "Definition": "the bones of the head that surround the brain"
+  },
+  "FRACTURED": {
+    "Definition": "cracked"
+  },
+  "SYNONYMOUS": {
+    "Definition": "having the same meaning"
+  },
+  "SMALL-TIME": {
+    "Definition": "not very important"
+  },
+  "RAZOR BLADES": {
+    "Definition": "sharp-edged pieces of metal used for shaving or cutting hair"
+  },
+  "SLASH": {
+    "Definition": "cut with a sharp blade"
+  },
+  "FASHIONABLE": {
+    "Definition": "characteristic of a particular popular style"
+  },
+  "PULLED DOWN": {
+    "Definition": "pulled in a lower position"
+  },
+  "HAMMERS": {
+    "Definition": "tools consisting of a flat piece of metal fixed on a wooden stick or handle"
+  },
+  "BRICKS": {
+    "Definition": "blocks of hard material used for building walls"
+  },
+  "RAZOR BLADE": {
+    "Definition": "a sharp-edged piece of metal used for shaving or cutting hair"
+  },
+  "DISPOSABLE": {
+    "Definition": "designed for being thrown away after being used"
+  },
+  "RAZORS": {
+    "Definition": "small devices with a sharp blade for shaving or cutting hair"
+  },
+  "LUXURY": {
+    "Definition": "expensive and difficult to get"
+  },
+  "IMPOVERISHED": {
+    "Definition": "very poor"
+  },
+  "HANG ON": {
+    "Definition": "wait for a short time"
+  },
+  "DISBANDED": {
+    "Definition": "stopped being a group"
+  },
+  "AMBITIOUS": {
+    "Definition": "having strong desire to be successful and powerful"
+  },
+  "RACETRACKS": {
+    "Definition": "the places where horse races take place"
+  },
+  "GANGSTER": {
+    "Definition": "a member of an organised group of criminals"
+  },
+  "UNDERWORLD": {
+    "Definition": "the world of criminals or organised crime"
+  },
+  "BOOKKEEPING": {
+    "Definition": "the job of keeping a record of the money spent or received by an organisation"
+  },
+  "BETTING": {
+    "Definition": "the action of risking money on the result of a race"
+  },
+  "GAMBLING": {
+    "Definition": "playing games of chance for money"
+  },
+  "PETTY": {
+    "Definition": "not important"
+  },
+  "ROAM": {
+    "Definition": "move about without a specific destination"
+  },
+  "WON BIG": {
+    "Definition": "won a lot"
+  },
+  "INTIMIDATE": {
+    "Definition": "make someone be afraid, frighten"
+  },
+  "BOOKKEEPERS": {
+    "Definition": "people whose job is to keep a record of the money spent or received by an organisation"
+  },
+  "PROPORTION": {
+    "Definition": "part"
+  },
+  "PUT SHORT": {
+    "Definition": "to explain it in a few words"
+  },
+  "MONOPOLY": {
+    "Definition": "complete control of"
+  },
+  "PROFITABLE": {
+    "Definition": "making a profit, making money"
+  },
+  "FIERCE": {
+    "Definition": "violent and frightening"
+  },
+  "LUCRATIVE": {
+    "Definition": "producing a lot of money"
+  },
+  "RACE TRACKS": {
+    "Definition": "the places where horse races take place"
+  },
+  "#REF!": {
+    "Definition": "#REF!"
+  },
+  "RIVALRY": {
+    "Definition": "competition for the same objective"
+  },
+  "CULMINATED": {
+    "Definition": "reached its final stage"
+  },
+  "HID IN WAIT": {
+    "Definition": "waited while being hidden"
+  },
+  "CREW": {
+    "Definition": "group"
+  },
+  "JUMPED OUT": {
+    "Definition": "suddenly came at them from a hiding place"
+  },
+  "AXES": {
+    "Definition": "tools used for chopping wood, consisting of a metal edge and wooden handle"
+  },
+  "TERRIFIED": {
+    "Definition": "very frightened"
+  },
+  "ONLOOKERS": {
+    "Definition": "people who were watching but weren't involved"
+  },
+  "CRIED OUT": {
+    "Definition": "screamed aloud, spoke very loudly"
+  },
+  "MISTAKEN": {
+    "Definition": "false, wrong"
+  },
+  "IDENTITY": {
+    "Definition": "the process of recognising who they were"
+  },
+  "BOOKMAKERS": {
+    "Definition": "persons whose job is to take bets (especially on horse races) and pay out winnings"
+  },
+  "DEARLY": {
+    "Definition": "very much"
+  },
+  "AGGRAVATE": {
+    "Definition": "annoy, cause trouble"
+  },
+  "IMPRISONED": {
+    "Definition": "locked into a prison"
+  },
+  "BID": {
+    "Definition": "attempt or effort"
+  },
+  "RACECOURSES": {
+    "Definition": "grounds or areas for horse racing"
+  },
+  "NURSING": {
+    "Definition": "providing care for old people"
+  },
+  "RIPE OLD AGE": {
+    "Definition": "very old age"
+  },
+  "WELL-DEVELOPED": {
+    "Definition": "having grown, large"
+  },
+  "FIZZLED OUT": {
+    "Definition": "ended in a weak way"
+  },
+  "GENERIC": {
+    "Definition": "general, not specific"
+  },
+  "ENTERPRISES": {
+    "Definition": "organisations"
+  },
+  "FEROCIOUS": {
+    "Definition": "cruel and violent"
+  },
+  "RUFFIANS": {
+    "Definition": "violent criminals"
+  },
+  "CRUEL": {
+    "Definition": "causing pain, unfair and merciless"
+  },
+  "MURDEROUS": {
+    "Definition": "involving murders"
+  },
+  "THUGS": {
+    "Definition": "violent criminals"
+  },
+  "SHED SOME LIGHT": {
+    "Definition": "helped to explain"
+  },
+  "MOB-BOSS": {
+    "Definition": "criminal organisation boss, mafia-boss"
+  },
+  "SCREEN": {
+    "Definition": "TV"
+  },
+  "BRUMMIE": {
+    "Definition": "from Birmingham"
+  },
+  "": {
+    "Definition": null
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "GANGSTERS": {
+    "Definition": "members of an organised group of criminals"
+  },
+  "ROBBERS": {
+    "Definition": "people who steal"
+  },
+  "CAPTURE": {
+    "Definition": "cause them to become interested in them"
+  },
+  "PROHIBITION": {
+    "Definition": "related to the period from 1920 to 1933 when the sale of alcoholic drinks was prohibited in the United States"
+  },
+  "TERRORISED": {
+    "Definition": "filled with terror"
+  },
+  "NOTORIOUS": {
+    "Definition": "famous for something bad"
+  },
+  "GANGSTER": {
+    "Definition": "a member of an organised group of criminals"
+  },
+  "BANK ROBBER": {
+    "Definition": "someone who takes money from banks using force or threats"
+  },
+  "GROCER": {
+    "Definition": "a person who sells food and small things for the home"
+  },
+  "HARSH": {
+    "Definition": "unpleasant, strict or severe"
+  },
+  "STRICT": {
+    "Definition": "making sure that rules concerning behaviour are obeyed"
+  },
+  "BEAT": {
+    "Definition": "strike, hit"
+  },
+  "MISBEHAVED": {
+    "Definition": "behaved badly"
+  },
+  "BY ALL REPORTS": {
+    "Definition": "according to everyone"
+  },
+  "CHARISMATIC": {
+    "Definition": "attractive and talented"
+  },
+  "CHEEKY": {
+    "Definition": "impolite, showing no respect to others"
+  },
+  "TRICKS": {
+    "Definition": "jokes played on someone in order to make them look foolish and to amuse others, practical jokes"
+  },
+  "PRANKS": {
+    "Definition": "jokes intended to be funny but not cause harm or damage"
+  },
+  "DROPPED OUT": {
+    "Definition": "gave up, stopped doing it"
+  },
+  "STAY OUT": {
+    "Definition": "remain away from home"
+  },
+  "SMALL-TIME": {
+    "Definition": "unimportant, minor"
+  },
+  "MISCHIEF": {
+    "Definition": "bad behaviour"
+  },
+  "TEMPTATION": {
+    "Definition": "the bad things that attracted him"
+  },
+  "STAY OUT OF": {
+    "Definition": "remain away from"
+  },
+  "THEFT": {
+    "Definition": "the action of taking something that belongs to someone else, stealing"
+  },
+  "ASSIGNED": {
+    "Definition": "given a position"
+  },
+  "WARSHIP": {
+    "Definition": "a ship equipped with weapons and designed to take part in war at sea"
+  },
+  "SHOVELLING": {
+    "Definition": "moving coal using a shovel (a tool consisting of a curved blade or a scoop attached to a handle)"
+  },
+  "FURNACE": {
+    "Definition": "a structure in which material can be heated to very high temperatures"
+  },
+  "BELLY": {
+    "Definition": "the rounded underside or interior of a ship"
+  },
+  "DISHONOURABLY": {
+    "Definition": "in a way that showed no honour or respect"
+  },
+  "DISCHARGED": {
+    "Definition": "removed"
+  },
+  "SACKED": {
+    "Definition": "removed from employment, dismissed"
+  },
+  "BACK ON TRACK": {
+    "Definition": "on the right direction"
+  },
+  "RESEMBLING": {
+    "Definition": "looking like"
+  },
+  "CONVICT": {
+    "Definition": "someone who spent time in prison"
+  },
+  "BARBER'S": {
+    "Definition": "a shop where people go to have their hair cut"
+  },
+  "STRUGGLE": {
+    "Definition": "have difficulties"
+  },
+  "ROB": {
+    "Definition": "take his money illegally"
+  },
+  "ROBBERY": {
+    "Definition": "the act of taking someone's money illegally"
+  },
+  "MACHINE BOLT": {
+    "Definition": "a large piece of metal machinery"
+  },
+  "DIFFERING": {
+    "Definition": "not the same, different"
+  },
+  "SEQUENCE": {
+    "Definition": "order in which they followed each other"
+  },
+  "CONFRONTED": {
+    "Definition": "came face to face with him"
+  },
+  "GETAWAY CAR": {
+    "Definition": "the car they were planning to use to escape the crime scene"
+  },
+  "EYE-WITNESSES": {
+    "Definition": "people who had seen the act happening"
+  },
+  "PROSECUTOR": {
+    "Definition": "a public official who begins legal action against someone"
+  },
+  "APPROACH": {
+    "Definition": "the way to deal with"
+  },
+  "MINIMISE": {
+    "Definition": "reduce it to the least possible level"
+  },
+  "PLEADED": {
+    "Definition": "said formally in court that he was"
+  },
+  "GUILTY": {
+    "Definition": null
+  },
+  "LENIENT": {
+    "Definition": "not strong or severe"
+  },
+  "FORGIVING": {
+    "Definition": "willing to forgive, not punishing"
+  },
+  "PERSUADED": {
+    "Definition": "made him do it by talking to him"
+  },
+  "PLEAD": {
+    "Definition": "say formally in court that he was"
+  },
+  "TRICKED": {
+    "Definition": "fooled or deceived"
+  },
+  "PLEA": {
+    "Definition": "his answer in court"
+  },
+  "MAKE AN EXAMPLE": {
+    "Definition": "to punish him as a way of warning other people not to do the same thing"
+  },
+  "PLEADED NOT GUILTY": {
+    "Definition": "said officially in a court of law that he wasn't responsible for the action"
+  },
+  "RETAINED": {
+    "Definition": "kept him in his service"
+  },
+  "INCARCERATED": {
+    "Definition": "kept in prison"
+  },
+  "LOCKED UP": {
+    "Definition": "kept in prison, behind locked doors"
+  },
+  "MEANEST": {
+    "Definition": "most unkind, most unfair"
+  },
+  "BASTARD": {
+    "Definition": "unpleasant person"
+  },
+  "INMATES": {
+    "Definition": "people who were kept in prison"
+  },
+  "FELLOW": {
+    "Definition": "people in the same position as him"
+  },
+  "SEASONED": {
+    "Definition": "experienced"
+  },
+  "LEARNED THE ROPES": {
+    "Definition": "learned how it was done"
+  },
+  "APPRENTICESHIP": {
+    "Definition": "a period of time learning from someone with more experience"
+  },
+  "BANK ROBBING": {
+    "Definition": "taking money from banks using force or threats"
+  },
+  "ROBBING": {
+    "Definition": "taking money illegally using force or threats"
+  },
+  "HOLDING OUT": {
+    "Definition": "presenting, showing"
+  },
+  "PIONEERED": {
+    "Definition": "developed for the first time"
+  },
+  "METICULOUS": {
+    "Definition": "showing great attention to detail"
+  },
+  "STICK TO IT": {
+    "Definition": "remain focused or committed to it"
+  },
+  "ON PAROLE": {
+    "Definition": "earlier than he was supposed to on the condition that his behaviour would be good"
+  },
+  "LET ALONE": {
+    "Definition": "not to mention (used to say that something is more impossible than another thing)"
+  },
+  "THE BEST PART OF": {
+    "Definition": "nearly all of, the majority of"
+  },
+  "ROBBED": {
+    "Definition": "stole from"
+  },
+  "JAIL": {
+    "Definition": "the place where suspected criminals are held before they are sentenced or where people convicted of minor crimes are held"
+  },
+  "AWAIT": {
+    "Definition": "wait for"
+  },
+  "INTERCHANGEABLY": {
+    "Definition": "in a way that one can be used instead of the other"
+  },
+  "AWAITING": {
+    "Definition": "waiting for"
+  },
+  "CLAIMED": {
+    "Definition": "said that it was true that"
+  },
+  "SHERIFF": {
+    "Definition": "a public officer in the United States with responsibility for certain law enforcement"
+  },
+  "BULLY": {
+    "Definition": "someone who hurt and frightened him"
+  },
+  "FALLEN IN": {
+    "Definition": "taken a position in their group"
+  },
+  "CROWD": {
+    "Definition": "a group of people with common interests"
+  },
+  "BROKEN OUT": {
+    "Definition": "released from jail by his friends"
+  },
+  "ON THE RUN": {
+    "Definition": "trying to avoid getting caught"
+  },
+  "ARSENALS": {
+    "Definition": "stores of police weapons and armour"
+  },
+  "BULLETPROOF": {
+    "Definition": "designed to resist bullets"
+  },
+  "VESTS": {
+    "Definition": "items of body armor"
+  },
+  "STARTER KIT": {
+    "Definition": "the required equipment to start doing a particular activity"
+  },
+  "FAME": {
+    "Definition": "the state of being known"
+  },
+  "FAR FROM": {
+    "Definition": "not at all"
+  },
+  "BROKE OUT": {
+    "Definition": "started suddenly"
+  },
+  "PUT OUT": {
+    "Definition": "fight, extinguish"
+  },
+  "RESOURCEFUL": {
+    "Definition": "having the ability to find quick and clever solutions to problems, creative"
+  },
+  "WHITTLE IT DOWN": {
+    "Definition": "cut it down"
+  },
+  "SCULPT": {
+    "Definition": "create something out of materials such as wood, metal or stone"
+  },
+  "JUMPED ON": {
+    "Definition": "appeared suddenly and forcefully"
+  },
+  "CELL": {
+    "Definition": "small room where a prisoner is kept"
+  },
+  "STEAL": {
+    "Definition": "take it without right or permission"
+  },
+  "ON YOUR TAIL": {
+    "Definition": "following you closely"
+  },
+  "TEAMED UP": {
+    "Definition": "formed a team"
+  },
+  "SPREE": {
+    "Definition": "period of activity"
+  },
+  "TERRORISING": {
+    "Definition": "filling with terror"
+  },
+  "POSING": {
+    "Definition": "presenting themselves as"
+  },
+  "VAULT": {
+    "Definition": "large underground room used for storage"
+  },
+  "PRETENDING": {
+    "Definition": "behaving as they were, taking the appearance of"
+  },
+  "LOCATIONS": {
+    "Definition": "places or areas"
+  },
+  "BLAMED": {
+    "Definition": "thought they were responsible"
+  },
+  "PHOTOGENIC": {
+    "Definition": "looking attractive in photographs"
+  },
+  "REFUTED": {
+    "Definition": "said it was wrong"
+  },
+  "MOTIVE": {
+    "Definition": "reason for doing things"
+  },
+  "BANK ROBBERIES": {
+    "Definition": "the acts of taking money from banks using force or threats"
+  },
+  "TURNING UP": {
+    "Definition": "appearing"
+  },
+  "IN THE NICK OF TIME": {
+    "Definition": "just in time"
+  },
+  "CAPTURED": {
+    "Definition": "caught"
+  },
+  "CLOSE SHAVES": {
+    "Definition": "narrow escapes from being caught, close calls"
+  },
+  "CLOSE ENCOUNTERS": {
+    "Definition": "direct unexpected meetings"
+  },
+  "DYE": {
+    "Definition": "change the colour of"
+  },
+  "RECOGNISABLE": {
+    "Definition": "easy to know it was him"
+  },
+  "UNDERWENT": {
+    "Definition": "experienced, went through"
+  },
+  "RE-EMERGED": {
+    "Definition": "re-appeared"
+  },
+  "ATTEMPT": {
+    "Definition": "try"
+  },
+  "RECOGNISED": {
+    "Definition": "identified, known"
+  },
+  "WHEREABOUTS": {
+    "Definition": "the position or place he was in"
+  },
+  "MOB": {
+    "Definition": "mafia"
+  },
+  "MADAM": {
+    "Definition": "a woman who runs a brothel (a house men visit to have paid sex)"
+  },
+  "BROTHEL": {
+    "Definition": "a house men visit to have paid sex"
+  },
+  "KICKED OUT": {
+    "Definition": "thrown out, removed from"
+  },
+  "DOWNFALL": {
+    "Definition": "loss of power or status, ruin"
+  },
+  "STRUCK A DEAL": {
+    "Definition": "came to an agreement"
+  },
+  "RECOGNISE": {
+    "Definition": "know it was her"
+  },
+  "TURNED UP": {
+    "Definition": "appeared"
+  },
+  "LEAD": {
+    "Definition": "in charge, commanding"
+  },
+  "PREARRANGED": {
+    "Definition": "arranged or agreed upon previously"
+  },
+  "PULLED OUT": {
+    "Definition": "took out, drew"
+  },
+  "STREAMING": {
+    "Definition": "running or flowing"
+  },
+  "ONLOOKERS": {
+    "Definition": "people who were watching"
+  },
+  "PUSHED FORWARD": {
+    "Definition": "ran forward"
+  },
+  "EXTENT": {
+    "Definition": "degree or level"
+  },
+  "CATAPULTED": {
+    "Definition": "brought suddenly"
+  },
+  "SULTRY": {
+    "Definition": "very hot and humid (wet)"
+  },
+  "PORTRAYED": {
+    "Definition": "presented, described"
+  },
+  "TROUBLED": {
+    "Definition": "facing problems or difficulties"
+  },
+  "ENCOUNTER": {
+    "Definition": "meet"
+  },
+  "BANKROBBER": {
+    "Definition": "someone who takes money from banks using force or threats"
+  },
+  "ELEMENT": {
+    "Definition": "part, component"
+  },
+  "NOBLE": {
+    "Definition": "good, honourable or virtuous"
+  },
+  "AIM": {
+    "Definition": "purpose, goal"
+  },
+  "": {
+    "Definition": null
+  }
+}
