@@ -1,0 +1,389 @@
+{
+  "MOB": {
+    "Definition": "mafia"
+  },
+  "ON THE RUN": {
+    "Definition": "trying to avoid getting caught"
+  },
+  "TERRORISED": {
+    "Definition": "filled with terror"
+  },
+  "SCANDAL": {
+    "Definition": "something that causes general public anger or outrage"
+  },
+  "TRENDY": {
+    "Definition": "modern and influenced by the latest fashion"
+  },
+  "MEDIA TYPES": {
+    "Definition": "people working in the media industry"
+  },
+  "FANCY": {
+    "Definition": "expensive and impressive"
+  },
+  "HIGH-RISE": {
+    "Definition": "tall and modern"
+  },
+  "TANNERIES": {
+    "Definition": "places where animal hides were turned into leather"
+  },
+  "DOCKS": {
+    "Definition": "an area in a port that is used for loading and unloading goods"
+  },
+  "RIFE": {
+    "Definition": "very common"
+  },
+  "KILLING SPREE": {
+    "Definition": "a series of murders"
+  },
+  "BLITZ": {
+    "Definition": "the bombing of London during World War II"
+  },
+  "EVACUATED": {
+    "Definition": "moved (out of a dangerous place)"
+  },
+  "GET BACK ON ITS FEET": {
+    "Definition": "recover, go back to normal"
+  },
+  "TAKE UP": {
+    "Definition": "start, become interested in"
+  },
+  "SHOWED EARLY PROMISE": {
+    "Definition": "seemed likely to be successful"
+  },
+  "MUSCLY": {
+    "Definition": "having a lot of muscles, muscular"
+  },
+  "MESS WITH": {
+    "Definition": "interfere with, get in trouble with"
+  },
+  "CALLED UP": {
+    "Definition": "requested to appear, summoned"
+  },
+  "TURNED UP": {
+    "Definition": "appeared"
+  },
+  "PUNCHED": {
+    "Definition": "hit him with his fist (closed hand)"
+  },
+  "PUNCHING": {
+    "Definition": "hitting with a fist (closed hand)"
+  },
+  "KEEN": {
+    "Definition": "very interested, willing"
+  },
+  "BEATING UP": {
+    "Definition": "hitting, injuring"
+  },
+  "POURING": {
+    "Definition": "dropping (for a liquid), causing it to flow"
+  },
+  "MISCHIEF": {
+    "Definition": "bad behaviour"
+  },
+  "FULL-ON": {
+    "Definition": "complete"
+  },
+  "PROCEEDED": {
+    "Definition": "continued"
+  },
+  "ENGAGE": {
+    "Definition": "be involved"
+  },
+  "EXTORTING": {
+    "Definition": "getting money from them using fear or threats"
+  },
+  "PROTECTION RACKET": {
+    "Definition": "a criminal system of taking money from people in exchange for protection"
+  },
+  "BEATEN UP": {
+    "Definition": "hurt, hit"
+  },
+  "BURNED TO THE GROUND": {
+    "Definition": "completely burned"
+  },
+  "COMPOSED": {
+    "Definition": "not causing trouble, calm"
+  },
+  "UNPREDICTABLE": {
+    "Definition": "not able to be predicted, to know what he was going to do next"
+  },
+  "EMERGE": {
+    "Definition": "appear"
+  },
+  "PARANOID SCHIZOPHRENIA": {
+    "Definition": "a serious mental illness causing disorganised thinking"
+  },
+  "BAYONET": {
+    "Definition": "a knife fixed on to a rifle (a long gun)"
+  },
+  "LABELLED": {
+    "Definition": "described or characterised as"
+  },
+  "CLINICALLY INSANE": {
+    "Definition": "suffering from a serious mental illness that makes it hard to tell the difference between fantasy and reality"
+  },
+  "CULTIVATING": {
+    "Definition": "growing"
+  },
+  "HARD NOSED": {
+    "Definition": "hard, harsh or stern"
+  },
+  "LEGITIMATE": {
+    "Definition": "allowed by law"
+  },
+  "PROTECTION RACKETS": {
+    "Definition": "criminal systems of taking money from people in exchange for protection"
+  },
+  "BUY UP": {
+    "Definition": "buy the whole of"
+  },
+  "GRIM": {
+    "Definition": "depressing"
+  },
+  "UNDESIRABLE": {
+    "Definition": "not wanted"
+  },
+  "CALCULATING": {
+    "Definition": "thinking carefully before doing something, cunning"
+  },
+  "BUSINESS-SAVVY": {
+    "Definition": "having business knowledge and experience"
+  },
+  "LEGITIMISE": {
+    "Definition": "make them appear lawful"
+  },
+  "LAUNDERING": {
+    "Definition": "hiding the origins of illegally gained money"
+  },
+  "RESIDENCE": {
+    "Definition": "their home"
+  },
+  "DEMOLISHED": {
+    "Definition": "completely brought down or destroyed"
+  },
+  "UNDERLINE": {
+    "Definition": "stress, emphasise"
+  },
+  "GET THEIR HANDS ON": {
+    "Definition": "manage to obtain or have it"
+  },
+  "DESIRABLE": {
+    "Definition": "wanted by most people"
+  },
+  "FLOCKED": {
+    "Definition": "went together in large numbers"
+  },
+  "PLAYWRIGHTS": {
+    "Definition": "people who write plays (dramatic works made to be performed on stage)"
+  },
+  "THE GOING WAS GOOD": {
+    "Definition": "things were going well"
+  },
+  "MINGLING": {
+    "Definition": "getting together, socialising"
+  },
+  "SWINGING": {
+    "Definition": "exciting and fashionable"
+  },
+  "RULERS": {
+    "Definition": "leaders"
+  },
+  "RULED": {
+    "Definition": "had a powerful influence on or controlled"
+  },
+  "UNTOUCHABLE": {
+    "Definition": "unable to be matched or be affected by others"
+  },
+  "OPENED UP": {
+    "Definition": "started working on"
+  },
+  "CRUCIALLY": {
+    "Definition": "in a way that was very important"
+  },
+  "SIZABLE": {
+    "Definition": "large"
+  },
+  "THREATENING": {
+    "Definition": "saying that they would hurt them if they didn't do what they wanted"
+  },
+  "PATRONS": {
+    "Definition": "regular customers"
+  },
+  "TESTIFY": {
+    "Definition": "say what they knew in a court of law, give evidence"
+  },
+  "OPENLY": {
+    "Definition": "publicly, without hiding it"
+  },
+  "DECRIMINALISED": {
+    "Definition": "became legal"
+  },
+  "INNER CIRCLE": {
+    "Definition": "a small group of people that keep to themselves or share secrets only among them"
+  },
+  "PEER": {
+    "Definition": "a member of the aristocracy in Britain"
+  },
+  "SUE": {
+    "Definition": "take legal action against"
+  },
+  "LIBEL": {
+    "Definition": "the crime of writing something that damages someone’s reputation"
+  },
+  "HARMS": {
+    "Definition": "damages"
+  },
+  "HAND OVER": {
+    "Definition": "give"
+  },
+  "RUMOURS": {
+    "Definition": "information that was not proven to be true"
+  },
+  "INCREASING": {
+    "Definition": "growing, developing"
+  },
+  "BEEN OUTED": {
+    "Definition": "been publicly named"
+  },
+  "POOF": {
+    "Definition": "a gay person (insulting)"
+  },
+  "DEROGATORY": {
+    "Definition": "insulting, not showing respect"
+  },
+  "NASTY": {
+    "Definition": "very unpleasant"
+  },
+  "INSULT": {
+    "Definition": "disrespect, offend"
+  },
+  "PARANOID SCHIZOPHRENIC": {
+    "Definition": "someone who suffers from a serious mental illness causing disorganised thinking"
+  },
+  "SURE ENOUGH": {
+    "Definition": "as expected"
+  },
+  "PULLED OUT": {
+    "Definition": "brought out, drew"
+  },
+  "DARE": {
+    "Definition": "be brave enough to"
+  },
+  "UP FRONT": {
+    "Definition": "in advance, beforehand"
+  },
+  "IN THE GRAND SCHEME OF THINGS": {
+    "Definition": "in the complete picture of the situation, in the long term"
+  },
+  "BACKED OUT": {
+    "Definition": "decided not to do the thing that had said he would do, didn't keep his promise"
+  },
+  "SUICIDE": {
+    "Definition": "the act of killing herself"
+  },
+  "TOOK EXCEPTION TO": {
+    "Definition": "felt annoyed by, objected to"
+  },
+  "PROCEEDED TO": {
+    "Definition": "went on to"
+  },
+  "BRUTALLY": {
+    "Definition": "in a very violent way"
+  },
+  "FULFIL": {
+    "Definition": "complete, carry out"
+  },
+  "WORD GOT OUT": {
+    "Definition": "it became known"
+  },
+  "TO TURN AGAINST THEM": {
+    "Definition": "to change from being supportive to going against them"
+  },
+  "RUTHLESS": {
+    "Definition": "having no compassion or mercy, cruel"
+  },
+  "THEORETICALLY": {
+    "Definition": "existing as an idea, but not real or actually happening"
+  },
+  "ALLY": {
+    "Definition": "someone who worked together with them and had the same purposes"
+  },
+  "SENSED": {
+    "Definition": "understood, were aware of"
+  },
+  "TURNING AGAINST": {
+    "Definition": "starting to go or act against"
+  },
+  "TURN ALL OF THEM AGAINST": {
+    "Definition": "make them all go or act against"
+  },
+  "KEY": {
+    "Definition": "of great importance"
+  },
+  "TRIED": {
+    "Definition": "put on trial in a court of law"
+  },
+  "BEHIND BARS": {
+    "Definition": "in prison"
+  },
+  "DETERIORATE": {
+    "Definition": "become worse"
+  },
+  "ALLOWED": {
+    "Definition": "let or permitted"
+  },
+  "TERMINAL": {
+    "Definition": "leading to death, incurable"
+  },
+  "GOING TO MEET HIS MAKER": {
+    "Definition": "going to meet God, dying"
+  },
+  "GRANT": {
+    "Definition": "give, allow"
+  },
+  "PERPETUAL": {
+    "Definition": "continuing forever"
+  },
+  "SHINE ON": {
+    "Definition": "be bright on or be sent to"
+  },
+  "SHONE": {
+    "Definition": "was directed or reflected"
+  },
+  "THROWN INTO": {
+    "Definition": "put into"
+  },
+  "CONTEMPLATE": {
+    "Definition": "spend time thinking about"
+  },
+  "REMORSE": {
+    "Definition": "regret or guilt"
+  },
+  "HAZARD A GUESS": {
+    "Definition": "risk a guess"
+  },
+  "WITH AN IRON FIRST": {
+    "Definition": "in a violent, strict or cruel way"
+  },
+  "MINGLED": {
+    "Definition": "got together, socialised"
+  },
+  "BEFRIENDED": {
+    "Definition": "became friends with them"
+  },
+  "COLD-BLOODED": {
+    "Definition": "without emotion or pity, cruel"
+  },
+  "UNDERWORLD": {
+    "Definition": "the world of criminals"
+  },
+  "MOB-BOSS": {
+    "Definition": "mafia-boss"
+  },
+  "ICONIC": {
+    "Definition": "very famous, symbolic"
+  },
+  "": {
+    "Definition": null
+  }
+}
