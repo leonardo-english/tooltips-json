@@ -1,0 +1,482 @@
+{
+  "RAISED": {
+    "Definition": "put in a higher position, lifted"
+  },
+  "EAGERLY": {
+    "Definition": "showing great interest"
+  },
+  "KNELT": {
+    "Definition": "stood with his knee or knees on the ground"
+  },
+  "SIGNAL": {
+    "Definition": "sign with his hand, gesture"
+  },
+  "AXE": {
+    "Definition": "a tool with a blade on a handle used also as a weapon"
+  },
+  "SUBSEQUENT": {
+    "Definition": "following"
+  },
+  "MONARCHY": {
+    "Definition": "a form of government ruled by a King or Queen"
+  },
+  "RESTORED": {
+    "Definition": "brought back, re-established"
+  },
+  "THRONE": {
+    "Definition": "special chair used by a King or Queen"
+  },
+  "MONARCH": {
+    "Definition": "a King or Queen"
+  },
+  "MONARCHS": {
+    "Definition": "Kings or Queens"
+  },
+  "GUILLOTINE": {
+    "Definition": "machine with a heavy blade held high and dropped to cut people's heads off"
+  },
+  "GOT RID OF": {
+    "Definition": "removed, did away with"
+  },
+  "TURBULENT": {
+    "Definition": "involving lots of arguments and violence"
+  },
+  "INTERLINKED": {
+    "Definition": "connected together"
+  },
+  "DISPUTE": {
+    "Definition": "disagreement or argument"
+  },
+  "DEPOSED": {
+    "Definition": "removed him from his position"
+  },
+  "RESTORATION": {
+    "Definition": "the action of returning to the previous condition, return to power"
+  },
+  "CHRONOLOGY": {
+    "Definition": "the key dates and events"
+  },
+  "GET RID OF": {
+    "Definition": "remove, do away with"
+  },
+  "DOCTRINE": {
+    "Definition": "belief"
+  },
+  "AUTOCRAT": {
+    "Definition": "absolute ruler"
+  },
+  "FLEDGLING": {
+    "Definition": "not developed"
+  },
+  "EMBRYONIC": {
+    "Definition": "unformed, incomplete"
+  },
+  "VAIN": {
+    "Definition": "having a high opinion of his abilities and worth"
+  },
+  "BY ALL ACCOUNTS": {
+    "Definition": "according to what people say"
+  },
+  "PROSPEROUS": {
+    "Definition": "successful, especially financially"
+  },
+  "WOOL": {
+    "Definition": "the soft thick hair of sheep"
+  },
+  "VITAL": {
+    "Definition": "very important"
+  },
+  "CONSIDERABLE": {
+    "Definition": "large amount of"
+  },
+  "SUSPICION": {
+    "Definition": "a belief that it was probably true"
+  },
+  "HARDLINE": {
+    "Definition": "extreme, strict"
+  },
+  "FANATICAL": {
+    "Definition": "extremely enthusiastic, loyal or devoted"
+  },
+  "INCLINED": {
+    "Definition": "having a preference, was in favour of"
+  },
+  "COMBUSTIBLE": {
+    "Definition": "easy to spread"
+  },
+  "FOOLISH": {
+    "Definition": "not showing good judgment, stupid"
+  },
+  "RESORT TO": {
+    "Definition": "do it because he didn't have any other options"
+  },
+  "GET AWAY WITH": {
+    "Definition": "escape blame or criticism for"
+  },
+  "DISMISSING": {
+    "Definition": "removing"
+  },
+  "DISSOLVING": {
+    "Definition": "ending, disbanding"
+  },
+  "RECALLING": {
+    "Definition": "bringing back"
+  },
+  "UNREST": {
+    "Definition": "disagreement and fighting"
+  },
+  "CONFINED": {
+    "Definition": "limited, kept"
+  },
+  "RADICAL": {
+    "Definition": "supporter of the belief that there should be great change"
+  },
+  "PREACHER": {
+    "Definition": "a person who gave religious speeches"
+  },
+  "UNWISELY": {
+    "Definition": "in a way that was likely to cause problems"
+  },
+  "IMPOSE": {
+    "Definition": "force, apply as obligatory"
+  },
+  "COMMAND": {
+    "Definition": "order, instructions"
+  },
+  "BEAT THEM INTO SUBMISSION": {
+    "Definition": "use violence to make them obey"
+  },
+  "UNWISE": {
+    "Definition": "foolish, stupid"
+  },
+  "HUMILIATING": {
+    "Definition": "making him feel ashamed and foolish"
+  },
+  "IMPRISON": {
+    "Definition": "put them in prison"
+  },
+  "TREASON": {
+    "Definition": "betraying his country"
+  },
+  "SENSIBLY": {
+    "Definition": "in a way that showed wisdom"
+  },
+  "STRICT": {
+    "Definition": "following rules and beliefs exactly"
+  },
+  "BROKEN DOWN": {
+    "Definition": "failed, stopped to exist"
+  },
+  "NO GOING BACK": {
+    "Definition": "not possibility for the situation to change"
+  },
+  "FULL-BLOWN": {
+    "Definition": "fully developed"
+  },
+  "IMMINENT": {
+    "Definition": "likely to happen very soon"
+  },
+  "SET UP": {
+    "Definition": "placed, created"
+  },
+  "INCONCLUSIVE": {
+    "Definition": "not leading to a clear result"
+  },
+  "GIVE YOU SOME FLAVOUR OF": {
+    "Definition": "give you an idea of"
+  },
+  "TREMENDOUS": {
+    "Definition": "great, huge"
+  },
+  "GUNPOWDER": {
+    "Definition": "an explosive mixture used in guns and cannons"
+  },
+  "AMMUNITION": {
+    "Definition": "material fired by a gun or canon"
+  },
+  "WARFARE": {
+    "Definition": "activities involved in war"
+  },
+  "WAGED": {
+    "Definition": "engaged in, carried on"
+  },
+  "SKIRMISHES": {
+    "Definition": "small battles"
+  },
+  "SIEGES": {
+    "Definition": "military operations in which enemy forces surround a town or castle"
+  },
+  "CAVALRY": {
+    "Definition": "the group of soldiers who fight on horses"
+  },
+  "INFANTRY": {
+    "Definition": "the group of soldiers who fight on foot"
+  },
+  "SPEARS": {
+    "Definition": "weapons with pointed tips on a long pole"
+  },
+  "PIKES": {
+    "Definition": "weapons with pointed tips on a long pole"
+  },
+  "CRUCIAL": {
+    "Definition": "very important"
+  },
+  "DISCIPLINED": {
+    "Definition": "fighting in a very controlled way"
+  },
+  "DECISIVE": {
+    "Definition": "deciding, final"
+  },
+  "FOR GOOD": {
+    "Definition": "definitively, without possibility of change"
+  },
+  "FIGURE OUT": {
+    "Definition": "find, think of"
+  },
+  "GET OUT OF": {
+    "Definition": "escape"
+  },
+  "SURRENDERED": {
+    "Definition": "accepted defeat and stopped resisting"
+  },
+  "DEAL WITH": {
+    "Definition": "focus on, include"
+  },
+  "SURRENDER": {
+    "Definition": "the action of accepting defeat and stopping resisting"
+  },
+  "POCKETS": {
+    "Definition": "small groups"
+  },
+  "UPRISINGS": {
+    "Definition": "acts of resistance or rebellion"
+  },
+  "SEIZED": {
+    "Definition": "took and hold quickly"
+  },
+  "EXPELLING": {
+    "Definition": "forcing them to leave"
+  },
+  "MODERATE": {
+    "Definition": "modest, not extreme"
+  },
+  "CRITICALLY": {
+    "Definition": "in a way that was very important"
+  },
+  "TRIAL": {
+    "Definition": "the hearing of the events in a court in order to decide whether he was guilty or not"
+  },
+  "TRYING HIS LUCK": {
+    "Definition": "doing it in the hope that he would succeed"
+  },
+  "HANDED OVER": {
+    "Definition": "given to parliament to decide his fate"
+  },
+  "ACHIEVE": {
+    "Definition": "successfully gain or obtain"
+  },
+  "TYRANNICAL": {
+    "Definition": "cruel and controlling"
+  },
+  "OVERTHROW": {
+    "Definition": "remove"
+  },
+  "STOOD TRIAL": {
+    "Definition": "judged in a court of law"
+  },
+  "LEGALITY": {
+    "Definition": "the fact that it was allowed by the law"
+  },
+  "BEHEADED": {
+    "Definition": "had his head removed, decapitated"
+  },
+  "REGICIDE": {
+    "Definition": "the killing of a king"
+  },
+  "UNGODLY": {
+    "Definition": "unholy, evil"
+  },
+  "HERETICAL": {
+    "Definition": "against their religion"
+  },
+  "PROCESSION": {
+    "Definition": "a line of people moving forward as a part of a celebration or ceremony"
+  },
+  "COSTUME": {
+    "Definition": "set of clothes typical of that period of history"
+  },
+  "COMMEMORATES": {
+    "Definition": "gives respect and remembers"
+  },
+  "SIBLINGS": {
+    "Definition": "brothers or sisters"
+  },
+  "WAVING": {
+    "Definition": "moving up and down as a greeting or sign"
+  },
+  "COMMEMORATING": {
+    "Definition": "giving respect and remembering"
+  },
+  "MARTYRDOM": {
+    "Definition": "the death of someone because of his beliefs or position"
+  },
+  "INTENTION": {
+    "Definition": "plan"
+  },
+  "FORMIDABLE": {
+    "Definition": "causing fear and respect"
+  },
+  "FUGITIVE": {
+    "Definition": "someone who was running away from danger"
+  },
+  "PURSUED": {
+    "Definition": "followed, chased"
+  },
+  "THREAT": {
+    "Definition": "problem, danger"
+  },
+  "CONSTITUTION": {
+    "Definition": "ideas or principles according to which the state should be governed"
+  },
+  "RULEBOOK": {
+    "Definition": "standards or regulations that should be followed"
+  },
+  "DICTATOR": {
+    "Definition": "a leader with complete power"
+  },
+  "SINISTER": {
+    "Definition": "giving the impression of something harmful or evil"
+  },
+  "ORWELLIAN": {
+    "Definition": "characteristic of the writings of George Orwell"
+  },
+  "WHISTLE STOP TOUR": {
+    "Definition": "tour with many brief stops"
+  },
+  "WITH AN IRON FIST": {
+    "Definition": "having complete power and authority"
+  },
+  "INFLUENTIAL": {
+    "Definition": "having a big effect on people and things, important"
+  },
+  "NOT UP TO THE JOB": {
+    "Definition": "not suitable for or good at that job"
+  },
+  "EXILED": {
+    "Definition": "having been removed from his own country due to political reasons"
+  },
+  "PARTY ANIMAL": {
+    "Definition": "a very outgoing person who enjoys having fun at social activities"
+  },
+  "MERRY": {
+    "Definition": "happy"
+  },
+  "EXTRAVAGANT": {
+    "Definition": "very expensive and impressive"
+  },
+  "ARISTOCRACY": {
+    "Definition": "a class of people with high social rank"
+  },
+  "TRACE THEIR TITLES BACK": {
+    "Definition": "come or originate from"
+  },
+  "ILLEGITIMATE": {
+    "Definition": "born of parents not lawfully married to each other"
+  },
+  "AWFUL": {
+    "Definition": "a lot of"
+  },
+  "BITTERNESS": {
+    "Definition": "anger and disappointment"
+  },
+  "STORING UP": {
+    "Definition": "gathering, building up"
+  },
+  "RESENTMENT": {
+    "Definition": "a feeling of deep displeasure and anger"
+  },
+  "BRUTALLY": {
+    "Definition": "in a cruel and violent way"
+  },
+  "MASSACRE": {
+    "Definition": "act of killing a lot of people"
+  },
+  "REVIVED": {
+    "Definition": "brought back to existence"
+  },
+  "CAPABILITY": {
+    "Definition": "power or ability"
+  },
+  "CULMINATED": {
+    "Definition": "reached its highest point of development"
+  },
+  "ANCESTOR": {
+    "Definition": "a relative who had lived in the past"
+  },
+  "INVINCIBLE": {
+    "Definition": "impossible to defeat"
+  },
+  "APPARENT": {
+    "Definition": "easy to be seen or understood"
+  },
+  "STRUCK": {
+    "Definition": "achieved, reached"
+  },
+  "TURBULENCE": {
+    "Definition": "a state of confusion"
+  },
+  "FLAWED": {
+    "Definition": "containing weaknesses or mistakes"
+  },
+  "INSTITUTIONS": {
+    "Definition": "organisations for social purposes"
+  },
+  "PROSPERITY": {
+    "Definition": "the state of being successful, especially financially"
+  },
+  "LAID THE FOUNDATIONS": {
+    "Definition": "provided the basis or the basic ideas for"
+  },
+  "REGARDED": {
+    "Definition": "considered"
+  },
+  "MERCILESS": {
+    "Definition": "showing no mercy, cruel"
+  },
+  "POWER-HUNGRY": {
+    "Definition": "having a strong desire for power"
+  },
+  "PARDONED": {
+    "Definition": "forgave"
+  },
+  "DEATH WARRANT": {
+    "Definition": "official order for his execution or death penalty"
+  },
+  "NO MERCY": {
+    "Definition": "no forgiveness or compassion"
+  },
+  "PUNISH": {
+    "Definition": "cause suffering to someone who has done something wrong"
+  },
+  "DUG UP": {
+    "Definition": "removed from the ground where he had been buried"
+  },
+  "HUNG": {
+    "Definition": "held from above"
+  },
+  "HOSTILITY": {
+    "Definition": "anger of unfriendliness"
+  },
+  "PROUDLY": {
+    "Definition": "in an impressive and confident way"
+  },
+  "CAMPAIGNING": {
+    "Definition": "asking in an organised and planned  way"
+  },
+  "TAKEN DOWN": {
+    "Definition": "removed"
+  },
+  "": {
+    "Definition": null
+  }
+}
