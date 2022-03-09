@@ -1,0 +1,458 @@
+{
+  "SCANDALOUS": {
+    "Definition": "causing general public shock and anger"
+  },
+  "INDULGING": {
+    "Definition": "allowing himself to enjoy"
+  },
+  "VICE": {
+    "Definition": "bad habits"
+  },
+  "NORMS": {
+    "Definition": "what was generally accepted, standards"
+  },
+  "FICTIONAL": {
+    "Definition": "imagined, not real"
+  },
+  "UNMASKING": {
+    "Definition": "revealing or exposing the hidden truth"
+  },
+  "HYPOCRISY": {
+    "Definition": "pretending to be or behaving like being better than they were"
+  },
+  "SELF-CHOSEN": {
+    "Definition": "chosen by himself"
+  },
+  "FREETHINKING": {
+    "Definition": "having his own opinions and beliefs"
+  },
+  "CRIPPLE": {
+    "Definition": "someone who was unable to walk normally due to a disability"
+  },
+  "LEGACY": {
+    "Definition": "things he left after his death"
+  },
+  "LAME": {
+    "Definition": "disabled, crippled"
+  },
+  "CLUBFOOT": {
+    "Definition": "a type of foot deformity or disability"
+  },
+  "SQUANDERING": {
+    "Definition": "wasting, spending without good sense or judgement"
+  },
+  "FOOLISHLY": {
+    "Definition": "without good sense or judgement"
+  },
+  "HEIRESS": {
+    "Definition": "a woman who received lots of money or property from her parents"
+  },
+  "DWINDLED": {
+    "Definition": "reduced"
+  },
+  "DESERTED": {
+    "Definition": "left, abandoned"
+  },
+  "DESTINY": {
+    "Definition": "future, fate"
+  },
+  "PENNILESS": {
+    "Definition": "without money"
+  },
+  "TURN OF EVENTS": {
+    "Definition": "change in what was happening"
+  },
+  "FORTUNE": {
+    "Definition": "large amount of money"
+  },
+  "ABBEY": {
+    "Definition": "a small monastery"
+  },
+  "SPECTACULARLY": {
+    "Definition": "in an impressive way"
+  },
+  "IN A STATE OF DISREPAIR": {
+    "Definition": "in need of repair"
+  },
+  "GHOSTLY": {
+    "Definition": "mysterious and unnatural in appearance"
+  },
+  "RUINS": {
+    "Definition": "the remains of an old building"
+  },
+  "ENROLLING": {
+    "Definition": "becoming a student"
+  },
+  "PUBLIC SCHOOL": {
+    "Definition": "expensive private school"
+  },
+  "OUTSKIRTS": {
+    "Definition": "the outer parts of a city, far from the centre"
+  },
+  "DROPPED OUT": {
+    "Definition": "left, stopped attending"
+  },
+  "DISTANT": {
+    "Definition": "not closely related"
+  },
+  "PROTAGONIST": {
+    "Definition": "the main character of the story"
+  },
+  "CHORISTER": {
+    "Definition": "member of a choir, singer"
+  },
+  "SCANDAL": {
+    "Definition": "actions that cause public shock and anger"
+  },
+  "HEDONISTIC": {
+    "Definition": "characterised by a search for pleasure"
+  },
+  "GAMBLING": {
+    "Definition": "playing games of luck for money"
+  },
+  "PILED UP": {
+    "Definition": "caused them to increase in quantity"
+  },
+  "SLEEPING AROUND": {
+    "Definition": "having many casual sexual partners"
+  },
+  "FAIR GAME": {
+    "Definition": "acceptable"
+  },
+  "ADMIRERS": {
+    "Definition": "people who had sexual interest in him"
+  },
+  "ARISTOCRATIC": {
+    "Definition": "people belonging to the high social class"
+  },
+  "BOARDING SCHOOLS": {
+    "Definition": "schools where students lived in and studied"
+  },
+  "DISREGARD": {
+    "Definition": "the action of not paying attention to or not caring about"
+  },
+  "DISOBEYING": {
+    "Definition": "refusing to do what he was told by"
+  },
+  "PET": {
+    "Definition": "an animal kept as a companion"
+  },
+  "LOGIC": {
+    "Definition": "way of thinking"
+  },
+  "FORBADE": {
+    "Definition": "didn't allow"
+  },
+  "PREMISES": {
+    "Definition": "the buildings of the University"
+  },
+  "EXOTIC": {
+    "Definition": "uncommon and exciting because of coming from far away places"
+  },
+  "DASH": {
+    "Definition": "try, shot (informal)"
+  },
+  "BEFRIENDED": {
+    "Definition": "made her a friend"
+  },
+  "FUGITIVE": {
+    "Definition": "someone who is running away from danger or the law"
+  },
+  "VICAR": {
+    "Definition": "a type of priest"
+  },
+  "LUSTFUL": {
+    "Definition": "showing strong feelings of sexual desire"
+  },
+  "RECALLED": {
+    "Definition": "returned"
+  },
+  "EXPLOITS": {
+    "Definition": "acts or adventures"
+  },
+  "INHERITED": {
+    "Definition": "received from his great-uncle after his death"
+  },
+  "OUTWEIGHED": {
+    "Definition": "were more than"
+  },
+  "GUN SALUTE": {
+    "Definition": "a formal greeting involving shots fired from guns"
+  },
+  "DISEMBARKED": {
+    "Definition": "got off the ship"
+  },
+  "RELUCTANTLY": {
+    "Definition": "not willingly"
+  },
+  "ROWED": {
+    "Definition": "taken there using a boat driven with oars"
+  },
+  "FEAR-INDUCING": {
+    "Definition": "causing fear"
+  },
+  "FEROCIOUS": {
+    "Definition": "frightening and violent"
+  },
+  "UNRESERVED": {
+    "Definition": "open, without restrictions or limits"
+  },
+  "STARK": {
+    "Definition": "complete"
+  },
+  "BROADENS": {
+    "Definition": "expands, develops"
+  },
+  "REFORM": {
+    "Definition": "make changes in order to improve"
+  },
+  "PILGRIMAGE": {
+    "Definition": "special journey for religious reasons"
+  },
+  "MOODY": {
+    "Definition": "mysterious and sad"
+  },
+  "TENDENCY": {
+    "Definition": "characteristic likelihood"
+  },
+  "OVERNIGHT": {
+    "Definition": "very quickly"
+  },
+  "ACQUAINTANCE": {
+    "Definition": "knowledge or experience"
+  },
+  "FAME": {
+    "Definition": "the state of being well-known"
+  },
+  "AFFAIRS": {
+    "Definition": "sexual relations"
+  },
+  "MOURNED": {
+    "Definition": "felt and expressed great sadness"
+  },
+  "CONSUMPTION": {
+    "Definition": "a dangerous disease, also known as tuberculosis"
+  },
+  "CONCEALING": {
+    "Definition": "hiding, keeping it secret"
+  },
+  "DETAIL": {
+    "Definition": "give full information about"
+  },
+  "FUNDAMENTAL": {
+    "Definition": "of central importance"
+  },
+  "ARISTOCRAT": {
+    "Definition": "a person who belongs in the high social class"
+  },
+  "AFFAIR": {
+    "Definition": "sexual relation"
+  },
+  "GET AWAY WITH": {
+    "Definition": "escape or avoid punishment for"
+  },
+  "INCEST": {
+    "Definition": "sexual relations between people too closely related"
+  },
+  "BED": {
+    "Definition": "have sex with"
+  },
+  "GET AWAY WITH IT": {
+    "Definition": "escape or avoid punishment for it"
+  },
+  "RUMOURED": {
+    "Definition": "said without having proof"
+  },
+  "SHUT DOWN": {
+    "Definition": "stop"
+  },
+  "DROWNING": {
+    "Definition": "being deep in something"
+  },
+  "PERSEVERED": {
+    "Definition": "persisted, continued"
+  },
+  "SEDUCE": {
+    "Definition": "make her feel attracted to him"
+  },
+  "PACKED IN": {
+    "Definition": "stopped"
+  },
+  "THROUGHOUT": {
+    "Definition": "during the entire time"
+  },
+  "INSANE": {
+    "Definition": "crazy, mad"
+  },
+  "JOINED HANDS": {
+    "Definition": "worked together"
+  },
+  "DISCREDIT": {
+    "Definition": "harm his reputation or the general opinion people had about him"
+  },
+  "DISHEARTENED": {
+    "Definition": "having lost his enthusiasm and confidence"
+  },
+  "OUTRAGE": {
+    "Definition": "feeling of anger and shock"
+  },
+  "EXILE": {
+    "Definition": "a period of being forced to live away from his country"
+  },
+  "BROKE": {
+    "Definition": "without money, penniless"
+  },
+  "SEIZED": {
+    "Definition": "taken and kept"
+  },
+  "BAILIFFS": {
+    "Definition": "officials who took away possessions from people who owed money"
+  },
+  "PRINCELY": {
+    "Definition": "suitable for a prince, large"
+  },
+  "ON THE RUN": {
+    "Definition": "trying to avoid, running away"
+  },
+  "ATMOSPHERIC": {
+    "Definition": "having an emotional mood or quality"
+  },
+  "OPIUM": {
+    "Definition": "a drug made from the seeds of a flower called poppy"
+  },
+  "PARTING COMPANY": {
+    "Definition": "going their separate ways"
+  },
+  "TEMPERAMENT": {
+    "Definition": "personality or character"
+  },
+  "WOMANISING": {
+    "Definition": "involvement in many sexual relations with women"
+  },
+  "COBBLER’S": {
+    "Definition": "of people whose job was to fix shoes"
+  },
+  "MIDDLING": {
+    "Definition": "medium or average"
+  },
+  "WHORES": {
+    "Definition": "women who had many sexual relationships"
+  },
+  "IGNITED": {
+    "Definition": "caused it to be more active, aroused"
+  },
+  "MOVED IN": {
+    "Definition": "shared his house"
+  },
+  "GONDOLA": {
+    "Definition": "a narrow boat used in Venice"
+  },
+  "PENNED": {
+    "Definition": "written"
+  },
+  "UNCULTURED": {
+    "Definition": "not having good taste, manners or education"
+  },
+  "SEDUCED": {
+    "Definition": "attracted"
+  },
+  "ABSURDITIES": {
+    "Definition": "qualities of being silly and unreasonable"
+  },
+  "HYPOCRISIES": {
+    "Definition": "practices of behaving like having highly desired and accepted standards"
+  },
+  "UNKEMPT": {
+    "Definition": "not cared for, untidy"
+  },
+  "SEXUAL PROMISCUITY": {
+    "Definition": "wild sexual behaviour"
+  },
+  "MISCELLANEOUS": {
+    "Definition": "of various and different types"
+  },
+  "HARLOTRY": {
+    "Definition": "wild sexual behaviour"
+  },
+  "ADULTERY": {
+    "Definition": "sex between two people who aren't married to each other"
+  },
+  "CRANE": {
+    "Definition": "a tall long-legged bird"
+  },
+  "INSEPARABLE": {
+    "Definition": "very close, constant companions"
+  },
+  "TRAIL": {
+    "Definition": "series of signs"
+  },
+  "LAVISH": {
+    "Definition": "very generous, grand"
+  },
+  "CAME INTO PLAY": {
+    "Definition": "became active"
+  },
+  "FLEET": {
+    "Definition": "the country's armed sea forces"
+  },
+  "FACTIONS": {
+    "Definition": "groups"
+  },
+  "FED HIS EGO": {
+    "Definition": "made him feel proud of himself"
+  },
+  "ERRATIC": {
+    "Definition": "not regular, unpredictable"
+  },
+  "SPECULATION": {
+    "Definition": "opinions or theories not based on proof"
+  },
+  "IMPASSIONED": {
+    "Definition": "filled with or showing great emotion"
+  },
+  "FEVERISH": {
+    "Definition": "affected by a fever"
+  },
+  "DENIED": {
+    "Definition": "refused to be given"
+  },
+  "QUESTIONABLE": {
+    "Definition": "doubtful, problematic"
+  },
+  "LEFT A MARK ON": {
+    "Definition": "had a significant effect on"
+  },
+  "HEADFIRST": {
+    "Definition": "in a hurried and careless way"
+  },
+  "EXPOSING": {
+    "Definition": "making it known, revealing"
+  },
+  "CONCEALED": {
+    "Definition": "hidden, kept unknown"
+  },
+  "PRIM": {
+    "Definition": "showing disapproval of anything considered bad"
+  },
+  "PROPER": {
+    "Definition": "strictly following rules, appropriate"
+  },
+  "CONVENTIONS": {
+    "Definition": "ways in which things were done"
+  },
+  "HEDONISM": {
+    "Definition": "a situation in which pleasure played a central role in his life"
+  },
+  "RUDENESS": {
+    "Definition": "bad manners, impoliteness"
+  },
+  "WAY AHEAD OF HIS TIME": {
+    "Definition": "too advanced to be understood at his time"
+  },
+  "SACRED": {
+    "Definition": "regarded as holy, very valuable and deserving respect"
+  },
+  "": {
+    "Definition": null
+  }
+}

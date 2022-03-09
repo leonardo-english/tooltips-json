@@ -1,0 +1,470 @@
+{
+  "OUTLAW": {
+    "Definition": "a person who had broken the law and stayed free"
+  },
+  "HEROIC": {
+    "Definition": "having the characteristics of a hero, brave and noble"
+  },
+  "FEATS": {
+    "Definition": "characteristics"
+  },
+  "ACHIEVEMENTS": {
+    "Definition": "difficult things that have been done or accomplished"
+  },
+  "UNRAVEL": {
+    "Definition": "explain"
+  },
+  "BACKDROP": {
+    "Definition": "setting, background"
+  },
+  "CORRUPTION": {
+    "Definition": "dishonesty or illegal behaviour by those in power"
+  },
+  "SHERIFF": {
+    "Definition": "officer of the Crown (king) in a county or area"
+  },
+  "DISPOSSESSED": {
+    "Definition": "had it taken from him, deprived"
+  },
+  "LOVE INTEREST": {
+    "Definition": "the character with whom he was in romantic relation"
+  },
+  "UNWANTED": {
+    "Definition": "not wanted"
+  },
+  "SUITORS": {
+    "Definition": "persons who were tried to win her love and affection"
+  },
+  "FAR REMOVED": {
+    "Definition": "very different from"
+  },
+  "DIVE INTO IT": {
+    "Definition": "be involved in it with enthusiasm"
+  },
+  "LOW-BORN": {
+    "Definition": "born to a family that had a low social status, not royal or noble"
+  },
+  "FREEMAN": {
+    "Definition": "free citizen, not a servant"
+  },
+  "GORY": {
+    "Definition": "bloody"
+  },
+  "GREEDY": {
+    "Definition": "having a great desire for wealth or power"
+  },
+  "ABBOT": {
+    "Definition": "a man who was the head of a monastery"
+  },
+  "ADHERE": {
+    "Definition": "stick to, obey"
+  },
+  "ETHICS": {
+    "Definition": "moral principles or duty"
+  },
+  "MONEY-GRABBING": {
+    "Definition": "having a great desire for wealth, greedy"
+  },
+  "CLERGYMEN": {
+    "Definition": "priests"
+  },
+  "MONKS": {
+    "Definition": "members of a religious community living in monasteries"
+  },
+  "MORALS": {
+    "Definition": "standards of behaviour"
+  },
+  "RESTORATIVE": {
+    "Definition": "having the ability to correct something bad or unfair"
+  },
+  "RIGHTS WRONGS": {
+    "Definition": "corrects something bad or unfair"
+  },
+  "HYPOCRITICAL": {
+    "Definition": "behaving like having higher standards or noble beliefs which they didn't"
+  },
+  "INSINCERE": {
+    "Definition": "not honest"
+  },
+  "SHILLINGS": {
+    "Definition": "coins used in Britain until 1971"
+  },
+  "SHILLING": {
+    "Definition": "a coin used in Britain until 1971"
+  },
+  "EQUIVALENT": {
+    "Definition": "equal in value"
+  },
+  "INADEQUATE": {
+    "Definition": "not enough, insufficient"
+  },
+  "MISFORTUNES": {
+    "Definition": "unfortunate events, bad luck"
+  },
+  "SEIZE": {
+    "Definition": "take and keep for himself"
+  },
+  "ABBEY": {
+    "Definition": "building where the priests or monks where staying"
+  },
+  "COLLATERAL": {
+    "Definition": "something used as security for repayment of the debt"
+  },
+  "LET HIM DOWN": {
+    "Definition": "failed to help him"
+  },
+  "DEVOTED": {
+    "Definition": "very loyal"
+  },
+  "UPON": {
+    "Definition": "after"
+  },
+  "LEND": {
+    "Definition": "give it on the understanding that it will be returned"
+  },
+  "DEADLINE": {
+    "Definition": "the latest time by which he would have to pay"
+  },
+  "MONK": {
+    "Definition": "a member of a religious community living in a monastery"
+  },
+  "DISCOURTEOUSLY": {
+    "Definition": "in a rude way"
+  },
+  "IMPOLITELY": {
+    "Definition": "in a rude way, without showing good manners"
+  },
+  "DOUBLING": {
+    "Definition": "having twice as much"
+  },
+  "REIMBURSED": {
+    "Definition": "repaid"
+  },
+  "GAIN": {
+    "Definition": "earn, win"
+  },
+  "RIGHTS THE WRONGS": {
+    "Definition": "corrects something bad or unfair"
+  },
+  "REWARDING": {
+    "Definition": "giving him money because he deserved it"
+  },
+  "TRUTHFUL": {
+    "Definition": "honest"
+  },
+  "DISRESPECTFUL": {
+    "Definition": "showing no respect, rude"
+  },
+  "SERVING": {
+    "Definition": "performing duties or services for"
+  },
+  "SHERIFF’S": {
+    "Definition": "of the officer of the Crown (king) in that area"
+  },
+  "RETALIATES": {
+    "Definition": "reacts"
+  },
+  "SILVERWARE": {
+    "Definition": "dishes, glasses, containers made of or covered by silver"
+  },
+  "AMBUSH": {
+    "Definition": "surprise attack"
+  },
+  "SWEARS": {
+    "Definition": "promises, makes a vow"
+  },
+  "OATH": {
+    "Definition": "promise, vow"
+  },
+  "ARCHERY": {
+    "Definition": "the practice of shooting with a bow and arrows"
+  },
+  "ATTEMPT": {
+    "Definition": "try, effort"
+  },
+  "SEEKS": {
+    "Definition": "tries to find"
+  },
+  "REFUGE": {
+    "Definition": "protection from danger"
+  },
+  "SHELTER": {
+    "Definition": "protection from danger"
+  },
+  "UPRISING": {
+    "Definition": "acts of resistance against authority, rebellion"
+  },
+  "SPREADING": {
+    "Definition": "reaching more and more people"
+  },
+  "NOTORIETY": {
+    "Definition": "the state of being well known or famous for the wrong reasons"
+  },
+  "INFAMY": {
+    "Definition": "the state of being well known or famous for the wrong reasons"
+  },
+  "DISGUISE": {
+    "Definition": "a false or fake appearance"
+  },
+  "GRANTS": {
+    "Definition": "gives officially"
+  },
+  "MERCY": {
+    "Definition": "forgiveness"
+  },
+  "PARDONS": {
+    "Definition": "officially forgives"
+  },
+  "ARCHER": {
+    "Definition": "one that used bow and arrows"
+  },
+  "HOMESICK": {
+    "Definition": "sad about being away from home"
+  },
+  "PRIORESS": {
+    "Definition": "woman who was head of a small monastery"
+  },
+  "GRUESOMELY": {
+    "Definition": "in a very unpleasant and shocking way"
+  },
+  "PRIORY": {
+    "Definition": "a small monastery"
+  },
+  "CLUES": {
+    "Definition": "pieces of information that help solve a problem"
+  },
+  "NARROW DOWN": {
+    "Definition": "reduce the number of possibilities"
+  },
+  "COME UP WITH": {
+    "Definition": "find"
+  },
+  "PRECISE": {
+    "Definition": "exact, accurate"
+  },
+  "ASCERTAIN": {
+    "Definition": "make sure"
+  },
+  "PLAUSIBLE": {
+    "Definition": "probable, likely to be true"
+  },
+  "LOOKING FOR": {
+    "Definition": "trying to find"
+  },
+  "COMING UP WITH": {
+    "Definition": "finding"
+  },
+  "PUZZLE": {
+    "Definition": "something that is difficult to understand"
+  },
+  "TAKE OFF": {
+    "Definition": "become very popular"
+  },
+  "SOUGHT-AFTER": {
+    "Definition": "generally desired or wanted"
+  },
+  "BARONS": {
+    "Definition": "members of nobility or high social rank"
+  },
+  "HEADED": {
+    "Definition": "led, ruled"
+  },
+  "DISASTROUS": {
+    "Definition": "causing damage, unfortunate"
+  },
+  "REIGN": {
+    "Definition": "period of rule"
+  },
+  "ABDICATION": {
+    "Definition": "resignation, retirement"
+  },
+  "RENOUNCE": {
+    "Definition": "give up, leave"
+  },
+  "GIVE UP": {
+    "Definition": "leave, stop having"
+  },
+  "SUBSEQUENTLY": {
+    "Definition": "afterwards, later"
+  },
+  "LONGBOWMEN": {
+    "Definition": "soldiers who used a long type of bow"
+  },
+  "OUTNUMBERED": {
+    "Definition": "less in number"
+  },
+  "QUEST": {
+    "Definition": "long and difficult search"
+  },
+  "ARCHERS": {
+    "Definition": "soldiers that used bow and arrows"
+  },
+  "LENDS CREDIBILITY": {
+    "Definition": "makes it seem believable"
+  },
+  "PARDONED": {
+    "Definition": "forgiven"
+  },
+  "RECRUITED": {
+    "Definition": "enlisted or included in his army"
+  },
+  "BACKED UP": {
+    "Definition": "supported"
+  },
+  "PRIME SUSPECT": {
+    "Definition": "the person believed to be the best match"
+  },
+  "DIMINUTIVE": {
+    "Definition": "shortened"
+  },
+  "FITS IN": {
+    "Definition": "is in agreement"
+  },
+  "CONTENDERS": {
+    "Definition": "candidates or people who were possibly Robin Hood"
+  },
+  "CONFISCATED": {
+    "Definition": "taken by the authorities"
+  },
+  "NAMESAKE": {
+    "Definition": "someone who had the same name"
+  },
+  "PARALLELS": {
+    "Definition": "similarities, matching characteristics"
+  },
+  "AT HIS CALL": {
+    "Definition": "ready to do what he asked"
+  },
+  "HIDING OUT": {
+    "Definition": "being in hiding"
+  },
+  "CARBON COPY": {
+    "Definition": "exact copy"
+  },
+  "CLONE": {
+    "Definition": "exact copy"
+  },
+  "STRIKING": {
+    "Definition": "very obvious"
+  },
+  "KINSMEN": {
+    "Definition": "relatives"
+  },
+  "SETTLEMENT": {
+    "Definition": "official agreement"
+  },
+  "ALIAS": {
+    "Definition": "another name"
+  },
+  "TIE IN": {
+    "Definition": "fit, agree"
+  },
+  "ADDS TO": {
+    "Definition": "makes it stronger"
+  },
+  "APPEAL": {
+    "Definition": "the quality of being attractive and interesting"
+  },
+  "THE STUFF OF LEGEND": {
+    "Definition": "something that one would usually only read about in novels or see in movies, very famous and amazing"
+  },
+  "SCULPTED": {
+    "Definition": "shaped, created"
+  },
+  "SUIT THEIR TIMES": {
+    "Definition": "be acceptable or suitable in their time"
+  },
+  "BASIS": {
+    "Definition": "base, starting point"
+  },
+  "PERSISTENTLY": {
+    "Definition": "continuously, always"
+  },
+  "APPEALING": {
+    "Definition": "attractive and interesting"
+  },
+  "VICIOUS": {
+    "Definition": "violent and cruel on purpose"
+  },
+  "DELIBERATELY": {
+    "Definition": "on purpose, intentionally"
+  },
+  "MORAL": {
+    "Definition": "related to the principles of right and wrong behaviour"
+  },
+  "DEVOTION": {
+    "Definition": "great loyalty or faithfulness"
+  },
+  "REDISTRIBUTING": {
+    "Definition": "giving or sharing again"
+  },
+  "VIRTUE": {
+    "Definition": "behaviour showing high standards"
+  },
+  "HOPELESSLY": {
+    "Definition": "without hope of improvement"
+  },
+  "CORRUPT": {
+    "Definition": "not honest or lawless"
+  },
+  "DEVOID OF": {
+    "Definition": "without any"
+  },
+  "LACK OF": {
+    "Definition": "the state of not having"
+  },
+  "APPOINTED": {
+    "Definition": "selected for the position"
+  },
+  "SHERIFFS": {
+    "Definition": "officers of the Crown (king) in a county or area"
+  },
+  "HELD": {
+    "Definition": "had, exercised"
+  },
+  "CONTEMPORARY": {
+    "Definition": "living at that time"
+  },
+  "CLERGY": {
+    "Definition": "priests"
+  },
+  "WERE FAIR GAME": {
+    "Definition": "people that were considered a reasonable target for criticism and jokes"
+  },
+  "SHEER": {
+    "Definition": "large"
+  },
+  "HYPOCRITES": {
+    "Definition": "people who pretended to be something they weren't"
+  },
+  "POKES FUN": {
+    "Definition": "makes fun of, ridicules"
+  },
+  "AT THEIR EXPENSE": {
+    "Definition": "directly at them"
+  },
+  "HAUGHTY": {
+    "Definition": "showing too much of self-worth, arrogant or snobbish"
+  },
+  "OVERLY PROUD": {
+    "Definition": "too proud"
+  },
+  "HUMILIATES": {
+    "Definition": "makes them look foolish by injuring their pride"
+  },
+  "INCOMPETENCE": {
+    "Definition": "inability to do something right"
+  },
+  "SCHEMING": {
+    "Definition": "the activity of making secret plans"
+  },
+  "ALIVE AND KICKING": {
+    "Definition": "alive and active"
+  },
+  "ON-SCREEN": {
+    "Definition": "showing in films or television programmes"
+  },
+  "": {
+    "Definition": null
+  }
+}
