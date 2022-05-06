@@ -1,410 +1,206 @@
 {
-  "Misery": {
-    "Definition": "great unhappiness",
-    "Definition (Cambridge automatic)": "great unhappiness :",
-    "IPA": "ˈmɪz.",
-    "IELTS": "B2"
-  },
-  "Loss": {
-    "Definition": "the fact of losing something or someone",
-    "Definition (Cambridge automatic)": "the fact that you no longer have something or have less of something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Perseverance": {
-    "Definition": "continued belief or effort to achieve something, persistence",
-    "Definition (Cambridge automatic)": "continued effort to do or achieve something, even when this is difficult or takes a long time :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Floppy": {
-    "Definition": "loose and not able to keep a certain shape",
-    "Definition (Cambridge automatic)": "soft and not able to keep a firm shape or position :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Obsessed": {
-    "Definition": "extremely interested in",
-    "Definition (Cambridge automatic)": "unable to stop thinking about something; too interested in or worried about something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Struck": {
-    "Definition": "happened suddenly, affected her in a damaging way",
-    "Definition (Cambridge automatic)": "past simple and past participle of strike",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Devastating": {
-    "Definition": "causing a lot of damage",
-    "Definition (Cambridge automatic)": "causing a lot of damage or destruction :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Spinal cord": {
-    "Definition": "set of nerves inside the spine that connect nearly all parts of the body to the brain",
-    "Definition (Cambridge automatic)": "the set of nerves inside the spine that connect the brain to other nerves in the body",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Sought": {
-    "Definition": "tried to find",
-    "Definition (Cambridge automatic)": "past simple and past participle of seek",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Head girl": {
-    "Definition": "a senior student who was chosen to represent her school",
-    "Definition (Cambridge automatic)": "the part of the body above the neck where the eyes , nose , mouth , ears , and brain are:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Prestigious": {
-    "Definition": "respected and admired",
-    "Definition (Cambridge automatic)": "respect and admiration given to someone or something, usually because of a reputation for high quality , success , or social influence :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "By her own admission": {
-    "Definition": "according to herself",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hit by a flash of light": {
-    "Definition": "hit by a flash of inspiration",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Grief": {
-    "Definition": "great sadness",
-    "Definition (Cambridge automatic)": "very great sadness , especially at the death of someone:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "At a loss": {
-    "Definition": "not knowing",
-    "Definition (Cambridge automatic)": "not",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Calling": {
-    "Definition": "what she felt she was destined to do",
-    "Definition (Cambridge automatic)": "a strong wish to do a job , usually one that is socially valuable :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Burning": {
-    "Definition": "intense, passionate",
-    "Definition (Cambridge automatic)": "producing flames :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Abusive": {
-    "Definition": "insulting and violent",
-    "Definition (Cambridge automatic)": "using rude and offensive words:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Fleeing": {
-    "Definition": "escaping by running away",
-    "Definition (Cambridge automatic)": "to escape by running away, especially because of danger or fear :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "In tow": {
-    "Definition": "with her",
-    "Definition (Cambridge automatic)": "If you go somewhere with a particular person in tow, they are with you:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Reliant": {
-    "Definition": "dependant",
-    "Definition (Cambridge automatic)": "the state of depending on or trusting in something or someone:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Pram": {
-    "Definition": "baby carriage",
-    "Definition (Cambridge automatic)": "a",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Orphan": {
-    "Definition": "a child whose parents are dead",
-    "Definition (Cambridge automatic)": "a child whose parents are dead :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Near misses": {
-    "Definition": "narrow escapes or close calls",
-    "Definition (Cambridge automatic)": "a situation in which something almost hits something else :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Betray": {
-    "Definition": "are not loyal to",
-    "Definition (Cambridge automatic)": "to not be loyal to your country or a person , often by doing something harmful such as helping their enemies :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Spells": {
-    "Definition": "a form of words that have magical power",
-    "Definition (Cambridge automatic)": "to form a word or words with the letters in the correct order :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Snapped up": {
-    "Definition": "accepted with enthusiasm",
-    "Definition (Cambridge automatic)": "to immediately offer someone a job or position because you want them very much:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hit": {
-    "Definition": "success",
-    "Definition (Cambridge automatic)": "to move your hand or an object onto the surface of something so that it touches it, usually with force :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Boarding school": {
-    "Definition": "a school which provides meals and a place to stay for the pupils",
-    "Definition (Cambridge automatic)": "a school where students live and study",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Nappies": {
-    "Definition": "diapers",
-    "Definition (Cambridge automatic)": "a square of thick soft paper or cloth that is fastened around a baby's bottom and between its legs to absorb its urine and solid waste :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Financial cushion": {
-    "Definition": "an amount of money kept for safety reasons",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Encouraged": {
-    "Definition": "suggested, tried to persuade",
-    "Definition (Cambridge automatic)": "having more",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Day job": {
-    "Definition": "regular job",
-    "Definition (Cambridge automatic)": "a",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Initials": {
-    "Definition": "first letters of her name",
-    "Definition (Cambridge automatic)": "of or at the beginning :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Fanfare": {
-    "Definition": "celebration",
-    "Definition (Cambridge automatic)": "a loud , short piece of music played on brass instruments , often to announce something important",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Spread": {
-    "Definition": "become known to more people",
-    "Definition (Cambridge automatic)": "to cover or reach a wider or increasing area , or to make something do this:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Sensation": {
-    "Definition": "a state of intense public interest and excitement",
-    "Definition (Cambridge automatic)": "the ability to feel something physically , especially by touching , or a physical feeling that results from this ability :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Captivated": {
-    "Definition": "attracted to, fascinated",
-    "Definition (Cambridge automatic)": "to hold the attention of someone by being extremely interesting , exciting , pleasant , or attractive :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Struggles": {
-    "Definition": "difficulties",
-    "Definition (Cambridge automatic)": "to experience difficulty and make a very great effort in order to do something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Regretted": {
-    "Definition": "felt sad and sorry for",
-    "Definition (Cambridge automatic)": "past simple and past participle of",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Visions": {
-    "Definition": "images in his mind",
-    "Definition (Cambridge automatic)": "an idea or mental image of something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Approval": {
-    "Definition": "good opinion about her",
-    "Definition (Cambridge automatic)": "the feeling of having a positive opinion of someone or something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Distressing": {
-    "Definition": "upsetting",
-    "Definition (Cambridge automatic)": "upsetting",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cut out": {
-    "Definition": "removed, excluded",
-    "Definition (Cambridge automatic)": "a piece of card cut into a particular shape , especially the shape of a person with a large photograph of that person on it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Fill the gap": {
-    "Definition": "fill the hole or empty space",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bleak": {
-    "Definition": "not hopeful, sad",
-    "Definition (Cambridge automatic)": "If a place is bleak, it is empty , and not welcoming or attractive :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Throughout": {
-    "Definition": "in every part",
-    "Definition (Cambridge automatic)": "in every part , or during the whole period of time :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Prolonged": {
-    "Definition": "continuing for a long time",
-    "Definition (Cambridge automatic)": "continuing",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Struggling": {
-    "Definition": "finding it difficult",
-    "Definition (Cambridge automatic)": "unsuccessful",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Make ends meet": {
-    "Definition": "have just enough money to buy what she needed to live",
-    "Definition (Cambridge automatic)": "to have just enough money to pay for the things that you need",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Numbness": {
-    "Definition": "the state of being unable to think, feel, or respond normally",
-    "Definition (Cambridge automatic)": "If a part of your body is numb, you are unable to feel it, usually for a short time :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Drained out": {
-    "Definition": "moved out",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Infesting": {
-    "Definition": "being present in large numbers",
-    "Definition (Cambridge automatic)": "(of animals and insects that carry disease ) to cause a problem by being present in large numbers :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Filthiest": {
-    "Definition": "extremely dirty",
-    "Definition (Cambridge automatic)": "extremely or unpleasantly dirty :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Decay": {
-    "Definition": "the state or process of rotting",
-    "Definition (Cambridge automatic)": "to become gradually damaged , worse , or less; to cause something to do this:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Despair": {
-    "Definition": "the feeling that there is no hope",
-    "Definition (Cambridge automatic)": "the feeling that there is no hope and that you can do nothing to improve a difficult or worrying situation :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Drain": {
-    "Definition": "remove, empty out",
-    "Definition (Cambridge automatic)": "If you drain something, you remove the liquid from it, usually by pouring it away or allowing it to flow away, and if something drains, liquid flows away or out of it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Rip-roaring": {
-    "Definition": "full of energy and excitement",
-    "Definition (Cambridge automatic)": "wild",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bidding war": {
-    "Definition": "a situation in which two or more groups repeatedly offer more and more money as they compete to have the same thing",
-    "Definition (Cambridge automatic)": "the situation in which two or more companies or people compete against each other in order to buy something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Subsequently": {
-    "Definition": "right afterwards",
-    "Definition (Cambridge automatic)": "after something",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Levelled against": {
-    "Definition": "said or expressed publicly against",
-    "Definition (Cambridge automatic)": "to",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Undeniable": {
-    "Definition": "certainly true",
-    "Definition (Cambridge automatic)": "certainly TRUE :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Overcome": {
-    "Definition": "succeed in dealing with",
-    "Definition (Cambridge automatic)": "to defeat or succeed in controlling or dealing with something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Obstacles": {
-    "Definition": "difficulties",
-    "Definition (Cambridge automatic)": "something that blocks you so that movement , going forward , or action is prevented or made more difficult :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Scar": {
-    "Definition": "mark left after an injury",
-    "Definition (Cambridge automatic)": "a mark left on part of the body after an injury , such as a cut , has healed :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Forehead": {
-    "Definition": "the flat part of the face above the eyes",
-    "Definition (Cambridge automatic)": "the flat part of the face , above the eyes and below the hair :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Fan": {
-    "Definition": "the state of being a fan or follower of a popular culture",
-    "Definition (Cambridge automatic)": "someone who admires and supports a person , sport , sports team , etc.:",
-    "IPA": null,
-    "IELTS": null
+  "MISERY": {
+    "Definition": "great unhappiness"
+  },
+  "LOSS": {
+    "Definition": "the fact of losing something or someone"
+  },
+  "PERSEVERANCE": {
+    "Definition": "continued belief or effort to achieve something, persistence"
+  },
+  "FLOPPY": {
+    "Definition": "loose and not able to keep a certain shape"
+  },
+  "OBSESSED": {
+    "Definition": "extremely interested in"
+  },
+  "STRUCK": {
+    "Definition": "happened suddenly, affected her in a damaging way"
+  },
+  "DEVASTATING": {
+    "Definition": "causing a lot of damage"
+  },
+  "SPINAL CORD": {
+    "Definition": "set of nerves inside the spine that connect nearly all parts of the body to the brain"
+  },
+  "SOUGHT": {
+    "Definition": "tried to find"
+  },
+  "HEAD GIRL": {
+    "Definition": "a senior student who was chosen to represent her school"
+  },
+  "PRESTIGIOUS": {
+    "Definition": "respected and admired"
+  },
+  "BY HER OWN ADMISSION": {
+    "Definition": "according to herself"
+  },
+  "HIT BY A FLASH OF LIGHT": {
+    "Definition": "hit by a flash of inspiration"
+  },
+  "GRIEF": {
+    "Definition": "great sadness"
+  },
+  "AT A LOSS": {
+    "Definition": "not knowing"
+  },
+  "CALLING": {
+    "Definition": "what she felt she was destined to do"
+  },
+  "BURNING": {
+    "Definition": "intense, passionate"
+  },
+  "ABUSIVE": {
+    "Definition": "insulting and violent"
+  },
+  "FLEEING": {
+    "Definition": "escaping by running away"
+  },
+  "IN TOW": {
+    "Definition": "with her"
+  },
+  "RELIANT": {
+    "Definition": "dependant"
+  },
+  "PRAM": {
+    "Definition": "baby carriage"
+  },
+  "ORPHAN": {
+    "Definition": "a child whose parents are dead"
+  },
+  "NEAR MISSES": {
+    "Definition": "narrow escapes or close calls"
+  },
+  "BETRAY": {
+    "Definition": "are not loyal to"
+  },
+  "SPELLS": {
+    "Definition": "a form of words that have magical power"
+  },
+  "SNAPPED UP": {
+    "Definition": "accepted with enthusiasm"
+  },
+  "HIT": {
+    "Definition": "success"
+  },
+  "BOARDING SCHOOL": {
+    "Definition": "a school which provides meals and a place to stay for the pupils"
+  },
+  "NAPPIES": {
+    "Definition": "diapers"
+  },
+  "FINANCIAL CUSHION": {
+    "Definition": "an amount of money kept for safety reasons"
+  },
+  "ENCOURAGED": {
+    "Definition": "suggested, tried to persuade"
+  },
+  "DAY JOB": {
+    "Definition": "regular job"
+  },
+  "INITIALS": {
+    "Definition": "first letters of her name"
+  },
+  "FANFARE": {
+    "Definition": "celebration"
+  },
+  "SPREAD": {
+    "Definition": "become known to more people"
+  },
+  "SENSATION": {
+    "Definition": "a state of intense public interest and excitement"
+  },
+  "CAPTIVATED": {
+    "Definition": "attracted to, fascinated"
+  },
+  "STRUGGLES": {
+    "Definition": "difficulties"
+  },
+  "REGRETTED": {
+    "Definition": "felt sad and sorry for"
+  },
+  "VISIONS": {
+    "Definition": "images in his mind"
+  },
+  "APPROVAL": {
+    "Definition": "good opinion about her"
+  },
+  "DISTRESSING": {
+    "Definition": "upsetting"
+  },
+  "CUT OUT": {
+    "Definition": "removed, excluded"
+  },
+  "FILL THE GAP": {
+    "Definition": "fill the hole or empty space"
+  },
+  "BLEAK": {
+    "Definition": "not hopeful, sad"
+  },
+  "THROUGHOUT": {
+    "Definition": "in every part"
+  },
+  "PROLONGED": {
+    "Definition": "continuing for a long time"
+  },
+  "STRUGGLING": {
+    "Definition": "finding it difficult"
+  },
+  "MAKE ENDS MEET": {
+    "Definition": "have just enough money to buy what she needed to live"
+  },
+  "NUMBNESS": {
+    "Definition": "the state of being unable to think, feel, or respond normally"
+  },
+  "DRAINED OUT": {
+    "Definition": "moved out"
+  },
+  "INFESTING": {
+    "Definition": "being present in large numbers"
+  },
+  "FILTHIEST": {
+    "Definition": "extremely dirty"
+  },
+  "DECAY": {
+    "Definition": "the state or process of rotting"
+  },
+  "DESPAIR": {
+    "Definition": "the feeling that there is no hope"
+  },
+  "DRAIN": {
+    "Definition": "remove, empty out"
+  },
+  "RIP-ROARING": {
+    "Definition": "full of energy and excitement"
+  },
+  "BIDDING WAR": {
+    "Definition": "a situation in which two or more groups repeatedly offer more and more money as they compete to have the same thing"
+  },
+  "SUBSEQUENTLY": {
+    "Definition": "right afterwards"
+  },
+  "LEVELLED AGAINST": {
+    "Definition": "said or expressed publicly against"
+  },
+  "UNDENIABLE": {
+    "Definition": "certainly true"
+  },
+  "OVERCOME": {
+    "Definition": "succeed in dealing with"
+  },
+  "OBSTACLES": {
+    "Definition": "difficulties"
+  },
+  "SCAR": {
+    "Definition": "mark left after an injury"
+  },
+  "FOREHEAD": {
+    "Definition": "the flat part of the face above the eyes"
+  },
+  "FAN": {
+    "Definition": "the state of being a fan or follower of a popular culture"
   },
   "": {
-    "Definition": null,
-    "Definition (Cambridge automatic)": null,
-    "IPA": null,
-    "IELTS": null
+    "Definition": null
   }
 }
