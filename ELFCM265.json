@@ -1,578 +1,290 @@
 {
-  "Synthetic": {
-    "Definition": "made artificially, not natural",
-    "Definition (Cambridge automatic)": "Synthetic products are made from artificial substances , often copying a natural product :",
-    "IPA": "sɪnˈθet.ɪk",
-    "IELTS": null
-  },
-  "Obscurity": {
-    "Definition": "the state of being unknown",
-    "Definition (Cambridge automatic)": "the state of not being known to many people :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Overtaking": {
-    "Definition": "becoming more important than",
-    "Definition (Cambridge automatic)": "present participle of",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Standalone": {
-    "Definition": "without being connected to other episodes on the same subject",
-    "Definition (Cambridge automatic)": "standalone software or a standalone computer works on its own without being part of a set, or without being connected to other computers :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Ravaged": {
-    "Definition": "greatly damaged or harmed",
-    "Definition (Cambridge automatic)": "to cause great damage to something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Duo": {
-    "Definition": "pair",
-    "Definition (Cambridge automatic)": "two people , especially two singers , musicians , or other performers :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Relieve": {
-    "Definition": "make it less strong",
-    "Definition (Cambridge automatic)": "to make an unpleasant feeling , such as pain or worry , less strong :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Dose": {
-    "Definition": "measured amount",
-    "Definition (Cambridge automatic)": "a measured amount of something such as medicine :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Terminal": {
-    "Definition": "leading to death, incurable",
-    "Definition (Cambridge automatic)": "(of a disease or illness ) leading gradually to death :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Setting": {
-    "Definition": "environment, context",
-    "Definition (Cambridge automatic)": "the position of a house or other building :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Countless": {
-    "Definition": "too many to count",
-    "Definition (Cambridge automatic)": "very many, or too many to be counted :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Ripe": {
-    "Definition": "advanced",
-    "Definition (Cambridge automatic)": "(of fruit or crops ) completely developed and ready to be collected or eaten :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Obituary": {
-    "Definition": "public notice or announcement of his death",
-    "Definition (Cambridge automatic)": "a report , especially in a newspaper , that gives the news of someone's death and details about their life",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Afterthought": {
-    "Definition": "a later or secondary thought",
-    "Definition (Cambridge automatic)": "an idea , thought , or plan that was not originally intended but is thought of at a later time :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Glowing": {
-    "Definition": "very successful",
-    "Definition (Cambridge automatic)": "praising with enthusiasm :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Patents": {
-    "Definition": "official licences to exclusively use his inventions for a period of time",
-    "Definition (Cambridge automatic)": "the official legal right to make or sell an invention for a particular number of years :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Authoring": {
-    "Definition": "being the writer or author of",
-    "Definition (Cambridge automatic)": "the design and production of computer programs and websites , using special software :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Burst onto": {
-    "Definition": "appeared suddenly and in a strong way",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "The scene": {
-    "Definition": "the specific area of activity",
-    "Definition (Cambridge automatic)": "to describe a situation where something is about to happen :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Household name": {
-    "Definition": "something very well known",
-    "Definition (Cambridge automatic)": "a famous person that most people know of:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Overdose": {
-    "Definition": "the action of taking too much of the drug",
-    "Definition (Cambridge automatic)": "too much of a drug taken or given at one time , either intentionally or by accident :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Leading": {
-    "Definition": "most important or common",
-    "Definition (Cambridge automatic)": "very important or most important :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "In the right hands": {
-    "Definition": "controlled by suitable or specialised medical personnel",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Clinical": {
-    "Definition": "medical",
-    "Definition (Cambridge automatic)": "used to refer to medical work or teaching that relates to the examination and treatment of ill people :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Patch": {
-    "Definition": "a piece of material worn on the skin",
-    "Definition (Cambridge automatic)": "a small area that is different in some way from the area that surrounds it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Nasal spray": {
-    "Definition": "liquid medication that can be inhaled or taken through the nose",
-    "Definition (Cambridge automatic)": "a",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bloodstream": {
-    "Definition": "the blood circulating or flowing through the body",
-    "Definition (Cambridge automatic)": "the flow of blood around the body :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Clinical environment, and taken recreationally": {
-    "Definition": "a medical environment and taken for enjoyment and not for medical reasons",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Potency": {
-    "Definition": "power, strength",
-    "Definition (Cambridge automatic)": "strength , influence , or effectiveness :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Grains": {
-    "Definition": "very small pieces or particles",
-    "Definition (Cambridge automatic)": "a seed or seeds from a plant , especially a plant like a grass such as rice or wheat :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Snorted": {
-    "Definition": "taken through the nose",
-    "Definition (Cambridge automatic)": "to make an explosive sound by forcing air quickly up or down the nose :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Rush": {
-    "Definition": "a sudden intense feeling of energy",
-    "Definition (Cambridge automatic)": "to ( cause to) go or do something very quickly :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "High": {
-    "Definition": "a sudden intense feeling of energy and happiness",
-    "Definition (Cambridge automatic)": "( especially of things that are not living ) being a large distance from top to bottom or a long way above the ground , or having the stated distance from top to bottom :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Euphoria": {
-    "Definition": "extreme happiness",
-    "Definition (Cambridge automatic)": "extreme happiness , sometimes more than is reasonable in a particular situation :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bind": {
-    "Definition": "stick, are attached or tied",
-    "Definition (Cambridge automatic)": "to tie something or someone tightly or to fasten something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Receptors": {
-    "Definition": "organs or nerves that react to a change in the body",
-    "Definition (Cambridge automatic)": "a nerve ending that reacts to a change , such as heat or cold , in the body by sending a message to the central nervous system",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Blocks out": {
-    "Definition": "stops",
-    "Definition (Cambridge automatic)": "to stop light or noise from passing through something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Consume": {
-    "Definition": "destroy",
-    "Definition (Cambridge automatic)": "to use fuel , energy , or time , especially in large amounts :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Scene": {
-    "Definition": "specific area of activity",
-    "Definition (Cambridge automatic)": "a part of a play or film in which the action stays in one place for a continuous period of time :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Tightening": {
-    "Definition": "the act of making them stricter or stronger",
-    "Definition (Cambridge automatic)": "the activity of limiting the amount of money that people and companies are able to borrow or spend , for example by increasing interest rates :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Skyrocketed": {
-    "Definition": "rose very quickly",
-    "Definition (Cambridge automatic)": "to rise extremely quickly or make extremely quick progress towards success :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Stigma": {
-    "Definition": "strong feeling of disapproval or shame",
-    "Definition (Cambridge automatic)": "a strong feeling of disapproval that most people in a society have about something, especially when this is unfair :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Epidemic": {
-    "Definition": "the appearance of the disease in a large number of people at the same time",
-    "Definition (Cambridge automatic)": "the appearance of a particular disease in a large number of people at the same time :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Harvested": {
-    "Definition": "collected, gathered",
-    "Definition (Cambridge automatic)": "the time of year when crops are cut and collected from the fields , or the activity of cutting and collecting them, or the crops that are cut and collected :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Poppies": {
-    "Definition": "plants with red flowers that are a source of drugs such as morphine",
-    "Definition (Cambridge automatic)": "a plant with large , delicate flowers that are typically red and have small , black seeds",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Smuggled": {
-    "Definition": "illegally transferred",
-    "Definition (Cambridge automatic)": "to take things or people to or from a place secretly and often illegally :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Shipments": {
-    "Definition": "amounts sent together",
-    "Definition (Cambridge automatic)": "a large amount of goods sent together to a place , or the act of sending them:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Crackdown": {
-    "Definition": "a series of stricter or stronger measures to limit illegal activity",
-    "Definition (Cambridge automatic)": "a situation in which someone starts to deal with bad or illegal behaviour in a more severe way:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Subsequent": {
-    "Definition": "following",
-    "Definition (Cambridge automatic)": "happening after something else :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Smuggling": {
-    "Definition": "transferring it illegally",
-    "Definition (Cambridge automatic)": "the act or process of taking things or people to or from a place secretly and often illegally :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Logistics": {
-    "Definition": "organisation",
-    "Definition (Cambridge automatic)": "the careful organization of a complicated activity so that it happens in a successful and effective way:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hit": {
-    "Definition": "a single measured quantity or dose of the drug taken",
-    "Definition (Cambridge automatic)": "to move your hand or an object onto the surface of something so that it touches it, usually with force :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Anticipate": {
-    "Definition": "guess",
-    "Definition (Cambridge automatic)": "to imagine or expect that something will happen :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Comparatively": {
-    "Definition": "as compared to the others, relatively",
-    "Definition (Cambridge automatic)": "as",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cutting": {
-    "Definition": "mixing, combining",
-    "Definition (Cambridge automatic)": "an article that has been cut from a newspaper or magazine",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Knowingly": {
-    "Definition": "in a way that showed they knew about it",
-    "Definition (Cambridge automatic)": "in a way that shows you know about something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Unknowingly": {
-    "Definition": "in a way that showed they didn't know about it",
-    "Definition (Cambridge automatic)": "in a way that is not conscious of a particular situation or problem :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Batch": {
-    "Definition": "quantity produced at one time",
-    "Definition (Cambridge automatic)": "a group of things or people dealt with at the same time or considered similar in type :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Lethal": {
-    "Definition": "able to cause death, fatal, deadly",
-    "Definition (Cambridge automatic)": "able to cause or causing death ; extremely dangerous :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Fatally": {
-    "Definition": "with death as a result",
-    "Definition (Cambridge automatic)": "A fatal illness , accident , etc. causes death :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cut": {
-    "Definition": "mixed, combined",
-    "Definition (Cambridge automatic)": "to break the surface of something, or to divide or make something smaller , using a sharp tool , especially a knife :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cadets": {
-    "Definition": "students (in the armed forces)",
-    "Definition (Cambridge automatic)": "a student in the armed forces or the police",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Laced": {
-    "Definition": "mixed, combined",
-    "Definition (Cambridge automatic)": "a decorative cloth made by twisting thin thread in delicate patterns with holes in them:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Mainstream": {
-    "Definition": "normal and accepted by most people",
-    "Definition (Cambridge automatic)": "considered normal , and having or using ideas , beliefs , etc. that are accepted by most people :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Toll": {
-    "Definition": "number of deaths",
-    "Definition (Cambridge automatic)": "a small amount of money that you have to pay to use a road , cross a bridge , etc.:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Gripping": {
-    "Definition": "hard to escape",
-    "Definition (Cambridge automatic)": "Something that is gripping is so interesting or exciting that it holds your attention completely :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Overwhelmingly": {
-    "Definition": "with a great majority, mostly",
-    "Definition (Cambridge automatic)": "strongly",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Making up": {
-    "Definition": "forming or constituting",
-    "Definition (Cambridge automatic)": "to form a particular thing, amount , or number as a whole :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Make up": {
-    "Definition": "form or constitute",
-    "Definition (Cambridge automatic)": "to forgive someone and be friendly with them again after an argument or disagreement :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Proportionally": {
-    "Definition": "to the same extent",
-    "Definition (Cambridge automatic)": "in a way that keeps the same relationship between numbers or amounts ; as a proportion :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Discriminate": {
-    "Definition": "treat people in a different way",
-    "Definition (Cambridge automatic)": "to treat a person or particular group of people differently , especially in a worse way from the way in which you treat other people , because of their skin colour , sex , sexuality , etc.:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hit rock bottom": {
-    "Definition": "hit their lowest possible point",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Compounded": {
-    "Definition": "made worse",
-    "Definition (Cambridge automatic)": "a chemical that combines two or more elements :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Grip": {
-    "Definition": "tight hold, pressure",
-    "Definition (Cambridge automatic)": "to hold very tightly :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Anomaly": {
-    "Definition": "unusual, not in agreement with the rest",
-    "Definition (Cambridge automatic)": "a person or thing that is different from what is usual , or not in agreement with something else and therefore not satisfactory :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Policies": {
-    "Definition": "plans, strategies",
-    "Definition (Cambridge automatic)": "a set of ideas or a plan of what to do in particular situations that has been agreed to officially by a group of people , a business organization , a government , or a political party :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Taking it off": {
-    "Definition": "removing it from",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cracking down": {
-    "Definition": "taking stronger or stricter measures against",
-    "Definition (Cambridge automatic)": "to start dealing with bad or illegal behaviour in a more severe way:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Prosecuting": {
-    "Definition": "taking them to court, bringing them to trial",
-    "Definition (Cambridge automatic)": "to officially accuse someone of committing a crime in a law court , or (of a lawyer ) to try to prove that a person accused of committing a crime is guilty of that crime :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "In line with": {
-    "Definition": "in agreement or accordance with",
-    "Definition (Cambridge automatic)": "similar to, or at the same level as something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Advocates": {
-    "Definition": "publicly supports",
-    "Definition (Cambridge automatic)": "to publicly support or suggest an idea , development , or way of doing something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Overdoses": {
-    "Definition": "actions of taking too much of the drug",
-    "Definition (Cambridge automatic)": "too much of a drug taken or given at one time , either intentionally or by accident :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Reversal": {
-    "Definition": "change to the opposite direction",
-    "Definition (Cambridge automatic)": "the act of changing or making something change to its opposite :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Customs officials": {
-    "Definition": "people whose job is to check travellers' bags to make certain they are not taking illegal goods into the country",
-    "Definition (Cambridge automatic)": "→",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Thereby": {
-    "Definition": "as a result",
-    "Definition (Cambridge automatic)": "as a result of this action :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Lucrative": {
-    "Definition": "producing a lot of money",
-    "Definition (Cambridge automatic)": "( especially of a business , job , or activity ) producing a lot of money :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Shortage": {
-    "Definition": "a situation in which there are not enough of them",
-    "Definition (Cambridge automatic)": "a situation in which there is not enough of something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Puzzle": {
-    "Definition": "problem",
-    "Definition (Cambridge automatic)": "a situation that is difficult to understand :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hooked on": {
-    "Definition": "addicted to",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Nigh": {
-    "Definition": "near",
-    "Definition (Cambridge automatic)": "near:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Eliminate": {
-    "Definition": "remove",
-    "Definition (Cambridge automatic)": "to remove or take away someone or something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Coherent": {
-    "Definition": "clear and carefully considered",
-    "Definition (Cambridge automatic)": "If an argument , set of ideas , or a plan is coherent, it is clear and carefully considered , and each part of it connects or follows in a natural or reasonable way.",
-    "IPA": null,
-    "IELTS": null
-  },
-  "On a high note": {
-    "Definition": "in a pleasant or enjoyable way",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Blame": {
-    "Definition": "be considered responsible for it",
-    "Definition (Cambridge automatic)": "to say or think that someone or something did something wrong or is responsible for something bad happening :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Structural": {
-    "Definition": "related to the way it is made or organised",
-    "Definition (Cambridge automatic)": "relating to the way in which parts of a system or object are arranged :",
-    "IPA": null,
-    "IELTS": null
+  "SYNTHETIC": {
+    "Definition": "made artificially, not natural"
+  },
+  "OBSCURITY": {
+    "Definition": "the state of being unknown"
+  },
+  "OVERTAKING": {
+    "Definition": "becoming more important than"
+  },
+  "STANDALONE": {
+    "Definition": "without being connected to other episodes on the same subject"
+  },
+  "RAVAGED": {
+    "Definition": "greatly damaged or harmed"
+  },
+  "DUO": {
+    "Definition": "pair"
+  },
+  "RELIEVE": {
+    "Definition": "make it less strong"
+  },
+  "DOSE": {
+    "Definition": "measured amount"
+  },
+  "TERMINAL": {
+    "Definition": "leading to death, incurable"
+  },
+  "SETTING": {
+    "Definition": "environment, context"
+  },
+  "COUNTLESS": {
+    "Definition": "too many to count"
+  },
+  "RIPE": {
+    "Definition": "advanced"
+  },
+  "OBITUARY": {
+    "Definition": "public notice or announcement of his death"
+  },
+  "AFTERTHOUGHT": {
+    "Definition": "a later or secondary thought"
+  },
+  "GLOWING": {
+    "Definition": "very successful"
+  },
+  "PATENTS": {
+    "Definition": "official licences to exclusively use his inventions for a period of time"
+  },
+  "AUTHORING": {
+    "Definition": "being the writer or author of"
+  },
+  "BURST ONTO": {
+    "Definition": "appeared suddenly and in a strong way"
+  },
+  "THE SCENE": {
+    "Definition": "the specific area of activity"
+  },
+  "HOUSEHOLD NAME": {
+    "Definition": "something very well known"
+  },
+  "OVERDOSE": {
+    "Definition": "the action of taking too much of the drug"
+  },
+  "LEADING": {
+    "Definition": "most important or common"
+  },
+  "IN THE RIGHT HANDS": {
+    "Definition": "controlled by suitable or specialised medical personnel"
+  },
+  "CLINICAL": {
+    "Definition": "medical"
+  },
+  "PATCH": {
+    "Definition": "a piece of material worn on the skin"
+  },
+  "NASAL SPRAY": {
+    "Definition": "liquid medication that can be inhaled or taken through the nose"
+  },
+  "BLOODSTREAM": {
+    "Definition": "the blood circulating or flowing through the body"
+  },
+  "CLINICAL ENVIRONMENT, AND TAKEN RECREATIONALLY": {
+    "Definition": "a medical environment and taken for enjoyment and not for medical reasons"
+  },
+  "POTENCY": {
+    "Definition": "power, strength"
+  },
+  "GRAINS": {
+    "Definition": "very small pieces or particles"
+  },
+  "SNORTED": {
+    "Definition": "taken through the nose"
+  },
+  "RUSH": {
+    "Definition": "a sudden intense feeling of energy"
+  },
+  "HIGH": {
+    "Definition": "a sudden intense feeling of energy and happiness"
+  },
+  "EUPHORIA": {
+    "Definition": "extreme happiness"
+  },
+  "BIND": {
+    "Definition": "stick, are attached or tied"
+  },
+  "RECEPTORS": {
+    "Definition": "organs or nerves that react to a change in the body"
+  },
+  "BLOCKS OUT": {
+    "Definition": "stops"
+  },
+  "CONSUME": {
+    "Definition": "destroy"
+  },
+  "SCENE": {
+    "Definition": "specific area of activity"
+  },
+  "TIGHTENING": {
+    "Definition": "the act of making them stricter or stronger"
+  },
+  "SKYROCKETED": {
+    "Definition": "rose very quickly"
+  },
+  "STIGMA": {
+    "Definition": "strong feeling of disapproval or shame"
+  },
+  "EPIDEMIC": {
+    "Definition": "the appearance of the disease in a large number of people at the same time"
+  },
+  "HARVESTED": {
+    "Definition": "collected, gathered"
+  },
+  "POPPIES": {
+    "Definition": "plants with red flowers that are a source of drugs such as morphine"
+  },
+  "SMUGGLED": {
+    "Definition": "illegally transferred"
+  },
+  "SHIPMENTS": {
+    "Definition": "amounts sent together"
+  },
+  "CRACKDOWN": {
+    "Definition": "a series of stricter or stronger measures to limit illegal activity"
+  },
+  "SUBSEQUENT": {
+    "Definition": "following"
+  },
+  "SMUGGLING": {
+    "Definition": "transferring it illegally"
+  },
+  "LOGISTICS": {
+    "Definition": "organisation"
+  },
+  "HIT": {
+    "Definition": "a single measured quantity or dose of the drug taken"
+  },
+  "ANTICIPATE": {
+    "Definition": "guess"
+  },
+  "COMPARATIVELY": {
+    "Definition": "as compared to the others, relatively"
+  },
+  "CUTTING": {
+    "Definition": "mixing, combining"
+  },
+  "KNOWINGLY": {
+    "Definition": "in a way that showed they knew about it"
+  },
+  "UNKNOWINGLY": {
+    "Definition": "in a way that showed they didn't know about it"
+  },
+  "BATCH": {
+    "Definition": "quantity produced at one time"
+  },
+  "LETHAL": {
+    "Definition": "able to cause death, fatal, deadly"
+  },
+  "FATALLY": {
+    "Definition": "with death as a result"
+  },
+  "CUT": {
+    "Definition": "mixed, combined"
+  },
+  "CADETS": {
+    "Definition": "students (in the armed forces)"
+  },
+  "LACED": {
+    "Definition": "mixed, combined"
+  },
+  "MAINSTREAM": {
+    "Definition": "normal and accepted by most people"
+  },
+  "TOLL": {
+    "Definition": "number of deaths"
+  },
+  "GRIPPING": {
+    "Definition": "hard to escape"
+  },
+  "OVERWHELMINGLY": {
+    "Definition": "with a great majority, mostly"
+  },
+  "MAKING UP": {
+    "Definition": "forming or constituting"
+  },
+  "MAKE UP": {
+    "Definition": "form or constitute"
+  },
+  "PROPORTIONALLY": {
+    "Definition": "to the same extent"
+  },
+  "DISCRIMINATE": {
+    "Definition": "treat people in a different way"
+  },
+  "HIT ROCK BOTTOM": {
+    "Definition": "hit their lowest possible point"
+  },
+  "COMPOUNDED": {
+    "Definition": "made worse"
+  },
+  "GRIP": {
+    "Definition": "tight hold, pressure"
+  },
+  "ANOMALY": {
+    "Definition": "unusual, not in agreement with the rest"
+  },
+  "POLICIES": {
+    "Definition": "plans, strategies"
+  },
+  "TAKING IT OFF": {
+    "Definition": "removing it from"
+  },
+  "CRACKING DOWN": {
+    "Definition": "taking stronger or stricter measures against"
+  },
+  "PROSECUTING": {
+    "Definition": "taking them to court, bringing them to trial"
+  },
+  "IN LINE WITH": {
+    "Definition": "in agreement or accordance with"
+  },
+  "ADVOCATES": {
+    "Definition": "publicly supports"
+  },
+  "OVERDOSES": {
+    "Definition": "actions of taking too much of the drug"
+  },
+  "REVERSAL": {
+    "Definition": "change to the opposite direction"
+  },
+  "CUSTOMS OFFICIALS": {
+    "Definition": "people whose job is to check travellers' bags to make certain they are not taking illegal goods into the country"
+  },
+  "THEREBY": {
+    "Definition": "as a result"
+  },
+  "LUCRATIVE": {
+    "Definition": "producing a lot of money"
+  },
+  "SHORTAGE": {
+    "Definition": "a situation in which there are not enough of them"
+  },
+  "PUZZLE": {
+    "Definition": "problem"
+  },
+  "HOOKED ON": {
+    "Definition": "addicted to"
+  },
+  "NIGH": {
+    "Definition": "near"
+  },
+  "ELIMINATE": {
+    "Definition": "remove"
+  },
+  "COHERENT": {
+    "Definition": "clear and carefully considered"
+  },
+  "ON A HIGH NOTE": {
+    "Definition": "in a pleasant or enjoyable way"
+  },
+  "BLAME": {
+    "Definition": "be considered responsible for it"
+  },
+  "STRUCTURAL": {
+    "Definition": "related to the way it is made or organised"
   },
   "": {
-    "Definition": null,
-    "Definition (Cambridge automatic)": null,
-    "IPA": null,
-    "IELTS": null
+    "Definition": null
   }
 }
