@@ -1,0 +1,410 @@
+{
+  "MANNED": {
+    "Definition": "having a human crew or group of people who worked on the ship"
+  },
+  "ROUTINE": {
+    "Definition": "standard, regular"
+  },
+  "LIFT-OFF": {
+    "Definition": "take-off, leaving the ground"
+  },
+  "DEFECTIVE": {
+    "Definition": "faulty, problematic"
+  },
+  "PROPULSION": {
+    "Definition": "providing the force to push it forward"
+  },
+  "STRANDED": {
+    "Definition": "left without the means to be directed"
+  },
+  "EPIC": {
+    "Definition": "impressive in scope or scale, grand"
+  },
+  "CAPTIVATED": {
+    "Definition": "attracted a lot of interest and attention"
+  },
+  "HEROISM": {
+    "Definition": "great courage"
+  },
+  "AGAINST ALL ODDS": {
+    "Definition": "despite all of the problems"
+  },
+  "AMBITIOUS": {
+    "Definition": "having or showing a strong desire to achieve it"
+  },
+  "FULFILLED": {
+    "Definition": "achieved or realised"
+  },
+  "LEAP": {
+    "Definition": "a large jump"
+  },
+  "SPARE": {
+    "Definition": "available to use because they were extra"
+  },
+  "CONTRACTED": {
+    "Definition": "officially agreed to be used"
+  },
+  "PRECISION": {
+    "Definition": "exact, accurate"
+  },
+  "SURVEYING": {
+    "Definition": "the work of examining and recording the area"
+  },
+  "DEPLOYING": {
+    "Definition": "putting in use"
+  },
+  "LUNAR": {
+    "Definition": "relating to the moon"
+  },
+  "ASTRONAUTS": {
+    "Definition": "people who were trained for travelling in space"
+  },
+  "CAPACITY": {
+    "Definition": "ability"
+  },
+  "FACT-FINDING": {
+    "Definition": "planned to go and collect information"
+  },
+  "MOTTO": {
+    "Definition": "a short phrase that expressed its purpose"
+  },
+  "CLOCKED UP": {
+    "Definition": "counted, completed"
+  },
+  "CREWED": {
+    "Definition": "having a group of people who worked on the ship"
+  },
+  "ORBIT": {
+    "Definition": "fly around"
+  },
+  "COOL HEAD": {
+    "Definition": "ability to stay calm in difficult situations"
+  },
+  "CRUCIAL": {
+    "Definition": "extremely important"
+  },
+  "CREW": {
+    "Definition": "a group of people who worked together on the ship"
+  },
+  "BACKUP": {
+    "Definition": "people who can be called on if necessary"
+  },
+  "WAS EXPOSED TO": {
+    "Definition": "caught or developed"
+  },
+  "RUBELLA": {
+    "Definition": "an infectious disease"
+  },
+  "HOUSED": {
+    "Definition": "that provided them with room to stay"
+  },
+  "UNPRESSURISED": {
+    "Definition": "not having normal atmospheric pressure"
+  },
+  "FUEL CELLS": {
+    "Definition": "devices producing an electric current direct from a chemical reaction"
+  },
+  "DETACH": {
+    "Definition": "be separated or removed"
+  },
+  "MONITOR": {
+    "Definition": "watch, keep an eye on"
+  },
+  "GLITCH": {
+    "Definition": "small problem or fault"
+  },
+  "FULFIL": {
+    "Definition": "complete"
+  },
+  "SUDDEN": {
+    "Definition": "happening quickly and without warning"
+  },
+  "MALFUNCTION": {
+    "Definition": "a failure to work correctly"
+  },
+  "UNEVENTFUL": {
+    "Definition": "in which nothing interesting, unusual or exciting happened"
+  },
+  "NOVELTY": {
+    "Definition": "the quality of being new and unusual"
+  },
+  "MALFUNCTIONING": {
+    "Definition": "not working properly"
+  },
+  "FLIPPED": {
+    "Definition": "pushed, moved"
+  },
+  "CAME TO LIGHT": {
+    "Definition": "became known"
+  },
+  "OVERHEAT": {
+    "Definition": "become too hot"
+  },
+  "ALARMED": {
+    "Definition": "worried"
+  },
+  "UNAWARE": {
+    "Definition": "not understanding or realising"
+  },
+  "UTTERED": {
+    "Definition": "spoke"
+  },
+  "ARTISTIC LICENCE": {
+    "Definition": "change in the facts in order to make them more interesting or beautiful"
+  },
+  "ESTABLISH": {
+    "Definition": "confirm, certify"
+  },
+  "DROP": {
+    "Definition": "decrease"
+  },
+  "SEVERITY": {
+    "Definition": "seriousness"
+  },
+  "DAWN ON": {
+    "Definition": "to be understood or realised by them for the first time"
+  },
+  "POURING OUT": {
+    "Definition": "flowing or falling out"
+  },
+  "CUT OUT": {
+    "Definition": "stop providing, give up"
+  },
+  "ABRUPTLY": {
+    "Definition": "suddenly in an unpleasant way"
+  },
+  "RUN COMPLETELY OUT": {
+    "Definition": "be completely without"
+  },
+  "HEAT SHIELD": {
+    "Definition": "a covering that protected it from the heat"
+  },
+  "RUN OUT OF": {
+    "Definition": "be without"
+  },
+  "ISOLATE": {
+    "Definition": "separate"
+  },
+  "CONSERVE": {
+    "Definition": "keep having, save"
+  },
+  "ABORT": {
+    "Definition": "end"
+  },
+  "SWITCHED OFF": {
+    "Definition": "stop the operation of"
+  },
+  "FREE-RETURN": {
+    "Definition": "a return flight without having to spend much fuel through making use of gravitation (the pulling force of a planet)"
+  },
+  "TRAJECTORY": {
+    "Definition": "path, direction"
+  },
+  "LOOP": {
+    "Definition": "follow a course that forms the shape of a circle"
+  },
+  "REITERATE": {
+    "Definition": "say it again"
+  },
+  "TURNING BACK": {
+    "Definition": "going back in the direction from which it came"
+  },
+  "LOOPING": {
+    "Definition": "following a course that forms the shape of a circle"
+  },
+  "GRAVITATIONAL": {
+    "Definition": "relating to the movement towards a centre of gravity"
+  },
+  "BOLD": {
+    "Definition": "brave and risky"
+  },
+  "SQUEEZED": {
+    "Definition": "crowded into a narrow space"
+  },
+  "SIZABLE": {
+    "Definition": "long"
+  },
+  "LENGTH": {
+    "Definition": "extent, duration"
+  },
+  "FRANTICALLY": {
+    "Definition": "in a nervously hurried way"
+  },
+  "CRUNCHING": {
+    "Definition": "processing, working on"
+  },
+  "TRAJECTORIES": {
+    "Definition": "paths, directions"
+  },
+  "COME UP WITH": {
+    "Definition": "find, think up"
+  },
+  "IN HIBERNATION": {
+    "Definition": "being inactive"
+  },
+  "RISKED": {
+    "Definition": "acted in such a way as to bring about the possibility of"
+  },
+  "RUNNING OUT OF": {
+    "Definition": "having no"
+  },
+  "BYPRODUCT": {
+    "Definition": "secondary product"
+  },
+  "RATIONED": {
+    "Definition": "allowed (per person)"
+  },
+  "GUIDANCE": {
+    "Definition": "information and instruction"
+  },
+  "BUILD UP": {
+    "Definition": "increase"
+  },
+  "CANISTERS": {
+    "Definition": "containers"
+  },
+  "PELLETS": {
+    "Definition": "small spheres or round objects"
+  },
+  "USED UP": {
+    "Definition": "completely used"
+  },
+  "CRAMPED": {
+    "Definition": "not having enough space"
+  },
+  "WORKAROUND": {
+    "Definition": "a way of dealing with the problem"
+  },
+  "CAME UP WITH": {
+    "Definition": "found, thought up"
+  },
+  "FIX": {
+    "Definition": "solution"
+  },
+  "CARDBOARD": {
+    "Definition": "a thick type of paper usually for making boxes"
+  },
+  "CALLING UP": {
+    "Definition": "contacting them by phone"
+  },
+  "ASSEMBLE": {
+    "Definition": "set up, construct"
+  },
+  "CANISTER": {
+    "Definition": "container"
+  },
+  "PLUMMETED": {
+    "Definition": "fallen very quickly and suddenly"
+  },
+  "NO MEAN FEAT": {
+    "Definition": "a difficult and great achievement"
+  },
+  "REBOOTING": {
+    "Definition": "restarting"
+  },
+  "FIGURE OUT": {
+    "Definition": "find, think up"
+  },
+  "IMPLEMENT": {
+    "Definition": "put them into effect, use"
+  },
+  "RAISE": {
+    "Definition": "increase"
+  },
+  "HOSPITABLE": {
+    "Definition": "pleasant and easy to live in"
+  },
+  "JETTISONED": {
+    "Definition": "threw or dropped"
+  },
+  "CAST OFF": {
+    "Definition": "threw or dropped"
+  },
+  "PANEL": {
+    "Definition": "a thin piece of metal forming a part of the ship's covering"
+  },
+  "BLOWN OFF": {
+    "Definition": "removed, destroyed"
+  },
+  "SUFFICIENTLY": {
+    "Definition": "enough"
+  },
+  "BEATEN ALL OF THE ODDS": {
+    "Definition": "achieved it even though it was very unlikely"
+  },
+  "GET RID OF": {
+    "Definition": "be free of, do away with"
+  },
+  "LIFEBOAT": {
+    "Definition": "a boat used for rescues"
+  },
+  "TRENCH": {
+    "Definition": "a narrow hole"
+  },
+  "HURTLED DOWN": {
+    "Definition": "moved down at a very high speed"
+  },
+  "NAIL-BITING": {
+    "Definition": "very worrying, causing intense anxiety"
+  },
+  "GRIPPED": {
+    "Definition": "extremely interested in"
+  },
+  "ORDEAL": {
+    "Definition": "very unpleasant and difficult experience"
+  },
+  "BLACKOUT": {
+    "Definition": "silence"
+  },
+  "TENSE": {
+    "Definition": "causing anxiety and nervousness"
+  },
+  "SPLASHED DOWN": {
+    "Definition": "landed on the water"
+  },
+  "URINARY TRACT INFECTION": {
+    "Definition": "an infection of the urinary (relating to the organs by which urine is produced) system"
+  },
+  "SPLASHDOWN": {
+    "Definition": "landing on water"
+  },
+  "PERILOUS": {
+    "Definition": "very dangerous"
+  },
+  "UNPRECEDENTED": {
+    "Definition": "having never happened before"
+  },
+  "CREW’S": {
+    "Definition": "of the group of people who worked together on the ship"
+  },
+  "NERVES OF STEEL": {
+    "Definition": "impressive ability to remain calm in dangerous or difficult situations"
+  },
+  "PROTRACTED": {
+    "Definition": "extended"
+  },
+  "BUDGET CUTS": {
+    "Definition": "reduction in costs"
+  },
+  "CUT SHORT": {
+    "Definition": "ended earlier than expected"
+  },
+  "PERSEVERANCE": {
+    "Definition": "continued beliefs or efforts, persistence"
+  },
+  "RESOURCEFULNESS": {
+    "Definition": "the ability to find quick and clever ways to solve problems"
+  },
+  "FINEST HOUR": {
+    "Definition": "a time when it was most successful"
+  },
+  "COLONISING": {
+    "Definition": "settling in, populating"
+  },
+  "IF MONEY WAS NO OBJECT": {
+    "Definition": "if you weren't concerned or worried about the price"
+  },
+  "": {
+    "Definition": null
+  }
+}
