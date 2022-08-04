@@ -1,842 +1,422 @@
 {
-  "Rivalries": {
-    "Definition": "competition",
-    "Definition (Cambridge automatic)": "a situation in which people , businesses , etc. compete with each other for the same thing:",
-    "IPA": "ˈraɪ.v",
-    "IELTS": "C2"
-  },
-  "Betrayal": {
-    "Definition": "actions that show no loyalty or faithfulness",
-    "Definition (Cambridge automatic)": "an act of betraying someone or something, or the fact of someone or something being betrayed :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Warring": {
-    "Definition": "fighting each other",
-    "Definition (Cambridge automatic)": "Warring countries or groups of people are at war with each other:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Doorman": {
-    "Definition": "someone who was on duty at the entrance to a large building",
-    "Definition (Cambridge automatic)": "a person whose job is to stand by the door of a hotel or public building and allow people to go in or out, and to open their car doors , etc.",
-    "IPA": null,
-    "IELTS": null
-  },
-  "A stone’s throw away from": {
-    "Definition": "a short distance from",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Affluent": {
-    "Definition": "wealthy",
-    "Definition (Cambridge automatic)": "having a lot of money or owning a lot of things:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Trendy": {
-    "Definition": "following the most recent fashions",
-    "Definition (Cambridge automatic)": "modern and influenced by the most recent fashions or ideas :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Lavish": {
-    "Definition": "expensive and impressive, fancy",
-    "Definition (Cambridge automatic)": "large in quantity and expensive or impressive :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Drawing": {
-    "Definition": "pulling out",
-    "Definition (Cambridge automatic)": "the act of making a picture with a pencil or pen , or a picture made in this way:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Witness": {
-    "Definition": "person who had seen the crime happening",
-    "Definition (Cambridge automatic)": "a person who sees an event happening , especially a crime or an accident :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Panicked": {
-    "Definition": "felt frightened and extremely nervous",
-    "Definition (Cambridge automatic)": "past simple and past participle of",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Fled": {
-    "Definition": "ran to escape from danger",
-    "Definition (Cambridge automatic)": "past simple and past participle of flee",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cradling": {
-    "Definition": "holding in his arms like a baby",
-    "Definition (Cambridge automatic)": "a small bed for a baby , especially one that moves from side to side :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Lifeless": {
-    "Definition": "dead",
-    "Definition (Cambridge automatic)": "dead :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Founded": {
-    "Definition": "created, established",
-    "Definition (Cambridge automatic)": "past simple and past participle of find",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Shock": {
-    "Definition": "sudden upsetting event",
-    "Definition (Cambridge automatic)": "(the emotional or physical reaction to) a sudden , unexpected , and usually unpleasant event or experience :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Leads": {
-    "Definition": "information, clues",
-    "Definition (Cambridge automatic)": "to control a group of people , a country , or a situation :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Suspects": {
-    "Definition": "people who were thought to be guilty of the crime",
-    "Definition (Cambridge automatic)": "to think or believe something to be TRUE or probable :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Clues": {
-    "Definition": "information that will help us explain the situation",
-    "Definition (Cambridge automatic)": "a sign or some information that helps you to find the answer to a problem , question , or mystery :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Shocking": {
-    "Definition": "causing feelings of fear and surprise",
-    "Definition (Cambridge automatic)": "(the emotional or physical reaction to) a sudden , unexpected , and usually unpleasant event or experience :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Well-to-do": {
-    "Definition": "rich",
-    "Definition (Cambridge automatic)": "rich :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Luggage": {
-    "Definition": "suitcases or other bags that they carried with them when they were travelling",
-    "Definition (Cambridge automatic)": "the bags , suitcases , etc. that contain your possessions and that you take with you when you are travelling :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Momentum": {
-    "Definition": "activity, force or energy",
-    "Definition (Cambridge automatic)": "the force that keeps an object moving :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Garnering": {
-    "Definition": "getting, collecting",
-    "Definition (Cambridge automatic)": "to collect something, usually after much work or with difficulty :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Elite": {
-    "Definition": "the richest and most powerful group in society",
-    "Definition (Cambridge automatic)": "the richest , most powerful , best-educated, or best-trained group in a society :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Boutique": {
-    "Definition": "a shop that sells fashionable or trendy clothes and accessories",
-    "Definition (Cambridge automatic)": "a small shop that sells fashionable clothes , shoes , jewellery , etc.",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Founder": {
-    "Definition": "person who had started or established the business",
-    "Definition (Cambridge automatic)": "someone who establishes an organization :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Notoriously": {
-    "Definition": "in a way that it was well known",
-    "Definition (Cambridge automatic)": "in a way that is",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Awkward": {
-    "Definition": "difficult to deal with",
-    "Definition (Cambridge automatic)": "difficult to use, do, or deal with:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Overprotective": {
-    "Definition": "wishing to protect him too much",
-    "Definition (Cambridge automatic)": "wishing",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Overbearing": {
-    "Definition": "expecting to be obeyed without questions",
-    "Definition (Cambridge automatic)": "too confident and too determined to tell other people what to do, in a way that is unpleasant :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Charismatic": {
-    "Definition": "attractive, charming",
-    "Definition (Cambridge automatic)": "used to describe a person who has charisma :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Socialite": {
-    "Definition": "a person who was well known in the high class society and took part in social activities",
-    "Definition (Cambridge automatic)": "someone, usually of high",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Trucking": {
-    "Definition": "the transportation of goods by large vehicles or trucks",
-    "Definition (Cambridge automatic)": "a large road vehicle that is used for transporting large amounts of goods :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Adopt": {
-    "Definition": "legally take her into his family as his own daughter",
-    "Definition (Cambridge automatic)": "to legally take another person's child into your own family and take care of him or her as your own child :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Spoiled": {
-    "Definition": "harmed her character by giving her whatever she wanted",
-    "Definition (Cambridge automatic)": "A spoiled child is allowed to do or have anything that they want , usually so that they behave badly and do not show respect to other people :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Consume": {
-    "Definition": "completely fill her mind",
-    "Definition (Cambridge automatic)": "to use fuel , energy , or time , especially in large amounts :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Lend itself": {
-    "Definition": "be good or suitable for",
-    "Definition (Cambridge automatic)": "fml",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Moguls": {
-    "Definition": "important successful people",
-    "Definition (Cambridge automatic)": "an important person who is very rich or powerful :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Kicked off": {
-    "Definition": "caused it to begin",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Whirlwind": {
-    "Definition": "very intense, compulsive",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Red flag": {
-    "Definition": "warning for danger",
-    "Definition (Cambridge automatic)": "a flag used as a sign of danger :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Was head over heels": {
-    "Definition": "madly in love with",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Resort to": {
-    "Definition": "do it as a final solution",
-    "Definition (Cambridge automatic)": "to do something that you do not want to do because you cannot find any other way of achieving something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Measures": {
-    "Definition": "plans, courses of action",
-    "Definition (Cambridge automatic)": "to discover the exact size or amount of something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Disinherited": {
-    "Definition": "prevented him from receiving any of his property after his death",
-    "Definition (Cambridge automatic)": "to",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cutting maurizio off": {
-    "Definition": "preventing Maurizio from having access to",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cardinal": {
-    "Definition": "a priest of very high rank",
-    "Definition (Cambridge automatic)": "a priest of very high rank in the Roman Catholic Church :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hinted": {
-    "Definition": "said in a way that wasn't direct or clear",
-    "Definition (Cambridge automatic)": "something that you say or do that shows what you think or want , usually in a way that is not direct :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Instrumental": {
-    "Definition": "extremely important",
-    "Definition (Cambridge automatic)": "If someone or something is instrumental in a process , plan , or system , that person or thing is one of the most important influences in causing it to happen :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Powerhouse": {
-    "Definition": "something of great power",
-    "Definition (Cambridge automatic)": "a country , organization , or person with a lot of influence , power , or energy :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Booming": {
-    "Definition": "growing fast",
-    "Definition (Cambridge automatic)": "making a deep and loud hollow sound :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Quite the pair": {
-    "Definition": "an impressive and successful pair",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Penthouse": {
-    "Definition": "an expensive apartment at the top of a building",
-    "Definition (Cambridge automatic)": "an expensive apartment or set of rooms at the top of a hotel or tall building :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Flaunted": {
-    "Definition": "showed",
-    "Definition (Cambridge automatic)": "to show or make obvious something you are proud of in order to get admiration :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Entrenching": {
-    "Definition": "securing, firmly establishing",
-    "Definition (Cambridge automatic)": "to firmly establish something, especially an idea or a problem , so that it cannot be changed :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Reunited": {
-    "Definition": "came together after a period of separation",
-    "Definition (Cambridge automatic)": "to bring people together again:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Reunion": {
-    "Definition": "the fact that they were together again",
-    "Definition (Cambridge automatic)": "a social event for a group of people who have not seen each other for a long time :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Shares": {
-    "Definition": "parts into which the company's wealth or resources were divided",
-    "Definition (Cambridge automatic)": "to have or use something at the same time as someone else :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Iconic": {
-    "Definition": "very famous and popular",
-    "Definition (Cambridge automatic)": "very famous or popular , especially being considered to represent particular opinions or a particular time :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Shareholder": {
-    "Definition": "owner of parts into which the company's wealth or resources were divided",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Excessive": {
-    "Definition": "more than reasonable",
-    "Definition (Cambridge automatic)": "an amount that is more than acceptable , expected , or reasonable :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Franchising": {
-    "Definition": "the practice according to which the company sold another businesses the right to sell its products in return for payment",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Degraded": {
-    "Definition": "lowered the quality of",
-    "Definition (Cambridge automatic)": "to cause people to feel that they or other people have no value and do not have the respect or good opinion of others :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Exclusivity": {
-    "Definition": "the right to sell their products exclusively",
-    "Definition (Cambridge automatic)": "the right to have or do something that is limited to only one person or organization :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Take his own family down": {
-    "Definition": "cause failure to his family",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Enlisted": {
-    "Definition": "involved, engaged",
-    "Definition (Cambridge automatic)": "An enlisted man/woman is a",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Credited": {
-    "Definition": "considered responsible for",
-    "Definition (Cambridge automatic)": "praise , approval , or honour :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Logo": {
-    "Definition": "design or symbol used by the company",
-    "Definition (Cambridge automatic)": "a design or symbol used by a company to advertise its products :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Furious": {
-    "Definition": "extremely angry",
-    "Definition (Cambridge automatic)": "extremely angry :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Fire": {
-    "Definition": "dismiss from employment, kick out",
-    "Definition (Cambridge automatic)": "( material that is in) the state of burning that produces flames that send out heat and light , and might produce smoke :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Sued": {
-    "Definition": "took legal action against",
-    "Definition (Cambridge automatic)": "to take legal action against a person or organization , especially by making a legal claim for money because of some harm that they have caused you:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Infringing": {
-    "Definition": "breaking or violating the terms of",
-    "Definition (Cambridge automatic)": "to break a rule , law , etc.:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Trademarks": {
-    "Definition": "name, symbols, or other devices used to identify and promote its products",
-    "Definition (Cambridge automatic)": "a name or symbol on a product that shows it was made by a particular company , and that it cannot be used by other companies without permission :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Took off": {
-    "Definition": "became very successful",
-    "Definition (Cambridge automatic)": "to remove something, especially clothes :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Crumble": {
-    "Definition": "break, fall apart",
-    "Definition (Cambridge automatic)": "to break , or cause something to break , into small pieces :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Cut patrizia out": {
-    "Definition": "include or involve Patrizia in",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Steer": {
-    "Definition": "direct, guide",
-    "Definition (Cambridge automatic)": "to control the direction of a vehicle :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Lust": {
-    "Definition": "strong desire",
-    "Definition (Cambridge automatic)": "a very strong sexual desire :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Keen": {
-    "Definition": "very intense, deep",
-    "Definition (Cambridge automatic)": "very interested , eager , or wanting (to do) something very much:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Avidly": {
-    "Definition": "with great interest",
-    "Definition (Cambridge automatic)": "extremely eager or interested :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Affair": {
-    "Definition": "sexual relation",
-    "Definition (Cambridge automatic)": "a situation or subject that is being dealt with or considered :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Renovate": {
-    "Definition": "repair and improve",
-    "Definition (Cambridge automatic)": "to repair and improve something, especially a building :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Mutual friend": {
-    "Definition": "a friend that both of them had",
-    "Definition (Cambridge automatic)": "a",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Keep up appearances": {
-    "Definition": "give the impression that nothing had changed",
-    "Definition (Cambridge automatic)": "to",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Humiliated": {
-    "Definition": "shamed or foolish",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Inheritance tax": {
-    "Definition": "tax that he would have to pay on money or property he had received from his father",
-    "Definition (Cambridge automatic)": "a tax paid on money or property you have received from someone who has died",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Forged": {
-    "Definition": "made an illegal copy of",
-    "Definition (Cambridge automatic)": "to make an illegal copy of something in order to deceive :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Fleeing": {
-    "Definition": "running away from danger",
-    "Definition (Cambridge automatic)": "to escape by running away, especially because of danger or fear :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Stripped": {
-    "Definition": "removed from",
-    "Definition (Cambridge automatic)": "past simple and past participle of",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hatch": {
-    "Definition": "make, devise",
-    "Definition (Cambridge automatic)": "to ( cause an egg to) break in order to allow a young animal to come out",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Retaliation": {
-    "Definition": "revenge, being harmed in return",
-    "Definition (Cambridge automatic)": "to hurt someone or do something harmful to someone because they have done or said something harmful to you:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Buy out": {
-    "Definition": "pay them to give up ownership",
-    "Definition (Cambridge automatic)": "to",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Venture": {
-    "Definition": "business activity",
-    "Definition (Cambridge automatic)": "a new activity , usually in business , that involves risk or uncertainty :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Persuaded": {
-    "Definition": "made them do it by talking to them",
-    "Definition (Cambridge automatic)": "to make someone do or believe something by giving them a good reason to do it or by talking to that person and making them believe it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Won over": {
-    "Definition": "made to accept it",
-    "Definition (Cambridge automatic)": "to persuade someone to support you or agree with you, often when they were opposed to you before:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Betrayed": {
-    "Definition": "disappointed and hurt because of their disloyalty or unreliability",
-    "Definition (Cambridge automatic)": "to not be loyal to your country or a person , often by doing something harmful such as helping their enemies :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Soul": {
-    "Definition": "self, identity",
-    "Definition (Cambridge automatic)": "the spiritual part of a person that some people believe continues to exist in some form after their body has died , or the part of a person that is not physical and experiences deep feelings and emotions :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Look": {
-    "Definition": "appearance, impression",
-    "Definition (Cambridge automatic)": "to direct your eyes in order to see :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Enraged": {
-    "Definition": "extremely angry",
-    "Definition (Cambridge automatic)": "to cause someone to become very angry :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Livid": {
-    "Definition": "extremely angry",
-    "Definition (Cambridge automatic)": "extremely angry :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Reckless spender": {
-    "Definition": "someone who spent a lot of money without considering the consequences",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Trivial": {
-    "Definition": "not important",
-    "Definition (Cambridge automatic)": "having little value or importance :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bottom line": {
-    "Definition": "the final total of the account or balance sheet",
-    "Definition (Cambridge automatic)": "the final line in the accounts of a company or organization , stating the total profit or loss that has been made:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "In the red": {
-    "Definition": "meaning that they owned more money than they had",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Buy him out": {
-    "Definition": "pay him to give up ownership",
-    "Definition (Cambridge automatic)": "to buy a part of a company or building from someone else so that you own all of it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Loans": {
-    "Definition": "amounts of money borrowed from a bank",
-    "Definition (Cambridge automatic)": "an amount of money that is borrowed , often from a bank , and has to be paid back, usually together with an extra amount of money that you have to pay as a charge for borrowing :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Extravagant": {
-    "Definition": "very expensive",
-    "Definition (Cambridge automatic)": "spending too much money , or using too much of something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Seize": {
-    "Definition": "take and hold",
-    "Definition (Cambridge automatic)": "to take something quickly and keep or hold it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Loan": {
-    "Definition": "amount of money borrowed from someone",
-    "Definition (Cambridge automatic)": "an amount of money that is borrowed , often from a bank , and has to be paid back, usually together with an extra amount of money that you have to pay as a charge for borrowing :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Suspected": {
-    "Definition": "believed to be",
-    "Definition (Cambridge automatic)": "believed to be TRUE or to exist :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Dodgy": {
-    "Definition": "not honest",
-    "Definition (Cambridge automatic)": "dishonest :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Prohibited": {
-    "Definition": "not allowed",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Lavishly": {
-    "Definition": "in a very expensive way",
-    "Definition (Cambridge automatic)": "large in quantity and expensive or impressive :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Renovating": {
-    "Definition": "repairing and improving",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Rumour had it": {
-    "Definition": "it was said (without having proof)",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "In-fighting": {
-    "Definition": "fighting between the family members",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Suspect": {
-    "Definition": "person thought to be guilty",
-    "Definition (Cambridge automatic)": "to think or believe something to be TRUE or probable :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Motive": {
-    "Definition": "something that would make him do it",
-    "Definition (Cambridge automatic)": "a reason for doing something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Tip-off": {
-    "Definition": "information given secretly",
-    "Definition (Cambridge automatic)": "to warn someone secretly about something that will happen , so that they can take action or prevent it from happening :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Concierge": {
-    "Definition": "a person whose job was to take care of the hotel",
-    "Definition (Cambridge automatic)": "a person who is employed to take care of an apartment building , especially in France:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bragged": {
-    "Definition": "spoke too proudly about",
-    "Definition (Cambridge automatic)": "to speak too proudly about what you have done or what you own:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hitman": {
-    "Definition": "hired killer",
-    "Definition (Cambridge automatic)": "a man who is",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Despised": {
-    "Definition": "hated",
-    "Definition (Cambridge automatic)": "to feel a strong dislike for someone or something because you think that that person or thing is bad or has no value :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Subtly": {
-    "Definition": "obviously, clearly",
-    "Definition (Cambridge automatic)": "not loud , bright , noticeable , or obvious in any way:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Dispose": {
-    "Definition": "get rid, deal with",
-    "Definition (Cambridge automatic)": "to make someone feel a particular way towards someone or something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Evict": {
-    "Definition": "force her to leave",
-    "Definition (Cambridge automatic)": "to force someone to leave somewhere :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Kick paola out": {
-    "Definition": "force Paola to leave",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Damning": {
-    "Definition": "showing clearly that she was guilty",
-    "Definition (Cambridge automatic)": "A damning report , judgment , remark , etc. that includes a lot of criticism or shows clearly that someone is wrong , guilty , or has behaved very badly :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Wire-tapped": {
-    "Definition": "used a listening device to secretly get information",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Concierge’s": {
-    "Definition": "of the person whose job was to take care of the hotel",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Carry out": {
-    "Definition": "do, commit",
-    "Definition (Cambridge automatic)": "to do or complete something, especially that you have said you would do or that you have been told to do:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Extort": {
-    "Definition": "get (money) by using threats",
-    "Definition (Cambridge automatic)": "to get something by force or threats , or with difficulty :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Turned up": {
-    "Definition": "appeared",
-    "Definition (Cambridge automatic)": "#ERROR!",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Seemingly": {
-    "Definition": "giving the impression of being",
-    "Definition (Cambridge automatic)": "appearing to be something, especially when this is not TRUE :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Trial": {
-    "Definition": "the hearing or examination of the case in a court of law",
-    "Definition (Cambridge automatic)": "the hearing of statements and showing of objects , etc. in a law court to judge if a person is guilty of a crime or to decide a case or a legal matter :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Sentenced": {
-    "Definition": "punished",
-    "Definition (Cambridge automatic)": "a group of words, usually containing a verb , that expresses a thought in the form of a statement , question , instruction , or exclamation and starts with a capital letter when written:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Sentence": {
-    "Definition": "legal punishment or decision",
-    "Definition (Cambridge automatic)": "a group of words, usually containing a verb , that expresses a thought in the form of a statement , question , instruction , or exclamation and starts with a capital letter when written:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Lenient": {
-    "Definition": "not as severe as would be expected, forgiving",
-    "Definition (Cambridge automatic)": "not as severe or strong in punishment or judgment as would be expected :",
-    "IPA": null,
-    "IELTS": null
+  "RIVALRIES": {
+    "Definition": "competition"
+  },
+  "BETRAYAL": {
+    "Definition": "actions that show no loyalty or faithfulness"
+  },
+  "WARRING": {
+    "Definition": "fighting each other"
+  },
+  "DOORMAN": {
+    "Definition": "someone who was on duty at the entrance to a large building"
+  },
+  "A STONE’S THROW AWAY FROM": {
+    "Definition": "a short distance from"
+  },
+  "AFFLUENT": {
+    "Definition": "wealthy"
+  },
+  "TRENDY": {
+    "Definition": "following the most recent fashions"
+  },
+  "LAVISH": {
+    "Definition": "expensive and impressive, fancy"
+  },
+  "DRAWING": {
+    "Definition": "pulling out"
+  },
+  "WITNESS": {
+    "Definition": "person who had seen the crime happening"
+  },
+  "PANICKED": {
+    "Definition": "felt frightened and extremely nervous"
+  },
+  "FLED": {
+    "Definition": "ran to escape from danger"
+  },
+  "CRADLING": {
+    "Definition": "holding in his arms like a baby"
+  },
+  "LIFELESS": {
+    "Definition": "dead"
+  },
+  "FOUNDED": {
+    "Definition": "created, established"
+  },
+  "SHOCK": {
+    "Definition": "sudden upsetting event"
+  },
+  "LEADS": {
+    "Definition": "information, clues"
+  },
+  "SUSPECTS": {
+    "Definition": "people who were thought to be guilty of the crime"
+  },
+  "CLUES": {
+    "Definition": "information that will help us explain the situation"
+  },
+  "SHOCKING": {
+    "Definition": "causing feelings of fear and surprise"
+  },
+  "WELL-TO-DO": {
+    "Definition": "rich"
+  },
+  "LUGGAGE": {
+    "Definition": "suitcases or other bags that they carried with them when they were travelling"
+  },
+  "MOMENTUM": {
+    "Definition": "activity, force or energy"
+  },
+  "GARNERING": {
+    "Definition": "getting, collecting"
+  },
+  "ELITE": {
+    "Definition": "the richest and most powerful group in society"
+  },
+  "BOUTIQUE": {
+    "Definition": "a shop that sells fashionable or trendy clothes and accessories"
+  },
+  "FOUNDER": {
+    "Definition": "person who had started or established the business"
+  },
+  "NOTORIOUSLY": {
+    "Definition": "in a way that it was well known"
+  },
+  "AWKWARD": {
+    "Definition": "difficult to deal with"
+  },
+  "OVERPROTECTIVE": {
+    "Definition": "wishing to protect him too much"
+  },
+  "OVERBEARING": {
+    "Definition": "expecting to be obeyed without questions"
+  },
+  "CHARISMATIC": {
+    "Definition": "attractive, charming"
+  },
+  "SOCIALITE": {
+    "Definition": "a person who was well known in the high class society and took part in social activities"
+  },
+  "TRUCKING": {
+    "Definition": "the transportation of goods by large vehicles or trucks"
+  },
+  "ADOPT": {
+    "Definition": "legally take her into his family as his own daughter"
+  },
+  "SPOILED": {
+    "Definition": "harmed her character by giving her whatever she wanted"
+  },
+  "CONSUME": {
+    "Definition": "completely fill her mind"
+  },
+  "LEND ITSELF": {
+    "Definition": "be good or suitable for"
+  },
+  "MOGULS": {
+    "Definition": "important successful people"
+  },
+  "KICKED OFF": {
+    "Definition": "caused it to begin"
+  },
+  "WHIRLWIND": {
+    "Definition": "very intense, compulsive"
+  },
+  "RED FLAG": {
+    "Definition": "warning for danger"
+  },
+  "WAS HEAD OVER HEELS": {
+    "Definition": "madly in love with"
+  },
+  "RESORT TO": {
+    "Definition": "do it as a final solution"
+  },
+  "MEASURES": {
+    "Definition": "plans, courses of action"
+  },
+  "DISINHERITED": {
+    "Definition": "prevented him from receiving any of his property after his death"
+  },
+  "CUTTING MAURIZIO OFF": {
+    "Definition": "preventing Maurizio from having access to"
+  },
+  "CARDINAL": {
+    "Definition": "a priest of very high rank"
+  },
+  "HINTED": {
+    "Definition": "said in a way that wasn't direct or clear"
+  },
+  "INSTRUMENTAL": {
+    "Definition": "extremely important"
+  },
+  "POWERHOUSE": {
+    "Definition": "something of great power"
+  },
+  "BOOMING": {
+    "Definition": "growing fast"
+  },
+  "QUITE THE PAIR": {
+    "Definition": "an impressive and successful pair"
+  },
+  "PENTHOUSE": {
+    "Definition": "an expensive apartment at the top of a building"
+  },
+  "FLAUNTED": {
+    "Definition": "showed"
+  },
+  "ENTRENCHING": {
+    "Definition": "securing, firmly establishing"
+  },
+  "REUNITED": {
+    "Definition": "came together after a period of separation"
+  },
+  "REUNION": {
+    "Definition": "the fact that they were together again"
+  },
+  "SHARES": {
+    "Definition": "parts into which the company's wealth or resources were divided"
+  },
+  "ICONIC": {
+    "Definition": "very famous and popular"
+  },
+  "SHAREHOLDER": {
+    "Definition": "owner of parts into which the company's wealth or resources were divided"
+  },
+  "EXCESSIVE": {
+    "Definition": "more than reasonable"
+  },
+  "FRANCHISING": {
+    "Definition": "the practice according to which the company sold another businesses the right to sell its products in return for payment"
+  },
+  "DEGRADED": {
+    "Definition": "lowered the quality of"
+  },
+  "EXCLUSIVITY": {
+    "Definition": "the right to sell their products exclusively"
+  },
+  "TAKE HIS OWN FAMILY DOWN": {
+    "Definition": "cause failure to his family"
+  },
+  "ENLISTED": {
+    "Definition": "involved, engaged"
+  },
+  "CREDITED": {
+    "Definition": "considered responsible for"
+  },
+  "LOGO": {
+    "Definition": "design or symbol used by the company"
+  },
+  "FURIOUS": {
+    "Definition": "extremely angry"
+  },
+  "FIRE": {
+    "Definition": "dismiss from employment, kick out"
+  },
+  "SUED": {
+    "Definition": "took legal action against"
+  },
+  "INFRINGING": {
+    "Definition": "breaking or violating the terms of"
+  },
+  "TRADEMARKS": {
+    "Definition": "name, symbols, or other devices used to identify and promote its products"
+  },
+  "TOOK OFF": {
+    "Definition": "became very successful"
+  },
+  "CRUMBLE": {
+    "Definition": "break, fall apart"
+  },
+  "CUT PATRIZIA OUT": {
+    "Definition": "include or involve Patrizia in"
+  },
+  "STEER": {
+    "Definition": "direct, guide"
+  },
+  "LUST": {
+    "Definition": "strong desire"
+  },
+  "KEEN": {
+    "Definition": "very intense, deep"
+  },
+  "AVIDLY": {
+    "Definition": "with great interest"
+  },
+  "AFFAIR": {
+    "Definition": "sexual relation"
+  },
+  "RENOVATE": {
+    "Definition": "repair and improve"
+  },
+  "MUTUAL FRIEND": {
+    "Definition": "a friend that both of them had"
+  },
+  "KEEP UP APPEARANCES": {
+    "Definition": "give the impression that nothing had changed"
+  },
+  "HUMILIATED": {
+    "Definition": "shamed or foolish"
+  },
+  "INHERITANCE TAX": {
+    "Definition": "tax that he would have to pay on money or property he had received from his father"
+  },
+  "FORGED": {
+    "Definition": "made an illegal copy of"
+  },
+  "FLEEING": {
+    "Definition": "running away from danger"
+  },
+  "STRIPPED": {
+    "Definition": "removed from"
+  },
+  "HATCH": {
+    "Definition": "make, devise"
+  },
+  "RETALIATION": {
+    "Definition": "revenge, being harmed in return"
+  },
+  "BUY OUT": {
+    "Definition": "pay them to give up ownership"
+  },
+  "VENTURE": {
+    "Definition": "business activity"
+  },
+  "PERSUADED": {
+    "Definition": "made them do it by talking to them"
+  },
+  "WON OVER": {
+    "Definition": "made to accept it"
+  },
+  "BETRAYED": {
+    "Definition": "disappointed and hurt because of their disloyalty or unreliability"
+  },
+  "SOUL": {
+    "Definition": "self, identity"
+  },
+  "LOOK": {
+    "Definition": "appearance, impression"
+  },
+  "ENRAGED": {
+    "Definition": "extremely angry"
+  },
+  "LIVID": {
+    "Definition": "extremely angry"
+  },
+  "RECKLESS SPENDER": {
+    "Definition": "someone who spent a lot of money without considering the consequences"
+  },
+  "TRIVIAL": {
+    "Definition": "not important"
+  },
+  "BOTTOM LINE": {
+    "Definition": "the final total of the account or balance sheet"
+  },
+  "IN THE RED": {
+    "Definition": "meaning that they owned more money than they had"
+  },
+  "BUY HIM OUT": {
+    "Definition": "pay him to give up ownership"
+  },
+  "LOANS": {
+    "Definition": "amounts of money borrowed from a bank"
+  },
+  "EXTRAVAGANT": {
+    "Definition": "very expensive"
+  },
+  "SEIZE": {
+    "Definition": "take and hold"
+  },
+  "LOAN": {
+    "Definition": "amount of money borrowed from someone"
+  },
+  "SUSPECTED": {
+    "Definition": "believed to be"
+  },
+  "DODGY": {
+    "Definition": "not honest"
+  },
+  "PROHIBITED": {
+    "Definition": "not allowed"
+  },
+  "LAVISHLY": {
+    "Definition": "in a very expensive way"
+  },
+  "RENOVATING": {
+    "Definition": "repairing and improving"
+  },
+  "RUMOUR HAD IT": {
+    "Definition": "it was said (without having proof)"
+  },
+  "IN-FIGHTING": {
+    "Definition": "fighting between the family members"
+  },
+  "SUSPECT": {
+    "Definition": "person thought to be guilty"
+  },
+  "MOTIVE": {
+    "Definition": "something that would make him do it"
+  },
+  "TIP-OFF": {
+    "Definition": "information given secretly"
+  },
+  "CONCIERGE": {
+    "Definition": "a person whose job was to take care of the hotel"
+  },
+  "BRAGGED": {
+    "Definition": "spoke too proudly about"
+  },
+  "HITMAN": {
+    "Definition": "hired killer"
+  },
+  "DESPISED": {
+    "Definition": "hated"
+  },
+  "SUBTLY": {
+    "Definition": "obviously, clearly"
+  },
+  "DISPOSE": {
+    "Definition": "get rid, deal with"
+  },
+  "EVICT": {
+    "Definition": "force her to leave"
+  },
+  "KICK PAOLA OUT": {
+    "Definition": "force Paola to leave"
+  },
+  "DAMNING": {
+    "Definition": "showing clearly that she was guilty"
+  },
+  "WIRE-TAPPED": {
+    "Definition": "used a listening device to secretly get information"
+  },
+  "CONCIERGE’S": {
+    "Definition": "of the person whose job was to take care of the hotel"
+  },
+  "CARRY OUT": {
+    "Definition": "do, commit"
+  },
+  "EXTORT": {
+    "Definition": "get (money) by using threats"
+  },
+  "TURNED UP": {
+    "Definition": "appeared"
+  },
+  "SEEMINGLY": {
+    "Definition": "giving the impression of being"
+  },
+  "TRIAL": {
+    "Definition": "the hearing or examination of the case in a court of law"
+  },
+  "SENTENCED": {
+    "Definition": "punished"
+  },
+  "SENTENCE": {
+    "Definition": "legal punishment or decision"
+  },
+  "LENIENT": {
+    "Definition": "not as severe as would be expected, forgiving"
   },
   "": {
-    "Definition": null,
-    "Definition (Cambridge automatic)": null,
-    "IPA": null,
-    "IELTS": null
+    "Definition": null
   }
 }
