@@ -1,494 +1,248 @@
 {
-  "Breath": {
-    "Definition": "air taken in or inhaled",
-    "Definition (Cambridge automatic)": "the air that goes into and out of your lungs :",
-    "IPA": "breθ",
-    "IELTS": "B1"
-  },
-  "Crown": {
-    "Definition": "position of a monarch or king",
-    "Definition (Cambridge automatic)": "a circular decoration for the head , usually made of gold and jewels (= preciousstones) , and worn by a king or queen at official ceremonies",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Reign": {
-    "Definition": "period of being a king",
-    "Definition (Cambridge automatic)": "to be the king or queen of a country :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Tend to": {
-    "Definition": "usually do",
-    "Definition (Cambridge automatic)": "to be likely to behave in a particular way or have a particular characteristic :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Heir apparent": {
-    "Definition": "the next person to have this position undeniably",
-    "Definition (Cambridge automatic)": "the person with the automatic right to legally receive all or most of the money , property , titles , etc. from another person when they die :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Throne": {
-    "Definition": "the power or rank of someone who is king or queen",
-    "Definition (Cambridge automatic)": "the special chair used by a ruler , especially a king or queen",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Next in line": {
-    "Definition": "the next person to have this position",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Outing": {
-    "Definition": "public appearance",
-    "Definition (Cambridge automatic)": "a short journey made by a group of people , usually for pleasure or education :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Coronation": {
-    "Definition": "a ceremony at which she was made queen",
-    "Definition (Cambridge automatic)": "a ceremony at which a person is made king or queen :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Spotlight": {
-    "Definition": "centre of attention",
-    "Definition (Cambridge automatic)": "a lamp whose beam can be directed , or a circle of light produced by such a lamp",
-    "IPA": null,
-    "IELTS": null
-  },
-  "The public eye": {
-    "Definition": "the state of being known or of interest to people, especially through the media",
-    "Definition (Cambridge automatic)": "to be",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Heir": {
-    "Definition": "the next person to have this position",
-    "Definition (Cambridge automatic)": "a person who will legally receive money , property , or a title from another person , especially an older member of the same family , when that other person dies :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Customary": {
-    "Definition": "usual",
-    "Definition (Cambridge automatic)": "usual :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Harsh": {
-    "Definition": "strict, hard",
-    "Definition (Cambridge automatic)": "unpleasant , unkind , cruel , or more severe than is necessary :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Sensitive": {
-    "Definition": "easily damaged or upset",
-    "Definition (Cambridge automatic)": "easily upset by the things people say or do, or causing people to be upset , embarrassed , or angry :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Loathed": {
-    "Definition": "hated",
-    "Definition (Cambridge automatic)": "to hate someone or something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Eligible": {
-    "Definition": "desirable or suitable",
-    "Definition (Cambridge automatic)": "having the necessary qualities or satisfying the necessary conditions :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bachelor": {
-    "Definition": "a man who wasn't married",
-    "Definition (Cambridge automatic)": "a man who has never married :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Whole host of": {
-    "Definition": "very large number of",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Aristocratic": {
-    "Definition": "of high social rank",
-    "Definition (Cambridge automatic)": "a class of people who hold high social rank :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Primary": {
-    "Definition": "first, main",
-    "Definition (Cambridge automatic)": "more important than anything else ; main :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Hereditary": {
-    "Definition": "run by bloodline",
-    "Definition (Cambridge automatic)": "(of characteristics or diseases ) passed from the genes of a parent to a child , or (of titles and positions in society ) passed from parent to a child as a right :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Courting": {
-    "Definition": "involved with her romantically",
-    "Definition (Cambridge automatic)": "a place where trials and other legal cases happen , or the people present in such a place , especially the officials and those deciding if someone is guilty :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Almighty": {
-    "Definition": "huge, enormous",
-    "Definition (Cambridge automatic)": "(of God ) having the power to do everything:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Frenzy": {
-    "Definition": "a period of extreme activity, craze",
-    "Definition (Cambridge automatic)": "(an example of) uncontrolled and excited behaviour or emotion that is sometimes violent :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Seeds of doubt": {
-    "Definition": "negative or worrying things",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Awkwardly": {
-    "Definition": "in a worried or embarrassed way",
-    "Definition (Cambridge automatic)": "in a worried or embarrassed way:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Tuned in": {
-    "Definition": "turned on their TVs",
-    "Definition (Cambridge automatic)": "to watch or listen to a particular television or radio programme or station :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Destigmatise": {
-    "Definition": "remove the negative or shameful feelings about it",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Criticism": {
-    "Definition": "negative judgement or expression of disapproval",
-    "Definition (Cambridge automatic)": "the act of saying that something or someone is bad :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Perceived": {
-    "Definition": "considered, regarded",
-    "Definition (Cambridge automatic)": "to come to an opinion about something, or have a belief about something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Crowned": {
-    "Definition": "made, named by putting the crown on his head",
-    "Definition (Cambridge automatic)": "a circular decoration for the head , usually made of gold and jewels (= preciousstones) , and worn by a king or queen at official ceremonies",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Alleged": {
-    "Definition": "said, without proof",
-    "Definition (Cambridge automatic)": "to say that someone has done something illegal or wrong without giving proof :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Squeeze": {
-    "Definition": "press, extract by pressing",
-    "Definition (Cambridge automatic)": "to press something firmly , especially from all sides in order to change its shape , reduce its size , or remove liquid from it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Iron": {
-    "Definition": "press them with a heated iron in order to make them smooth",
-    "Definition (Cambridge automatic)": "a chemical element that is a common greyish-coloured metal . It is strong , used in making steel , and exists in very small amounts in blood :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Suited": {
-    "Definition": "right, appropriate",
-    "Definition (Cambridge automatic)": "right for someone or something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Queen material": {
-    "Definition": "appropriate or suitable to be queen",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Shock horror": {
-    "Definition": "used ironically to express that it was not surprising or upsetting",
-    "Definition (Cambridge automatic)": "an",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Courted": {
-    "Definition": "been involved with her romantically",
-    "Definition (Cambridge automatic)": "a place where trials and other legal cases happen , or the people present in such a place , especially the officials and those deciding if someone is guilty :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Aristocracy": {
-    "Definition": "class of people with high social rank",
-    "Definition (Cambridge automatic)": "a class of people who hold high social rank :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Biographer": {
-    "Definition": "someone who wrote the story of her life",
-    "Definition (Cambridge automatic)": "someone who writes the story of a particular person's life :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bride": {
-    "Definition": "woman on her wedding day",
-    "Definition (Cambridge automatic)": "a woman who is about to get married or has just got married :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Intended for": {
-    "Definition": "planned or meant for",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Rumours": {
-    "Definition": "information not proven to be true, gossip",
-    "Definition (Cambridge automatic)": "an unofficial interesting story or piece of news that might be TRUE or invented , and quickly spreads from person to person :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Affair": {
-    "Definition": "sexual relation",
-    "Definition (Cambridge automatic)": "a situation or subject that is being dealt with or considered :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Confronted": {
-    "Definition": "came face to face with",
-    "Definition (Cambridge automatic)": "having to",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Leaked": {
-    "Definition": "that was made known or public",
-    "Definition (Cambridge automatic)": "(of a liquid or gas ) to escape from a hole or crack in a pipe or container ; (of a container ) to allow liquid or gas to escape :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Ensued": {
-    "Definition": "happened as a result, followed",
-    "Definition (Cambridge automatic)": "to happen after something else , especially as a result of it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Tabloid": {
-    "Definition": "small-sized newspaper often concentrating on gossip",
-    "Definition (Cambridge automatic)": "(of or relating to) a type of popular newspaper with small pages that has many pictures and short , simple reports :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Manuscripts": {
-    "Definition": "texts",
-    "Definition (Cambridge automatic)": "the original copy of a book or article before it is printed :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Leak": {
-    "Definition": "information made known or public",
-    "Definition (Cambridge automatic)": "(of a liquid or gas ) to escape from a hole or crack in a pipe or container ; (of a container ) to allow liquid or gas to escape :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Unfaithful": {
-    "Definition": "involved in sexual relations with another person",
-    "Definition (Cambridge automatic)": "having a sexual relationship or experience with a person who is not your husband , wife , or usual sexual partner :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Unanimously": {
-    "Definition": "with the agreement of everyone",
-    "Definition (Cambridge automatic)": "in a way that is",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Protocol": {
-    "Definition": "accepted way of behaving",
-    "Definition (Cambridge automatic)": "the system of rules and acceptable behaviour used at official ceremonies and occasions :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Candid": {
-    "Definition": "honest, straightforward",
-    "Definition (Cambridge automatic)": "honest and telling the truth , especially about something difficult or painful :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Self-harmed": {
-    "Definition": "purposely hurt herself",
-    "Definition (Cambridge automatic)": "to deliberately hurt yourself, for example by cutting yourself, because you have emotional problems or are mentally ill :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Bulimia": {
-    "Definition": "an eating disorder",
-    "Definition (Cambridge automatic)": "a",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Controversial": {
-    "Definition": "causing disagreement and discussion",
-    "Definition (Cambridge automatic)": "causing disagreement or discussion :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Put the whole issue to bed": {
-    "Definition": "solve the whole problem by ending it",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Rumour": {
-    "Definition": "information not proven to be true, gossip",
-    "Definition (Cambridge automatic)": "an unofficial interesting story or piece of news that might be TRUE or invented , and quickly spreads from person to person :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Relentless": {
-    "Definition": "intense, non-stop",
-    "Definition (Cambridge automatic)": "continuing in a severe or extreme way:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Scrutiny": {
-    "Definition": "careful and detailed examination",
-    "Definition (Cambridge automatic)": "the careful and detailed examination of something in order to get information about it:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Rekindled": {
-    "Definition": "revived, renewed",
-    "Definition (Cambridge automatic)": "to make someone have a",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Mourning": {
-    "Definition": "period of showing sadness because of her death",
-    "Definition (Cambridge automatic)": "to feel or express great sadness , especially because of someone's death :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Aftermath": {
-    "Definition": "period after the event",
-    "Definition (Cambridge automatic)": "the period that follows an unpleasant event or accident , and the effects that it causes :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Disapproved": {
-    "Definition": "was against, felt it was bad",
-    "Definition (Cambridge automatic)": "to feel that something or someone is bad , wrong , etc.:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Extensive": {
-    "Definition": "large",
-    "Definition (Cambridge automatic)": "covering a large area ; having a great range :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Protagonist": {
-    "Definition": "the main character",
-    "Definition (Cambridge automatic)": "one of the main characters in a story or a play",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Supporting character": {
-    "Definition": "character who was not the main focus",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Energetic": {
-    "Definition": "involving a lot of activity",
-    "Definition (Cambridge automatic)": "having or involving a lot of energy :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Prospects": {
-    "Definition": "hopes, possibility",
-    "Definition (Cambridge automatic)": "the possibility that something good might happen in the future :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Ageing": {
-    "Definition": "growing old",
-    "Definition (Cambridge automatic)": "relating to getting older :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Speculation": {
-    "Definition": "talk or prediction",
-    "Definition (Cambridge automatic)": "the activity of guessing possible answers to a question without having enough information to be certain :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "The inevitable": {
-    "Definition": "something that was certain to happen",
-    "Definition (Cambridge automatic)": "certain to happen and unable to be avoided or prevented :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Ascend": {
-    "Definition": "make his way up to",
-    "Definition (Cambridge automatic)": "to move up or climb something:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Staggering": {
-    "Definition": "surprising, shocking",
-    "Definition (Cambridge automatic)": "very shocking and surprising :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Plots": {
-    "Definition": "secret plans",
-    "Definition (Cambridge automatic)": "the story of a book , film , play , etc.:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Reputation": {
-    "Definition": "the opinion people have about him",
-    "Definition (Cambridge automatic)": "the opinion that people in general have about someone or something, or how much respect or admiration someone or something receives , based on past behaviour or character :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Excess": {
-    "Definition": "actions of going beyond the accepted limits",
-    "Definition (Cambridge automatic)": "an amount that is more than acceptable , expected , or reasonable :",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Indulgence": {
-    "Definition": "the attitude of enjoying comfort and pleasures too much",
-    "Definition (Cambridge automatic)": "an occasion when you allow someone or yourself to have something enjoyable , especially more than is good for you:",
-    "IPA": null,
-    "IELTS": null
-  },
-  "Psyche": {
-    "Definition": "thoughts and feelings",
-    "Definition (Cambridge automatic)": "the mind , or the deepest thoughts , feelings , or beliefs of a person or group :",
-    "IPA": null,
-    "IELTS": null
+  "BREATH": {
+    "Definition": "air taken in or inhaled"
+  },
+  "CROWN": {
+    "Definition": "position of a monarch or king"
+  },
+  "REIGN": {
+    "Definition": "period of being a king"
+  },
+  "TEND TO": {
+    "Definition": "usually do"
+  },
+  "HEIR APPARENT": {
+    "Definition": "the next person to have this position undeniably"
+  },
+  "THRONE": {
+    "Definition": "the power or rank of someone who is king or queen"
+  },
+  "NEXT IN LINE": {
+    "Definition": "the next person to have this position"
+  },
+  "OUTING": {
+    "Definition": "public appearance"
+  },
+  "CORONATION": {
+    "Definition": "a ceremony at which she was made queen"
+  },
+  "SPOTLIGHT": {
+    "Definition": "centre of attention"
+  },
+  "THE PUBLIC EYE": {
+    "Definition": "the state of being known or of interest to people, especially through the media"
+  },
+  "HEIR": {
+    "Definition": "the next person to have this position"
+  },
+  "CUSTOMARY": {
+    "Definition": "usual"
+  },
+  "HARSH": {
+    "Definition": "strict, hard"
+  },
+  "SENSITIVE": {
+    "Definition": "easily damaged or upset"
+  },
+  "LOATHED": {
+    "Definition": "hated"
+  },
+  "ELIGIBLE": {
+    "Definition": "desirable or suitable"
+  },
+  "BACHELOR": {
+    "Definition": "a man who wasn't married"
+  },
+  "WHOLE HOST OF": {
+    "Definition": "very large number of"
+  },
+  "ARISTOCRATIC": {
+    "Definition": "of high social rank"
+  },
+  "PRIMARY": {
+    "Definition": "first, main"
+  },
+  "HEREDITARY": {
+    "Definition": "run by bloodline"
+  },
+  "COURTING": {
+    "Definition": "involved with her romantically"
+  },
+  "ALMIGHTY": {
+    "Definition": "huge, enormous"
+  },
+  "FRENZY": {
+    "Definition": "a period of extreme activity, craze"
+  },
+  "SEEDS OF DOUBT": {
+    "Definition": "negative or worrying things"
+  },
+  "AWKWARDLY": {
+    "Definition": "in a worried or embarrassed way"
+  },
+  "TUNED IN": {
+    "Definition": "turned on their TVs"
+  },
+  "DESTIGMATISE": {
+    "Definition": "remove the negative or shameful feelings about it"
+  },
+  "CRITICISM": {
+    "Definition": "negative judgement or expression of disapproval"
+  },
+  "PERCEIVED": {
+    "Definition": "considered, regarded"
+  },
+  "CROWNED": {
+    "Definition": "made, named by putting the crown on his head"
+  },
+  "ALLEGED": {
+    "Definition": "said, without proof"
+  },
+  "SQUEEZE": {
+    "Definition": "press, extract by pressing"
+  },
+  "IRON": {
+    "Definition": "press them with a heated iron in order to make them smooth"
+  },
+  "SUITED": {
+    "Definition": "right, appropriate"
+  },
+  "QUEEN MATERIAL": {
+    "Definition": "appropriate or suitable to be queen"
+  },
+  "SHOCK HORROR": {
+    "Definition": "used ironically to express that it was not surprising or upsetting"
+  },
+  "COURTED": {
+    "Definition": "been involved with her romantically"
+  },
+  "ARISTOCRACY": {
+    "Definition": "class of people with high social rank"
+  },
+  "BIOGRAPHER": {
+    "Definition": "someone who wrote the story of her life"
+  },
+  "BRIDE": {
+    "Definition": "woman on her wedding day"
+  },
+  "INTENDED FOR": {
+    "Definition": "planned or meant for"
+  },
+  "RUMOURS": {
+    "Definition": "information not proven to be true, gossip"
+  },
+  "AFFAIR": {
+    "Definition": "sexual relation"
+  },
+  "CONFRONTED": {
+    "Definition": "came face to face with"
+  },
+  "LEAKED": {
+    "Definition": "that was made known or public"
+  },
+  "ENSUED": {
+    "Definition": "happened as a result, followed"
+  },
+  "TABLOID": {
+    "Definition": "small-sized newspaper often concentrating on gossip"
+  },
+  "MANUSCRIPTS": {
+    "Definition": "texts"
+  },
+  "LEAK": {
+    "Definition": "information made known or public"
+  },
+  "UNFAITHFUL": {
+    "Definition": "involved in sexual relations with another person"
+  },
+  "UNANIMOUSLY": {
+    "Definition": "with the agreement of everyone"
+  },
+  "PROTOCOL": {
+    "Definition": "accepted way of behaving"
+  },
+  "CANDID": {
+    "Definition": "honest, straightforward"
+  },
+  "SELF-HARMED": {
+    "Definition": "purposely hurt herself"
+  },
+  "BULIMIA": {
+    "Definition": "an eating disorder"
+  },
+  "CONTROVERSIAL": {
+    "Definition": "causing disagreement and discussion"
+  },
+  "PUT THE WHOLE ISSUE TO BED": {
+    "Definition": "solve the whole problem by ending it"
+  },
+  "RUMOUR": {
+    "Definition": "information not proven to be true, gossip"
+  },
+  "RELENTLESS": {
+    "Definition": "intense, non-stop"
+  },
+  "SCRUTINY": {
+    "Definition": "careful and detailed examination"
+  },
+  "REKINDLED": {
+    "Definition": "revived, renewed"
+  },
+  "MOURNING": {
+    "Definition": "period of showing sadness because of her death"
+  },
+  "AFTERMATH": {
+    "Definition": "period after the event"
+  },
+  "DISAPPROVED": {
+    "Definition": "was against, felt it was bad"
+  },
+  "EXTENSIVE": {
+    "Definition": "large"
+  },
+  "PROTAGONIST": {
+    "Definition": "the main character"
+  },
+  "SUPPORTING CHARACTER": {
+    "Definition": "character who was not the main focus"
+  },
+  "ENERGETIC": {
+    "Definition": "involving a lot of activity"
+  },
+  "PROSPECTS": {
+    "Definition": "hopes, possibility"
+  },
+  "AGEING": {
+    "Definition": "growing old"
+  },
+  "SPECULATION": {
+    "Definition": "talk or prediction"
+  },
+  "THE INEVITABLE": {
+    "Definition": "something that was certain to happen"
+  },
+  "ASCEND": {
+    "Definition": "make his way up to"
+  },
+  "STAGGERING": {
+    "Definition": "surprising, shocking"
+  },
+  "PLOTS": {
+    "Definition": "secret plans"
+  },
+  "REPUTATION": {
+    "Definition": "the opinion people have about him"
+  },
+  "EXCESS": {
+    "Definition": "actions of going beyond the accepted limits"
+  },
+  "INDULGENCE": {
+    "Definition": "the attitude of enjoying comfort and pleasures too much"
+  },
+  "PSYCHE": {
+    "Definition": "thoughts and feelings"
   },
   "": {
-    "Definition": null,
-    "Definition (Cambridge automatic)": null,
-    "IPA": null,
-    "IELTS": null
+    "Definition": null
   }
 }
