@@ -1,380 +1,191 @@
 {
-  "Typed": {
-    "Definition": "wrote on the computer by pressing the keys",
-    "Definition (Cambridge automatic)": "a particular group of people or things that share similar characteristics and form a smaller division of a larger set:",
-    "IPA": "taɪp",
-    "IELTS": "A2"
+  "TYPED": {
+    "Definition": "wrote on the computer by pressing the keys"
   },
-  "Adaptive": {
-    "Definition": "having the ability to change depending on the conditions",
-    "Definition (Cambridge automatic)": "having an ability to change to suit changing conditions :",
-    "IPA": null,
-    "IELTS": null
+  "ADAPTIVE": {
+    "Definition": "having the ability to change depending on the conditions"
   },
-  "Engaging": {
-    "Definition": "attractive, interesting",
-    "Definition (Cambridge automatic)": "pleasant , attractive , and charming :",
-    "IPA": null,
-    "IELTS": null
+  "ENGAGING": {
+    "Definition": "attractive, interesting"
   },
-  "Interactive": {
-    "Definition": "allowing the involvement of the user in the exchange of information",
-    "Definition (Cambridge automatic)": "An interactive system or computer program is designed to involve the user in the exchange of information :",
-    "IPA": null,
-    "IELTS": null
+  "INTERACTIVE": {
+    "Definition": "allowing the involvement of the user in the exchange of information"
   },
-  "Frustrating": {
-    "Definition": "annoying",
-    "Definition (Cambridge automatic)": "making you feel annoyed or less confident because you cannot achieve what you want :",
-    "IPA": null,
-    "IELTS": null
+  "FRUSTRATING": {
+    "Definition": "annoying"
   },
-  "Approach": {
-    "Definition": "start to deal with it",
-    "Definition (Cambridge automatic)": "to come near or nearer to something or someone in space , time , quality , or amount :",
-    "IPA": null,
-    "IELTS": null
+  "APPROACH": {
+    "Definition": "start to deal with it"
   },
-  "Consult": {
-    "Definition": "turn to, refer to",
-    "Definition (Cambridge automatic)": "to get information or advice from a person , book , etc. with special knowledge on a particular subject :",
-    "IPA": null,
-    "IELTS": null
+  "CONSULT": {
+    "Definition": "turn to, refer to"
   },
-  "Circumstances": {
-    "Definition": "conditions",
-    "Definition (Cambridge automatic)": "a fact or event that makes a situation the way it is:",
-    "IPA": null,
-    "IELTS": null
+  "CIRCUMSTANCES": {
+    "Definition": "conditions"
   },
-  "Sinking": {
-    "Definition": "going to the bottom of the sea",
-    "Definition (Cambridge automatic)": "falling or moving to a lower level :",
-    "IPA": null,
-    "IELTS": null
+  "SINKING": {
+    "Definition": "going to the bottom of the sea"
   },
-  "Outcomes": {
-    "Definition": "results",
-    "Definition (Cambridge automatic)": "a result or effect of an action , situation , etc.:",
-    "IPA": null,
-    "IELTS": null
+  "OUTCOMES": {
+    "Definition": "results"
   },
-  "Algorithms": {
-    "Definition": "sets of mathematical rules that help computers calculate an answer",
-    "Definition (Cambridge automatic)": "a set of mathematical instructions or rules that, especially if given to a computer , will help to calculate an answer to a problem :",
-    "IPA": null,
-    "IELTS": null
+  "ALGORITHMS": {
+    "Definition": "sets of mathematical rules that help computers calculate an answer"
   },
-  "Reliably": {
-    "Definition": "in a way that can be trusted",
-    "Definition (Cambridge automatic)": "Someone or something that is reliable can be trusted or believed because he, she, or it works or behaves well in the way you expect :",
-    "IPA": null,
-    "IELTS": null
+  "RELIABLY": {
+    "Definition": "in a way that can be trusted"
   },
-  "Queries": {
-    "Definition": "inquires, questions",
-    "Definition (Cambridge automatic)": "a question , often expressing doubt about something or looking for an answer from an authority :",
-    "IPA": null,
-    "IELTS": null
+  "QUERIES": {
+    "Definition": "inquires, questions"
   },
-  "No offence to": {
-    "Definition": "without planning to upset them",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
+  "NO OFFENCE TO": {
+    "Definition": "without planning to upset them"
   },
-  "Seismic": {
-    "Definition": "very large",
-    "Definition (Cambridge automatic)": "relating to or caused by an earthquake :",
-    "IPA": null,
-    "IELTS": null
+  "SEISMIC": {
+    "Definition": "very large"
   },
-  "Influential": {
-    "Definition": "having a great effect on related things, important",
-    "Definition (Cambridge automatic)": "having a lot of influence on someone or something:",
-    "IPA": null,
-    "IELTS": null
+  "INFLUENTIAL": {
+    "Definition": "having a great effect on related things, important"
   },
-  "Prompts": {
-    "Definition": "information or messages given to a computer",
-    "Definition (Cambridge automatic)": "to make something happen :",
-    "IPA": null,
-    "IELTS": null
+  "PROMPTS": {
+    "Definition": "information or messages given to a computer"
   },
-  "Pop-art": {
-    "Definition": "art based on modern popular culture",
-    "Definition (Cambridge automatic)": "a",
-    "IPA": null,
-    "IELTS": null
+  "POP-ART": {
+    "Definition": "art based on modern popular culture"
   },
-  "Inputs": {
-    "Definition": "information put into the system",
-    "Definition (Cambridge automatic)": "something such as energy , money , or information that is put into a system , organization , or machine so that it can operate :",
-    "IPA": null,
-    "IELTS": null
+  "INPUTS": {
+    "Definition": "information put into the system"
   },
-  "Bugs": {
-    "Definition": "errors in a computer program",
-    "Definition (Cambridge automatic)": "a very small insect",
-    "IPA": null,
-    "IELTS": null
+  "BUGS": {
+    "Definition": "errors in a computer program"
   },
-  "Endless": {
-    "Definition": "having no end, limitless",
-    "Definition (Cambridge automatic)": "never finishing , or seeming never to finish :",
-    "IPA": null,
-    "IELTS": null
+  "ENDLESS": {
+    "Definition": "having no end, limitless"
   },
-  "Allergies": {
-    "Definition": "conditions that make people sick after eating certain foods",
-    "Definition (Cambridge automatic)": "a condition that makes a person become sick or develop skin or breathing problems because they have eaten certain foods or been near certain substances :",
-    "IPA": null,
-    "IELTS": null
+  "ALLERGIES": {
+    "Definition": "conditions that make people sick after eating certain foods"
   },
-  "Exaggeration": {
-    "Definition": "something that makes it seem more important than it really is",
-    "Definition (Cambridge automatic)": "to make something seem larger , more important , better , or worse than it really is:",
-    "IPA": null,
-    "IELTS": null
+  "EXAGGERATION": {
+    "Definition": "something that makes it seem more important than it really is"
   },
-  "Rely on": {
-    "Definition": "depend on",
-    "Definition (Cambridge automatic)": "to need a particular thing or the help and support of someone or something in order to continue , to work correctly , or to succeed :",
-    "IPA": null,
-    "IELTS": null
+  "RELY ON": {
+    "Definition": "depend on"
   },
-  "Tapes": {
-    "Definition": "old media for storing audio, cassettes",
-    "Definition (Cambridge automatic)": "thin plastic in a long , narrow strip with a magnetic covering that allows sounds or sounds and pictures to be recorded and played again, especially one on which sound is recorded :",
-    "IPA": null,
-    "IELTS": null
+  "TAPES": {
+    "Definition": "old media for storing audio, cassettes"
   },
-  "Click": {
-    "Definition": "an act of selecting an option by pressing a button",
-    "Definition (Cambridge automatic)": "to carry out a computer operation by pressing a button on the mouse or keyboard :",
-    "IPA": null,
-    "IELTS": null
+  "CLICK": {
+    "Definition": "an act of selecting an option by pressing a button"
   },
-  "Tricky": {
-    "Definition": "difficult",
-    "Definition (Cambridge automatic)": "If a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill :",
-    "IPA": null,
-    "IELTS": null
+  "TRICKY": {
+    "Definition": "difficult"
   },
-  "Point you": {
-    "Definition": "show it to you",
-    "Definition (Cambridge automatic)": "to make a person notice someone or something, sometimes by holding up one of your fingers towards him, her, or it:",
-    "IPA": null,
-    "IELTS": null
+  "POINT YOU": {
+    "Definition": "show it to you"
   },
-  "Limiting": {
-    "Definition": "restrictive",
-    "Definition (Cambridge automatic)": "preventing",
-    "IPA": null,
-    "IELTS": null
+  "LIMITING": {
+    "Definition": "restrictive"
   },
-  "Verbally": {
-    "Definition": "speaking, orally",
-    "Definition (Cambridge automatic)": "spoken rather than written:",
-    "IPA": null,
-    "IELTS": null
+  "VERBALLY": {
+    "Definition": "speaking, orally"
   },
-  "Squirming": {
-    "Definition": "being uncomfortable",
-    "Definition (Cambridge automatic)": "to move from side to side in an awkward way, sometimes because of nervousness , embarrassment , or pain :",
-    "IPA": null,
-    "IELTS": null
+  "SQUIRMING": {
+    "Definition": "being uncomfortable"
   },
-  "Creepy": {
-    "Definition": "strange and frightening",
-    "Definition (Cambridge automatic)": "strange or unnatural and making you feel frightened :",
-    "IPA": null,
-    "IELTS": null
+  "CREEPY": {
+    "Definition": "strange and frightening"
   },
-  "Limitations": {
-    "Definition": "restrictions",
-    "Definition (Cambridge automatic)": "the act of controlling and especially reducing something:",
-    "IPA": null,
-    "IELTS": null
+  "LIMITATIONS": {
+    "Definition": "restrictions"
   },
-  "Accessible": {
-    "Definition": "available",
-    "Definition (Cambridge automatic)": "able to be reached or easily obtained :",
-    "IPA": null,
-    "IELTS": null
+  "ACCESSIBLE": {
+    "Definition": "available"
   },
-  "Endlessly": {
-    "Definition": "without end or limit",
-    "Definition (Cambridge automatic)": "the part of a place or thing that is furthest away from the centre :",
-    "IPA": null,
-    "IELTS": null
+  "ENDLESSLY": {
+    "Definition": "without end or limit"
   },
-  "Patient": {
-    "Definition": "able to wait or accept problems without being annoyed",
-    "Definition (Cambridge automatic)": "the ability to wait , or to continue doing something despite difficulties , or to suffer without complaining or becoming annoyed :",
-    "IPA": null,
-    "IELTS": null
+  "PATIENT": {
+    "Definition": "able to wait or accept problems without being annoyed"
   },
-  "Democratising": {
-    "Definition": "making it available to everyone",
-    "Definition (Cambridge automatic)": "to make",
-    "IPA": null,
-    "IELTS": null
+  "DEMOCRATISING": {
+    "Definition": "making it available to everyone"
   },
-  "No object": {
-    "Definition": "no longer factors",
-    "Definition (Cambridge automatic)": "If something",
-    "IPA": null,
-    "IELTS": null
+  "NO OBJECT": {
+    "Definition": "no longer factors"
   },
-  "Infinitely": {
-    "Definition": "to a great degree, much",
-    "Definition (Cambridge automatic)": "very or very much:",
-    "IPA": null,
-    "IELTS": null
+  "INFINITELY": {
+    "Definition": "to a great degree, much"
   },
-  "Tone": {
-    "Definition": "style, general character",
-    "Definition (Cambridge automatic)": "a quality in the voice that expresses the speaker's feelings or thoughts , often towards the person being spoken to:",
-    "IPA": null,
-    "IELTS": null
+  "TONE": {
+    "Definition": "style, general character"
   },
-  "Ta-da": {
-    "Definition": "used to call attention to something amazing",
-    "Definition (Cambridge automatic)": "used when something",
-    "IPA": null,
-    "IELTS": null
+  "TA-DA": {
+    "Definition": "used to call attention to something amazing"
   },
-  "Levels the playing field": {
-    "Definition": "it creates a situation in which everyone has a fair and equal chance of succeeding",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
+  "LEVELS THE PLAYING FIELD": {
+    "Definition": "it creates a situation in which everyone has a fair and equal chance of succeeding"
   },
-  "The elephant in the room": {
-    "Definition": "the big problem that is not being talked about",
-    "Definition (Cambridge automatic)": "If you say there is an elephant in the room , you mean that there is an obvious problem or difficult situation that people do not want to talk about.",
-    "IPA": null,
-    "IELTS": null
+  "THE ELEPHANT IN THE ROOM": {
+    "Definition": "the big problem that is not being talked about"
   },
-  "Problematic": {
-    "Definition": "causing problems or difficulties",
-    "Definition (Cambridge automatic)": "full of problems or difficulties :",
-    "IPA": null,
-    "IELTS": null
+  "PROBLEMATIC": {
+    "Definition": "causing problems or difficulties"
   },
-  "Pick up": {
-    "Definition": "learn",
-    "Definition (Cambridge automatic)": "something that makes you feel better , often a drink or a tonic (= a type of medicine) :",
-    "IPA": null,
-    "IELTS": null
+  "PICK UP": {
+    "Definition": "learn"
   },
-  "Formulate": {
-    "Definition": "create",
-    "Definition (Cambridge automatic)": "to develop all the details of a plan for doing something:",
-    "IPA": null,
-    "IELTS": null
+  "FORMULATE": {
+    "Definition": "create"
   },
-  "Some way off": {
-    "Definition": "a long distance away",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
+  "SOME WAY OFF": {
+    "Definition": "a long distance away"
   },
-  "Appealing": {
-    "Definition": "attractive, interesting",
-    "Definition (Cambridge automatic)": "attractive or interesting :",
-    "IPA": null,
-    "IELTS": null
+  "APPEALING": {
+    "Definition": "attractive, interesting"
   },
-  "Proposition": {
-    "Definition": "suggestion, statement",
-    "Definition (Cambridge automatic)": "an offer or suggestion , usually in business :",
-    "IPA": null,
-    "IELTS": null
+  "PROPOSITION": {
+    "Definition": "suggestion, statement"
   },
-  "Put in": {
-    "Definition": "apply, dedicate",
-    "Definition (Cambridge automatic)": "to spend a lot of time or effort doing something:",
-    "IPA": null,
-    "IELTS": null
+  "PUT IN": {
+    "Definition": "apply, dedicate"
   },
-  "Retain": {
-    "Definition": "remember",
-    "Definition (Cambridge automatic)": "to keep or continue to have something:",
-    "IPA": null,
-    "IELTS": null
+  "RETAIN": {
+    "Definition": "remember"
   },
-  "Retained": {
-    "Definition": "remembered",
-    "Definition (Cambridge automatic)": "to keep or continue to have something:",
-    "IPA": null,
-    "IELTS": null
+  "RETAINED": {
+    "Definition": "remembered"
   },
-  "Going in one ear and out of the other": {
-    "Definition": "forgetting it quickly",
-    "Definition (Cambridge automatic)": "#N/A",
-    "IPA": null,
-    "IELTS": null
+  "GOING IN ONE EAR AND OUT OF THE OTHER": {
+    "Definition": "forgetting it quickly"
   },
-  "Myriad": {
-    "Definition": "a lot",
-    "Definition (Cambridge automatic)": "a very large number of something:",
-    "IPA": null,
-    "IELTS": null
+  "MYRIAD": {
+    "Definition": "a lot"
   },
-  "Admiration": {
-    "Definition": "respect and approval",
-    "Definition (Cambridge automatic)": "the",
-    "IPA": null,
-    "IELTS": null
+  "ADMIRATION": {
+    "Definition": "respect and approval"
   },
-  "Satisfaction": {
-    "Definition": "the pleasant feeling you get when you achieve something",
-    "Definition (Cambridge automatic)": "a pleasant feeling that you get when you receive something you wanted , or when you have done something you wanted to do:",
-    "IPA": null,
-    "IELTS": null
+  "SATISFACTION": {
+    "Definition": "the pleasant feeling you get when you achieve something"
   },
-  "Internalised": {
-    "Definition": "made it part of you",
-    "Definition (Cambridge automatic)": "(of an",
-    "IPA": null,
-    "IELTS": null
+  "INTERNALISED": {
+    "Definition": "made it part of you"
   },
-  "Satisfactory": {
-    "Definition": "giving the pleasant feeling you get when you achieve something",
-    "Definition (Cambridge automatic)": "good or good enough for a particular need or purpose :",
-    "IPA": null,
-    "IELTS": null
+  "SATISFACTORY": {
+    "Definition": "giving the pleasant feeling you get when you achieve something"
   },
-  "Rely": {
-    "Definition": "depend",
-    "Definition (Cambridge automatic)": "to need a particular thing or the help and support of someone or something in order to continue , to work correctly , or to succeed :",
-    "IPA": null,
-    "IELTS": null
+  "RELY": {
+    "Definition": "depend"
   },
-  "Exploration": {
-    "Definition": "examination, analysis",
-    "Definition (Cambridge automatic)": "the activity of searching and finding out about something:",
-    "IPA": null,
-    "IELTS": null
+  "EXPLORATION": {
+    "Definition": "examination, analysis"
   },
-  "Spoiler": {
-    "Definition": "information about an important detail that is about to be revealed before its supposed time, leading to a reduced feeling of surprise",
-    "Definition (Cambridge automatic)": "a device on a car or aircraft that is positioned so that it stops the air from flowing around the vehicle in a smooth way and so helps to control it",
-    "IPA": null,
-    "IELTS": null
+  "SPOILER": {
+    "Definition": "information about an important detail that is about to be revealed before its supposed time, leading to a reduced feeling of surprise"
   },
-  "Encourage": {
-    "Definition": "recommend, advise",
-    "Definition (Cambridge automatic)": "to make someone more likely to do something, or to make something more likely to happen :",
-    "IPA": null,
-    "IELTS": null
+  "ENCOURAGE": {
+    "Definition": "recommend, advise"
   },
   "": {
-    "Definition": null,
-    "Definition (Cambridge automatic)": null,
-    "IPA": null,
-    "IELTS": null
+    "Definition": null
   }
 }
