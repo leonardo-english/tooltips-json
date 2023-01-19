@@ -1,0 +1,410 @@
+{
+  "DENOMINATION": {
+    "Definition": "unit of value"
+  },
+  "GENRE": {
+    "Definition": "style"
+  },
+  "CRAZES": {
+    "Definition": "very popular things"
+  },
+  "EQUIVALENT": {
+    "Definition": "being the same as"
+  },
+  "PHENOMENON": {
+    "Definition": "something important that existed"
+  },
+  "PEEPING": {
+    "Definition": "coming partially into view"
+  },
+  "HORIZON": {
+    "Definition": "the line at which the earth's surface and the sky meet"
+  },
+  "FAINT": {
+    "Definition": "not strong or clear"
+  },
+  "SICKLY": {
+    "Definition": "weak"
+  },
+  "BEAMS": {
+    "Definition": "rays, flashes"
+  },
+  "SHIMMERED": {
+    "Definition": "shone, gave out light"
+  },
+  "SADDLE": {
+    "Definition": "the seat on a horse"
+  },
+  "EASE": {
+    "Definition": "no difficulty"
+  },
+  "GRACE": {
+    "Definition": "easiness of movement, elegance"
+  },
+  "STEED": {
+    "Definition": "horse"
+  },
+  "COACHMAN": {
+    "Definition": "the driver of the horse-drawn carriage or vehicle"
+  },
+  "ASSURED": {
+    "Definition": "promised"
+  },
+  "NECESSITY": {
+    "Definition": "the state of being required, need"
+  },
+  "RICHES": {
+    "Definition": "valuables"
+  },
+  "ROBBER": {
+    "Definition": "the one who was stealing from them"
+  },
+  "EMERGED": {
+    "Definition": "appeared suddenly"
+  },
+  "INSTALMENT": {
+    "Definition": "episode"
+  },
+  "CLIFFHANGER": {
+    "Definition": "sudden ending"
+  },
+  "EAGERLY": {
+    "Definition": "in a very interested way"
+  },
+  "WHOPPING": {
+    "Definition": "impressive and surprising"
+  },
+  "COULDN’T GET ENOUGH": {
+    "Definition": "liked it very much"
+  },
+  "HIGHWAYMAN": {
+    "Definition": "an outlaw who stole from people on the road"
+  },
+  "TREND": {
+    "Definition": "style, fashion"
+  },
+  "ASSUME": {
+    "Definition": "accept it without question or proof"
+  },
+  "VAST MAJORITY": {
+    "Definition": "almost all of them"
+  },
+  "HANG ON": {
+    "Definition": "wait a minute"
+  },
+  "SERIALISED": {
+    "Definition": "published in regular parts or episodes"
+  },
+  "INSTALMENTS": {
+    "Definition": "episodes"
+  },
+  "ILLITERATE": {
+    "Definition": "not able to read or write"
+  },
+  "IN SO DOING": {
+    "Definition": "because of this"
+  },
+  "INNOVATIONS": {
+    "Definition": "new methods or ideas"
+  },
+  "EFFICIENT": {
+    "Definition": "producing good results, effective"
+  },
+  "FANCY": {
+    "Definition": "impressive and expensive"
+  },
+  "DISPARAGINGLY": {
+    "Definition": "in a critical or unkind way"
+  },
+  "GENERIC": {
+    "Definition": "common, not interesting"
+  },
+  "FORMULAIC": {
+    "Definition": "being of no special quality or type"
+  },
+  "TIRELESSLY": {
+    "Definition": "without getting tired, in an energetic way"
+  },
+  "CRITICISED": {
+    "Definition": "judged in a negative way"
+  },
+  "LACK": {
+    "Definition": "absence"
+  },
+  "MERIT": {
+    "Definition": "quality"
+  },
+  "BOOMING": {
+    "Definition": "rising"
+  },
+  "LITERACY": {
+    "Definition": "the ability to read and write"
+  },
+  "OUTCOMES": {
+    "Definition": "results"
+  },
+  "MISERABLE": {
+    "Definition": "very unhappy"
+  },
+  "WORKFORCE": {
+    "Definition": "the people available for work"
+  },
+  "CHIMNEY SWEEPS": {
+    "Definition": "people whose job was to clean the inside of chimneys (the pipes that lead the smoke of a fireplace out)"
+  },
+  "ALL MANNER OF": {
+    "Definition": "a lot of different types of"
+  },
+  "BOOT POLISH": {
+    "Definition": "a substance used to protect boots and make them shine"
+  },
+  "LEGISLATION": {
+    "Definition": "set of rules or laws"
+  },
+  "PLIGHT": {
+    "Definition": "bad condition or situation"
+  },
+  "SUPERNATURAL": {
+    "Definition": "forces that cannot be explained by science or the laws of nature"
+  },
+  "BREAK THE BANK": {
+    "Definition": "cost more than they could afford"
+  },
+  "DRUDGERY": {
+    "Definition": "hard and boring work"
+  },
+  "HARDSHIP": {
+    "Definition": "difficult conditions"
+  },
+  "SLITTING": {
+    "Definition": "cutting, slashing"
+  },
+  "RAZOR": {
+    "Definition": "a device with a sharp blade for removing hair"
+  },
+  "UNWITTING": {
+    "Definition": "without knowing"
+  },
+  "SCANDALOUS": {
+    "Definition": "causing public shock and anger"
+  },
+  "HIGHWAYMEN": {
+    "Definition": "outlaws who stole from people on the road"
+  },
+  "ROBBED": {
+    "Definition": "stole"
+  },
+  "BIOGRAPHIES": {
+    "Definition": "the stories of their lives"
+  },
+  "NOTORIOUS": {
+    "Definition": "famous for something bad"
+  },
+  "STORYLINES": {
+    "Definition": "types of stories or the main events of the stories"
+  },
+  "SLUMS": {
+    "Definition": "the poor areas of the city"
+  },
+  "GRIM": {
+    "Definition": "miserable, depressing"
+  },
+  "PLOT": {
+    "Definition": "story"
+  },
+  "SUPERIOR": {
+    "Definition": "better"
+  },
+  "SENSATIONAL": {
+    "Definition": "very exciting"
+  },
+  "GENRES": {
+    "Definition": "styles"
+  },
+  "BOOST": {
+    "Definition": "increase"
+  },
+  "CLUB TOGETHER": {
+    "Definition": "share the cost"
+  },
+  "CONFINES": {
+    "Definition": "limits"
+  },
+  "GOINGS-ON": {
+    "Definition": "strange events"
+  },
+  "VAMPIRES": {
+    "Definition": "dead people who come back to life and drink the blood of the living"
+  },
+  "GRUESOME": {
+    "Definition": "horrible, shocking"
+  },
+  "CRAZE": {
+    "Definition": "great interest and enthusiasm about something"
+  },
+  "CAPTIVATES": {
+    "Definition": "holds their attention and interest"
+  },
+  "DEVOURING": {
+    "Definition": "reading with great interest"
+  },
+  "MORALISTIC": {
+    "Definition": "judging people about what they think is right or wrong"
+  },
+  "INFERIORS": {
+    "Definition": "people who weren't as good as them"
+  },
+  "DECAY": {
+    "Definition": "fall, failure"
+  },
+  "OVERSTATE": {
+    "Definition": "describe it as something more serious than it really was"
+  },
+  "PANIC": {
+    "Definition": "sudden and strong feeling of fear"
+  },
+  "ENSUED": {
+    "Definition": "followed"
+  },
+  "POISON": {
+    "Definition": "a dangerous substance"
+  },
+  "INSPIRE": {
+    "Definition": "give rise to, encourage"
+  },
+  "BLAMING": {
+    "Definition": "considering them responsible"
+  },
+  "BLAMED": {
+    "Definition": "considered to have happened because of them"
+  },
+  "INSPIRED": {
+    "Definition": "encouraged, affected"
+  },
+  "SUICIDE": {
+    "Definition": "the act of killing himself"
+  },
+  "VERDICT": {
+    "Definition": "official decision about what had happened"
+  },
+  "INSANITY": {
+    "Definition": "the condition of being mad or crazy"
+  },
+  "INDUCED": {
+    "Definition": "caused"
+  },
+  "TRASHY": {
+    "Definition": "of low quality"
+  },
+  "TENSIONS": {
+    "Definition": "difficult or uneasy situations"
+  },
+  "INSISTED": {
+    "Definition": "stated in a certain way"
+  },
+  "STAB": {
+    "Definition": "hit her with a sharp object"
+  },
+  "INFLAMMABLE": {
+    "Definition": "able to cause fire, dangerous"
+  },
+  "CONTROVERSIES": {
+    "Definition": "discussions and disagreements"
+  },
+  "DISTANCE THEMSELVES": {
+    "Definition": "stay away from"
+  },
+  "SUICIDES": {
+    "Definition": "the acts of people killing themselves"
+  },
+  "UPLIFTING": {
+    "Definition": "pleasant, hopeful"
+  },
+  "BRUTALITY": {
+    "Definition": "extreme violence"
+  },
+  "PATRIOTICALLY": {
+    "Definition": "in a way that showed love for the country"
+  },
+  "BUDGET-CONSCIOUS": {
+    "Definition": "careful about spending money"
+  },
+  "SHIFT": {
+    "Definition": "change, move"
+  },
+  "HANDFUL": {
+    "Definition": "small number"
+  },
+  "NARRATIVE": {
+    "Definition": "story"
+  },
+  "SPECTRUM": {
+    "Definition": "range of options"
+  },
+  "BOOM": {
+    "Definition": "increase in popularity"
+  },
+  "COMIC BOOKS": {
+    "Definition": "illustrated books"
+  },
+  "ACCESSIBLE": {
+    "Definition": "easily liked and obtained"
+  },
+  "SQUEEZED": {
+    "Definition": "limited, pressed"
+  },
+  "ACCESSIBILITY": {
+    "Definition": "the fact of being easily liked and obtained"
+  },
+  "GORE": {
+    "Definition": "blood and violence"
+  },
+  "SNAPPED UP": {
+    "Definition": "bought quickly"
+  },
+  "THE TURN OF THE CENTURY": {
+    "Definition": "the time when the previous century ended and the next began"
+  },
+  "MORALITY": {
+    "Definition": "standards of good or bad behaviour"
+  },
+  "POISONING": {
+    "Definition": "damaging, harming"
+  },
+  "RECKLESS": {
+    "Definition": "dangerous"
+  },
+  "RAMPANT": {
+    "Definition": "wild, uncontrolled"
+  },
+  "ENCOURAGE": {
+    "Definition": "make them more likely to do it"
+  },
+  "INCENTIVE": {
+    "Definition": "reason, motivation"
+  },
+  "LEFT OUT": {
+    "Definition": "not included"
+  },
+  "ROBBERY": {
+    "Definition": "the crime of stealing"
+  },
+  "OVERSTATEMENT": {
+    "Definition": "the action of describing it as more important than it really was"
+  },
+  "SINGLE-HANDEDLY": {
+    "Definition": "without help from anything else, alone"
+  },
+  "FABRIC OF SOCIETY": {
+    "Definition": "the order or culture of society"
+  },
+  "ADDICTED": {
+    "Definition": "extremely interested in"
+  },
+  "EQUIVALENTS": {
+    "Definition": "things that have the same meaning"
+  },
+  "": {
+    "Definition": null
+  }
+}
