@@ -1,0 +1,383 @@
+{
+  "FERTILITY": {
+    "Definition": "the ability to produce or conceive children"
+  },
+  "SET THE SCENE": {
+    "Definition": "provide context or background information"
+  },
+  "TRENDS": {
+    "Definition": "the general direction in which the situation is changing"
+  },
+  "DEEP DIVE": {
+    "Definition": "detailed exploration or analysis"
+  },
+  "IN VITRO FERTILISATION": {
+    "Definition": "medical process where an egg is fertilised outside the body"
+  },
+  "PROCEDURE": {
+    "Definition": "method or process"
+  },
+  "POTENTIAL": {
+    "Definition": "possible, likely"
+  },
+  "LIE IN STORE": {
+    "Definition": "are awaited or expected to happen in the future"
+  },
+  "SHRINKING": {
+    "Definition": "becoming smaller or reducing in size"
+  },
+  "COLLAPSE": {
+    "Definition": "complete failure or breakdown"
+  },
+  "BIRTH RATES": {
+    "Definition": "number of live births per thousand people in a population"
+  },
+  "RISK": {
+    "Definition": "probability of harm or loss"
+  },
+  "EXPLICITLY": {
+    "Definition": "clearly and directly stated"
+  },
+  "PALED IN COMPARISON": {
+    "Definition": "seemed insignificant compared to it"
+  },
+  "DECLINE": {
+    "Definition": "reduction or decrease"
+  },
+  "FACED": {
+    "Definition": "confronted with or dealt with"
+  },
+  "MASS FAMINES": {
+    "Definition": "widespread scarcities or shortages of food leading to starvation"
+  },
+  "SCAREMONGERING": {
+    "Definition": "spreading alarmist or frightening claims or rumours"
+  },
+  "RUNNING OUT OF": {
+    "Definition": "using up or exhausting"
+  },
+  "EXTINCTION": {
+    "Definition": "complete disappearance"
+  },
+  "TEETERING": {
+    "Definition": "balancing in a dangerous situation or being on the verge of collapse"
+  },
+  "MASS FAMINE": {
+    "Definition": "widespread scarcity or shortage of food leading to starvation"
+  },
+  "CIVIL UNREST": {
+    "Definition": "disorder and conflict within a country"
+  },
+  "CATASTROPHE": {
+    "Definition": "major disaster or tragedy"
+  },
+  "OMINOUS": {
+    "Definition": "giving the impression that something bad was going to happen"
+  },
+  "DEMOGRAPHERS": {
+    "Definition": "experts who study matters related to population"
+  },
+  "PLAGUES": {
+    "Definition": "widespread diseases causing a lot of deaths"
+  },
+  "FAMINES": {
+    "Definition": "extreme scarcities or shortages of food leading to starvation"
+  },
+  "ON AGGREGATE": {
+    "Definition": "considering as a whole or total"
+  },
+  "BLINDINGLY": {
+    "Definition": "extremely (obvious or evident)"
+  },
+  "NUANCES": {
+    "Definition": "small differences or details"
+  },
+  "HOLDS TRUE": {
+    "Definition": "remains valid or true"
+  },
+  "STABLE": {
+    "Definition": "not likely to change"
+  },
+  "REPLACEMENT RATE": {
+    "Definition": "number of children needed to maintain population size"
+  },
+  "FERTILITY RATE": {
+    "Definition": "number of live births per woman in a population"
+  },
+  "FERTILITY RATES": {
+    "Definition": "number of live births per woman in different populations"
+  },
+  "POPULOUS": {
+    "Definition": "having a large population"
+  },
+  "PLOT A GRAPH": {
+    "Definition": "create a visual representation of the data points"
+  },
+  "TREND": {
+    "Definition": "general direction in which it is developing"
+  },
+  "ANOMALIES": {
+    "Definition": "deviations or departures from the norm or expected pattern"
+  },
+  "WHOPPING": {
+    "Definition": "extremely large or impressive"
+  },
+  "CASUAL": {
+    "Definition": "not regular"
+  },
+  "ASSUMING": {
+    "Definition": "taking it for granted or supposing"
+  },
+  "LATTER": {
+    "Definition": "the second of the two mentioned things"
+  },
+  "INEVITABLE": {
+    "Definition": "certain to happen, unavoidable"
+  },
+  "DECLINING": {
+    "Definition": "decreasing or deteriorating"
+  },
+  "DESPITE": {
+    "Definition": "regardless of, in spite of"
+  },
+  "INTERLINKED": {
+    "Definition": "connected or associated with each other"
+  },
+  "FACTORS": {
+    "Definition": "elements contributing to that result or situation"
+  },
+  "AWARE": {
+    "Definition": "conscious or knowledgeable"
+  },
+  "SPELLING THEM OUT": {
+    "Definition": "explaining or detailing them clearly"
+  },
+  "EQUALITY": {
+    "Definition": "state of being equal and having the same opportunities"
+  },
+  "EQUALS": {
+    "Definition": "people having the same status, rights, or value"
+  },
+  "MERE": {
+    "Definition": "nothing more than, only"
+  },
+  "BABY-MAKING": {
+    "Definition": "process of giving birth"
+  },
+  "WORKFORCE": {
+    "Definition": "the people available for work"
+  },
+  "AUTONOMY": {
+    "Definition": "independence or freedom"
+  },
+  "FORGE THEIR OWN PATH": {
+    "Definition": "create their own direction or course of action"
+  },
+  "CHILDCARE": {
+    "Definition": "care and supervision provided for children"
+  },
+  "LOOK AFTER": {
+    "Definition": "take care of or be responsible for"
+  },
+  "PROVIDE": {
+    "Definition": "give them what they need"
+  },
+  "POINT OUT": {
+    "Definition": "observe or remark on"
+  },
+  "REPLACEMENT LEVEL": {
+    "Definition": "quantity needed to keep the population at a certain level"
+  },
+  "FIRSTHAND": {
+    "Definition": "coming from personal experience"
+  },
+  "OPTIMISM": {
+    "Definition": "hopefulness or confidence about the future"
+  },
+  "DOOM AND GLOOM": {
+    "Definition": "general feeling of pessimism or hopelessness"
+  },
+  "ENTHUSIASTIC": {
+    "Definition": "eager or excited"
+  },
+  "TENSIONS": {
+    "Definition": "feelings of strain or unease"
+  },
+  "PESSIMISTIC": {
+    "Definition": "thinking that bad things are more likely to happen"
+  },
+  "WILLING": {
+    "Definition": "ready or eager"
+  },
+  "CONVENIENCE": {
+    "Definition": "situations that make things easier"
+  },
+  "CONVENIENT": {
+    "Definition": "involving little trouble or effort"
+  },
+  "INCONVENIENCE": {
+    "Definition": "trouble or difficulty"
+  },
+  "TO BITS": {
+    "Definition": "extremely or completely"
+  },
+  "INFINITELY": {
+    "Definition": "to an unlimited or endless extent"
+  },
+  "BOY": {
+    "Definition": "used to express strong emotion or emphasis"
+  },
+  "INCONVENIENT": {
+    "Definition": "causing difficulty or trouble"
+  },
+  "DRIBBLE": {
+    "Definition": "allow saliva to flow from the mouth"
+  },
+  "PURELY": {
+    "Definition": "entirely, exclusively"
+  },
+  "LACK OF": {
+    "Definition": "absence of"
+  },
+  "GIVING ALL OF THAT UP": {
+    "Definition": "sacrificing or parting with all of that"
+  },
+  "JOYS": {
+    "Definition": "pleasures or sources of happiness"
+  },
+  "CITING": {
+    "Definition": "quoting or referring to"
+  },
+  "SEEMINGLY": {
+    "Definition": "appearing to be true or real but possibly not"
+  },
+  "MERELY": {
+    "Definition": "only or just"
+  },
+  "UNDENIABLE": {
+    "Definition": "unable to be denied or disputed"
+  },
+  "OBLIGATED": {
+    "Definition": "required or morally bound to do it"
+  },
+  "DUTY": {
+    "Definition": "obligation or responsibility"
+  },
+  "TENDS TO": {
+    "Definition": "it is inclined or likely to"
+  },
+  "PRECEDED": {
+    "Definition": "came before or existed earlier"
+  },
+  "DEMOGRAPHIC SHIFT": {
+    "Definition": "change in the composition of a population over time"
+  },
+  "OUTNUMBER": {
+    "Definition": "are greater in number than"
+  },
+  "UNABLE": {
+    "Definition": "not capable or competent"
+  },
+  "BURDEN": {
+    "Definition": "heavy load or responsibility"
+  },
+  "AGEING": {
+    "Definition": "growing older"
+  },
+  "SPIRAL OUT OF CONTROL": {
+    "Definition": "become worse or escalate beyond management"
+  },
+  "ENCOURAGING": {
+    "Definition": "providing support or incentive"
+  },
+  "ENCOURAGE": {
+    "Definition": "provide support or incentive"
+  },
+  "IMPLEMENTED": {
+    "Definition": "put into effect or action"
+  },
+  "PARENT-FRIENDLY POLICIES": {
+    "Definition": "policies or plans designed to support or benefit parents"
+  },
+  "ABROAD": {
+    "Definition": "at foreign countries"
+  },
+  "WHOLE HOST OF": {
+    "Definition": "a large number or variety of"
+  },
+  "PRESERVATION": {
+    "Definition": "maintaining or protecting"
+  },
+  "ECONOMIC INCENTIVES": {
+    "Definition": "economic benefits that influence people's decisions"
+  },
+  "LESSEN": {
+    "Definition": "reduce or diminish"
+  },
+  "EFFECTIVENESS": {
+    "Definition": "the degree to which it is successful in producing the desired result"
+  },
+  "ACHIEVING": {
+    "Definition": "successfully reaching or attaining"
+  },
+  "QUESTIONABLE": {
+    "Definition": "doubtful or uncertain"
+  },
+  "FINANCIAL INCENTIVE": {
+    "Definition": "financial reward or inducement"
+  },
+  "ADDRESS": {
+    "Definition": "deal with or tackle"
+  },
+  "THE ROOT CAUSE": {
+    "Definition": "underlying reason or source"
+  },
+  "ALL SORTS OF": {
+    "Definition": "various or diverse kinds of"
+  },
+  "FINANCIAL INCENTIVES": {
+    "Definition": "financial rewards or inducements"
+  },
+  "RELIABLY": {
+    "Definition": "dependably or consistently"
+  },
+  "CORRELATED": {
+    "Definition": "have a mutual relationship or connection"
+  },
+  "PREDICTOR": {
+    "Definition": "factor or variable showing future trends or changes"
+  },
+  "REASSURING": {
+    "Definition": "providing comfort or relief"
+  },
+  "FINDING": {
+    "Definition": "discovery or conclusion reached as a result of research"
+  },
+  "STRUGGLING WITH": {
+    "Definition": "having difficulty coping or dealing with"
+  },
+  "OFFSET": {
+    "Definition": "compensate for or counterbalance"
+  },
+  "STRAIN": {
+    "Definition": "pressure or tension"
+  },
+  "DEGRADATION": {
+    "Definition": "decrease or deterioration in quality"
+  },
+  "MANAGEABLE": {
+    "Definition": "capable of being controlled or handled"
+  },
+  "AVERT": {
+    "Definition": "prevent or avoid"
+  },
+  "CIVILISATIONAL": {
+    "Definition": "relating to the development of civilisation"
+  },
+  "THEME": {
+    "Definition": "subject or topic"
+  },
+  "": {
+    "Definition": null
+  }
+}
