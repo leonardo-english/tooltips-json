@@ -1,510 +1,383 @@
 {
-  "Prominence": {
-    "Definition": "being important or well-known",
-    "Definition (Cambridge automatic)": "the"
-  },
-  "Controversial": {
-    "Definition": "causing disagreement or argument",
-    "Definition (Cambridge automatic)": "causing disagreement or discussion :"
-  },
-  "Prestigious": {
-    "Definition": "having a good reputation",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "You name it": {
-    "Definition": "referring to everything in a particular group or list",
-    "Definition (Cambridge automatic)": "to give someone or something the same"
-  },
-  "Eye-watering": {
-    "Definition": "very expensive or surprising",
-    "Definition (Cambridge automatic)": "extremely surprising , because of being great in amount :"
-  },
-  "Financiers": {
-    "Definition": "people who manage money or investments",
-    "Definition (Cambridge automatic)": "a person who has control of a large amount of money and can give or lend it to people or organizations"
-  },
-  "Oligarchs": {
-    "Definition": "very rich people who control the country",
-    "Definition (Cambridge automatic)": "someone who is extremely rich and powerful , especially a person from Russia who became rich after the end of the former Soviet Union :"
-  },
-  "Jet into": {
-    "Definition": "arriving quickly by plane",
-    "Definition (Cambridge automatic)": "#N/A"
-  },
-  "Hosting": {
-    "Definition": "organising or holding the event",
-    "Definition (Cambridge automatic)": "the"
-  },
-  "Up for grabs": {
-    "Definition": "available for anyone to take or win",
-    "Definition (Cambridge automatic)": "available and ready to be won or taken:"
-  },
-  "Stencil": {
-    "Definition": "a pattern or design used to paint or draw over",
-    "Definition (Cambridge automatic)": "a piece of card , plastic , metal , etc. into which shapes have been cut , used to draw or paint patterns onto a surface"
-  },
-  "Auctioneer": {
-    "Definition": "the person who sold things in an auction",
-    "Definition (Cambridge automatic)": "a person in charge of an auction who calls out the prices that people offer"
-  },
-  "Bid": {
-    "Definition": "an offer of money to buy it",
-    "Definition (Cambridge automatic)": "to offer a particular amount of money for something that is for sale and compete against other people to buy it, especially at a public sale of goods or property :"
-  },
-  "Up": {
-    "Definition": "increase, raise",
-    "Definition (Cambridge automatic)": "towards a higher position ; towards a higher value , number , or level :"
-  },
-  "Bids": {
-    "Definition": "offers of money to buy it",
-    "Definition (Cambridge automatic)": "to offer a particular amount of money for something that is for sale and compete against other people to buy it, especially at a public sale of goods or property :"
-  },
-  "Gavel": {
-    "Definition": "a small hammer used by an auctioneer or judge",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Hammer": {
-    "Definition": "a tool consisting of a piece of metal with a flat end that is fixed onto the end of a usually wooden handle",
-    "Definition (Cambridge automatic)": "a tool consisting of a piece of metal with a flat end that is fixed onto the end of a long , thin , usually wooden handle , used for hitting things"
-  },
-  "Inflation": {
-    "Definition": "when prices go up and money loses value",
-    "Definition (Cambridge automatic)": "a general , continuous increase in prices :"
-  },
-  "Slide": {
-    "Definition": "go down slowly",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Frame": {
-    "Definition": "the structure that held it",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Erupted": {
-    "Definition": "happened or broke out suddenly and strongly",
-    "Definition (Cambridge automatic)": "When a volcano erupts, it explodes and flames and rocks come out of it:"
-  },
-  "Gasps": {
-    "Definition": "sudden sounds of surprise or shock",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Shredding": {
-    "Definition": "breaking into small pieces",
-    "Definition (Cambridge automatic)": "present participle of"
-  },
-  "Bold": {
-    "Definition": "confident and brave",
-    "Definition (Cambridge automatic)": "not frightened of danger :"
-  },
-  "Sticking two fingers up": {
-    "Definition": "a rude gesture that shows disrespect or defiance",
-    "Definition (Cambridge automatic)": "#N/A"
-  },
-  "Establishment": {
-    "Definition": "system or authorities",
-    "Definition (Cambridge automatic)": "a business or other organization , or the place where an organization operates :"
-  },
-  "Pseudonym": {
-    "Definition": "a fake name (used by an artist or writer)",
-    "Definition (Cambridge automatic)": "a name someone uses instead of their real name , especially on a written work :"
-  },
-  "Vibrant": {
-    "Definition": "full of life and energy, bright and colourful",
-    "Definition (Cambridge automatic)": "energetic , exciting , and full of enthusiasm :"
-  },
-  "Graffiti": {
-    "Definition": "writing or drawings on public surfaces, usually without permission",
-    "Definition (Cambridge automatic)": "words or drawings , especially humorous , rude , or political , on walls , doors , etc. in public places :"
-  },
-  "Sprayed": {
-    "Definition": "drawn using paint in the form of tiny drops",
-    "Definition (Cambridge automatic)": "a mass of very small drops of liquid carried in the air :"
-  },
-  "Drawn to": {
-    "Definition": "attracted to or interested in",
-    "Definition (Cambridge automatic)": "past participle of draw"
-  },
-  "Dull": {
-    "Definition": "not exciting or bright",
-    "Definition (Cambridge automatic)": "not interesting or exciting in any way:"
-  },
-  "Crew": {
-    "Definition": "a group of people working together",
-    "Definition (Cambridge automatic)": "a group of people who work together, especially all those who work on and operate a ship , aircraft , etc.:"
-  },
-  "Spraying": {
-    "Definition": "covering with sprayed paint",
-    "Definition (Cambridge automatic)": "a mass of very small drops of liquid carried in the air :"
-  },
-  "Tags": {
-    "Definition": "names or symbols sprayed in graffiti",
-    "Definition (Cambridge automatic)": "a small piece of paper , cloth , or metal with information on it, tied or stuck onto something, or worn by a person or an animal :"
-  },
-  "Murals": {
-    "Definition": "large paintings or pictures, often on walls",
-    "Definition (Cambridge automatic)": "a large picture that has been painted on the wall of a room or building"
-  },
-  "Boldly": {
-    "Definition": "in a brave or confident way",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Proclaimed": {
-    "Definition": "announced or declared openly",
-    "Definition (Cambridge automatic)": "to announce something publicly or officially , especially something positive :"
-  },
-  "Run-of-the-mill": {
-    "Definition": "ordinary, not special",
-    "Definition (Cambridge automatic)": "ordinary and not special or exciting in any way:"
-  },
-  "Iconic": {
-    "Definition": "very famous and well-known",
-    "Definition (Cambridge automatic)": "very famous or popular , especially being considered to represent particular opinions or a particular time :"
-  },
-  "Molotov cocktail": {
-    "Definition": "a homemade bomb made with a bottle and flammable liquid",
-    "Definition (Cambridge automatic)": "a"
-  },
-  "Riot police": {
-    "Definition": "police specially trained to control riots and large protests",
-    "Definition (Cambridge automatic)": "a"
-  },
-  "Cracking down": {
-    "Definition": "taking strong action to stop it",
-    "Definition (Cambridge automatic)": "to start dealing with bad or illegal behaviour in a more severe way:"
-  },
-  "Rave": {
-    "Definition": "very large party or similar event with dancing to loud, fast electronic music",
-    "Definition (Cambridge automatic)": "to speak in an uncontrolled way, usually because you are upset or angry , or because you are ill :"
-  },
-  "Hippies": {
-    "Definition": "people in the 1960s and 1970s who followed peace and love ideals",
-    "Definition (Cambridge automatic)": "a person , typically young , especially in the late 1960s and early 1970s, who believed in peace , was opposed to many of the accepted ideas about how to live , had long hair , and often lived in groups and took drugs"
-  },
-  "Recurrent": {
-    "Definition": "appearing again and again",
-    "Definition (Cambridge automatic)": "happening again many times :"
-  },
-  "Inimitable": {
-    "Definition": "impossible to copy or match",
-    "Definition (Cambridge automatic)": "very unusual or of very high quality and therefore impossible to copy :"
-  },
-  "From scratch": {
-    "Definition": "from the very beginning, with nothing",
-    "Definition (Cambridge automatic)": "from the beginning , without using anything that already exists :"
-  },
-  "Can": {
-    "Definition": "a metal container",
-    "Definition (Cambridge automatic)": "to be able to:"
-  },
-  "Spray paint": {
-    "Definition": "paint in a can that can be sprayed out in tiny drops",
-    "Definition (Cambridge automatic)": "paint that is forced from a container under pressure so that it comes out in very small drops :"
-  },
-  "Blank": {
-    "Definition": "empty or without writing or drawing",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Stencils": {
-    "Definition": "patterns or designs used to paint or draw over",
-    "Definition (Cambridge automatic)": "a piece of card , plastic , metal , etc. into which shapes have been cut , used to draw or paint patterns onto a surface"
-  },
-  "Spray": {
-    "Definition": "cover with paint in the form of tiny drops",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Stenciled": {
-    "Definition": "made with a pattern or design used to paint or draw over",
-    "Definition (Cambridge automatic)": "a piece of card , plastic , metal , etc. into which shapes have been cut , used to draw or paint patterns onto a surface"
-  },
-  "Mural": {
-    "Definition": "a large painting or picture, usually on a wall",
-    "Definition (Cambridge automatic)": "a large picture that has been painted on the wall of a room or building"
-  },
-  "Underlining": {
-    "Definition": "pointing out or highlighting",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "None the wiser": {
-    "Definition": "not knowing or understanding what had happened",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Popping up": {
-    "Definition": "appearing suddenly or unexpectedly",
-    "Definition (Cambridge automatic)": "to move quickly and suddenly from a closed or flat position to a vertical one:"
-  },
-  "Tag": {
-    "Definition": "name or symbol",
-    "Definition (Cambridge automatic)": "a small piece of paper , cloth , or metal with information on it, tied or stuck onto something, or worn by a person or an animal :"
-  },
-  "Anonymity": {
-    "Definition": "the state of being unknown or not identified",
-    "Definition (Cambridge automatic)": "the situation in which someone's name is not given or known :"
-  },
-  "Necessity": {
-    "Definition": "something that was needed or very important",
-    "Definition (Cambridge automatic)": "the need for something:"
-  },
-  "Prosecuted": {
-    "Definition": "taken to court for a crime",
-    "Definition (Cambridge automatic)": "to officially accuse someone of committing a crime in a law court , or (of a lawyer ) to try to prove that a person accused of committing a crime is guilty of that crime :"
-  },
-  "Mystique": {
-    "Definition": "a special quality that made him interesting and mysterious",
-    "Definition (Cambridge automatic)": "a quality of being special in a mysterious and attractive way:"
-  },
-  "Fueled": {
-    "Definition": "supported or boosted",
-    "Definition (Cambridge automatic)": "a substance that is used to provide heat or power , usually by being burned :"
-  },
-  "Witty": {
-    "Definition": "showing quick and clever humour",
-    "Definition (Cambridge automatic)": "using words in a clever and funny way:"
-  },
-  "Satirical": {
-    "Definition": "using humour or irony to criticise something",
-    "Definition (Cambridge automatic)": "a way of criticizing people or ideas in a humorous way, especially in order to make a political point , or a piece of writing that uses this style :"
-  },
-  "Emphasise": {
-    "Definition": "make it stand out or more important",
-    "Definition (Cambridge automatic)": "to show that something is very important or worth giving attention to:"
-  },
-  "Confined": {
-    "Definition": "limited or restricted",
-    "Definition (Cambridge automatic)": "to limit an activity , person , or problem in some way:"
-  },
-  "Coppers": {
-    "Definition": "a slang word (informal language) for police officers",
-    "Definition (Cambridge automatic)": "a chemical element that is a reddish-brown metal , used especially for making wire and coins :"
-  },
-  "Copper": {
-    "Definition": "a slang word (informal language) for a police officer",
-    "Definition (Cambridge automatic)": "a chemical element that is a reddish-brown metal , used especially for making wire and coins :"
-  },
-  "Slang": {
-    "Definition": "informal language used by certain groups of people",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Batons": {
-    "Definition": "short, thick sticks used by police officers",
-    "Definition (Cambridge automatic)": "a stick used by a conductor (= person who controls the performance of a group of musicians) to show the speed of the music"
-  },
-  "Handcuffs": {
-    "Definition": "metal rings used to tie someone's hands together",
-    "Definition (Cambridge automatic)": "two metal or plastic rings joined by a short chain that lock around a prisoner's wrists :"
-  },
-  "Stand out": {
-    "Definition": "be noticeable or different from others",
-    "Definition (Cambridge automatic)": "to be very noticeable :"
-  },
-  "Consumerism": {
-    "Definition": "the belief that buying things is important in life",
-    "Definition (Cambridge automatic)": "the state of an advanced industrial society in which a lot of goods are bought and sold"
-  },
-  "Capitalism": {
-    "Definition": "the economic system where businesses are privately owned for profit",
-    "Definition (Cambridge automatic)": "an economic and political system in which property , business , and industry are controlled by private owners rather than by the state , with the purpose of making a profit :"
-  },
-  "Delicate": {
-    "Definition": "requiring sensitive or careful handling",
-    "Definition (Cambridge automatic)": "needing careful treatment , especially because easily damaged :"
-  },
-  "Depicted": {
-    "Definition": "showed or represented",
-    "Definition (Cambridge automatic)": "to represent or show something in a picture or story :"
-  },
-  "Floating": {
-    "Definition": "moving slowly in the air",
-    "Definition (Cambridge automatic)": "not fixed in one position , place , or level :"
-  },
-  "Idyllic": {
-    "Definition": "very peaceful and perfect, often like a beautiful dream",
-    "Definition (Cambridge automatic)": "An idyllic"
-  },
-  "Politically charged": {
-    "Definition": "having strong opinions or feelings about politics",
-    "Definition (Cambridge automatic)": "#N/A"
-  },
-  "Backdrops": {
-    "Definition": "backgrounds or settings",
-    "Definition (Cambridge automatic)": "a large piece of cloth with buildings , countryside , etc. painted on it, hung at the back of a stage during a performance"
-  },
-  "Weighing in on": {
-    "Definition": "giving an opinion on",
-    "Definition (Cambridge automatic)": "#N/A"
-  },
-  "Phenomenon": {
-    "Definition": "something that was very unusual or impressive",
-    "Definition (Cambridge automatic)": "something that exists and can be seen , felt , tasted , etc., especially something unusual or interesting :"
-  },
-  "Stirring up": {
-    "Definition": "causing or starting",
-    "Definition (Cambridge automatic)": "to cause an unpleasant emotion or problem to begin or grow :"
-  },
-  "Canvas": {
-    "Definition": "a surface used for painting pictures",
-    "Definition (Cambridge automatic)": "strong , rough cloth used for making tents , sails , bags , strong clothes , etc."
-  },
-  "Fame": {
-    "Definition": "the state of being well-known or famous",
-    "Definition (Cambridge automatic)": "the state of being known or recognized by many people because of your achievements , skills , etc.:"
-  },
-  "Unfiltered": {
-    "Definition": "not edited or changed",
-    "Definition (Cambridge automatic)": "not having had solids removed with a filter :"
-  },
-  "Skyrocketed": {
-    "Definition": "increased very quickly and dramatically",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Commercialised": {
-    "Definition": "turned into a business or product to make money",
-    "Definition (Cambridge automatic)": "organized"
-  },
-  "Resist": {
-    "Definition": "to fight against or refuse to accept",
-    "Definition (Cambridge automatic)": "to fight against something or someone that is attacking you:"
-  },
-  "Rebelliousness": {
-    "Definition": "the desire to go against authority or rules",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Mocked": {
-    "Definition": "made fun of or criticised in a silly way",
-    "Definition (Cambridge automatic)": "to laugh at someone, often by copying them in a funny but unkind way:"
-  },
-  "Irony": {
-    "Definition": "a state of affairs that seems contrary to what one expects",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Stall": {
-    "Definition": "a small shop or stand",
-    "Definition (Cambridge automatic)": "a large table or a small shop with an open front from which goods are sold in a public place :"
-  },
-  "Passers-by": {
-    "Definition": "people who were walking by the place",
-    "Definition (Cambridge automatic)": "someone who is going past a"
-  },
-  "A pop": {
-    "Definition": "a small amount, often used for things like a drink",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Handful": {
-    "Definition": "a small number, not many",
-    "Definition (Cambridge automatic)": "an amount of something that can be held in one hand :"
-  },
-  "Stunts": {
-    "Definition": "actions that were exciting, done for attention",
-    "Definition (Cambridge automatic)": "an exciting action , usually in a film , that is dangerous or appears dangerous and usually needs to be done by someone skilled :"
-  },
-  "Unveiled": {
-    "Definition": "showed for the first time",
-    "Definition (Cambridge automatic)": "to remove a covering like a curtain from a new structure at a formal ceremony in order to show the opening or finishing of a new building or work of art :"
-  },
-  "Bemusement": {
-    "Definition": "a feeling of confusion or surprise",
-    "Definition (Cambridge automatic)": "the"
-  },
-  "Puns": {
-    "Definition": "jokes that played with words that have different meanings or sounds",
-    "Definition (Cambridge automatic)": "a humorous use of a word or phrase that has several meanings or that sounds like another word:"
-  },
-  "Dismal": {
-    "Definition": "very bad, depressing, or gloomy",
-    "Definition (Cambridge automatic)": "sad and without hope :"
-  },
-  "Dystopian": {
-    "Definition": "describing an imagined world that is very unpleasant or controlled",
-    "Definition (Cambridge automatic)": "relating"
-  },
-  "Unsettling": {
-    "Definition": "making you feel uneasy or worried",
-    "Definition (Cambridge automatic)": "causing change"
-  },
-  "Grim": {
-    "Definition": "very serious, dark, or worrying",
-    "Definition (Cambridge automatic)": "extremely bad , worrying , or without hope :"
-  },
-  "Snapping": {
-    "Definition": "taking photos quickly",
-    "Definition (Cambridge automatic)": "present participle of"
-  },
-  "Wreck": {
-    "Definition": "ruins or remains",
-    "Definition (Cambridge automatic)": "to destroy or badly damage something:"
-  },
-  "Payday loan": {
-    "Definition": "a type of short-term loan that is usually very expensive",
-    "Definition (Cambridge automatic)": "an amount of money that is lent to someone by a company for a short time at a very high rate of interest :"
-  },
-  "Advance": {
-    "Definition": "money paid before the full amount is received",
-    "Definition (Cambridge automatic)": "to go or move something forward , or to develop or improve something:"
-  },
-  "Deliberately": {
-    "Definition": "on purpose or intentionally",
-    "Definition (Cambridge automatic)": "intentionally :"
-  },
-  "Mocking": {
-    "Definition": "making fun of or ridiculing",
-    "Definition (Cambridge automatic)": "mocking"
-  },
-  "Cheerfulness": {
-    "Definition": "happy and positive attitude",
-    "Definition (Cambridge automatic)": "#ERROR!"
-  },
-  "Fraction": {
-    "Definition": "a small part",
-    "Definition (Cambridge automatic)": "a number that results from dividing one whole number by another:"
-  },
-  "Critique": {
-    "Definition": "criticism or judgement",
-    "Definition (Cambridge automatic)": "a report of something such as a political situation or system , or a person's work or ideas , that examines it and provides a judgment , especially a negative one:"
-  },
-  "Have their say": {
-    "Definition": "give their opinion or speak about it",
-    "Definition (Cambridge automatic)": "#N/A"
-  },
-  "Vandalism": {
-    "Definition": "the act of damaging or destroying property on purpose",
-    "Definition (Cambridge automatic)": "a person who intentionally damages property belonging to other people :"
-  },
-  "Redefined": {
-    "Definition": "given a new meaning or understanding",
-    "Definition (Cambridge automatic)": "to change the meaning of something or to make people think about something in a new or different way:"
-  },
-  "Legitimate": {
-    "Definition": "real, legal, or acceptable",
-    "Definition (Cambridge automatic)": "allowed by law :"
-  },
-  "Eye-wateringly": {
-    "Definition": "extremely high",
-    "Definition (Cambridge automatic)": "#N/A"
-  },
-  "Appeals": {
-    "Definition": "causes or exerts interest or attraction",
-    "Definition (Cambridge automatic)": "a request to the public for money , information , or help :"
-  },
-  "Tender": {
-    "Definition": "soft or gentle",
-    "Definition (Cambridge automatic)": "gentle , loving , or kind :"
-  },
-  "Shredded": {
-    "Definition": "torn or cut into small pieces",
-    "Definition (Cambridge automatic)": "having"
-  },
-  "Paradox": {
-    "Definition": "a situation that seems impossible or contradictory",
-    "Definition (Cambridge automatic)": "a situation or statement that seems impossible or is difficult to understand because it contains two opposite facts or characteristics :"
-  },
-  "Play by the rules": {
-    "Definition": "follow the rules or behave correctly",
-    "Definition (Cambridge automatic)": "When you play, especially as a child , you spend time doing an enjoyable and/or entertaining activity :"
-  },
-  "Acclaim": {
-    "Definition": "strong approval",
-    "Definition (Cambridge automatic)": "public approval and praise :"
+  "PROMINENCE": {
+    "Definition": "being important or well-known"
+  },
+  "CONTROVERSIAL": {
+    "Definition": "causing disagreement or argument"
+  },
+  "PRESTIGIOUS": {
+    "Definition": "having a good reputation"
+  },
+  "YOU NAME IT": {
+    "Definition": "referring to everything in a particular group or list"
+  },
+  "EYE-WATERING": {
+    "Definition": "very expensive or surprising"
+  },
+  "FINANCIERS": {
+    "Definition": "people who manage money or investments"
+  },
+  "OLIGARCHS": {
+    "Definition": "very rich people who control the country"
+  },
+  "JET INTO": {
+    "Definition": "arriving quickly by plane"
+  },
+  "HOSTING": {
+    "Definition": "organising or holding the event"
+  },
+  "UP FOR GRABS": {
+    "Definition": "available for anyone to take or win"
+  },
+  "STENCIL": {
+    "Definition": "a pattern or design used to paint or draw over"
+  },
+  "AUCTIONEER": {
+    "Definition": "the person who sold things in an auction"
+  },
+  "BID": {
+    "Definition": "an offer of money to buy it"
+  },
+  "UP": {
+    "Definition": "increase, raise"
+  },
+  "BIDS": {
+    "Definition": "offers of money to buy it"
+  },
+  "GAVEL": {
+    "Definition": "a small hammer used by an auctioneer or judge"
+  },
+  "HAMMER": {
+    "Definition": "a tool consisting of a piece of metal with a flat end that is fixed onto the end of a usually wooden handle"
+  },
+  "INFLATION": {
+    "Definition": "when prices go up and money loses value"
+  },
+  "SLIDE": {
+    "Definition": "go down slowly"
+  },
+  "FRAME": {
+    "Definition": "the structure that held it"
+  },
+  "ERUPTED": {
+    "Definition": "happened or broke out suddenly and strongly"
+  },
+  "GASPS": {
+    "Definition": "sudden sounds of surprise or shock"
+  },
+  "SHREDDING": {
+    "Definition": "breaking into small pieces"
+  },
+  "BOLD": {
+    "Definition": "confident and brave"
+  },
+  "STICKING TWO FINGERS UP": {
+    "Definition": "a rude gesture that shows disrespect or defiance"
+  },
+  "ESTABLISHMENT": {
+    "Definition": "system or authorities"
+  },
+  "PSEUDONYM": {
+    "Definition": "a fake name (used by an artist or writer)"
+  },
+  "VIBRANT": {
+    "Definition": "full of life and energy, bright and colourful"
+  },
+  "GRAFFITI": {
+    "Definition": "writing or drawings on public surfaces, usually without permission"
+  },
+  "SPRAYED": {
+    "Definition": "drawn using paint in the form of tiny drops"
+  },
+  "DRAWN TO": {
+    "Definition": "attracted to or interested in"
+  },
+  "DULL": {
+    "Definition": "not exciting or bright"
+  },
+  "CREW": {
+    "Definition": "a group of people working together"
+  },
+  "SPRAYING": {
+    "Definition": "covering with sprayed paint"
+  },
+  "TAGS": {
+    "Definition": "names or symbols sprayed in graffiti"
+  },
+  "MURALS": {
+    "Definition": "large paintings or pictures, often on walls"
+  },
+  "BOLDLY": {
+    "Definition": "in a brave or confident way"
+  },
+  "PROCLAIMED": {
+    "Definition": "announced or declared openly"
+  },
+  "RUN-OF-THE-MILL": {
+    "Definition": "ordinary, not special"
+  },
+  "ICONIC": {
+    "Definition": "very famous and well-known"
+  },
+  "MOLOTOV COCKTAIL": {
+    "Definition": "a homemade bomb made with a bottle and flammable liquid"
+  },
+  "RIOT POLICE": {
+    "Definition": "police specially trained to control riots and large protests"
+  },
+  "CRACKING DOWN": {
+    "Definition": "taking strong action to stop it"
+  },
+  "RAVE": {
+    "Definition": "very large party or similar event with dancing to loud, fast electronic music"
+  },
+  "HIPPIES": {
+    "Definition": "people in the 1960s and 1970s who followed peace and love ideals"
+  },
+  "RECURRENT": {
+    "Definition": "appearing again and again"
+  },
+  "INIMITABLE": {
+    "Definition": "impossible to copy or match"
+  },
+  "FROM SCRATCH": {
+    "Definition": "from the very beginning, with nothing"
+  },
+  "CAN": {
+    "Definition": "a metal container"
+  },
+  "SPRAY PAINT": {
+    "Definition": "paint in a can that can be sprayed out in tiny drops"
+  },
+  "BLANK": {
+    "Definition": "empty or without writing or drawing"
+  },
+  "STENCILS": {
+    "Definition": "patterns or designs used to paint or draw over"
+  },
+  "SPRAY": {
+    "Definition": "cover with paint in the form of tiny drops"
+  },
+  "STENCILED": {
+    "Definition": "made with a pattern or design used to paint or draw over"
+  },
+  "MURAL": {
+    "Definition": "a large painting or picture, usually on a wall"
+  },
+  "UNDERLINING": {
+    "Definition": "pointing out or highlighting"
+  },
+  "NONE THE WISER": {
+    "Definition": "not knowing or understanding what had happened"
+  },
+  "POPPING UP": {
+    "Definition": "appearing suddenly or unexpectedly"
+  },
+  "TAG": {
+    "Definition": "name or symbol"
+  },
+  "ANONYMITY": {
+    "Definition": "the state of being unknown or not identified"
+  },
+  "NECESSITY": {
+    "Definition": "something that was needed or very important"
+  },
+  "PROSECUTED": {
+    "Definition": "taken to court for a crime"
+  },
+  "MYSTIQUE": {
+    "Definition": "a special quality that made him interesting and mysterious"
+  },
+  "FUELED": {
+    "Definition": "supported or boosted"
+  },
+  "WITTY": {
+    "Definition": "showing quick and clever humour"
+  },
+  "SATIRICAL": {
+    "Definition": "using humour or irony to criticise something"
+  },
+  "EMPHASISE": {
+    "Definition": "make it stand out or more important"
+  },
+  "CONFINED": {
+    "Definition": "limited or restricted"
+  },
+  "COPPERS": {
+    "Definition": "a slang word (informal language) for police officers"
+  },
+  "COPPER": {
+    "Definition": "a slang word (informal language) for a police officer"
+  },
+  "SLANG": {
+    "Definition": "informal language used by certain groups of people"
+  },
+  "BATONS": {
+    "Definition": "short, thick sticks used by police officers"
+  },
+  "HANDCUFFS": {
+    "Definition": "metal rings used to tie someone's hands together"
+  },
+  "STAND OUT": {
+    "Definition": "be noticeable or different from others"
+  },
+  "CONSUMERISM": {
+    "Definition": "the belief that buying things is important in life"
+  },
+  "CAPITALISM": {
+    "Definition": "the economic system where businesses are privately owned for profit"
+  },
+  "DELICATE": {
+    "Definition": "requiring sensitive or careful handling"
+  },
+  "DEPICTED": {
+    "Definition": "showed or represented"
+  },
+  "FLOATING": {
+    "Definition": "moving slowly in the air"
+  },
+  "IDYLLIC": {
+    "Definition": "very peaceful and perfect, often like a beautiful dream"
+  },
+  "POLITICALLY CHARGED": {
+    "Definition": "having strong opinions or feelings about politics"
+  },
+  "BACKDROPS": {
+    "Definition": "backgrounds or settings"
+  },
+  "WEIGHING IN ON": {
+    "Definition": "giving an opinion on"
+  },
+  "PHENOMENON": {
+    "Definition": "something that was very unusual or impressive"
+  },
+  "STIRRING UP": {
+    "Definition": "causing or starting"
+  },
+  "CANVAS": {
+    "Definition": "a surface used for painting pictures"
+  },
+  "FAME": {
+    "Definition": "the state of being well-known or famous"
+  },
+  "UNFILTERED": {
+    "Definition": "not edited or changed"
+  },
+  "SKYROCKETED": {
+    "Definition": "increased very quickly and dramatically"
+  },
+  "COMMERCIALISED": {
+    "Definition": "turned into a business or product to make money"
+  },
+  "RESIST": {
+    "Definition": "to fight against or refuse to accept"
+  },
+  "REBELLIOUSNESS": {
+    "Definition": "the desire to go against authority or rules"
+  },
+  "MOCKED": {
+    "Definition": "made fun of or criticised in a silly way"
+  },
+  "IRONY": {
+    "Definition": "a state of affairs that seems contrary to what one expects"
+  },
+  "STALL": {
+    "Definition": "a small shop or stand"
+  },
+  "PASSERS-BY": {
+    "Definition": "people who were walking by the place"
+  },
+  "A POP": {
+    "Definition": "a small amount, often used for things like a drink"
+  },
+  "HANDFUL": {
+    "Definition": "a small number, not many"
+  },
+  "STUNTS": {
+    "Definition": "actions that were exciting, done for attention"
+  },
+  "UNVEILED": {
+    "Definition": "showed for the first time"
+  },
+  "BEMUSEMENT": {
+    "Definition": "a feeling of confusion or surprise"
+  },
+  "PUNS": {
+    "Definition": "jokes that played with words that have different meanings or sounds"
+  },
+  "DISMAL": {
+    "Definition": "very bad, depressing, or gloomy"
+  },
+  "DYSTOPIAN": {
+    "Definition": "describing an imagined world that is very unpleasant or controlled"
+  },
+  "UNSETTLING": {
+    "Definition": "making you feel uneasy or worried"
+  },
+  "GRIM": {
+    "Definition": "very serious, dark, or worrying"
+  },
+  "SNAPPING": {
+    "Definition": "taking photos quickly"
+  },
+  "WRECK": {
+    "Definition": "ruins or remains"
+  },
+  "PAYDAY LOAN": {
+    "Definition": "a type of short-term loan that is usually very expensive"
+  },
+  "ADVANCE": {
+    "Definition": "money paid before the full amount is received"
+  },
+  "DELIBERATELY": {
+    "Definition": "on purpose or intentionally"
+  },
+  "MOCKING": {
+    "Definition": "making fun of or ridiculing"
+  },
+  "CHEERFULNESS": {
+    "Definition": "happy and positive attitude"
+  },
+  "FRACTION": {
+    "Definition": "a small part"
+  },
+  "CRITIQUE": {
+    "Definition": "criticism or judgement"
+  },
+  "HAVE THEIR SAY": {
+    "Definition": "give their opinion or speak about it"
+  },
+  "VANDALISM": {
+    "Definition": "the act of damaging or destroying property on purpose"
+  },
+  "REDEFINED": {
+    "Definition": "given a new meaning or understanding"
+  },
+  "LEGITIMATE": {
+    "Definition": "real, legal, or acceptable"
+  },
+  "EYE-WATERINGLY": {
+    "Definition": "extremely high"
+  },
+  "APPEALS": {
+    "Definition": "causes or exerts interest or attraction"
+  },
+  "TENDER": {
+    "Definition": "soft or gentle"
+  },
+  "SHREDDED": {
+    "Definition": "torn or cut into small pieces"
+  },
+  "PARADOX": {
+    "Definition": "a situation that seems impossible or contradictory"
+  },
+  "PLAY BY THE RULES": {
+    "Definition": "follow the rules or behave correctly"
+  },
+  "ACCLAIM": {
+    "Definition": "strong approval"
   },
   "": {
-    "Definition": null,
-    "Definition (Cambridge automatic)": null
+    "Definition": null
   }
 }
