@@ -1,0 +1,512 @@
+{
+  "LOOSE": {
+    "Definition": "not strict or exact"
+  },
+  "SADISTIC": {
+    "Definition": "enjoying hurting or making others suffer"
+  },
+  "DESPOT": {
+    "Definition": "a ruler with total power who was often cruel"
+  },
+  "CONSEQUENT": {
+    "Definition": "happening because of it"
+  },
+  "PROLIFERATION": {
+    "Definition": "a fast increase in number"
+  },
+  "HIDDEN GEM": {
+    "Definition": "a place or thing that is great but not well known"
+  },
+  "QUAINT": {
+    "Definition": "charming in an old-fashioned way"
+  },
+  "INEVITABLY": {
+    "Definition": "in a way that it is certain to happen or cannot be avoided"
+  },
+  "COMPELLED": {
+    "Definition": "having to do it, because they feel it is necessary"
+  },
+  "FLOCKS": {
+    "Definition": "large groups of people"
+  },
+  "FUSS": {
+    "Definition": "too much excitement about it"
+  },
+  "PROTAGONIST": {
+    "Definition": "the main character"
+  },
+  "TOURIST TRAIL": {
+    "Definition": "popular places that many visitors went to"
+  },
+  "ARISTOCRATS": {
+    "Definition": "rich and powerful people from noble families"
+  },
+  "ABILITIES": {
+    "Definition": "skills or talents"
+  },
+  "STIR": {
+    "Definition": "strong emotions or excitement"
+  },
+  "MINDING THEIR OWN BUSINESS": {
+    "Definition": "not bothering others, just focussing on themselves"
+  },
+  "SEMINAL": {
+    "Definition": "very important and influential"
+  },
+  "NEW LEASE OF LIFE": {
+    "Definition": "a fresh start or renewed energy"
+  },
+  "BETRAYED": {
+    "Definition": "deceived, double-crossed"
+  },
+  "PLATTER": {
+    "Definition": "a large plate for serving food"
+  },
+  "SULTAN": {
+    "Definition": "a ruler in some Muslim countries in the past"
+  },
+  "TWISTS AND TURNS": {
+    "Definition": "unexpected changes"
+  },
+  "VAST": {
+    "Definition": "very large"
+  },
+  "MONOLITHIC": {
+    "Definition": "uniform, united, and difficult to change"
+  },
+  "FLOWED": {
+    "Definition": "moved smoothly, like water"
+  },
+  "AUTONOMY": {
+    "Definition": "the right to rule or make decisions by themselves"
+  },
+  "FAR-FLUNG": {
+    "Definition": "very far away or spread out"
+  },
+  "NOBLE": {
+    "Definition": "belonging to a high social rank"
+  },
+  "SWORE VENGEANCE": {
+    "Definition": "promised to take revenge"
+  },
+  "INSTILLED": {
+    "Definition": "put the idea or feeling into his mind over time"
+  },
+  "RUTHLESSNESS": {
+    "Definition": "showing no mercy, being very cruel to get what you want"
+  },
+  "INHERITED": {
+    "Definition": "received from parents or past generations"
+  },
+  "SEIZE": {
+    "Definition": "take by force"
+  },
+  "MURKY": {
+    "Definition": "dark, unclear, or secretive"
+  },
+  "BANDIT": {
+    "Definition": "a robber or brigand"
+  },
+  "CHIEFTAIN": {
+    "Definition": "leader of a small group"
+  },
+  "RAIDING": {
+    "Definition": "attacking suddenly to steal things"
+  },
+  "CLANS": {
+    "Definition": "large family groups with a shared past"
+  },
+  "INTIMIDATING": {
+    "Definition": "making people feel scared or nervous"
+  },
+  "ENFORCER": {
+    "Definition": "someone who made sure rules or orders were followed, often using force"
+  },
+  "QUASH": {
+    "Definition": "stop by force"
+  },
+  "REVOLTS": {
+    "Definition": "attempts by people to fight against authority"
+  },
+  "ANOMALY": {
+    "Definition": "something that was different from what was normal"
+  },
+  "HOME-GROWN": {
+    "Definition": "made or developed in his own country"
+  },
+  "CEMENTED": {
+    "Definition": "made strong and lasting"
+  },
+  "ENSHRINED": {
+    "Definition": "officially protected"
+  },
+  "CONSOLIDATING": {
+    "Definition": "making it stronger and more stable"
+  },
+  "ADMINISTER": {
+    "Definition": "manage or organise"
+  },
+  "BRUTALITY": {
+    "Definition": "extreme violence or cruelty"
+  },
+  "CUNNING": {
+    "Definition": "smart in a tricky or sneaky way"
+  },
+  "VITAL": {
+    "Definition": "very important"
+  },
+  "CROSSROADS": {
+    "Definition": "a place where two roads met"
+  },
+  "WARLORD": {
+    "Definition": "a leader who controlled the area using force"
+  },
+  "KEY": {
+    "Definition": "very important"
+  },
+  "MERE": {
+    "Definition": "only, simple"
+  },
+  "ALLY": {
+    "Definition": "a friend or supporter in war"
+  },
+  "COUNTERBALANCE": {
+    "Definition": "something that would have an equal but opposite effect on it"
+  },
+  "EYEING": {
+    "Definition": "looking at it with interest"
+  },
+  "STIR UNREST": {
+    "Definition": "cause trouble or disturbance"
+  },
+  "SIDE WITH": {
+    "Definition": "support or ally with"
+  },
+  "PLAYED THEM OFF": {
+    "Definition": "made them fight each other for his own benefit"
+  },
+  "HIERARCHY": {
+    "Definition": "a ranking of positions of authority"
+  },
+  "PLEDGED": {
+    "Definition": "promised officially"
+  },
+  "CUTTING DEALS": {
+    "Definition": "making agreements in a secret way"
+  },
+  "MANIPULATING": {
+    "Definition": "controlling in a clever, often dishonest way"
+  },
+  "ENSURING": {
+    "Definition": "making it certain, securing"
+  },
+  "EXECUTED": {
+    "Definition": "killed as a punishment"
+  },
+  "GRUESOME": {
+    "Definition": "very shocking and horrible"
+  },
+  "INFAMOUS": {
+    "Definition": "famous for something bad"
+  },
+  "DROWNED": {
+    "Definition": "killed by keeping them underwater too long"
+  },
+  "FOLKLORE": {
+    "Definition": "old stories and traditions"
+  },
+  "DEFY": {
+    "Definition": "refuse to obey"
+  },
+  "CAPABLE": {
+    "Definition": "able to do things well"
+  },
+  "HUB": {
+    "Definition": "a centre of activity or a place where many things connected"
+  },
+  "PAIRED": {
+    "Definition": "put together"
+  },
+  "BRUTAL": {
+    "Definition": "very violent and cruel"
+  },
+  "PARADOX": {
+    "Definition": "something that seemed impossible but was actually true"
+  },
+  "PEERS": {
+    "Definition": "people of the same age and status"
+  },
+  "WELL-TRODDEN": {
+    "Definition": "used or visited by many people"
+  },
+  "EXOTIC": {
+    "Definition": "unusual or from a faraway place"
+  },
+  "DRAWN": {
+    "Definition": "attracted to"
+  },
+  "BORE": {
+    "Definition": "carried or showed"
+  },
+  "RUINS": {
+    "Definition": "the broken remains"
+  },
+  "ANTIQUITY": {
+    "Definition": "ancient times or things from long ago"
+  },
+  "FLOURISHING": {
+    "Definition": "growing or doing very well"
+  },
+  "EAGER": {
+    "Definition": "very excited and wanting to do it"
+  },
+  "UNSETTLED": {
+    "Definition": "worried and uneasy"
+  },
+  "OPULENT": {
+    "Definition": "very rich and fancy"
+  },
+  "IRON FIST": {
+    "Definition": "strict and cruel control"
+  },
+  "EXECUTING": {
+    "Definition": "killing as a punishment"
+  },
+  "SPARKED": {
+    "Definition": "started or caused"
+  },
+  "ALLURE": {
+    "Definition": "strong attraction or charm"
+  },
+  "EFFICIENCY": {
+    "Definition": "effectiveness or ability"
+  },
+  "ELITE": {
+    "Definition": "people with high social class, nobility"
+  },
+  "NOTORIOUS": {
+    "Definition": "well known, famous for something bad"
+  },
+  "ESPIONAGE": {
+    "Definition": "spying to get secret information"
+  },
+  "INTERTWINED": {
+    "Definition": "were closely connected or twisted together"
+  },
+  "INTRIGUE": {
+    "Definition": "secret plans, tricks, or interest in something mysterious"
+  },
+  "ENSURED": {
+    "Definition": "made sure it happened"
+  },
+  "FAME": {
+    "Definition": "being well known"
+  },
+  "POSED": {
+    "Definition": "presented or caused"
+  },
+  "TURNED A BLIND EYE": {
+    "Definition": "ignored it on purpose"
+  },
+  "SUPPRESSED": {
+    "Definition": "stopped or controlled by force"
+  },
+  "STABLE": {
+    "Definition": "not likely to change, strong and steady"
+  },
+  "VENEER": {
+    "Definition": "appearance or impression"
+  },
+  "INTACT": {
+    "Definition": "not broken or damaged"
+  },
+  "AMBITIOUS": {
+    "Definition": "wanting to achieve great things"
+  },
+  "DISOBEYED": {
+    "Definition": "refused to follow"
+  },
+  "DECREE": {
+    "Definition": "official order"
+  },
+  "HAPPENED": {
+    "Definition": "chanced, had the fortune"
+  },
+  "RUTHLESS": {
+    "Definition": "showing no mercy, cruel"
+  },
+  "THE FINAL STRAW": {
+    "Definition": "the last small problem that led to a big reaction"
+  },
+  "OUTRIGHT": {
+    "Definition": "complete or open"
+  },
+  "DEFIANCE": {
+    "Definition": "a daring or bold resistance to authority, opposition"
+  },
+  "EDICT": {
+    "Definition": "an official command"
+  },
+  "SIEGE": {
+    "Definition": "surrounding the place to capture it"
+  },
+  "STRONGHOLD": {
+    "Definition": "fortress or keep"
+  },
+  "PLOTTED": {
+    "Definition": "secretly planned"
+  },
+  "SCHEMED": {
+    "Definition": "made secret plans"
+  },
+  "STIR UP": {
+    "Definition": "cause strong emotions or trouble"
+  },
+  "SPARK": {
+    "Definition": "start or cause it to happen"
+  },
+  "INFILTRATED": {
+    "Definition": "secretly entered"
+  },
+  "RALLY": {
+    "Definition": "gather, bring together"
+  },
+  "EXPOSED": {
+    "Definition": "made it visible or apparent"
+  },
+  "VULNERABILITY": {
+    "Definition": "weakness or difficult situation"
+  },
+  "ALLIES": {
+    "Definition": "people or groups that supported him"
+  },
+  "ABANDONED": {
+    "Definition": "left him behind or gave up on him"
+  },
+  "OUTMANOEUVRING": {
+    "Definition": "winning by being smarter"
+  },
+  "TURNING THE TABLES ON": {
+    "Definition": "changing the situation to gain the upper hand"
+  },
+  "SOUGHT": {
+    "Definition": "tried to"
+  },
+  "OUTMANOEUVRED": {
+    "Definition": "beaten by being less smart"
+  },
+  "LURED": {
+    "Definition": "tricked into going"
+  },
+  "ENVOYS": {
+    "Definition": "official messengers or representatives"
+  },
+  "IMMENSE": {
+    "Definition": "very large or great"
+  },
+  "SPARED": {
+    "Definition": "allowed to live, not harmed"
+  },
+  "DECEIVED": {
+    "Definition": "tricked into believing something false"
+  },
+  "FORTIFIED": {
+    "Definition": "provided with defensive works as protection against attack"
+  },
+  "CITADEL": {
+    "Definition": "a strong castle that protected the city"
+  },
+  "IRONED OUT": {
+    "Definition": "decided by solving problems, removing differences, or taking care of details"
+  },
+  "HOLING HIMSELF UP": {
+    "Definition": "hiding or shutting himself"
+  },
+  "AT THAT": {
+    "Definition": "also, in addition"
+  },
+  "SEALED HIS FATE": {
+    "Definition": "made his future certain"
+  },
+  "UNDER THE PRETEXT OF": {
+    "Definition": "using them as a false reason"
+  },
+  "PISTOL": {
+    "Definition": "a small gun"
+  },
+  "BETRAYAL": {
+    "Definition": "treachery or deception"
+  },
+  "CLAIMED": {
+    "Definition": "said it was true without proof"
+  },
+  "BEAR": {
+    "Definition": "carry or bring"
+  },
+  "CAUTIOUS": {
+    "Definition": "careful to avoid danger"
+  },
+  "CHAOS": {
+    "Definition": "complete confusion and disorder"
+  },
+  "TROOPS": {
+    "Definition": "soldiers"
+  },
+  "FLASHING": {
+    "Definition": "shining in a bright but brief, sudden way"
+  },
+  "PISTOLS": {
+    "Definition": "small guns"
+  },
+  "DRAGGED": {
+    "Definition": "pulled him with force"
+  },
+  "BARRICADING": {
+    "Definition": "blocking the place to stop people from getting in"
+  },
+  "ECHOED": {
+    "Definition": "repeated"
+  },
+  "MORTALLY": {
+    "Definition": "in a way that caused death"
+  },
+  "CRAWLED": {
+    "Definition": "moved on hands and knees"
+  },
+  "ARMS": {
+    "Definition": "weapons"
+  },
+  "BURST": {
+    "Definition": "suddenly appeared or entered forcefully"
+  },
+  "ON THE SPOT": {
+    "Definition": "immediately"
+  },
+  "PARADED": {
+    "Definition": "walked around to show off"
+  },
+  "TROPHY": {
+    "Definition": "something kept as a prize or proof of success"
+  },
+  "DEFYING": {
+    "Definition": "openly resisting or refusing to obey"
+  },
+  "SLAMMED": {
+    "Definition": "hit or banged it with great force"
+  },
+  "ENIGMATIC": {
+    "Definition": "mysterious or hard to understand"
+  },
+  "TYRANT": {
+    "Definition": "a cruel and unfair ruler"
+  },
+  "EFFICIENTLY": {
+    "Definition": "in an organised and successful way"
+  },
+  "PROSPERITY": {
+    "Definition": "success and wealth"
+  },
+  "IN LINE": {
+    "Definition": "under control, in order"
+  }
+}
