@@ -65,8 +65,11 @@
   "GRAVITY": {
     "Definition": "the force that attracts objects towards one another, especially the force that makes things fall to the ground"
   },
-  "HARVESTED": {
+  "HARVEST": {
     "Definition": "the crops that have been gathered"
+  },
+  "HARVESTED": {
+    "Definition": "gathered, collectect (of crops)"
   },
   "HIGHBROW": {
     "Definition": "(of books, plays, etc.) involving serious and complicated or artistic ideas, or (of people) interested in serious and complicated subjects"
