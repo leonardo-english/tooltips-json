@@ -1,0 +1,452 @@
+{
+  "SINISTER": {
+    "Definition": "scary or evil"
+  },
+  "ABDUCTED": {
+    "Definition": "taken away by force"
+  },
+  "BRUTALLY": {
+    "Definition": "in a very cruel or violent way"
+  },
+  "HINDSIGHT": {
+    "Definition": "understanding of the situation after it happened"
+  },
+  "AUTOCRATIC": {
+    "Definition": "ruling with total control"
+  },
+  "UNSYMPATHETIC": {
+    "Definition": "not caring about others"
+  },
+  "WIDESPREAD": {
+    "Definition": "happening in many places"
+  },
+  "BRUTALITY": {
+    "Definition": "cruel and violent acts"
+  },
+  "SYSTEMIC": {
+    "Definition": "part of the system or government"
+  },
+  "RUNAWAY INFLATION": {
+    "Definition": "very fast and out-of-control rising prices"
+  },
+  "RIPE": {
+    "Definition": "ready for it to happen"
+  },
+  "TICK": {
+    "Definition": "check mark"
+  },
+  "WHOLLY": {
+    "Definition": "completely"
+  },
+  "BLOWN UP": {
+    "Definition": "destroyed by an explosion"
+  },
+  "GRENADES": {
+    "Definition": "small bombs"
+  },
+  "SWORN IN": {
+    "Definition": "officially given the job or role"
+  },
+  "HEIGHTENED": {
+    "Definition": "stronger or more intense"
+  },
+  "DETAIN": {
+    "Definition": "keep people in a place and not let them leave"
+  },
+  "INKLING": {
+    "Definition": "small idea or feeling"
+  },
+  "KEPT A WATCHFUL EYE": {
+    "Definition": "watched carefully"
+  },
+  "DARED": {
+    "Definition": "had the courage"
+  },
+  "WHISPER": {
+    "Definition": "express very quietly"
+  },
+  "WITH AN IRON FIST": {
+    "Definition": "in a very strict or harsh way"
+  },
+  "SUPPRESS": {
+    "Definition": "stop it from happening"
+  },
+  "STEADY HAND": {
+    "Definition": "someone with calm and careful control"
+  },
+  "STABLE": {
+    "Definition": "not changing or falling apart"
+  },
+  "VOLATILE": {
+    "Definition": "likely to change quickly, often in a bad way"
+  },
+  "PROPPED HIM UP": {
+    "Definition": "supported him so he could stay in power"
+  },
+  "ALLY": {
+    "Definition": "a friend or helper"
+  },
+  "CRONIES": {
+    "Definition": "close friends who helped each other in a dishonest way"
+  },
+  "CANNY": {
+    "Definition": "smart and careful"
+  },
+  "EGREGIOUSLY": {
+    "Definition": "in a very bad or shocking way"
+  },
+  "SIPHONED OFF": {
+    "Definition": "took away secretly or wrongly"
+  },
+  "STASHED": {
+    "Definition": "hid away"
+  },
+  "DRAGS": {
+    "Definition": "pulls along forcefully"
+  },
+  "FAÇADE": {
+    "Definition": "a false front or cover"
+  },
+  "SUFFOCATING": {
+    "Definition": "feeling trapped or unable to breathe emotionally"
+  },
+  "SCRAPING BY": {
+    "Definition": "just managing to live with very little"
+  },
+  "GRIM": {
+    "Definition": "very bad, sad, or serious"
+  },
+  "EATING AWAY": {
+    "Definition": "slowly consuming or burning through"
+  },
+  "STAPLE": {
+    "Definition": "basic or main food"
+  },
+  "BATON": {
+    "Definition": "a short stick used by police"
+  },
+  "TIPPING POINT": {
+    "Definition": "the moment when it started to happen"
+  },
+  "DOMINO": {
+    "Definition": "one event that caused others to happen one after another"
+  },
+  "HASSLED": {
+    "Definition": "bothered or treated badly"
+  },
+  "SHAKEN DOWN": {
+    "Definition": "forced to give money"
+  },
+  "BRIBES": {
+    "Definition": "money given to leave him alone"
+  },
+  "WEIGHING SCALES": {
+    "Definition": "a machine or device for weighing products"
+  },
+  "CAN": {
+    "Definition": "metal container"
+  },
+  "MATCH": {
+    "Definition": "a short, thin piece of wood used to light a fire"
+  },
+  "ENGULFING": {
+    "Definition": "covering or surrounding completely"
+  },
+  "FLAMES": {
+    "Definition": "fire"
+  },
+  "WILDFIRE": {
+    "Definition": "fire that spreads very fast"
+  },
+  "DEFIANCE": {
+    "Definition": "refusing to follow rules or obey"
+  },
+  "SIMMERING": {
+    "Definition": "slowly building up"
+  },
+  "BOIL OVER": {
+    "Definition": "suddenly explode in anger or action"
+  },
+  "MAKE ENDS MEET": {
+    "Definition": "have just enough money to live"
+  },
+  "AT THE MERCY OF": {
+    "Definition": "completely in the power of"
+  },
+  "SPRANG UP": {
+    "Definition": "appeared quickly"
+  },
+  "FOCAL POINT": {
+    "Definition": "the main place or centre of attention"
+  },
+  "SPARKED OUTRAGE": {
+    "Definition": "made people very angry"
+  },
+  "COMMEMORATES": {
+    "Definition": "remembers and honours"
+  },
+  "GRASSROOTS": {
+    "Definition": "starting with regular people, not leaders"
+  },
+  "IN THEIR DROVES": {
+    "Definition": "in large numbers"
+  },
+  "HARASSMENT": {
+    "Definition": "being treated in a mean or unwanted way again and again"
+  },
+  "EXTORTED": {
+    "Definition": "robbed with the use of force or threats"
+  },
+  "CHANTED": {
+    "Definition": "shouted the same words again and again"
+  },
+  "TEAR GAS": {
+    "Definition": "a gas that made people cry and leave the area"
+  },
+  "RUBBER BULLETS": {
+    "Definition": "bullets made of rubber, used to hurt but not kill"
+  },
+  "AUTHORITARIAN": {
+    "Definition": "ruling with very strict control"
+  },
+  "DISPERSE": {
+    "Definition": "break up and go in different directions"
+  },
+  "STOOD THEIR GROUND": {
+    "Definition": "refused to move or give up"
+  },
+  "BUOYED": {
+    "Definition": "made stronger or more hopeful"
+  },
+  "EPICENTRE": {
+    "Definition": "the central or most important place"
+  },
+  "CAMPING OUT": {
+    "Definition": "staying outside in tents or sleeping bags"
+  },
+  "BELLY": {
+    "Definition": "the stomach or deepest part"
+  },
+  "PLACATE": {
+    "Definition": "calm them down"
+  },
+  "RESHUFFLING": {
+    "Definition": "changing people’s jobs or roles in the government"
+  },
+  "CABINET": {
+    "Definition": "the group of top government leaders"
+  },
+  "TWIST": {
+    "Definition": "a surprising change"
+  },
+  "MINGLED": {
+    "Definition": "mixed together"
+  },
+  "UNTENABLE": {
+    "Definition": "not able to continue or work anymore"
+  },
+  "RESTRAINT": {
+    "Definition": "self-control or holding back"
+  },
+  "RELENTLESS": {
+    "Definition": "not stopping or giving up"
+  },
+  "STEPPED DOWN": {
+    "Definition": "left his position of power"
+  },
+  "ERUPTED": {
+    "Definition": "expressed their feelings in a sudden and noisy way or broke out"
+  },
+  "JUBILATION": {
+    "Definition": "great happiness and celebration"
+  },
+  "TOPPLING": {
+    "Definition": "removing him from power"
+  },
+  "STEPPED IN": {
+    "Definition": "got involved"
+  },
+  "FLEDGLING": {
+    "Definition": "new and still growing"
+  },
+  "SCRAMBLED": {
+    "Definition": "moved quickly and with difficulty"
+  },
+  "RIGGING THE GAME": {
+    "Definition": "cheating to control the situation"
+  },
+  "TOKEN": {
+    "Definition": "just for show, not real or full"
+  },
+  "BANNED": {
+    "Definition": "not allowed"
+  },
+  "OUTRIGHT": {
+    "Definition": "completely or totally"
+  },
+  "BRANDING": {
+    "Definition": "naming or labelling"
+  },
+  "LINGER": {
+    "Definition": "stay longer than needed"
+  },
+  "BOGEYMAN": {
+    "Definition": "a scary or made-up enemy"
+  },
+  "FRAMED": {
+    "Definition": "made it look like"
+  },
+  "TREMENDOUS": {
+    "Definition": "very big or great"
+  },
+  "HEADSTART": {
+    "Definition": "an early advantage"
+  },
+  "FROM SCRATCH": {
+    "Definition": "from the beginning, with nothing"
+  },
+  "RALLIED": {
+    "Definition": "came together"
+  },
+  "LACKED": {
+    "Definition": "did not have"
+  },
+  "RADICAL": {
+    "Definition": "very new and different from usual"
+  },
+  "BOUGHT IT": {
+    "Definition": "believed it"
+  },
+  "POWER GRAB": {
+    "Definition": "an attempt to take control unfairly"
+  },
+  "DAWN": {
+    "Definition": "beginning"
+  },
+  "BACKED": {
+    "Definition": "supported"
+  },
+  "STARK": {
+    "Definition": "very clear and strong"
+  },
+  "SAFE PAIR OF HANDS": {
+    "Definition": "someone they could trust to be careful and calm"
+  },
+  "SCRAPED IT": {
+    "Definition": "only just won"
+  },
+  "ON ITS KNEES": {
+    "Definition": "in great trouble or very weak"
+  },
+  "BOLTED": {
+    "Definition": "run away quickly"
+  },
+  "CALLING THE SHOTS": {
+    "Definition": "making the decisions"
+  },
+  "VULTURES": {
+    "Definition": "people waiting to take advantage of others' problems"
+  },
+  "OVERREACHED": {
+    "Definition": "tried to do too much and failed"
+  },
+  "DECREE": {
+    "Definition": "an official order or command"
+  },
+  "REASSERT": {
+    "Definition": "take control of it again"
+  },
+  "BOILING POINT": {
+    "Definition": "the moment when anger or trouble exploded"
+  },
+  "PEGGED": {
+    "Definition": "set or fixed"
+  },
+  "ULTIMATUM": {
+    "Definition": "a final demand before action was taken"
+  },
+  "DUG HIS HEELS": {
+    "Definition": "refused to change his mind"
+  },
+  "ITCHING": {
+    "Definition": "wants to do it very much"
+  },
+  "ROLLED INTO": {
+    "Definition": "entered or moved into"
+  },
+  "STERN-FACED": {
+    "Definition": "looking very serious"
+  },
+  "KNACK": {
+    "Definition": "a special skill or talent"
+  },
+  "COUP": {
+    "Definition": "sudden takeover of power by force"
+  },
+  "BETRAYAL": {
+    "Definition": "being disloyal to"
+  },
+  "SIT-INS": {
+    "Definition": "protests where people stayed in a place and refused to leave"
+  },
+  "HELD OUT": {
+    "Definition": "refused to give up"
+  },
+  "CRACKED DOWN": {
+    "Definition": "used force to stop them"
+  },
+  "STORMED": {
+    "Definition": "rushed in quickly and with force"
+  },
+  "ROUNDS": {
+    "Definition": "bullets or shots"
+  },
+  "OUTLAWED": {
+    "Definition": "made illegal"
+  },
+  "ROUNDED UP": {
+    "Definition": "gathered and taken away by force"
+  },
+  "SWEEPING": {
+    "Definition": "large and affecting many things"
+  },
+  "CRACKDOWN": {
+    "Definition": "strong action to stop them"
+  },
+  "MILD": {
+    "Definition": "not strong or harsh"
+  },
+  "LANDSLIDE": {
+    "Definition": "a very big win"
+  },
+  "WARY": {
+    "Definition": "careful or unsure about it"
+  },
+  "CHEERED": {
+    "Definition": "shouted in happiness or support"
+  },
+  "STRONGMAN": {
+    "Definition": "a leader who ruled with force"
+  },
+  "CRUSHED": {
+    "Definition": "ended with force"
+  },
+  "WITH A VENGEANCE": {
+    "Definition": "with even more force than before"
+  },
+  "FADED": {
+    "Definition": "became weaker or disappeared"
+  },
+  "STABILITY": {
+    "Definition": "being steady and not changing"
+  },
+  "HARSH": {
+    "Definition": "very strict or cruel"
+  },
+  "WRESTLING WITH": {
+    "Definition": "trying hard to solve or work out"
+  },
+  "GRUESOME": {
+    "Definition": "very scary, bloody, or awful"
+  }
+}
