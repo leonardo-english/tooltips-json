@@ -1,0 +1,476 @@
+{
+  "MARCHED ON": {
+    "Definition": "attacked with an organised army"
+  },
+  "TACTICIANS": {
+    "Definition": "people good at making battle plans"
+  },
+  "TIDY": {
+    "Definition": "clean up or put in order"
+  },
+  "COME BETWEEN": {
+    "Definition": "stop you from being close"
+  },
+  "CONSUMED": {
+    "Definition": "completely filled or taken over"
+  },
+  "PERMIT": {
+    "Definition": "allow"
+  },
+  "STEEL": {
+    "Definition": "a strong metal that is a mixture of iron and carbon"
+  },
+  "ARREST": {
+    "Definition": "stop or end"
+  },
+  "SWEAR": {
+    "Definition": "promise strongly"
+  },
+  "ETERNAL": {
+    "Definition": "lasting forever"
+  },
+  "MARITIME": {
+    "Definition": "relating to the sea"
+  },
+  "NAVY": {
+    "Definition": "the part of the army that fought at sea"
+  },
+  "HARBOURS": {
+    "Definition": "places where ships stopped and stayed"
+  },
+  "PENINSULA": {
+    "Definition": "land almost fully surrounded by water"
+  },
+  "BROUGHT INTO THE FOLD": {
+    "Definition": "brought into the group"
+  },
+  "RESENTFUL": {
+    "Definition": "feeling angry about being treated unfairly"
+  },
+  "ALLIANCES": {
+    "Definition": "groups or friendships between countries"
+  },
+  "ABSORBED": {
+    "Definition": "taken in or made part of"
+  },
+  "SUCKED UP": {
+    "Definition": "pulled in completely"
+  },
+  "BRUTAL": {
+    "Definition": "very cruel and violent"
+  },
+  "CONFLICT": {
+    "Definition": "fight or war"
+  },
+  "FROM SCRATCH": {
+    "Definition": "from the beginning"
+  },
+  "HUMILIATED": {
+    "Definition": "made to feel very ashamed or embarrassed"
+  },
+  "TREATY": {
+    "Definition": "an agreement between the countries"
+  },
+  "REPARATIONS": {
+    "Definition": "money paid for damage caused"
+  },
+  "MERCENARIES": {
+    "Definition": "soldiers paid to fight"
+  },
+  "MEANS": {
+    "Definition": "money or resources"
+  },
+  "ROSE UP": {
+    "Definition": "fought back or rebelled"
+  },
+  "CHAOS": {
+    "Definition": "complete mess and confusion"
+  },
+  "SNUCK IN": {
+    "Definition": "entered secretly"
+  },
+  "AFTERMATH": {
+    "Definition": "what happened after"
+  },
+  "TWIN": {
+    "Definition": "two very similar things"
+  },
+  "HUMILIATIONS": {
+    "Definition": "events that made them feel very ashamed"
+  },
+  "BLAMED": {
+    "Definition": "said it was responsible"
+  },
+  "DRAGGED": {
+    "Definition": "pulled slowly or with force"
+  },
+  "RUINOUS": {
+    "Definition": "causing great damage or loss"
+  },
+  "CRIPPLED": {
+    "Definition": "badly damaged or weakened"
+  },
+  "DISARRAY": {
+    "Definition": "disorder or confusion"
+  },
+  "TRAIN": {
+    "Definition": "teach or practise to get better"
+  },
+  "TROOPS": {
+    "Definition": "soldiers"
+  },
+  "FORMIDABLE": {
+    "Definition": "strong and hard to defeat"
+  },
+  "WATCHFUL": {
+    "Definition": "always looking and careful"
+  },
+  "SIEGES": {
+    "Definition": "attacks where a place was surrounded and cut off"
+  },
+  "SKIRMISHES": {
+    "Definition": "small fights"
+  },
+  "MORALE": {
+    "Definition": "how happy or confident soldiers felt"
+  },
+  "CHARISMATIC": {
+    "Definition": "having a strong and likeable personality"
+  },
+  "TACTICIAN": {
+    "Definition": "someone who planned battles well"
+  },
+  "RECKLESS": {
+    "Definition": "not careful, involving big risks"
+  },
+  "SUREST": {
+    "Definition": "most certain or safe"
+  },
+  "SIEGE": {
+    "Definition": "attack where the place was surrounded"
+  },
+  "LEGIONS": {
+    "Definition": "large groups of Roman soldiers"
+  },
+  "BARGAINED FOR": {
+    "Definition": "expected"
+  },
+  "CAVALRY": {
+    "Definition": "soldiers who fought on horses"
+  },
+  "RAGTAG": {
+    "Definition": "messy and not organised"
+  },
+  "AGILE": {
+    "Definition": "able to move quickly and easily"
+  },
+  "TACTICS": {
+    "Definition": "smart plans for winning a fight"
+  },
+  "BAREBACK": {
+    "Definition": "without using a saddle"
+  },
+  "HARASSMENT": {
+    "Definition": "bothering or attacking again and again"
+  },
+  "SKIRMISHING": {
+    "Definition": "having small fights"
+  },
+  "FLANKING": {
+    "Definition": "attacking from the side"
+  },
+  "INFANTRY": {
+    "Definition": "soldiers who fought on foot"
+  },
+  "SPEARS": {
+    "Definition": "long sticks with sharp points"
+  },
+  "OVAL": {
+    "Definition": "shaped like a long circle"
+  },
+  "DRILLED": {
+    "Definition": "trained again and again"
+  },
+  "CORE": {
+    "Definition": "the centre or most important part"
+  },
+  "TERRAIN": {
+    "Definition": "the land and its features"
+  },
+  "CURVED": {
+    "Definition": "not straight, bent"
+  },
+  "BOLD": {
+    "Definition": "brave and not afraid"
+  },
+  "ADAPTABLE": {
+    "Definition": "able to change easily"
+  },
+  "UNDISCIPLINED": {
+    "Definition": "not well trained or behaved"
+  },
+  "RAW": {
+    "Definition": "not trained, but strong"
+  },
+  "OVERWHELMING": {
+    "Definition": "very strong and too much to handle"
+  },
+  "UNLEASHED": {
+    "Definition": "let loose or set free"
+  },
+  "PRAGMATIC": {
+    "Definition": "practical or realistic"
+  },
+  "LOATHING": {
+    "Definition": "strong hate"
+  },
+  "NUMEROUS": {
+    "Definition": "many"
+  },
+  "FEAT": {
+    "Definition": "something hard that was done well, an achievement"
+  },
+  "TREACHEROUS": {
+    "Definition": "dangerous or not to be trusted"
+  },
+  "BLIND": {
+    "Definition": "unable to see"
+  },
+  "AGAINST ALL ODDS": {
+    "Definition": "even though it seemed impossible"
+  },
+  "RESENTED": {
+    "Definition": "felt angry about them"
+  },
+  "CONSCRIPTION": {
+    "Definition": "forcing people to join the army"
+  },
+  "INTERFERENCE": {
+    "Definition": "getting involved when not wanted"
+  },
+  "BE RID OF": {
+    "Definition": "remove or get free of"
+  },
+  "OPPRESSOR": {
+    "Definition": "the one who treated them badly"
+  },
+  "ILLUSIONS": {
+    "Definition": "false beliefs or ideas"
+  },
+  "RISE UP": {
+    "Definition": "rebel or fight back"
+  },
+  "ISOLATE": {
+    "Definition": "cut off or separate"
+  },
+  "BUFF": {
+    "Definition": "expert or lover"
+  },
+  "BREVITY": {
+    "Definition": "shortness"
+  },
+  "DEMORALISED": {
+    "Definition": "feeling low or hopeless"
+  },
+  "GRUELLING": {
+    "Definition": "very hard and tiring"
+  },
+  "DRAW": {
+    "Definition": "pull or attract"
+  },
+  "BAIT": {
+    "Definition": "something used to trick"
+  },
+  "ASSUMING": {
+    "Definition": "supposing or expecting"
+  },
+  "SUPERIOR": {
+    "Definition": "better or stronger"
+  },
+  "TRAP": {
+    "Definition": "something used to catch or trick them"
+  },
+  "AMBUSH": {
+    "Definition": "surprise attack"
+  },
+  "SLAUGHTER": {
+    "Definition": "killing of a large number of people, massacre"
+  },
+  "SOAKED": {
+    "Definition": "very wet"
+  },
+  "SHIVERING": {
+    "Definition": "shaking from cold"
+  },
+  "OUTFLANKED": {
+    "Definition": "attacked from the side or behind"
+  },
+  "REEDS": {
+    "Definition": "tall grass next to wet places"
+  },
+  "TEXTBOOK": {
+    "Definition": "a perfect example"
+  },
+  "MANIPULATED": {
+    "Definition": "controlled them in a sneaky way"
+  },
+  "ARROGANCE": {
+    "Definition": "thinking they were better than others"
+  },
+  "LURED": {
+    "Definition": "tricked into going, drew"
+  },
+  "NARROW": {
+    "Definition": "thin or small in width"
+  },
+  "POURING DOWN": {
+    "Definition": "attacking them in large numbers"
+  },
+  "MASSACRE": {
+    "Definition": "killing of many people, slaughter"
+  },
+  "AMBUSHES": {
+    "Definition": "surprise attacks"
+  },
+  "ITCHING": {
+    "Definition": "wanting it very much"
+  },
+  "AVENGE": {
+    "Definition": "punish them for what they had done"
+  },
+  "PANIC": {
+    "Definition": "sudden fear and confusion"
+  },
+  "WHISPERS": {
+    "Definition": "very quiet talking"
+  },
+  "BREACH": {
+    "Definition": "break into them"
+  },
+  "DESERT": {
+    "Definition": "leave behind or abandon"
+  },
+  "CONSULS": {
+    "Definition": "leaders of the Roman Republic"
+  },
+  "ANNIHILATED": {
+    "Definition": "completely destroyed"
+  },
+  "CRESCENT": {
+    "Definition": "moon shape or a shape curved like a \"C\""
+  },
+  "COLLAPSING": {
+    "Definition": "falling down or giving away"
+  },
+  "CURVE": {
+    "Definition": "bent or rounded shape"
+  },
+  "MACHINE GUNS": {
+    "Definition": "fast-firing guns"
+  },
+  "SPECULATE": {
+    "Definition": "guess about what might be true"
+  },
+  "LACKED": {
+    "Definition": "didn’t have"
+  },
+  "SUE": {
+    "Definition": "ask or request formally"
+  },
+  "TIDE BEGAN TO TURN": {
+    "Definition": "things started to change"
+  },
+  "HARASSED": {
+    "Definition": "attacked or bothered many times"
+  },
+  "WORE HIM DOWN": {
+    "Definition": "made him tired or weak slowly"
+  },
+  "ANTITHESIS": {
+    "Definition": "the complete opposite"
+  },
+  "STOOD FOR": {
+    "Definition": "meant or represented"
+  },
+  "ATTRITION": {
+    "Definition": "slowly reducing strength over time"
+  },
+  "FORAGING": {
+    "Definition": "searching (for food)"
+  },
+  "CROPS": {
+    "Definition": "plants grown for food"
+  },
+  "REINFORCEMENTS": {
+    "Definition": "extra people or supplies for help"
+  },
+  "INITIAL": {
+    "Definition": "first or at the beginning"
+  },
+  "TRANSPIRED": {
+    "Definition": "happened"
+  },
+  "DARING": {
+    "Definition": "brave and risky"
+  },
+  "COUNTER": {
+    "Definition": "respond or hit back at"
+  },
+  "RECALLED": {
+    "Definition": "called back"
+  },
+  "MET HIS MATCH": {
+    "Definition": "found someone just as strong"
+  },
+  "OUTMANOEUVRED": {
+    "Definition": "beat him using smart moves"
+  },
+  "EXPLOITED": {
+    "Definition": "used in a way that helped him"
+  },
+  "GAPS": {
+    "Definition": "empty spaces"
+  },
+  "EXILE": {
+    "Definition": "the state of having to live far from home"
+  },
+  "PLOTTED": {
+    "Definition": "secretly planned"
+  },
+  "CLAY": {
+    "Definition": "soft earth used to make things"
+  },
+  "POTS": {
+    "Definition": "round containers for holding things"
+  },
+  "LOGIC": {
+    "Definition": "reasoning or argument"
+  },
+  "SLITHERING AROUND": {
+    "Definition": "moving with a smooth, gliding, and twisting motion"
+  },
+  "EXILED": {
+    "Definition": "sent away and not allowed to return"
+  },
+  "STAMP OUT": {
+    "Definition": "stop it completely"
+  },
+  "CORNERED": {
+    "Definition": "trapped with no way out"
+  },
+  "BEARING DOWN ON": {
+    "Definition": "coming closer in a threatening way"
+  },
+  "RELIEVE": {
+    "Definition": "cause them to stop feeling it"
+  },
+  "INSPIRED": {
+    "Definition": "created ot triggered"
+  },
+  "LINGERS": {
+    "Definition": "stays around"
+  },
+  "ASTONISHING": {
+    "Definition": "very surprising or amazing"
+  }
+}
