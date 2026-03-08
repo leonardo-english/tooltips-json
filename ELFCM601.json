@@ -1,0 +1,407 @@
+{
+  "ENIGMATIC": {
+    "Definition": "mysterious; hard to understand"
+  },
+  "PEASANT": {
+    "Definition": "a poor farmer in the past"
+  },
+  "EDGE": {
+    "Definition": "the outer limit or border"
+  },
+  "SERPENTINE": {
+    "Definition": "shaped like a snake"
+  },
+  "SCALES": {
+    "Definition": "small hard plates that cover the skin of reptiles"
+  },
+  "ARMOUR": {
+    "Definition": "strong metal clothing used for protection in battle"
+  },
+  "HOARD": {
+    "Definition": "collect and hide"
+  },
+  "CAVES": {
+    "Definition": "large natural holes in rock or mountains"
+  },
+  "KNIGHTS": {
+    "Definition": "soldiers in the Middle Ages who fought on horseback"
+  },
+  "SLAYING": {
+    "Definition": "the act of killing a monster"
+  },
+  "COURAGE": {
+    "Definition": "bravery; the ability to face danger"
+  },
+  "SLAYER": {
+    "Definition": "a person who killed a dangerous creature"
+  },
+  "PATRON SAINT": {
+    "Definition": "a saint believed to protect the place or people"
+  },
+  "SCHOLAR": {
+    "Definition": "a person who studied and had a lot of knowledge"
+  },
+  "MEANINGFUL": {
+    "Definition": "important or having real value"
+  },
+  "BENEVOLENT": {
+    "Definition": "kind and wanting to help others"
+  },
+  "FUNDAMENTALLY": {
+    "Definition": "in a basic or essential way"
+  },
+  "REMARKABLE": {
+    "Definition": "unusual or surprising in a good way"
+  },
+  "MYTHOLOGY": {
+    "Definition": "traditional stories about gods, heroes, and monsters"
+  },
+  "DEPICTED": {
+    "Definition": "shown or described in pictures or stories"
+  },
+  "ANTLER": {
+    "Definition": "a hard horn that grows on a deer’s head"
+  },
+  "FELINE": {
+    "Definition": "related to cats"
+  },
+  "ROBES": {
+    "Definition": "long loose clothes worn by important people"
+  },
+  "EMBROIDERED": {
+    "Definition": "decorated with patterns sewn with thread"
+  },
+  "UNTHINKABLE": {
+    "Definition": "impossible to imagine or accept"
+  },
+  "SEEK": {
+    "Definition": "try to get"
+  },
+  "WRATH": {
+    "Definition": "very strong anger"
+  },
+  "ANGERED": {
+    "Definition": "made it very angry"
+  },
+  "NEUTRAL": {
+    "Definition": "not taking sides; neither good nor bad"
+  },
+  "DEITY": {
+    "Definition": "a god or goddess"
+  },
+  "UNIFORMLY": {
+    "Definition": "in the same way in all cases"
+  },
+  "HOARDED": {
+    "Definition": "collected and kept a large amount of it"
+  },
+  "JEALOUSLY": {
+    "Definition": "in a way that protected it strongly and did not want others to have it"
+  },
+  "VIRGIN": {
+    "Definition": "a young woman who had never had sex"
+  },
+  "SACRIFICES": {
+    "Definition": "people killed as an offering"
+  },
+  "TERRORISED": {
+    "Definition": "made very frightened for a long time"
+  },
+  "SLAIN": {
+    "Definition": "killed in a violent way"
+  },
+  "EXTINGUISHED": {
+    "Definition": "completely destroyed or ended"
+  },
+  "REPTILIAN": {
+    "Definition": "like a reptile, such as a snake or lizard"
+  },
+  "IMPENETRABLE": {
+    "Definition": "impossible to break through"
+  },
+  "INCINERATE": {
+    "Definition": "burn completely"
+  },
+  "FURY": {
+    "Definition": "very strong anger"
+  },
+  "MORTALLY": {
+    "Definition": "in a way that caused death"
+  },
+  "CURSED": {
+    "Definition": "affected by a magic force that brought bad luck"
+  },
+  "BATHE": {
+    "Definition": "wash or be covered (in liquid)"
+  },
+  "TERRORISING": {
+    "Definition": "causing great fear to people"
+  },
+  "SLAY": {
+    "Definition": "kill (a monster or enemy)"
+  },
+  "FEATHERED": {
+    "Definition": "covered with feathers"
+  },
+  "PRIMORDIAL": {
+    "Definition": "very ancient; from the earliest time"
+  },
+  "CHAOS": {
+    "Definition": "complete disorder and confusion"
+  },
+  "PLAUSIBLE": {
+    "Definition": "possible and believable"
+  },
+  "HAZARD A GUESS": {
+    "Definition": "guess even if you are not sure"
+  },
+  "FOSSILS": {
+    "Definition": "remains of ancient plants or animals found in rock"
+  },
+  "INTUITIVE": {
+    "Definition": "easy to understand without thinking hard"
+  },
+  "WELL": {
+    "Definition": "a deep hole in the ground used to get water"
+  },
+  "SNOUT": {
+    "Definition": "the long nose of an animal"
+  },
+  "DAGGERS": {
+    "Definition": "short sharp knives"
+  },
+  "INTERPRETING": {
+    "Definition": "deciding the meaning of or understanding them"
+  },
+  "MYTHOLOGICAL": {
+    "Definition": "relating to myths or ancient stories"
+  },
+  "QUARRIES": {
+    "Definition": "places where stone was dug from the ground"
+  },
+  "MINES": {
+    "Definition": "places where minerals or metals were dug from the earth"
+  },
+  "FOSSILISED": {
+    "Definition": "turned into stone over a very long time"
+  },
+  "ATTRIBUTED": {
+    "Definition": "believed they came from them"
+  },
+  "FOSSIL": {
+    "Definition": "the preserved remains of an ancient plant or animal"
+  },
+  "HOARDS": {
+    "Definition": "collects and hides"
+  },
+  "EXTINCT": {
+    "Definition": "no longer existing"
+  },
+  "REPTILES": {
+    "Definition": "animals like snakes, lizards, and crocodiles"
+  },
+  "SUPERNATURAL": {
+    "Definition": "beyond normal nature or science"
+  },
+  "OUT THERE": {
+    "Definition": "very unusual or strange"
+  },
+  "CONTROVERSIAL": {
+    "Definition": "causing disagreement among people"
+  },
+  "IMPLAUSIBLE": {
+    "Definition": "not very believable"
+  },
+  "PREDATORS": {
+    "Definition": "animals that hunted and ate other animals"
+  },
+  "HARDWIRED": {
+    "Definition": "built into the brain naturally"
+  },
+  "EVOLUTIONARY": {
+    "Definition": "related to how living things slowly change over time"
+  },
+  "ANCESTORS": {
+    "Definition": "people from whom we come"
+  },
+  "VENOMOUS": {
+    "Definition": "able to inject poison by biting"
+  },
+  "CONSTRICTING": {
+    "Definition": "squeezing tightly to kill"
+  },
+  "INSTINCTIVE": {
+    "Definition": "natural, happening without learning or thinking"
+  },
+  "AMBUSH": {
+    "Definition": "a surprise attack"
+  },
+  "DRAG": {
+    "Definition": "pull them along the ground"
+  },
+  "PREY": {
+    "Definition": "an animal that is hunted by another animal"
+  },
+  "EVOLVED": {
+    "Definition": "slowly changed over many generations"
+  },
+  "FANGS": {
+    "Definition": "long sharp teeth used for biting"
+  },
+  "ROAR": {
+    "Definition": "a loud deep cry made by a large animal"
+  },
+  "SNATCH": {
+    "Definition": "grab something quickly"
+  },
+  "TALONS": {
+    "Definition": "the sharp claws of birds of prey"
+  },
+  "BEAKS": {
+    "Definition": "the hard pointed mouths of birds"
+  },
+  "SYNTHESIS": {
+    "Definition": "a combination of different things"
+  },
+  "SCALED": {
+    "Definition": "covered in scales"
+  },
+  "BIRD OF PREY": {
+    "Definition": "a bird that hunts other animals"
+  },
+  "PREDATOR": {
+    "Definition": "an animal that hunts and eats other animals"
+  },
+  "PER SE": {
+    "Definition": "by itself; exactly in that way"
+  },
+  "MONITOR LIZARDS": {
+    "Definition": "large powerful lizards that live in warm regions"
+  },
+  "LURK": {
+    "Definition": "hide and wait secretly"
+  },
+  "COMPELLING": {
+    "Definition": "very convincing"
+  },
+  "INSTINCTIVELY": {
+    "Definition": "in a natural way, without thinking"
+  },
+  "ENCOUNTERED": {
+    "Definition": "met or experienced"
+  },
+  "TAPPING INTO": {
+    "Definition": "using or connecting with"
+  },
+  "PRIMAL": {
+    "Definition": "very basic and ancient"
+  },
+  "ARCHETYPE": {
+    "Definition": "a common symbol or model that appears in many stories"
+  },
+  "PREDATORY": {
+    "Definition": "related to hunting other animals"
+  },
+  "THREAT": {
+    "Definition": "something that may cause danger"
+  },
+  "WIRED": {
+    "Definition": "built naturally, 'programmed'"
+  },
+  "VIRGINS": {
+    "Definition": "women who have never had sex"
+  },
+  "CORPSE": {
+    "Definition": "dead body"
+  },
+  "OBSTACLE": {
+    "Definition": "something that blocks progress"
+  },
+  "OVERCOME": {
+    "Definition": "defeated or dealt with"
+  },
+  "FLOURISH": {
+    "Definition": "grow or develop well"
+  },
+  "IMMORTALITY": {
+    "Definition": "the ability to live forever"
+  },
+  "CLAIM": {
+    "Definition": "take it as their own"
+  },
+  "EXPLICITLY": {
+    "Definition": "clearly and directly"
+  },
+  "PAGANISM": {
+    "Definition": "old religions that existed before Christianity"
+  },
+  "BESTIARIES": {
+    "Definition": "old books describing animals"
+  },
+  "CATALOGUED": {
+    "Definition": "organised into a list"
+  },
+  "SENTIMENT": {
+    "Definition": "a general feeling or idea"
+  },
+  "SHRINKING": {
+    "Definition": "becoming smaller"
+  },
+  "MAPPED": {
+    "Definition": "showed or drew on a map"
+  },
+  "SCEPTICAL": {
+    "Definition": "doubtful; not easily convinced"
+  },
+  "TAXONOMY": {
+    "Definition": "a scientific system for classifying living things"
+  },
+  "PALEONTOLOGY": {
+    "Definition": "the science that studies fossils and ancient life"
+  },
+  "MAMMOTHS": {
+    "Definition": "large extinct animals similar to elephants"
+  },
+  "SLOTHS": {
+    "Definition": "slow-moving animals that lived in trees"
+  },
+  "FRAMEWORK": {
+    "Definition": "a basic system"
+  },
+  "RELEGATED": {
+    "Definition": "moved to a less important place"
+  },
+  "REALM": {
+    "Definition": "a particular world or area"
+  },
+  "PROPELLED": {
+    "Definition": "pushed forward or caused to move ahead"
+  },
+  "PROMINENTLY": {
+    "Definition": "in an important or noticeable way"
+  },
+  "MAINSTREAM": {
+    "Definition": "popular with many people"
+  },
+  "EMBRACED": {
+    "Definition": "accepted eagerly"
+  },
+  "ENTHUSIASTICALLY": {
+    "Definition": "with great excitement and interest"
+  },
+  "SATISFY": {
+    "Definition": "meet a need or desire"
+  },
+  "RESONATES": {
+    "Definition": "creates a strong feeling of connection"
+  },
+  "UNDERGO": {
+    "Definition": "experience or go through"
+  },
+  "FUNDAMENTAL": {
+    "Definition": "basic and very important"
+  },
+  "DEPTHS": {
+    "Definition": "the deepest parts"
+  }
+}

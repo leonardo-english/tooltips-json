@@ -1,0 +1,569 @@
+{
+  "CANINE": {
+    "Definition": "relating to dogs"
+  },
+  "COMPANION": {
+    "Definition": "someone you spend time with"
+  },
+  "PHENOMENON": {
+    "Definition": "something unusual or remarkable"
+  },
+  "BY SOME MEASURES": {
+    "Definition": "according to some ways of counting"
+  },
+  "DOMESTICATED": {
+    "Definition": "tamed to live with humans, house cats"
+  },
+  "PURRING": {
+    "Definition": "making a soft vibrating sound"
+  },
+  "LAP": {
+    "Definition": "the top of your legs when sitting"
+  },
+  "STROKING": {
+    "Definition": "gently moving your hand over it"
+  },
+  "PURR": {
+    "Definition": "make a soft vibrating sound"
+  },
+  "CONSENSUS": {
+    "Definition": "general agreement"
+  },
+  "SHOWING OFF": {
+    "Definition": "trying to impress us"
+  },
+  "KNEAD": {
+    "Definition": "press with their paws again and again"
+  },
+  "PAWS": {
+    "Definition": "the feet of an animal"
+  },
+  "TELEPATHIC": {
+    "Definition": "able to know thoughts without speaking"
+  },
+  "GESTURES": {
+    "Definition": "movements of the hands or body"
+  },
+  "INSCRUTABLE": {
+    "Definition": "hard to understand"
+  },
+  "GRACE": {
+    "Definition": "honour or beautify"
+  },
+  "TERMS": {
+    "Definition": "conditions or rules"
+  },
+  "UTTER": {
+    "Definition": "complete; total"
+  },
+  "ADORATION": {
+    "Definition": "great love"
+  },
+  "MILD": {
+    "Definition": "gentle; not strong"
+  },
+  "DISDAIN": {
+    "Definition": "feeling that something is not good enough"
+  },
+  "ALOOFNESS": {
+    "Definition": "being distant and not friendly"
+  },
+  "ENIGMATIC": {
+    "Definition": "mysterious; hard to understand"
+  },
+  "CURLED UP": {
+    "Definition": "sitting or lying with their body in a small round shape"
+  },
+  "PREDATORS": {
+    "Definition": "animals that hunted other animals"
+  },
+  "PROWLING": {
+    "Definition": "moving quietly while hunting"
+  },
+  "EDGES": {
+    "Definition": "outer parts"
+  },
+  "IF YOU WILL": {
+    "Definition": "said when politely asking someone to do or consider something"
+  },
+  "SPANNED": {
+    "Definition": "covered or stretched across"
+  },
+  "FIGURED OUT": {
+    "Definition": "understood"
+  },
+  "HERDS": {
+    "Definition": "large groups of animals"
+  },
+  "CROPS": {
+    "Definition": "plants grown for food"
+  },
+  "HARVEST": {
+    "Definition": "collect or gather"
+  },
+  "GRAIN": {
+    "Definition": "small hard seeds like wheat"
+  },
+  "PERMANENT": {
+    "Definition": "lasting for a long time"
+  },
+  "BY THE BUCKETLOAD": {
+    "Definition": "in very large amounts"
+  },
+  "SOLITARY": {
+    "Definition": "alone"
+  },
+  "BUFFET": {
+    "Definition": "a place with lots of food to choose from"
+  },
+  "RODENTS": {
+    "Definition": "small animals like rats and mice"
+  },
+  "ENCOURAGED": {
+    "Definition": "supported or helped"
+  },
+  "TAMED": {
+    "Definition": "trained them to be calm around humans"
+  },
+  "DIVERGES": {
+    "Definition": "goes in a different direction"
+  },
+  "DRAMATICALLY": {
+    "Definition": "in a big and noticeable way"
+  },
+  "SELF-DOMESTICATION": {
+    "Definition": "becoming tame without humans forcing it"
+  },
+  "PROFOUNDLY": {
+    "Definition": "very deeply or strongly"
+  },
+  "SNOUTS": {
+    "Definition": "long noses of animals"
+  },
+  "FLOPPED": {
+    "Definition": "fell down loosely"
+  },
+  "DIGEST": {
+    "Definition": "break down food inside the body"
+  },
+  "IRRESISTIBLE": {
+    "Definition": "too attractive to refuse"
+  },
+  "PUPPY": {
+    "Definition": "a young dog"
+  },
+  "GENETICALLY": {
+    "Definition": "in a way that relates to genes or genetics"
+  },
+  "ANCESTOR": {
+    "Definition": "family member from long ago"
+  },
+  "BREED": {
+    "Definition": "have babies (animals)"
+  },
+  "FERTILE": {
+    "Definition": "able to have babies"
+  },
+  "OFFSPRING": {
+    "Definition": "babies; young"
+  },
+  "BARELY": {
+    "Definition": "only just, almost not"
+  },
+  "BRED": {
+    "Definition": "raised to produce certain babies"
+  },
+  "DOMESTIC": {
+    "Definition": "living with humans"
+  },
+  "TOLERATED": {
+    "Definition": "allowed but not really liked"
+  },
+  "COMPLEX": {
+    "Definition": "complicated, difficult"
+  },
+  "HERDING": {
+    "Definition": "moving them together in a group"
+  },
+  "SLEDS": {
+    "Definition": "flat vehicles pulled over snow"
+  },
+  "MUTUALLY": {
+    "Definition": "for both sides"
+  },
+  "BENEFICIAL": {
+    "Definition": "helpful"
+  },
+  "PEST": {
+    "Definition": "small animals that caused problems"
+  },
+  "TEMPERAMENT": {
+    "Definition": "their nature or behaviour"
+  },
+  "STUCK AROUND": {
+    "Definition": "stayed"
+  },
+  "GRUMPY": {
+    "Definition": "easily annoyed"
+  },
+  "ANTISOCIAL": {
+    "Definition": "not liking to be with people"
+  },
+  "TREASURED": {
+    "Definition": "greatly loved and valued"
+  },
+  "PEAK": {
+    "Definition": "highest point"
+  },
+  "WORSHIPPED": {
+    "Definition": "treated them like a god"
+  },
+  "FERTILITY": {
+    "Definition": "ability to have babies"
+  },
+  "DEPICTED": {
+    "Definition": "shown in art"
+  },
+  "SACRED": {
+    "Definition": "very special or holy"
+  },
+  "MOURNING": {
+    "Definition": "a period of feeling sad after their death"
+  },
+  "SHAVING": {
+    "Definition": "cutting hair off"
+  },
+  "MUMMIFIED": {
+    "Definition": "dried and wrapped after death"
+  },
+  "BURIED": {
+    "Definition": "put into the ground after death"
+  },
+  "SUSTAIN": {
+    "Definition": "keep them alive"
+  },
+  "CEMETERY": {
+    "Definition": "place where they were buried"
+  },
+  "INTENSELY": {
+    "Definition": "very strongly"
+  },
+  "FOND OF": {
+    "Definition": "liking very much"
+  },
+  "EMBODYING": {
+    "Definition": "showing clearly"
+  },
+  "RUTHLESS": {
+    "Definition": "not caring about hurting them"
+  },
+  "PESTS": {
+    "Definition": "animals that caused problems"
+  },
+  "#REF!": {
+    "Definition": "#REF!"
+  },
+  "WORSHIP": {
+    "Definition": "the act of treating them like gods"
+  },
+  "LAID SIEGE TO": {
+    "Definition": "surrounded the city to attack it"
+  },
+  "MANIA": {
+    "Definition": "extreme excitement or obsession"
+  },
+  "SHIELDS": {
+    "Definition": "large flat objects used for protection"
+  },
+  "UNWILLING": {
+    "Definition": "not wanting to"
+  },
+  "HARMING": {
+    "Definition": "hurting"
+  },
+  "PRIZED": {
+    "Definition": "valued highly"
+  },
+  "CONFINED TO": {
+    "Definition": "kept within limits of"
+  },
+  "BAN": {
+    "Definition": "officially forbid"
+  },
+  "SMUGGLED": {
+    "Definition": "secretly moved illegally"
+  },
+  "SPREAD": {
+    "Definition": "moved to many places"
+  },
+  "VITAL": {
+    "Definition": "very important"
+  },
+  "FORTUNES": {
+    "Definition": "future or luck"
+  },
+  "NADIR": {
+    "Definition": "lowest point"
+  },
+  "SUSPICION": {
+    "Definition": "a feeling that something was wrong"
+  },
+  "PAGAN": {
+    "Definition": "old ones before Christianity"
+  },
+  "ALOOF": {
+    "Definition": "distant and not friendly"
+  },
+  "OBEDIENT": {
+    "Definition": "doing what they were told"
+  },
+  "COMPANIONS": {
+    "Definition": "animals people spent time with"
+  },
+  "OBEDIENCE": {
+    "Definition": "following orders or commands"
+  },
+  "HIERARCHY": {
+    "Definition": "a system where some people had more power"
+  },
+  "WITCHCRAFT": {
+    "Definition": "magic believed to be done by witches"
+  },
+  "IN LEAGUE WITH": {
+    "Definition": "secretly working with"
+  },
+  "DO THEIR BIDDING": {
+    "Definition": "do what they were told"
+  },
+  "MERCY": {
+    "Definition": "kindness or forgiveness"
+  },
+  "PAPAL DECREE": {
+    "Definition": "official order from the Pope"
+  },
+  "CONDEMNED": {
+    "Definition": "officially declared (as something bad)"
+  },
+  "DECREE": {
+    "Definition": "official order"
+  },
+  "HERESY": {
+    "Definition": "belief against official church teaching"
+  },
+  "REGARDLESS": {
+    "Definition": "even so"
+  },
+  "PERSECUTED": {
+    "Definition": "treated cruelly"
+  },
+  "EN MASSE": {
+    "Definition": "in large numbers"
+  },
+  "PLAGUE": {
+    "Definition": "a serious disease that spread quickly"
+  },
+  "FLEAS": {
+    "Definition": "very small insects that bite animals"
+  },
+  "LONG STORY SHORT": {
+    "Definition": "in brief"
+  },
+  "BITTER": {
+    "Definition": "very sad or painful"
+  },
+  "IRONY": {
+    "Definition": "when the opposite of what you would expect happened"
+  },
+  "IRONIES": {
+    "Definition": "situations where the opposite of what you would expect happened"
+  },
+  "SUPERSTITION": {
+    "Definition": "belief not based on facts"
+  },
+  "MASS": {
+    "Definition": "involving or affecting large numbers of people"
+  },
+  "HYSTERIA": {
+    "Definition": "extreme fear"
+  },
+  "PERSECUTING": {
+    "Definition": "treating cruelly"
+  },
+  "MOSQUES": {
+    "Definition": "Muslim places of worship"
+  },
+  "FIGURINE": {
+    "Definition": "small statue"
+  },
+  "SHAKE OFF": {
+    "Definition": "get rid of"
+  },
+  "DEMONIC": {
+    "Definition": "related to evil spirits"
+  },
+  "REHABILITATION": {
+    "Definition": "process of improving its reputation"
+  },
+  "IN FASHION": {
+    "Definition": "popular"
+  },
+  "CLASSIFY": {
+    "Definition": "put into groups, categorise"
+  },
+  "BREEDING": {
+    "Definition": "raising animals to have certain babies"
+  },
+  "MOUSING": {
+    "Definition": "catching mice"
+  },
+  "ENTHUSIAST": {
+    "Definition": "person who strongly liked them"
+  },
+  "ELEVATE": {
+    "Definition": "raise"
+  },
+  "PROMOTE": {
+    "Definition": "support and make more popular"
+  },
+  "COAT LENGTHS": {
+    "Definition": "how long an animal’s fur was"
+  },
+  "SPARKED": {
+    "Definition": "caused to start"
+  },
+  "DELIBERATE": {
+    "Definition": "done on purpose"
+  },
+  "AESTHETIC": {
+    "Definition": "relating to beauty"
+  },
+  "TRAITS": {
+    "Definition": "qualities or features"
+  },
+  "MOUSERS": {
+    "Definition": "cats that caught mice"
+  },
+  "STATUS SYMBOLS": {
+    "Definition": "things that showed wealth or importance"
+  },
+  "SELF-SUFFICIENT": {
+    "Definition": "able to look after themselves"
+  },
+  "CITY DWELLER": {
+    "Definition": "person who lived in a city"
+  },
+  "ASHES": {
+    "Definition": "grey powder left after burning"
+  },
+  "BREAKTHROUGH": {
+    "Definition": "important new discovery"
+  },
+  "ABSORBENT": {
+    "Definition": "able to soak up or absorb liquid"
+  },
+  "CLAY": {
+    "Definition": "soft natural earth material"
+  },
+  "EXPLODED": {
+    "Definition": "increased very quickly"
+  },
+  "RIVAL": {
+    "Definition": "compete with"
+  },
+  "OVERTAKE": {
+    "Definition": "become more popular than"
+  },
+  "SELF-SOOTHING": {
+    "Definition": "calming themselves"
+  },
+  "HEALING": {
+    "Definition": "getting better or recovering from injury"
+  },
+  "KNEADING": {
+    "Definition": "pressing with paws again and again"
+  },
+  "IN THE REGION OF": {
+    "Definition": "about; approximately"
+  },
+  "SUSPECTED": {
+    "Definition": "thought it was true"
+  },
+  "RECOGNITION": {
+    "Definition": "knowing it, identification"
+  },
+  "PUPILS": {
+    "Definition": "black centres of the eyes"
+  },
+  "DILATED": {
+    "Definition": "became bigger"
+  },
+  "PREDATOR": {
+    "Definition": "animal that hunts others"
+  },
+  "APEX": {
+    "Definition": "top; highest"
+  },
+  "FLUFFY": {
+    "Definition": "soft and full of fur"
+  },
+  "PARASITE": {
+    "Definition": "small living thing that lives off another"
+  },
+  "INFECT": {
+    "Definition": "enter the body of and cause illness"
+  },
+  "FAECES": {
+    "Definition": "waste from the body"
+  },
+  "SUBTLE": {
+    "Definition": "small and not obvious"
+  },
+  "TOLERANT": {
+    "Definition": "accepting without complaining"
+  },
+  "MANIPULATING": {
+    "Definition": "controlling in a clever or unfair way"
+  },
+  "HOST": {
+    "Definition": "person that carries a parasite"
+  },
+  "SCEPTICAL": {
+    "Definition": "not easily believing it's true"
+  },
+  "FUNDAMENTALLY": {
+    "Definition": "basically"
+  },
+  "CO-EVOLVE": {
+    "Definition": "change together over time"
+  },
+  "APPEALING": {
+    "Definition": "attractive"
+  },
+  "CONFESSED": {
+    "Definition": "admitted"
+  },
+  "UNCONDITIONAL": {
+    "Definition": "without limits or conditions"
+  },
+  "UNDYING": {
+    "Definition": "lasting forever"
+  },
+  "CURL UP": {
+    "Definition": "sit or lie in a small round shape"
+  },
+  "HEAD-BUTT": {
+    "Definition": "gently hit with the head"
+  },
+  "STAFF": {
+    "Definition": "people who work for them"
+  },
+  "UTTERLY": {
+    "Definition": "completely"
+  },
+  "HOARDING": {
+    "Definition": "collecting and keeping"
+  },
+  "KIDNAPPING": {
+    "Definition": "taking them away by force"
+  }
+}
