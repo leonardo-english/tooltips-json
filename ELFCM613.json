@@ -1,0 +1,443 @@
+{
+  "NEUTRALITY": {
+    "Definition": "not supporting any side in a war"
+  },
+  "SAVAGERY": {
+    "Definition": "very cruel and violent behaviour"
+  },
+  "BRAVERY": {
+    "Definition": "being very brave or not afraid in danger"
+  },
+  "VARIANT": {
+    "Definition": "a different form of"
+  },
+  "REBUKE": {
+    "Definition": "strong expression of disapproval"
+  },
+  "SHRUG YOUR SHOULDERS": {
+    "Definition": "show you don’t know or don’t care"
+  },
+  "STAYING OUT OF IT": {
+    "Definition": "not getting involved"
+  },
+  "INITIALLY": {
+    "Definition": "at the beginning"
+  },
+  "ALLIED": {
+    "Definition": "joined with others for support"
+  },
+  "NON-BELLIGERENT": {
+    "Definition": "not fighting in the war"
+  },
+  "FOR THE MOST PART": {
+    "Definition": "mostly"
+  },
+  "CONFLICT": {
+    "Definition": "fight or war"
+  },
+  "MOUNTAINOUS": {
+    "Definition": "full of mountains"
+  },
+  "CULTIVATED": {
+    "Definition": "carefully developed over time"
+  },
+  "DRAGGED INTO": {
+    "Definition": "forced to become involved"
+  },
+  "SWALLOWED UP": {
+    "Definition": "taken over completely"
+  },
+  "ALIGN ITSELF": {
+    "Definition": "choose to support their side"
+  },
+  "IRON ORE": {
+    "Definition": "rock with iron in it"
+  },
+  "RAW MATERIAL": {
+    "Definition": "basic material used to make things"
+  },
+  "BULLETS": {
+    "Definition": "small metal objects shot from guns"
+  },
+  "TANKS": {
+    "Definition": "large military vehicles with guns"
+  },
+  "BOMBS": {
+    "Definition": "weapons that explode"
+  },
+  "TROOPS": {
+    "Definition": "soldiers"
+  },
+  "EMERGED": {
+    "Definition": "came out"
+  },
+  "UNSCATHED": {
+    "Definition": "not hurt or damaged"
+  },
+  "PROSPERITY": {
+    "Definition": "wealth and success"
+  },
+  "MERELY": {
+    "Definition": "only, just"
+  },
+  "SUSTAIN": {
+    "Definition": "support or keep it going"
+  },
+  "ANGLICISED": {
+    "Definition": "changed to sound more English"
+  },
+  "OVERSTATE": {
+    "Definition": "describe it as bigger or more important than it was"
+  },
+  "STAKES": {
+    "Definition": "shares or parts of a company"
+  },
+  "LASTING": {
+    "Definition": "continuing for a long time"
+  },
+  "SUCCESSION": {
+    "Definition": "the process of taking over a position"
+  },
+  "GROOMED": {
+    "Definition": "prepared for an important role"
+  },
+  "CHARMING": {
+    "Definition": "pleasant and likeable"
+  },
+  "PERCEPTIVE": {
+    "Definition": "good at understanding things"
+  },
+  "DIRECTIONLESS": {
+    "Definition": "without a clear plan or goal"
+  },
+  "DRIFTED": {
+    "Definition": "moved without a clear purpose"
+  },
+  "RAMPANT": {
+    "Definition": "spreading quickly and out of control"
+  },
+  "HERITAGE": {
+    "Definition": "background and family history"
+  },
+  "DISGUISE": {
+    "Definition": "hide the truth about it"
+  },
+  "LEANED INTO IT": {
+    "Definition": "accepted and showed it openly"
+  },
+  "FIRSTHAND": {
+    "Definition": "experienced directly"
+  },
+  "PERSECUTION": {
+    "Definition": "cruel treatment because of who they were"
+  },
+  "ALLIED WITH": {
+    "Definition": "joined and supported"
+  },
+  "NEWFOUND": {
+    "Definition": "recently found or gained"
+  },
+  "GOING OFF": {
+    "Definition": "making a sound or reacting (like an alarm)"
+  },
+  "PAPERWORK": {
+    "Definition": "official documents"
+  },
+  "MEANINGLESS": {
+    "Definition": "without meaning or importance"
+  },
+  "VITAL": {
+    "Definition": "great, critical (importance)"
+  },
+  "EMPHASISE": {
+    "Definition": "show it is important, stress"
+  },
+  "SLIVER": {
+    "Definition": "a very small part"
+  },
+  "MANDATE": {
+    "Definition": "official order or purpose"
+  },
+  "COVER": {
+    "Definition": "protection or a hidden role"
+  },
+  "TERRAIN": {
+    "Definition": "the type of land"
+  },
+  "NERVE": {
+    "Definition": "courage"
+  },
+  "NEGOTIATED": {
+    "Definition": "discussed to reach an agreement"
+  },
+  "TERMS": {
+    "Definition": "conditions of the agreement"
+  },
+  "CONSTRAINED": {
+    "Definition": "limited or restricted"
+  },
+  "BRIBE": {
+    "Definition": "money given to make them do something"
+  },
+  "CARTE BLANCHE": {
+    "Definition": "complete freedom to act"
+  },
+  "LEGATION": {
+    "Definition": "a government office in another country"
+  },
+  "RUCKSACK": {
+    "Definition": "a backpack"
+  },
+  "REVOLVER": {
+    "Definition": "a type of gun"
+  },
+  "SET OFF": {
+    "Definition": "started the journey"
+  },
+  "CONCENTRATIONS": {
+    "Definition": "large groups in one place"
+  },
+  "AXIS": {
+    "Definition": "the group of countries led by Nazi Germany"
+  },
+  "NEGOTIATE": {
+    "Definition": "talk to reach agreement"
+  },
+  "BARELY": {
+    "Definition": "only just"
+  },
+  "RELEVANCE": {
+    "Definition": "importance to the situation"
+  },
+  "PERSECUTED": {
+    "Definition": "treated very badly"
+  },
+  "STRIPPED": {
+    "Definition": "taken away"
+  },
+  "DEPORTATIONS": {
+    "Definition": "forced movement of people to another place"
+  },
+  "DEATH CAMPS": {
+    "Definition": "places where people were killed"
+  },
+  "ARCHITECTS": {
+    "Definition": "people who planned it"
+  },
+  "HOLOCAUST": {
+    "Definition": "the killing of millions of Jews in WWII"
+  },
+  "OVERSEEING": {
+    "Definition": "watching and managing"
+  },
+  "SUSPENDED": {
+    "Definition": "stopped for a time"
+  },
+  "IMMENSE": {
+    "Definition": "very large or great"
+  },
+  "UNSTABLE": {
+    "Definition": "not safe or steady"
+  },
+  "THREAT": {
+    "Definition": "danger"
+  },
+  "MARGIN FOR ERROR": {
+    "Definition": "the possibility of completing the task successfully if he made a mistake"
+  },
+  "AT FIRST GLANCE": {
+    "Definition": "when you first see or think about it"
+  },
+  "INADEQUATE": {
+    "Definition": "not good enough"
+  },
+  "SEAL": {
+    "Definition": "official mark or stamp"
+  },
+  "BEARER": {
+    "Definition": "the person who had it"
+  },
+  "REPATRIATION": {
+    "Definition": "returning to their own country"
+  },
+  "SHAKY": {
+    "Definition": "not strong or certain"
+  },
+  "FIRM": {
+    "Definition": "strong and clear"
+  },
+  "NEUTRAL": {
+    "Definition": "not supporting any side"
+  },
+  "CONFUSION": {
+    "Definition": "lack of clear understanding"
+  },
+  "HESITATE": {
+    "Definition": "pause before acting"
+  },
+  "HANDED OUT": {
+    "Definition": "given to many people"
+  },
+  "OBTAIN": {
+    "Definition": "get"
+  },
+  "BRIBED": {
+    "Definition": "gave money to influence"
+  },
+  "PUTTING IT": {
+    "Definition": "saying it was"
+  },
+  "REFUGE": {
+    "Definition": "a safe place"
+  },
+  "MAKESHIFT": {
+    "Definition": "temporary and simple"
+  },
+  "FLIMSY": {
+    "Definition": "weak, uncertain"
+  },
+  "BOUGHT TIME": {
+    "Definition": "created a short delay"
+  },
+  "FRAGILE": {
+    "Definition": "easily broken or lost"
+  },
+  "STABILITY": {
+    "Definition": "being steady and safe"
+  },
+  "COLLAPSED": {
+    "Definition": "suddenly failed or fell apart"
+  },
+  "REGENT": {
+    "Definition": "a person ruling for the king"
+  },
+  "STREAK": {
+    "Definition": "a strong tendency or series of actions"
+  },
+  "VICIOUS": {
+    "Definition": "very cruel"
+  },
+  "ANTISEMITISM": {
+    "Definition": "hate against Jewish people"
+  },
+  "NICETIES": {
+    "Definition": "polite behaviour or rules"
+  },
+  "EXECUTING": {
+    "Definition": "killing officially"
+  },
+  "CONFRONTING": {
+    "Definition": "facing directly"
+  },
+  "AGGRESSORS": {
+    "Definition": "people who attacked them"
+  },
+  "SHOWED UP": {
+    "Definition": "arrived"
+  },
+  "ROUNDED UP": {
+    "Definition": "gathered or put together by force"
+  },
+  "PLAUSIBLY": {
+    "Definition": "in a way that was possible to believe"
+  },
+  "DEPORTATION": {
+    "Definition": "forced removal to another place"
+  },
+  "CONVOYS": {
+    "Definition": "groups of vehicles travelling together"
+  },
+  "CITED": {
+    "Definition": "mentioned as a reason"
+  },
+  "BLUFF": {
+    "Definition": "pretending to be stronger or more important than he was"
+  },
+  "BRUTAL": {
+    "Definition": "very violent and cruel"
+  },
+  "COLUMNS": {
+    "Definition": "long lines of people"
+  },
+  "FLEET": {
+    "Definition": "a group (of vehicles)"
+  },
+  "ON THE BACK FOOT": {
+    "Definition": "in a weak or losing position"
+  },
+  "ALLIES": {
+    "Definition": "people who would help and support them"
+  },
+  "STATED": {
+    "Definition": "said officially"
+  },
+  "SUSPICION": {
+    "Definition": "feeling that something was wrong"
+  },
+  "ESPIONAGE": {
+    "Definition": "spying"
+  },
+  "WHEREABOUTS": {
+    "Definition": "where he was"
+  },
+  "VANISHED": {
+    "Definition": "disappeared suddenly"
+  },
+  "STEPFATHER": {
+    "Definition": "mother’s husband (not real father)"
+  },
+  "LOBBIED": {
+    "Definition": "tried to influence"
+  },
+  "SIGHTINGS": {
+    "Definition": "times when he was seen"
+  },
+  "SEND WORD TO": {
+    "Definition": "send a message to"
+  },
+  "BY AND LARGE": {
+    "Definition": "generally"
+  },
+  "SAT ON THEM": {
+    "Definition": "did nothing with the information"
+  },
+  "SUSPICIOUS": {
+    "Definition": "seeming wrong or doubtful"
+  },
+  "AUTOPSY": {
+    "Definition": "medical exam after death"
+  },
+  "CREMATED": {
+    "Definition": "burned after death"
+  },
+  "INTERROGATED": {
+    "Definition": "questioned strongly"
+  },
+  "UNAMBIGUOUS": {
+    "Definition": "very clear"
+  },
+  "LIQUIDATED": {
+    "Definition": "killed"
+  },
+  "BROADER": {
+    "Definition": "wider or more general"
+  },
+  "VASTLY": {
+    "Definition": "much more"
+  },
+  "CONSENSUS": {
+    "Definition": "general agreement"
+  },
+  "BALL BEARINGS": {
+    "Definition": "small metal balls used in machines"
+  },
+  "UNMISTAKABLE": {
+    "Definition": "very clear and obvious"
+  },
+  "OWE": {
+    "Definition": "have as a result of it"
+  },
+  "JUSTIFICATION": {
+    "Definition": "a good reason"
+  }
+}
