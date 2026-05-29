@@ -1,0 +1,320 @@
+{
+  "SALOON": {
+    "Definition": "a bar where people drank alcohol"
+  },
+  "BROTHEL": {
+    "Definition": "a place where people paid for sex"
+  },
+  "SURRENDER": {
+    "Definition": "the act of stopping fighting and giving up"
+  },
+  "VACANT LOT": {
+    "Definition": "an empty piece of land"
+  },
+  "DRAWN": {
+    "Definition": "taken out, especially a gun"
+  },
+  "WITHOUT A SCRATCH": {
+    "Definition": "completely unhurt"
+  },
+  "GONE DOWN AS": {
+    "Definition": "been remembered as"
+  },
+  "ICONIC": {
+    "Definition": "very famous and easy to recognise"
+  },
+  "GLINTING": {
+    "Definition": "shining with small flashes of light"
+  },
+  "CONJURES UP": {
+    "Definition": "makes you imagine"
+  },
+  "SALOONS": {
+    "Definition": "bars where people drank alcohol"
+  },
+  "OUTLAWS": {
+    "Definition": "criminals who lived outside the law"
+  },
+  "EXPANDING WESTWARD": {
+    "Definition": "moving and growing towards the west"
+  },
+  "FEROCIOUS": {
+    "Definition": "very fierce or intense"
+  },
+  "TERRITORIES": {
+    "Definition": "areas of land"
+  },
+  "ABSORBING": {
+    "Definition": "taking control of"
+  },
+  "ESTABLISHED": {
+    "Definition": "already existing and organised"
+  },
+  "PROPERTY REGISTRIES": {
+    "Definition": "official records showing who owned land or buildings"
+  },
+  "FREE-FOR-ALL": {
+    "Definition": "a situation with no rules or control"
+  },
+  "SILVER STRIKES": {
+    "Definition": "places where silver was discovered"
+  },
+  "DRIFTERS": {
+    "Definition": "people who moved from place to place without staying long"
+  },
+  "LEGENDARY": {
+    "Definition": "extremely famous and admired"
+  },
+  "LAWLESSNESS": {
+    "Definition": "a situation where laws were not obeyed"
+  },
+  "SYSTEMATICALLY SLAUGHTERED": {
+    "Definition": "killed in a planned and organised way"
+  },
+  "HIDES": {
+    "Definition": "animal skins"
+  },
+  "STAGECOACHES": {
+    "Definition": "large horse-drawn vehicles for carrying people or mail"
+  },
+  "HORSE THEFT": {
+    "Definition": "the crime of stealing horses"
+  },
+  "EXECUTION": {
+    "Definition": "the act of killing someone as a legal punishment"
+  },
+  "SKIPPED TOWN": {
+    "Definition": "left the place quickly to avoid trouble"
+  },
+  "BACKGROUND CHECKS": {
+    "Definition": "investigations into someone’s past"
+  },
+  "DEPUTY MARSHAL": {
+    "Definition": "a law officer who helped a marshal"
+  },
+  "PORTFOLIO CAREER": {
+    "Definition": "a career with many different jobs"
+  },
+  "PROSTITUTION": {
+    "Definition": "the work of having sex for money"
+  },
+  "FARO": {
+    "Definition": "an old card gambling game"
+  },
+  "TAKEN UP": {
+    "Definition": "started having or accepted"
+  },
+  "APPOINT": {
+    "Definition": "officially choose someone for the job"
+  },
+  "NEPOTISM": {
+    "Definition": "giving jobs to family members unfairly"
+  },
+  "RESERVED": {
+    "Definition": "quiet and not very open with people"
+  },
+  "PROSPEROUS": {
+    "Definition": "rich and successful"
+  },
+  "FRONTIER": {
+    "Definition": "the edge of settled land"
+  },
+  "LOOSE NETWORK": {
+    "Definition": "a group connected in a weak or informal way"
+  },
+  "SMUGGLERS": {
+    "Definition": "people who secretly moved illegal goods"
+  },
+  "LIVESTOCK": {
+    "Definition": "farm animals"
+  },
+  "INTIMIDATED": {
+    "Definition": "frightened or made afraid"
+  },
+  "RUNNING FEUD": {
+    "Definition": "a long and continuing fight or argument"
+  },
+  "ALLEGIANCE": {
+    "Definition": "support or loyalty"
+  },
+  "SYMPATHETIC": {
+    "Definition": "understanding and supportive"
+  },
+  "RANCHING": {
+    "Definition": "raising cattle or other animals on large farms"
+  },
+  "WARINESS": {
+    "Definition": "a feeling of not fully trusting them"
+  },
+  "OUTSIDERS": {
+    "Definition": "people who did not belong to the place"
+  },
+  "AGENDA": {
+    "Definition": "a hidden plan or aim"
+  },
+  "HAD HIS SIGHTS ON": {
+    "Definition": "wanted to get"
+  },
+  "DIMENSION": {
+    "Definition": "part or side"
+  },
+  "ENGAGED": {
+    "Definition": "formally promised to marry"
+  },
+  "BROKE IT OFF": {
+    "Definition": "ended the relationship"
+  },
+  "SIMMERING": {
+    "Definition": "continuing quietly and slowly getting worse"
+  },
+  "ORDINANCE": {
+    "Definition": "official local law"
+  },
+  "CITY LIMITS": {
+    "Definition": "the official borders of the town"
+  },
+  "GUNFIGHTER": {
+    "Definition": "a person known for fighting with guns"
+  },
+  "DISPUTED": {
+    "Definition": "argued about because people disagree"
+  },
+  "OUTRIGHT": {
+    "Definition": "immediately"
+  },
+  "GRAZED": {
+    "Definition": "slightly injured"
+  },
+  "CHARGED WITH": {
+    "Definition": "officially accused of"
+  },
+  "CAPACITY": {
+    "Definition": "official role or position"
+  },
+  "JUSTIFIED": {
+    "Definition": "shown to be right or reasonable"
+  },
+  "LAW ENFORCERS": {
+    "Definition": "people who made sure laws were obeyed"
+  },
+  "SETTLE A PRIVATE SCORE": {
+    "Definition": "get revenge for a personal problem"
+  },
+  "TIT-FOR-TAT": {
+    "Definition": "an action done in revenge for another action"
+  },
+  "VENDETTA": {
+    "Definition": "a long and bitter fight between the groups"
+  },
+  "AMBUSHED": {
+    "Definition": "attacked suddenly by surprise"
+  },
+  "PERMANENTLY DISABLED": {
+    "Definition": "injured forever"
+  },
+  "DUE LEGAL PROCESS": {
+    "Definition": "fair legal steps"
+  },
+  "IN PURSUIT OF": {
+    "Definition": "chasing or trying to catch"
+  },
+  "HELD RESPONSIBLE": {
+    "Definition": "blamed for the action"
+  },
+  "CROSSED A LINE": {
+    "Definition": "went too far"
+  },
+  "WARRANT": {
+    "Definition": "an official paper allowing police to arrest him"
+  },
+  "PROPERTY SPECULATOR": {
+    "Definition": "a person who bought land or buildings hoping to sell later for more money"
+  },
+  "LAND BOOM": {
+    "Definition": "a time when land prices rose very quickly"
+  },
+  "BOUT": {
+    "Definition": "sports match or fight"
+  },
+  "CONTROVERSIALLY": {
+    "Definition": "in a way that caused disagreement"
+  },
+  "FIXING THE RESULT": {
+    "Definition": "secretly changing the result unfairly"
+  },
+  "DOMINANT": {
+    "Definition": "more important than others"
+  },
+  "HOUSEHOLD NAMES": {
+    "Definition": "very famous people known by almost everyone"
+  },
+  "DIME NOVELS": {
+    "Definition": "cheap popular books with exciting stories"
+  },
+  "SENSATIONAL": {
+    "Definition": "very exciting or shocking"
+  },
+  "OUTLAST": {
+    "Definition": "continue longer than"
+  },
+  "ALBEIT": {
+    "Definition": "although"
+  },
+  "QUINTESSENTIAL": {
+    "Definition": "the perfect example of it"
+  },
+  "PURSUE A PRIVATE VENDETTA": {
+    "Definition": "continue looking for personal revenge"
+  },
+  "FLED JUSTICE": {
+    "Definition": "escaped to avoid punishment"
+  },
+  "MATCH-FIXING": {
+    "Definition": "secretly changing the result of a sports event unfairly"
+  },
+  "SKULDUGGERY": {
+    "Definition": "dishonest or secret bad behaviour"
+  },
+  "DODGY": {
+    "Definition": "dishonest or suspicious"
+  },
+  "MANUSCRIPT": {
+    "Definition": "a piece of writing before it was published"
+  },
+  "TAKE DOWN": {
+    "Definition": "write down"
+  },
+  "DEFINITIVE": {
+    "Definition": "seen as the best and most complete"
+  },
+  "FIX HIS REPUTATION": {
+    "Definition": "improve what people thought about him"
+  },
+  "BIOGRAPHY": {
+    "Definition": "a book about his life"
+  },
+  "PIMPING": {
+    "Definition": "controlling prostitution and making money from it"
+  },
+  "EMBODIMENT": {
+    "Definition": "a person that clearly showed or represented them"
+  },
+  "RETELLING": {
+    "Definition": "a new version of telling the story"
+  },
+  "FIREARMS ORDINANCE": {
+    "Definition": "a local law about carrying guns"
+  },
+  "DEFINING": {
+    "Definition": "most important or most typical"
+  },
+  "CHEQUERED PAST": {
+    "Definition": "a past full of problems or bad behaviour"
+  },
+  "TAMED": {
+    "Definition": "brought under control"
+  },
+  "CLEARING HIS NAME": {
+    "Definition": "proving he was not guilty or dishonest"
+  }
+}
