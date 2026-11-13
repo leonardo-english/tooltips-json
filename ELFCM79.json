@@ -1,143 +1,149 @@
 {
-  "ADMINISTERS": {
-    "Definition": "manages and controls"
+  "QUITE FRANKLY": {
+    "Definition": "to be completely honest"
+  },
+  "SWANS": {
+    "Definition": "large birds with long necks that swim on rivers and lakes"
+  },
+  "HANDLE": {
+    "Definition": "touch, hold or carry"
+  },
+  "LEGISLATE": {
+    "Definition": "make laws"
+  },
+  "HANDLING": {
+    "Definition": "touching, holding or carrying"
   },
   "AMBIGUOUS": {
-    "Definition": "unclear, or having multiple meanings"
+    "Definition": "unclear; possible to understand in more than one way"
   },
-  "ARCHERY": {
-    "Definition": "the sport of shooting arrows"
-  },
-  "BREED": {
-    "Definition": "type of an animal"
-  },
-  "BY-LAW": {
-    "Definition": "a local government law"
-  },
-  "CLARIFYING": {
-    "Definition": "making something more clear"
-  },
-  "COMBING THROUGH": {
-    "Definition": "looking closely through"
-  },
-  "DEFACE": {
-    "Definition": "to damage something by drawing on it"
-  },
-  "DISORDERLY": {
-    "Definition": "violent or badly behaved"
-  },
-  "DNA": {
-    "Definition": "if something is 'in someone's DNA', it means that they are destined to do something"
-  },
-  "DRONE": {
-    "Definition": "a small aircraft without a pilot, operated by a radio"
-  },
-  "ENFORCED": {
-    "Definition": "if a law is enforced, the police make sure that people obey it"
-  },
-  "EXERCISING": {
-    "Definition": "using a power that you have"
-  },
-  "EXPRESS": {
-    "Definition": "special, deliberate"
-  },
-  "FANCY": {
-    "Definition": "would like to (do something)"
-  },
-  "FEATURE": {
-    "Definition": "an important thing"
+  "MAJESTIC": {
+    "Definition": "beautiful and impressive in a grand way"
   },
   "FINE": {
-    "Definition": "money that is paid as punishment"
+    "Definition": "an amount of money that must be paid as a punishment"
+  },
+  "SWAN": {
+    "Definition": "a large bird with a long neck that swims on rivers and lakes"
+  },
+  "BREED": {
+    "Definition": "a particular type of animal"
+  },
+  "EXERCISING": {
+    "Definition": "using"
+  },
+  "REIGNING": {
+    "Definition": "currently ruling"
+  },
+  "MONARCH’S": {
+    "Definition": "king's or queen's"
+  },
+  "DEFACE": {
+    "Definition": "spoil the appearance of, for example by writing on it"
+  },
+  "WILLFULLY": {
+    "Definition": "deliberately; on purpose"
+  },
+  "TEAR IT UP": {
+    "Definition": "pull it apart into pieces"
+  },
+  "RIP IT UP": {
+    "Definition": "pull it roughly apart into pieces"
   },
   "FINED": {
     "Definition": "made to pay money as a punishment"
   },
-  "HANDLE": {
-    "Definition": "to touch or hold in your hands"
+  "SLAPPED": {
+    "Definition": "suddenly and unpleasantly given"
   },
-  "HANDLING": {
-    "Definition": "see 'handle'"
-  },
-  "LEGISLATE": {
-    "Definition": "make a new law"
+  "FEATURE": {
+    "Definition": "an important and typical part"
   },
   "LICENSED": {
-    "Definition": "given permission to serve alcohol"
+    "Definition": "officially allowed to sell alcohol"
   },
-  "LONGBOW": {
-    "Definition": "a large bow, used for hunting or in battles"
+  "PREMISES": {
+    "Definition": "buildings or places used by a business"
   },
-  "MAJESTIC": {
-    "Definition": "beautiful and deserving of admiration"
+  "ENFORCED": {
+    "Definition": "put into action by the police"
   },
-  "MODERATELY": {
-    "Definition": "averagely"
-  },
-  "OBEY": {
-    "Definition": "do what you are told to do"
-  },
-  "ORDERLY": {
-    "Definition": "in an organised way"
-  },
-  "POINTLESS": {
-    "Definition": "without purpose"
-  },
-  "POSTHUMOUSLY": {
-    "Definition": "after a person is dead"
-  },
-  "PRIORITY": {
-    "Definition": "something that is important and needs to be dealt with quickly"
-  },
-  "QUEUE-JUMPERS": {
-    "Definition": "people who go to the front of the queue"
-  },
-  "QUITE FRANKLY": {
-    "Definition": "to be honest"
-  },
-  "REIGNING": {
-    "Definition": "on the throne at that time"
-  },
-  "REPEAL": {
-    "Definition": "get rid of"
-  },
-  "REPEALED": {
-    "Definition": "got rid of"
-  },
-  "RIP IT UP": {
-    "Definition": "to pull something into small pieces"
-  },
-  "RUMOUR": {
-    "Definition": "something that may be true, but you don't know"
-  },
-  "SILLY": {
-    "Definition": "not serious"
-  },
-  "SLAPPED": {
-    "Definition": "(informal) given"
-  },
-  "SWAN": {
-    "Definition": "a large, usually white bird with a long neck"
-  },
-  "SWANS": {
-    "Definition": "large, usually white birds with a long neck"
-  },
-  "TASKED": {
-    "Definition": "given the job of"
-  },
-  "TEAR IT UP": {
-    "Definition": "to damage something by pulling it into pieces"
-  },
-  "TREASON": {
-    "Definition": "the crime of acting against the best interests of your country"
-  },
-  "UNORTHODOX": {
-    "Definition": "different from the norm"
-  },
-  "WILLFULLY": {
-    "Definition": "on purpose, not accidentally"
+  "DISORDERLY": {
+    "Definition": "noisy, uncontrolled or violent"
   },
   "WITNESSED": {
-    "Definition": "seen"
+    "Definition": "seen with my own eyes"
+  },
+  "DNA": {
+    "Definition": "basic nature or character"
+  },
+  "ORDERLY": {
+    "Definition": "neat and well organised"
+  },
+  "ADMINISTERS": {
+    "Definition": "manages and runs"
+  },
+  "OBEY": {
+    "Definition": "act according to"
+  },
+  "QUEUE-JUMPERS": {
+    "Definition": "people who push in ahead of others waiting in a line"
+  },
+  "BY-LAW": {
+    "Definition": "a rule made by a local authority or organisation, not by the national government"
+  },
+  "SILLY": {
+    "Definition": "not serious; a bit foolish"
+  },
+  "UNORTHODOX": {
+    "Definition": "unusual and different from what is normal"
+  },
+  "POSTHUMOUSLY": {
+    "Definition": "after their death"
+  },
+  "EXPRESS": {
+    "Definition": "clearly and directly given"
+  },
+  "COMBING THROUGH": {
+    "Definition": "searching very carefully through"
+  },
+  "MODERATELY": {
+    "Definition": "fairly; to a medium degree"
+  },
+  "RUMOUR": {
+    "Definition": "a story that people pass around which may not be true"
+  },
+  "TREASON": {
+    "Definition": "the crime of betraying your country, especially by harming its king or queen"
+  },
+  "POINTLESS": {
+    "Definition": "having no purpose or use"
+  },
+  "PRIORITY": {
+    "Definition": "something seen as important and dealt with first"
+  },
+  "DRONE": {
+    "Definition": "a small aircraft with no pilot, controlled from the ground"
+  },
+  "CLARIFYING": {
+    "Definition": "explaining more exactly"
+  },
+  "REPEAL": {
+    "Definition": "officially cancel"
+  },
+  "LONGBOW": {
+    "Definition": "a tall weapon of curved wood and string for shooting arrows"
+  },
+  "ARCHERY": {
+    "Definition": "the sport or skill of shooting arrows"
+  },
+  "REPEALED": {
+    "Definition": "officially cancelled"
+  },
+  "TASKED": {
+    "Definition": "given the job of dealing"
+  },
+  "FANCY": {
+    "Definition": "feel like"
   }
 }
