@@ -1,152 +1,152 @@
 {
-  "BREADTH": {
-    "Definition": "width, large amount"
-  },
-  "BREAK DOWN": {
-    "Definition": "stop working"
-  },
-  "CONTRARY TO": {
-    "Definition": "different to"
-  },
-  "CRANK": {
-    "Definition": "a handle used to turn something"
-  },
-  "CRITICISMS": {
-    "Definition": "negative things said about someone or something"
-  },
-  "CRITICS": {
-    "Definition": "see 'criticisms'"
-  },
-  "CRUST": {
-    "Definition": "the hard, outer layer"
-  },
-  "CULT FOLLOWING": {
-    "Definition": "to have a group of people who love and admire (someone)"
-  },
-  "CULT-LIKE FOLLOWING": {
-    "Definition": "see 'cult following'"
-  },
-  "DISPOSE OF": {
-    "Definition": "get rid of"
-  },
-  "DISPOSING OF": {
-    "Definition": "getting rid of"
-  },
-  "DISTINCT": {
-    "Definition": "unique"
-  },
-  "ELECTRICITY GRID": {
-    "Definition": "the network of electricity"
-  },
-  "EMISSIONS": {
-    "Definition": "gas sent into the air"
-  },
-  "EMIT": {
-    "Definition": "give off"
-  },
-  "EMITS": {
-    "Definition": "gives off"
-  },
-  "EQUIVALENT": {
-    "Definition": "the same (value)"
-  },
-  "EQUIVALENTS": {
-    "Definition": "the same (value)"
-  },
-  "ERASED": {
-    "Definition": "removed"
-  },
-  "EXECUTIVES": {
-    "Definition": "senior businesspeople"
-  },
-  "EXPENSE": {
-    "Definition": "cost"
-  },
-  "EXTRACT": {
-    "Definition": "take out, remove"
-  },
-  "FACTOR IN": {
-    "Definition": "consider"
-  },
-  "FLUCTUATING": {
-    "Definition": "moving up and down"
-  },
-  "FRONT OF THE PACK": {
-    "Definition": "in the lead (of a group)"
-  },
-  "FUMES": {
-    "Definition": "strong, unpleasant smells or smoke"
-  },
-  "GRILL": {
-    "Definition": "the metal bars at the front of an old petrol-powered car"
-  },
-  "GROWING APPETITE": {
-    "Definition": "an increasing desire"
+  "INTREPID": {
+    "Definition": "brave and willing to try new and risky things"
   },
   "IMPRACTICAL": {
-    "Definition": "not good (for a certain purpose)"
+    "Definition": "not sensible or useful in real life"
   },
-  "IN ITS OWN RIGHT": {
-    "Definition": "itself, without the influence of anyone or anything else"
+  "CRANK": {
+    "Definition": "a bent metal handle that is turned by hand to start a machine"
   },
-  "INTREPID": {
-    "Definition": "brave and fearless"
+  "EMIT": {
+    "Definition": "send out into the air"
   },
-  "IT WAS CURTAINS": {
-    "Definition": "it was the end"
+  "FUMES": {
+    "Definition": "smoke or gases that smell bad and are harmful to breathe"
   },
-  "LIABLE": {
-    "Definition": "likely (to do something)"
+  "BREAK DOWN": {
+    "Definition": "stop working because of a fault"
   },
   "MARKETED": {
-    "Definition": "advertised to a particular group of people"
-  },
-  "OUT OF DATE": {
-    "Definition": "not current"
-  },
-  "OUTNUMBER": {
-    "Definition": "to be greater in number"
-  },
-  "PROPORTION": {
-    "Definition": "percentage"
+    "Definition": "advertised and offered for sale"
   },
   "PUT OFF": {
-    "Definition": "make someone not want to do something"
+    "Definition": "make unwilling or less interested"
   },
   "RADIATOR": {
-    "Definition": "the part of the car that stops the engine from getting too hot"
+    "Definition": "a metal part at the front of a car that keeps the engine cool"
+  },
+  "GRILL": {
+    "Definition": "a metal frame with gaps in it at the front of a car that lets air in"
+  },
+  "CRITICISMS": {
+    "Definition": "statements about what is bad or wrong with something"
   },
   "RANGES": {
-    "Definition": "distances possible to travel"
+    "Definition": "distances that a vehicle can travel before it needs more power"
   },
-  "RARE EARTH": {
-    "Definition": "one of 17 chemical elements used in modern technologies"
-  },
-  "RARE EARTHS": {
-    "Definition": "17 chemical elements used in modern technologies"
-  },
-  "RENAISSANCE": {
-    "Definition": "rebirth"
-  },
-  "SPIKES": {
-    "Definition": "large movements up and down"
-  },
-  "THE TABLES TURNED": {
-    "Definition": "the situation changed completely"
+  "ELECTRICITY GRID": {
+    "Definition": "the network of wires that carries power from power stations to homes and businesses"
   },
   "THE TURN OF": {
-    "Definition": "the start of"
+    "Definition": "the years around the start of"
+  },
+  "OUTNUMBER": {
+    "Definition": "become more common than"
+  },
+  "EXPENSE": {
+    "Definition": "cost; amount of money spent"
+  },
+  "THE TABLES TURNED": {
+    "Definition": "the situation changed completely, and the side that was behind took the lead"
+  },
+  "EQUIVALENT": {
+    "Definition": "an amount with the same value"
+  },
+  "IT WAS CURTAINS": {
+    "Definition": "it was the end; there was no future"
+  },
+  "FLUCTUATING": {
+    "Definition": "changing often, rising and falling"
+  },
+  "LIABLE": {
+    "Definition": "likely to be affected by"
+  },
+  "SPIKES": {
+    "Definition": "sudden sharp rises"
   },
   "UNAPPEALING": {
-    "Definition": "not desirable"
+    "Definition": "not attractive or interesting"
+  },
+  "BREADTH": {
+    "Definition": "wide range"
+  },
+  "CULT FOLLOWING": {
+    "Definition": "a group of extremely loyal and enthusiastic fans"
+  },
+  "EXECUTIVES": {
+    "Definition": "senior managers who make important decisions in a company"
+  },
+  "RENAISSANCE": {
+    "Definition": "a period of new popularity and interest after a time of decline"
+  },
+  "CRITICS": {
+    "Definition": "people who say what they think is bad about something"
+  },
+  "EMISSIONS": {
+    "Definition": "gases, such as carbon dioxide, sent out into the air"
+  },
+  "RARE EARTH": {
+    "Definition": "a group of special metals found in rocks and used in electronics"
   },
   "VITAL": {
-    "Definition": "very important"
+    "Definition": "very important and necessary"
+  },
+  "DISPOSING OF": {
+    "Definition": "getting rid of; throwing away"
+  },
+  "DISPOSE OF": {
+    "Definition": "get rid of; throw away"
+  },
+  "EQUIVALENTS": {
+    "Definition": "cars of a similar type and size"
+  },
+  "PROPORTION": {
+    "Definition": "part or share of a total"
+  },
+  "EMITS": {
+    "Definition": "sends out into the air"
+  },
+  "FACTOR IN": {
+    "Definition": "include in your calculation"
+  },
+  "RARE EARTHS": {
+    "Definition": "special metals found in rocks and used in batteries and electronics"
+  },
+  "CONTRARY TO": {
+    "Definition": "the opposite of; different from"
+  },
+  "EXTRACT": {
+    "Definition": "remove from the ground or rock"
+  },
+  "CRUST": {
+    "Definition": "the hard outer layer"
+  },
+  "CULT-LIKE FOLLOWING": {
+    "Definition": "a group of fans who admire him in an extreme, almost religious way"
+  },
+  "IN ITS OWN RIGHT": {
+    "Definition": "because of its own qualities, not because of him"
+  },
+  "DISTINCT": {
+    "Definition": "clearly different and easy to recognise"
   },
   "WIDE-SCALE": {
-    "Definition": "used by lots of people"
+    "Definition": "involving very many people or places"
   },
   "ZOOMED UP": {
-    "Definition": "increased rapidly"
+    "Definition": "risen very quickly"
+  },
+  "OUT OF DATE": {
+    "Definition": "no longer correct because things have changed"
+  },
+  "FRONT OF THE PACK": {
+    "Definition": "the leading position, ahead of the others"
+  },
+  "GROWING APPETITE": {
+    "Definition": "increasing desire or demand"
+  },
+  "ERASED": {
+    "Definition": "removed completely; destroyed"
   }
 }
