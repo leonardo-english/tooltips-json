@@ -1,161 +1,161 @@
 {
-  "ALPINE": {
-    "Definition": "relating to the Alps (the mountain range)"
-  },
-  "ASTRONOMER": {
-    "Definition": "someone who studies astronomy"
-  },
-  "BACKGROUND": {
-    "Definition": "the set of conditions that existed before a particular event, or information about them which helps to explain the event"
-  },
-  "BIASED": {
-    "Definition": "preferring or disliking someone or something more than someone or something else, in a way that means that they are treated unfairly"
-  },
-  "BROADCAST": {
-    "Definition": "to send out a programme on television or radio"
-  },
-  "BUMPER": {
-    "Definition": "very large"
-  },
-  "CIRCULATION": {
-    "Definition": "the number of people that a newspaper or magazine is regularly sold to"
-  },
-  "CONVINCE": {
-    "Definition": "to persuade someone or make someone certain"
-  },
-  "DATE BACK": {
-    "Definition": "to have existed for a particular length of time or since a particular time"
-  },
-  "DECLARING": {
-    "Definition": "to announce something clearly, firmly, publicly, or officially"
-  },
-  "EMBRACED": {
-    "Definition": "to accept something enthusiastically"
-  },
-  "ENGAGES": {
-    "Definition": "involves itself with"
-  },
-  "ERA": {
-    "Definition": "a period of time of which particular events or stages of development are typical"
-  },
-  "EXOTIC": {
-    "Definition": "unusual and exciting because of coming (or seeming to come) from far away, especially a tropical country"
-  },
-  "FACT": {
-    "Definition": "truth"
-  },
-  "FEATURES": {
-    "Definition": "involves"
-  },
-  "FICTION": {
-    "Definition": "invented stories"
-  },
-  "FLOATED": {
-    "Definition": "moves slowly through the air"
-  },
-  "FLOATING": {
-    "Definition": "moves slowly through the air"
-  },
-  "FUNCTIONALITY": {
-    "Definition": "any or all of the operations performed by a piece of equipment or a software program"
-  },
-  "FUNERAL": {
-    "Definition": "a (usually religious) ceremony for burying or burning the body of a dead person"
-  },
-  "GRAVITY": {
-    "Definition": "the force that attracts objects towards one another, especially the force that makes things fall to the ground"
-  },
-  "HARVEST": {
-    "Definition": "the crops that have been gathered"
-  },
-  "HARVESTED": {
-    "Definition": "gathered, collectect (of crops)"
-  },
-  "HIGHBROW": {
-    "Definition": "(of books, plays, etc.) involving serious and complicated or artistic ideas, or (of people) interested in serious and complicated subjects"
-  },
-  "INCREASINGLY": {
-    "Definition": "to (make something) become larger in amount or size"
-  },
-  "INTRAVENOUS": {
-    "Definition": "into or connected to a vein"
-  },
-  "KEEN": {
-    "Definition": "very interested, eager, or wanting (to do) something very much"
-  },
-  "LOWBROW": {
-    "Definition": "(of entertainment) not complicated or demanding much intelligence to be understood"
-  },
-  "MADE UP": {
-    "Definition": "invented, not true"
-  },
-  "MASS MEDIA": {
-    "Definition": "newspapers, television, radio, and the internet"
-  },
-  "MINION": {
-    "Definition": "a main character from the Despicable Me series"
-  },
   "ORIGINS": {
-    "Definition": "the beginning or cause of something"
-  },
-  "PINT": {
-    "Definition": "a measure for liquid equal to about half a litre, used as a typical measure for beer"
-  },
-  "POP CULTURE": {
-    "Definition": "music, TV, cinema, books, etc. that are popular and enjoyed by ordinary people, rather than experts or very educated people"
+    "Definition": "the places or times where something first began"
   },
   "PRACTICAL JOKES": {
-    "Definition": "a joke that makes someone seem silly and involves a physical action rather than words"
+    "Definition": "tricks played on people to make them look silly"
+  },
+  "TRACED": {
+    "Definition": "followed through history"
+  },
+  "ERA": {
+    "Definition": "a period of time in history"
+  },
+  "TRICKING": {
+    "Definition": "deceiving, usually for fun"
+  },
+  "DATE BACK": {
+    "Definition": "go back in time"
+  },
+  "TURNED UP": {
+    "Definition": "arrived"
   },
   "PRANK": {
-    "Definition": "a trick that is intended to be funny but not to cause harm or damage"
+    "Definition": "a trick played on someone for fun"
+  },
+  "KEEN": {
+    "Definition": "eager or happy"
+  },
+  "PROVED": {
+    "Definition": "turned out to be"
+  },
+  "MASS MEDIA": {
+    "Definition": "ways of giving news to very large numbers of people, such as TV and newspapers"
+  },
+  "CIRCULATION": {
+    "Definition": "the selling and passing around of copies to readers"
+  },
+  "BIASED": {
+    "Definition": "unfairly favouring one side"
+  },
+  "ENGAGES": {
+    "Definition": "takes part or gets involved"
+  },
+  "EMBRACED": {
+    "Definition": "happily accepted and taken up"
+  },
+  "SPOT": {
+    "Definition": "notice and find"
+  },
+  "BROADCAST": {
+    "Definition": "sent out on TV or radio"
+  },
+  "BACKGROUND": {
+    "Definition": "information about a situation that helps you understand it"
+  },
+  "ALPINE": {
+    "Definition": "of the Alps, the high mountains of central Europe"
+  },
+  "BUMPER": {
+    "Definition": "unusually large"
+  },
+  "HARVEST": {
+    "Definition": "an amount of crops gathered at one time"
+  },
+  "MADE UP": {
+    "Definition": "invented; not true"
+  },
+  "HARVESTED": {
+    "Definition": "cut and gathered as a crop"
+  },
+  "EXOTIC": {
+    "Definition": "unusual and from a distant country"
+  },
+  "RIDICULOUS": {
+    "Definition": "silly and not to be taken seriously"
+  },
+  "FEATURES": {
+    "Definition": "includes as an important part"
+  },
+  "POP CULTURE": {
+    "Definition": "the music, TV, films and fashions that most ordinary people enjoy"
+  },
+  "CONVINCE": {
+    "Definition": "persuade"
+  },
+  "PRESCRIPTION": {
+    "Definition": "a written note from a doctor that lets you get a medicine"
+  },
+  "INTRAVENOUS": {
+    "Definition": "going straight into the blood through a vein"
+  },
+  "TUBE": {
+    "Definition": "a long, thin, hollow pipe"
+  },
+  "PINT": {
+    "Definition": "a measure of just over half a litre, often used for beer in the UK"
+  },
+  "HIGHBROW": {
+    "Definition": "clever and aimed at educated people"
+  },
+  "LOWBROW": {
+    "Definition": "simple and aimed at people who want easy entertainment"
+  },
+  "ASTRONOMER": {
+    "Definition": "a scientist who studies the stars and planets"
+  },
+  "UNIQUE": {
+    "Definition": "happening only once; very unusual"
+  },
+  "GRAVITY": {
+    "Definition": "the force that pulls things towards the Earth"
   },
   "PRECISELY": {
     "Definition": "exactly"
   },
-  "PRESCRIPTION": {
-    "Definition": "a piece of paper on which a doctor writes the details of the medicine or drugs that someone needs"
+  "FLOATING": {
+    "Definition": "drifting gently in the air"
   },
-  "PROVED": {
-    "Definition": "to show a particular result after a period of time"
+  "FLOATED": {
+    "Definition": "drifted gently"
   },
-  "PULL OFF": {
-    "Definition": "manage to do"
+  "MINION": {
+    "Definition": "one of the small yellow cartoon characters"
   },
-  "REFLECT": {
-    "Definition": "to show, express, or be a sign of something"
+  "FUNCTIONALITY": {
+    "Definition": "a feature that lets you do something"
   },
-  "RIDICULOUS": {
-    "Definition": "stupid or unreasonable and deserving to be laughed at"
-  },
-  "SHAME": {
-    "Definition": "If something is described as a shame, it is disappointing or not satisfactory"
+  "FUNERAL": {
+    "Definition": "a ceremony held after someone dies"
   },
   "SO-CALLED": {
-    "Definition": "used to show that you think a word that is used to describe someone or something is not suitable or not correct"
+    "Definition": "called this by some people, often wrongly"
+  },
+  "REFLECT": {
+    "Definition": "give a picture or impression"
+  },
+  "SHAME": {
+    "Definition": "something sad or disappointing"
   },
   "SPOILS": {
-    "Definition": "destroys or reduces the pleasure, interest, or beauty of something"
+    "Definition": "ruins; makes less enjoyable"
   },
-  "SPOT": {
-    "Definition": "find"
+  "DECLARING": {
+    "Definition": "officially announcing"
   },
-  "TRACED": {
-    "Definition": "found (the origins of something)"
+  "INCREASINGLY": {
+    "Definition": "more and more"
   },
-  "TRICKING": {
-    "Definition": "an action that is intended to deceive, either as a way of cheating someone, or as a joke or form of entertainment"
+  "FACT": {
+    "Definition": "what is true or real"
   },
-  "TUBE": {
-    "Definition": "a long, hollow cylinder of plastic, metal, rubber, or glass, used for moving or containing liquids or gases"
+  "FICTION": {
+    "Definition": "what is invented and not true"
+  },
+  "PULL OFF": {
+    "Definition": "successfully carry out"
   },
   "TURBOCHARGE": {
-    "Definition": "speed up"
-  },
-  "TURNED UP": {
-    "Definition": "arrives at"
-  },
-  "UNIQUE": {
-    "Definition": "being the only existing one of its type or, more generally, unusual, or special in some way"
+    "Definition": "greatly speed up and improve"
   }
 }
