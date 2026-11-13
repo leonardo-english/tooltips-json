@@ -1,140 +1,146 @@
 {
-  "A HUGE DEAL": {
-    "Definition": "very important"
-  },
-  "ANTI-FRAUD": {
-    "Definition": "(in the case of money) to stop fake banknotes"
-  },
-  "AREN’T HAVING ANY OF IT": {
-    "Definition": "not accepting that something is true"
-  },
-  "BEAR WITH ME": {
-    "Definition": "have patience"
-  },
-  "BURST": {
-    "Definition": "to break open"
-  },
-  "BYPRODUCT": {
-    "Definition": "a product that is made as a consequence of something else"
-  },
-  "COMMENTATORS": {
-    "Definition": "experts, people who express an opinion on something"
-  },
-  "COMPONENTS": {
-    "Definition": "things that make up part of something else"
-  },
-  "COTTAGE INDUSTRY": {
-    "Definition": "small, often unprofessional, business"
-  },
-  "DAZZLING": {
-    "Definition": "very bright"
-  },
-  "DEGREES": {
-    "Definition": "levels"
-  },
-  "DEPOSITS": {
-    "Definition": "a layer of minerals"
-  },
-  "DEVASTATING": {
-    "Definition": "causing a lot of damage or destruction"
-  },
-  "DIFFERING": {
-    "Definition": "different, opposite"
-  },
-  "DISSOLVE": {
-    "Definition": "to be absorbed by a liquid"
-  },
-  "DOT": {
-    "Definition": "exist in large quantities, but at large distances from each other"
-  },
-  "DYSTOPIAN": {
-    "Definition": "relating to a future, imaginary world where life is terrible"
+  "IMPLICATIONS": {
+    "Definition": "possible effects or results"
   },
   "ETHICALLY": {
-    "Definition": "relating to principles of right and wrong"
+    "Definition": "in a way that is morally right and fair"
+  },
+  "SOURCED": {
+    "Definition": "obtained from a particular place or supplier"
+  },
+  "MINERALS": {
+    "Definition": "natural substances, such as metals, that are dug out of the ground"
+  },
+  "BEAR WITH ME": {
+    "Definition": "be patient with me and keep listening"
+  },
+  "THE PERIODIC TABLE": {
+    "Definition": "a chart that lists all the chemical elements in order"
+  },
+  "PLENTIFUL": {
+    "Definition": "available in large amounts"
+  },
+  "DEPOSITS": {
+    "Definition": "amounts of a substance found naturally in the ground"
+  },
+  "ISOLATING": {
+    "Definition": "separating out from everything else"
+  },
+  "DISSOLVE": {
+    "Definition": "become part of a liquid and disappear"
+  },
+  "PROPERTIES": {
+    "Definition": "qualities or features that a substance has"
+  },
+  "INDISPENSABLE": {
+    "Definition": "absolutely necessary"
+  },
+  "ANTI-FRAUD": {
+    "Definition": "designed to stop cheating, such as making fake money"
+  },
+  "ULTRAVIOLET": {
+    "Definition": "producing a type of light that the human eye cannot see"
+  },
+  "DAZZLING": {
+    "Definition": "extremely bright"
+  },
+  "PUNCTURE": {
+    "Definition": "make a small hole in"
+  },
+  "WIND TURBINES": {
+    "Definition": "tall machines with blades that turn in moving air to make electricity"
+  },
+  "MRI SCANNERS": {
+    "Definition": "hospital machines that take detailed pictures of the inside of the body"
   },
   "EXTRACT": {
-    "Definition": "take out"
+    "Definition": "take out of the ground and separate"
+  },
+  "COTTAGE INDUSTRY": {
+    "Definition": "a small business carried out by people in their homes or villages"
+  },
+  "RUBBING": {
+    "Definition": "pressing and moving your hands back and forth over"
+  },
+  "TA-DA": {
+    "Definition": "a word said when something appears suddenly, as if by magic"
+  },
+  "TOXIC": {
+    "Definition": "poisonous and harmful"
+  },
+  "SCENIC": {
+    "Definition": "pretty to look at"
+  },
+  "BURST": {
+    "Definition": "broke open suddenly"
+  },
+  "LANDSLIDE": {
+    "Definition": "a sudden fall of earth and rocks down a hill"
+  },
+  "PROFITABLE": {
+    "Definition": "money-making"
+  },
+  "VIRTUAL": {
+    "Definition": "almost total"
   },
   "FACTOR IN": {
-    "Definition": "consider"
+    "Definition": "include in the calculation"
   },
-  "FUNCTION": {
-    "Definition": "work"
+  "DOT": {
+    "Definition": "appear here and there across"
+  },
+  "DIFFERING": {
+    "Definition": "opposing"
+  },
+  "AREN’T HAVING ANY OF IT": {
+    "Definition": "refuse to accept this idea"
+  },
+  "SOCIETAL": {
+    "Definition": "affecting people and communities"
+  },
+  "OUTSOURCED": {
+    "Definition": "sent elsewhere to be done by others"
+  },
+  "YOU GET THE GIST": {
+    "Definition": "you understand the general idea"
+  },
+  "QUITE SOMETHING TO BEHOLD": {
+    "Definition": "very striking and remarkable to look at"
+  },
+  "DYSTOPIAN": {
+    "Definition": "set in an imagined world where life is terrible and frightening"
+  },
+  "BYPRODUCT": {
+    "Definition": "something extra, often unwanted, made while making something else"
+  },
+  "DEGREES": {
+    "Definition": "stages or steps"
+  },
+  "LOW-END": {
+    "Definition": "basic and of little value"
+  },
+  "TRANSITION": {
+    "Definition": "change gradually"
   },
   "HAZARDOUS": {
     "Definition": "dangerous"
   },
-  "IMPLICATIONS": {
-    "Definition": "consequences, possible future effects"
+  "COMPONENTS": {
+    "Definition": "parts that are used to make a machine or device"
   },
-  "INDISPENSABLE": {
-    "Definition": "very important, so much so that managing without it would be difficult"
+  "COMMENTATORS": {
+    "Definition": "people who give their opinions on events in the news"
   },
-  "ISOLATING": {
-    "Definition": "separating"
+  "DEVASTATING": {
+    "Definition": "extremely damaging"
   },
-  "LANDSLIDE": {
-    "Definition": "a sudden fall of earth down a slope"
-  },
-  "LOW-END": {
-    "Definition": "cheap"
-  },
-  "MRI SCANNERS": {
-    "Definition": "devices used to make a photo of the inside of someone's body"
-  },
-  "OUTSOURCED": {
-    "Definition": "employed another company to do something"
-  },
-  "PLENTIFUL": {
-    "Definition": "existing in large quantities"
-  },
-  "PROFITABLE": {
-    "Definition": "making a profit, making money"
-  },
-  "PROPERTIES": {
-    "Definition": "qualities or powers (of something)"
-  },
-  "PUNCTURE": {
-    "Definition": "make a hole in"
-  },
-  "QUITE SOMETHING TO BEHOLD": {
-    "Definition": "impressive, either in a negative or positive way"
-  },
-  "RUBBING": {
-    "Definition": "moving your hand over a surface"
-  },
-  "SCENIC": {
-    "Definition": "beautiful, often natural"
-  },
-  "SOCIETAL": {
-    "Definition": "relating to society"
-  },
-  "TA-DA": {
-    "Definition": "an expression of delight"
+  "A HUGE DEAL": {
+    "Definition": "a very serious problem"
   },
   "TALE": {
-    "Definition": "story"
+    "Definition": "a story"
   },
-  "THE PERIODIC TABLE": {
-    "Definition": "the table containing the list of chemical elements"
-  },
-  "TOXIC": {
-    "Definition": "containing poison, harmful to things around it"
-  },
-  "TRANSITION": {
-    "Definition": "move from one level to another"
-  },
-  "ULTRAVIOLET": {
-    "Definition": "(of light) a light that has a wavelength after violet, and cannot be seen by the human eye"
-  },
-  "VIRTUAL": {
-    "Definition": "almost"
-  },
-  "WIND TURBINES": {
-    "Definition": "modern windmills used to produce electricity"
-  },
-  "YOU GET THE GIST": {
-    "Definition": "you understand what I mean"
+  "FUNCTION": {
+    "Definition": "work properly"
   }
 }
