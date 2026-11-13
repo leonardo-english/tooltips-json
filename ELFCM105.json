@@ -1,93 +1,45 @@
 {
-  "AFFORDABLE": {
-    "Definition": "not expensive"
+  "COMMODITY": {
+    "Definition": "a basic product that is bought and sold in large amounts"
   },
-  "ALL MANNER": {
-    "Definition": "all sorts"
-  },
-  "APOCRYPHAL": {
-    "Definition": "well-known but probably not true"
-  },
-  "APOTHECARIES": {
-    "Definition": "people who mixed and sold medicines"
-  },
-  "AVID": {
-    "Definition": "keen and interested"
-  },
-  "BAPTISING": {
-    "Definition": "introducing someone or something into the church"
-  },
-  "BEFOREHAND": {
-    "Definition": "before"
-  },
-  "BITTER": {
-    "Definition": "having a strong, sharp taste"
-  },
-  "BOOM": {
-    "Definition": "quick increase"
-  },
-  "BOUQUET": {
-    "Definition": "a group of flowers"
+  "TAKE FOR GRANTED": {
+    "Definition": "accept as normal without thinking about how valuable they are"
   },
   "CAFFEINE": {
-    "Definition": "the substance in coffee and tea that makes you feel more active"
-  },
-  "COMMODITY": {
-    "Definition": "a product that is bought and sold"
-  },
-  "CONCOCTION": {
-    "Definition": "a food or drink created by mixing different things"
-  },
-  "CONDUCT": {
-    "Definition": "do"
-  },
-  "CONSUMPTION": {
-    "Definition": "the eating or drinking (of a substance)"
-  },
-  "CROPS": {
-    "Definition": "plants such as fruits or vegetables, grown in large amounts to be eaten"
-  },
-  "DISCERNING": {
-    "Definition": "showing good judgment"
-  },
-  "DOMINATION": {
-    "Definition": "control"
-  },
-  "ENABLED": {
-    "Definition": "allowed to happen"
-  },
-  "ENSLAVEMENT": {
-    "Definition": "the act of making someone a slave"
-  },
-  "FATE": {
-    "Definition": "what happens to a person or thing"
-  },
-  "FIRSTHAND": {
-    "Definition": "for yourself"
-  },
-  "GO-TO": {
-    "Definition": "the best or most popular person or thing for a particular task"
+    "Definition": "a substance in coffee and tea that makes you feel more awake"
   },
   "HERDER": {
-    "Definition": "a farmer of cows, goats, sheep etc."
+    "Definition": "a person who looks after a group of animals"
   },
-  "HUB": {
-    "Definition": "a centre"
+  "OVEREXCITED": {
+    "Definition": "too full of energy and hard to control"
   },
-  "LEGEND HAS IT": {
-    "Definition": "according to stories"
+  "MONKS": {
+    "Definition": "religious men who live together and spend their lives praying"
   },
-  "LOFTY": {
-    "Definition": "showing high standards"
+  "MONASTERY": {
+    "Definition": "a building where a group of religious men live and pray together"
   },
-  "MARGIN": {
-    "Definition": "amount"
+  "TA-DA": {
+    "Definition": "a word said when showing something surprising, like at the end of a magic trick"
   },
-  "MERCHANTS": {
-    "Definition": "businesspeople"
+  "TOOK OFF": {
+    "Definition": "suddenly became very popular"
   },
-  "MIRACULOUSLY": {
-    "Definition": "unexpected and very lucky"
+  "MYSTIC": {
+    "Definition": "a person who looks for spiritual truth through prayer and deep thought"
+  },
+  "APOCRYPHAL": {
+    "Definition": "probably not true, although often told"
+  },
+  "PENINSULA": {
+    "Definition": "a piece of land almost surrounded by water"
+  },
+  "PILGRIMAGES": {
+    "Definition": "journeys to a holy place for religious reasons"
+  },
+  "CONSUMPTION": {
+    "Definition": "the drinking or using of something"
   },
   "MISPRONOUNCE": {
     "Definition": "say incorrectly"
@@ -95,103 +47,145 @@
   "MISPRONOUNCED": {
     "Definition": "said incorrectly"
   },
-  "MONASTERY": {
-    "Definition": "the building where monks live"
-  },
-  "MONKS": {
-    "Definition": "male religious men"
-  },
-  "MONOPOLY": {
-    "Definition": "a group that has complete control over a particular thing"
-  },
-  "MYSTIC": {
-    "Definition": "a religious person who spends a lot of time praying"
-  },
-  "ORDER": {
-    "Definition": "(of a religion) a society or group"
-  },
-  "OVEREXCITED": {
-    "Definition": "too happy"
-  },
-  "OVERLAPPED": {
-    "Definition": "happened at the same time"
-  },
-  "PAPAL BLESSING": {
-    "Definition": "the approval of the pope"
-  },
-  "PENINSULA": {
-    "Definition": "a piece of land surrounded by water"
-  },
-  "PILGRIMAGES": {
-    "Definition": "special journeys made for religious reasons"
-  },
-  "PLANTATION": {
-    "Definition": "a large farm where a particular crop is grown"
-  },
-  "PLANTATIONS": {
-    "Definition": "large farms where particular crops are grown"
-  },
-  "POTION": {
-    "Definition": "a liquid with a magical effect"
-  },
-  "PROHIBITIVELY": {
-    "Definition": "in a way that is too great that is prevents you from doing something"
-  },
-  "REPORTEDLY": {
-    "Definition": "according to some people"
-  },
-  "RIOTS": {
-    "Definition": "large protests"
-  },
-  "SAPLINGS": {
-    "Definition": "small trees"
-  },
-  "SATAN": {
-    "Definition": "the devil"
-  },
-  "SEDUCED": {
-    "Definition": "persuaded to sleep with"
-  },
-  "SIP": {
-    "Definition": "a small drink"
-  },
-  "SPAWNED": {
-    "Definition": "created"
-  },
-  "SPRUNG UP": {
-    "Definition": "emerged quickly"
+  "DOMINATION": {
+    "Definition": "becoming the most important and popular everywhere"
   },
   "STAPLE": {
-    "Definition": "food that is used a lot"
+    "Definition": "a basic and important part"
   },
-  "TA-DA": {
-    "Definition": "used to indicate that something has arrived"
+  "ORDER": {
+    "Definition": "a group of people who live by the same religious rules and promises"
   },
-  "TAKE FOR GRANTED": {
-    "Definition": "fail to appreciate fully"
+  "BITTER": {
+    "Definition": "having a strong, sharp and unpleasant taste"
   },
-  "TENDS": {
-    "Definition": "likely to be"
+  "SATAN": {
+    "Definition": "the Devil, the most powerful evil spirit in Christianity"
+  },
+  "FATE": {
+    "Definition": "what would happen to something in the future"
+  },
+  "FIRSTHAND": {
+    "Definition": "personally, by experiencing it directly"
+  },
+  "SIP": {
+    "Definition": "a very small mouthful of a drink"
+  },
+  "CONCOCTION": {
+    "Definition": "a drink made by mixing different things together"
+  },
+  "PAPAL BLESSING": {
+    "Definition": "official approval as the head of the Catholic Church"
+  },
+  "REPORTEDLY": {
+    "Definition": "according to what people say"
+  },
+  "BAPTISING": {
+    "Definition": "welcoming into the Christian Church with a ceremony using water"
+  },
+  "ALL MANNER OF": {
+    "Definition": "many kinds of"
+  },
+  "APOTHECARIES": {
+    "Definition": "people in the past who made and sold medicines"
+  },
+  "SPAWNED": {
+    "Definition": "caused to begin; created"
+  },
+  "SPRUNG UP": {
+    "Definition": "appeared quickly and in large numbers"
+  },
+  "OVERLAPPED": {
+    "Definition": "happened partly at the same time"
+  },
+  "BOOM": {
+    "Definition": "a sudden large increase in number or popularity"
+  },
+  "BEFOREHAND": {
+    "Definition": "before that time"
+  },
+  "GO-TO": {
+    "Definition": "first-choice; most often chosen"
+  },
+  "CONDUCT": {
+    "Definition": "do or carry out"
+  },
+  "MERCHANTS": {
+    "Definition": "people who buy and sell goods, often in large amounts"
+  },
+  "PROHIBITIVELY": {
+    "Definition": "so much that most people could not pay for it"
+  },
+  "HUB": {
+    "Definition": "a central place for an activity"
+  },
+  "PLANTATION": {
+    "Definition": "a large farm where one kind of crop is grown"
+  },
+  "MONOPOLY": {
+    "Definition": "complete control of an activity, with no competitors"
+  },
+  "SAPLINGS": {
+    "Definition": "young trees"
+  },
+  "PLANTATIONS": {
+    "Definition": "large farms where one kind of crop is grown"
+  },
+  "LEGEND HAS IT": {
+    "Definition": "an old story, which may not be true, says"
+  },
+  "SEDUCED": {
+    "Definition": "persuaded to have a romantic or sexual relationship with him"
+  },
+  "BOUQUET": {
+    "Definition": "a bunch of flowers arranged in an attractive way"
+  },
+  "AFFORDABLE": {
+    "Definition": "cheap enough for most people to buy"
   },
   "TERMS": {
-    "Definition": "conditions for an agreement"
+    "Definition": "conditions for buying and selling"
   },
-  "TOILED ON": {
-    "Definition": "worked hard on"
-  },
-  "TOOK OFF": {
-    "Definition": "became more popular"
-  },
-  "TRAJECTORY": {
-    "Definition": "the path that something goes on"
-  },
-  "TREACHEROUS": {
-    "Definition": "extremely dangerous"
+  "RIOTS": {
+    "Definition": "violent protests by crowds of people in public places"
   },
   "UNPATRIOTIC": {
-    "Definition": "not showing a love for your country"
+    "Definition": "showing a lack of loyalty to your own country"
   },
-  "VIRGINS": {
-    "Definition": "people who have never had sex"
+  "TRAJECTORY": {
+    "Definition": "the path of development over time"
+  },
+  "ENABLED": {
+    "Definition": "made possible"
+  },
+  "ENSLAVEMENT": {
+    "Definition": "the forcing of people to be owned by others and work for no pay"
+  },
+  "TOILED": {
+    "Definition": "worked very hard, doing tiring physical work"
+  },
+  "DISCERNING": {
+    "Definition": "able to judge quality and careful about what they choose"
+  },
+  "LOFTY": {
+    "Definition": "very high; impressive"
+  },
+  "MARGIN": {
+    "Definition": "a difference in amount between two things"
+  },
+  "AVID": {
+    "Definition": "very keen and enthusiastic"
+  },
+  "TENDS": {
+    "Definition": "is usually likely"
+  },
+  "CROPS": {
+    "Definition": "plants grown in large amounts by farmers"
+  },
+  "MIRACULOUSLY": {
+    "Definition": "in an amazing, almost magical way"
+  },
+  "TREACHEROUS": {
+    "Definition": "very dangerous and difficult"
   }
 }
