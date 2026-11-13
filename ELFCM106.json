@@ -1,224 +1,230 @@
 {
-  "A PINCH": {
-    "Definition": "a small amount"
-  },
-  "AT ODDS": {
-    "Definition": "if something is at odds with something else, they are different"
-  },
-  "BETRAYED": {
-    "Definition": "be disloyal to someone"
-  },
-  "CATECHISM": {
-    "Definition": "a group of questions or answers about a belief"
-  },
-  "CAUSATION": {
-    "Definition": "what causes something to happen"
-  },
-  "CHASE": {
-    "Definition": "run after"
-  },
-  "CLOVER": {
-    "Definition": "a small plant that normally has three round leaves"
-  },
-  "CODES": {
-    "Definition": "systems"
-  },
-  "COMMODITY": {
-    "Definition": "something that can be bought or sold"
-  },
-  "CONCEPTION": {
-    "Definition": "understanding"
-  },
-  "COUGHING": {
-    "Definition": "when you force air out of your lungs with a short sound"
-  },
-  "CRASHING": {
-    "Definition": "(of a party) going despite not being invited"
-  },
-  "CREDIBILITY": {
-    "Definition": "the quality of deserving to be trusted"
-  },
-  "CRUCIFIX": {
-    "Definition": "a model representing Jesus Christ"
+  "IMPLICATIONS": {
+    "Definition": "possible effects or consequences"
   },
   "DEFINE": {
-    "Definition": "say what the meaning of something is"
+    "Definition": "explain the exact meaning of"
   },
-  "DETRACTS": {
-    "Definition": "make something seem less good"
+  "CONCEPTION": {
+    "Definition": "idea or understanding"
   },
-  "DISCIPLE": {
-    "Definition": "someone who believes in the ideas of someone else"
-  },
-  "DISPROVE": {
-    "Definition": "prove that something isn't true"
-  },
-  "DISPUTED": {
-    "Definition": "not agreed on"
-  },
-  "DOCTRINAL": {
-    "Definition": "relating to the set of beliefs that form religion"
-  },
-  "DOCTRINALLY": {
-    "Definition": "relating to a set of religious beliefs"
-  },
-  "EMBEDDED": {
-    "Definition": "fixed strongly"
-  },
-  "ENGAGING": {
-    "Definition": "doing"
-  },
-  "FATE": {
-    "Definition": "what happens to a particular person or thing"
-  },
-  "HANDY": {
-    "Definition": "useful"
-  },
-  "IGNORANT": {
-    "Definition": "not having enough knowledge"
-  },
-  "IMPLICATIONS": {
-    "Definition": "possible future effects"
-  },
-  "INJURING": {
-    "Definition": "hurting"
-  },
-  "INTENSITY": {
-    "Definition": "strength"
-  },
-  "KEEP A LOOKOUT": {
-    "Definition": "pay attention because something bad might happen"
-  },
-  "KNOCK": {
-    "Definition": "touch in order to make a noise"
-  },
-  "LINGUISTIC": {
-    "Definition": "relating to language"
-  },
-  "MARVELOUS": {
-    "Definition": "very good"
+  "CAUSATION": {
+    "Definition": "the way one thing makes another thing happen"
   },
   "MILLENNIA": {
     "Definition": "thousands of years"
   },
-  "MUNDANE": {
-    "Definition": "ordinary and not interesting"
+  "SUPERSTITIOUS": {
+    "Definition": "believing that luck, magic or signs can control what happens"
   },
-  "MYTHOLOGY": {
-    "Definition": "a set of classical myths"
-  },
-  "NULLIFYING": {
-    "Definition": "canceling out"
+  "IGNORANT": {
+    "Definition": "lacking knowledge or education"
   },
   "ORIGINS": {
-    "Definition": "where something comes from"
+    "Definition": "beginnings or sources; where things first came from"
   },
-  "OUTSIDER": {
-    "Definition": "someone or something who isn't involved with a particular group"
+  "EMBEDDED": {
+    "Definition": "fixed firmly and deeply"
   },
   "OVER AND ABOVE": {
-    "Definition": "above and higher than anything else"
+    "Definition": "in addition to; beyond"
   },
-  "PEASANTS": {
-    "Definition": "people who own or rent small pieces of land"
+  "DOCTRINAL": {
+    "Definition": "relating to the official beliefs and teachings of a religion"
   },
-  "PERVERSE": {
-    "Definition": "strange and unreasonable"
+  "MUNDANE": {
+    "Definition": "ordinary and everyday; not special or exciting"
   },
-  "PLUNGING": {
-    "Definition": "causing (something bad) to happen"
+  "FATE": {
+    "Definition": "the things that will happen to a person in the future"
   },
-  "PORTRAYED": {
-    "Definition": "represented in a painting, film, or book"
-  },
-  "PRECIOUS": {
-    "Definition": "expensive and rare"
-  },
-  "PRESUMABLY": {
-    "Definition": "used when you think something is probably true"
-  },
-  "RAGING": {
-    "Definition": "moving quickly and uncontrollably"
-  },
-  "RECONCILE": {
-    "Definition": "find a way where two situations or beliefs can exist at the same time"
-  },
-  "REPORTEDLY": {
-    "Definition": "according to some"
-  },
-  "ROLLED INTO ONE": {
-    "Definition": "multiple things combined into one"
-  },
-  "RUBBISH": {
-    "Definition": "not true, silly or wrong"
-  },
-  "SCRIPTURES": {
-    "Definition": "religious texts"
+  "CODES": {
+    "Definition": "sets of rules that people are expected to follow"
   },
   "SEEMINGLY": {
-    "Definition": "appearing to be"
-  },
-  "SHED SOME LIGHT": {
-    "Definition": "given some information"
+    "Definition": "appearing to be, though perhaps not really"
   },
   "SINFUL": {
-    "Definition": "against the rules of a religion"
+    "Definition": "wrong according to religious rules; against God's laws"
   },
-  "SNEEZE": {
-    "Definition": "when small drops or liquid suddenly come out of your mouth"
+  "RECONCILE": {
+    "Definition": "make two ideas fit together or agree"
   },
-  "SNEEZED": {
-    "Definition": "see 'sneeze'"
-  },
-  "SNEEZES": {
-    "Definition": "when small drops or liquid suddenly come out of your mouth"
-  },
-  "SNEEZING": {
-    "Definition": "see 'sneeze'"
-  },
-  "SPIKES": {
-    "Definition": "something that's long and thin with a sharp point"
-  },
-  "SPILLED": {
-    "Definition": "caused to fall on the ground"
-  },
-  "SPILLING": {
-    "Definition": "causing to fall on the ground"
-  },
-  "SPIRIT": {
-    "Definition": "a magical creature"
-  },
-  "SPIRITS": {
-    "Definition": "magical creatures"
-  },
-  "SUNSHADES": {
-    "Definition": "objects similar to umbrellas, but they protect you from sun, not rain"
-  },
-  "SUPERSTITIOUS": {
-    "Definition": "believing in superstition"
-  },
-  "SWEAR": {
-    "Definition": "promise"
-  },
-  "SWEEP": {
-    "Definition": "clean something by using a brush"
-  },
-  "SWEEPING": {
-    "Definition": "cleaning something by using a brush"
-  },
-  "TAPPING": {
-    "Definition": "touching briefly"
-  },
-  "TEMPT FATE": {
-    "Definition": "to do something that involves a lot of risk"
-  },
-  "THEOLOGICALLY": {
-    "Definition": "relating to religion"
-  },
-  "WIDESPREAD": {
-    "Definition": "existing in many places"
+  "CATECHISM": {
+    "Definition": "an official book that explains the main beliefs of a Christian church"
   },
   "WORSHIPING": {
-    "Definition": "showing love and respect for"
+    "Definition": "praying to and showing deep respect for"
+  },
+  "PERVERSE": {
+    "Definition": "wrong and unreasonable; not what is right or natural"
+  },
+  "EXCESS": {
+    "Definition": "an amount that is more than is right or needed"
+  },
+  "THEOLOGICALLY": {
+    "Definition": "from the point of view of religious ideas and teaching"
+  },
+  "AT ODDS": {
+    "Definition": "in disagreement; not matching"
+  },
+  "SCRIPTURES": {
+    "Definition": "the holy writings of a religion, such as the Bible"
+  },
+  "CLOVER": {
+    "Definition": "a small plant that usually has three leaves on each stem"
+  },
+  "INTENSITY": {
+    "Definition": "the degree of strength or force"
+  },
+  "ENGAGING": {
+    "Definition": "taking part"
+  },
+  "SUNSHADES": {
+    "Definition": "umbrellas used to protect people from hot, bright light"
+  },
+  "HANDY": {
+    "Definition": "useful and convenient"
+  },
+  "WIDESPREAD": {
+    "Definition": "common in many places or among many people"
+  },
+  "SPIKES": {
+    "Definition": "long, thin, sharp points"
+  },
+  "INJURING": {
+    "Definition": "hurting or causing physical harm to"
+  },
+  "PRESUMABLY": {
+    "Definition": "probably, as it seems reasonable to think"
+  },
+  "COMMODITY": {
+    "Definition": "a product that can be bought and sold"
+  },
+  "SPILLING": {
+    "Definition": "accidentally dropping or pouring out"
+  },
+  "PRECIOUS": {
+    "Definition": "very valuable and important"
+  },
+  "A PINCH": {
+    "Definition": "a very small amount, held between finger and thumb"
+  },
+  "NULLIFYING": {
+    "Definition": "removing the effect of"
+  },
+  "DISCIPLE": {
+    "Definition": "a close follower of Jesus"
+  },
+  "SPILLED": {
+    "Definition": "accidentally dropped or poured out"
+  },
+  "PORTRAYED": {
+    "Definition": "shown or represented in a work of art"
+  },
+  "SWEEP": {
+    "Definition": "clean or collect with a brush"
+  },
+  "SWEEPING": {
+    "Definition": "cleaning with a brush"
+  },
+  "KNOCK": {
+    "Definition": "hit with your hand, making a short sound"
+  },
+  "SWEAR": {
+    "Definition": "make a serious, formal promise"
+  },
+  "CRUCIFIX": {
+    "Definition": "a model of a cross with Jesus on it"
+  },
+  "TEMPT FATE": {
+    "Definition": "do something that risks bringing bad luck"
+  },
+  "TAPPING": {
+    "Definition": "hitting lightly"
+  },
+  "PEASANTS": {
+    "Definition": "poor people who worked on the land, especially in the past"
+  },
+  "SPIRITS": {
+    "Definition": "beings without bodies, such as ghosts"
+  },
+  "SPIRIT": {
+    "Definition": "a being without a body, such as a ghost"
+  },
+  "CHASE": {
+    "Definition": "run after to try to catch"
+  },
+  "DISPUTED": {
+    "Definition": "argued about; not agreed on"
+  },
+  "CREDIBILITY": {
+    "Definition": "the quality of being believed or trusted"
+  },
+  "TEND": {
+    "Definition": "are generally likely"
+  },
+  "LINGUISTIC": {
+    "Definition": "to do with language and words"
+  },
+  "SNEEZES": {
+    "Definition": "suddenly blows air out of the nose and mouth without control"
+  },
+  "RAGING": {
+    "Definition": "spreading quickly and violently"
+  },
+  "COUGHING": {
+    "Definition": "pushing air out of the throat with a sudden loud noise"
+  },
+  "SNEEZING": {
+    "Definition": "suddenly blowing air out of the nose and mouth"
+  },
+  "SNEEZED": {
+    "Definition": "suddenly blew air out of the nose and mouth"
+  },
+  "REPORTEDLY": {
+    "Definition": "according to what people say or have written"
+  },
+  "DOCTRINALLY": {
+    "Definition": "according to the official teachings of a religion"
+  },
+  "SNEEZE": {
+    "Definition": "suddenly blow air out of your nose and mouth"
+  },
+  "ROLLED INTO ONE": {
+    "Definition": "combined into a single thing"
+  },
+  "DISPROVE": {
+    "Definition": "show to be untrue"
+  },
+  "OUTSIDER": {
+    "Definition": "something that does not belong to a group"
+  },
+  "DETRACTS": {
+    "Definition": "takes something away"
+  },
+  "BETRAYED": {
+    "Definition": "was disloyal to and helped the enemies of"
+  },
+  "MYTHOLOGY": {
+    "Definition": "old traditional stories, especially about gods and heroes"
+  },
+  "CRASHING": {
+    "Definition": "arriving uninvited at"
+  },
+  "PLUNGING": {
+    "Definition": "falling or moving suddenly"
+  },
+  "KEEP A LOOKOUT": {
+    "Definition": "watch carefully"
+  },
+  "MARVELOUS": {
+    "Definition": "wonderful; extremely good"
+  },
+  "SHED SOME LIGHT": {
+    "Definition": "helped to explain or make clearer"
+  },
+  "RUBBISH": {
+    "Definition": "nonsense; ideas that are silly or untrue"
   }
 }
