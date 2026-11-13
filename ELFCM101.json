@@ -1,194 +1,200 @@
 {
-  "ADVOCATED": {
-    "Definition": "publicly supported"
+  "FASCISM": {
+    "Definition": "a political system with one all-powerful leader, no opposition allowed and extreme pride in the nation"
   },
-  "AFFABLE": {
-    "Definition": "friendly and easy to get on with"
+  "THE USUAL SUSPECTS": {
+    "Definition": "the people you would normally expect to be named"
   },
-  "AIRWAVES": {
-    "Definition": "used to describe television and radio"
+  "FASCIST": {
+    "Definition": "supporting or ruled by a system with one all-powerful leader and no opposition allowed"
   },
-  "ALASTAIR BUDGE:": {
-    "Definition": null
-  },
-  "ANTAGONISE": {
-    "Definition": "to annoy someone by doing something they do not like"
-  },
-  "ANTI-FASCIST": {
-    "Definition": "someone who is against fascism"
-  },
-  "ANTI-FASCISTS": {
-    "Definition": "people who are against fascism"
-  },
-  "ANTI-SEMITIC": {
-    "Definition": "anti Jewish people"
-  },
-  "ANTI-SEMITISM": {
-    "Definition": "hostility or prejudice against jewish people"
-  },
-  "ARISTOCRAT": {
-    "Definition": "a person of the highest class in society"
+  "CHARISMATIC": {
+    "Definition": "having a strong personal charm that attracts and impresses people"
   },
   "ARISTOCRATIC": {
-    "Definition": "a high class in society"
+    "Definition": "belonging to the highest social class"
+  },
+  "FATE": {
+    "Definition": "what happens to a person or country in the end, often something bad"
+  },
+  "EXTENT": {
+    "Definition": "degree; level"
+  },
+  "HYPERINFLATION": {
+    "Definition": "extremely fast and uncontrolled rises in prices"
+  },
+  "PAVING THE WAY": {
+    "Definition": "making it possible or easier"
+  },
+  "LURKING": {
+    "Definition": "waiting in a threatening way, as if ready to attack"
+  },
+  "HEYDAY": {
+    "Definition": "the time when it was most successful or powerful"
+  },
+  "WORKFORCE": {
+    "Definition": "all the people in a country who have jobs or are able to have jobs"
+  },
+  "ROSY": {
+    "Definition": "good or hopeful"
+  },
+  "POSHEST": {
+    "Definition": "most fashionable and expensive, linked with rich, upper-class people"
+  },
+  "REBELLIOUS": {
+    "Definition": "refusing to obey rules or people in authority"
+  },
+  "STATUS QUO": {
+    "Definition": "the way things were at the time; the existing situation"
+  },
+  "NOTORIOUS": {
+    "Definition": "well known for something bad"
+  },
+  "WOMANISER": {
+    "Definition": "a man who has short romantic and sexual relationships with many different partners"
+  },
+  "ARISTOCRAT": {
+    "Definition": "a person from the highest social class"
+  },
+  "REPUTATION": {
+    "Definition": "a general opinion that people had of him"
+  },
+  "RADICAL": {
+    "Definition": "very new and different from what is usual"
+  },
+  "RECKLESS": {
+    "Definition": "careless about danger or bad results"
+  },
+  "SHUNNED": {
+    "Definition": "ignored or rejected"
+  },
+  "SNAP": {
+    "Definition": "called suddenly, earlier than expected"
+  },
+  "DISILLUSIONED": {
+    "Definition": "disappointed after discovering that something was not as good as he believed"
+  },
+  "REGIME": {
+    "Definition": "government, especially one with strict control"
+  },
+  "RATE": {
+    "Definition": "think highly of"
+  },
+  "AFFABLE": {
+    "Definition": "friendly and easy to talk to"
+  },
+  "FASCISTS": {
+    "Definition": "people who support a system with one all-powerful leader and no opposition allowed"
+  },
+  "ANTI-SEMITIC": {
+    "Definition": "showing hatred of, or unfair treatment towards, Jewish people"
+  },
+  "PURGED": {
+    "Definition": "got rid of by killing"
+  },
+  "MEANS": {
+    "Definition": "ways or methods"
+  },
+  "AIRWAVES": {
+    "Definition": "radio and television broadcasting"
+  },
+  "HONE": {
+    "Definition": "improve and perfect"
+  },
+  "ANTI-FASCIST": {
+    "Definition": "against the political system of one all-powerful leader and no opposition"
+  },
+  "ANTI-FASCISTS": {
+    "Definition": "people who oppose the political system of one all-powerful leader and no opposition"
+  },
+  "DISRUPT": {
+    "Definition": "cause problems that stop it happening normally"
   },
   "BUNCH": {
     "Definition": "group"
   },
-  "CHARISMA": {
-    "Definition": "the power to influence and attract others"
-  },
-  "CHARISMATIC": {
-    "Definition": "having charisma, a natural ability to attract others"
-  },
-  "DISILLUSIONED": {
-    "Definition": "disappointed"
-  },
-  "DISRUPT": {
-    "Definition": "prevent something from happening as planned"
-  },
-  "ENVISIONED": {
-    "Definition": "imagined that something would happen in the future"
-  },
-  "EXONERATING": {
-    "Definition": "saying that someone is not responsible for something"
-  },
-  "EXTENT": {
-    "Definition": "amount"
-  },
-  "FASCISM": {
-    "Definition": "a right-wing political system characterised by extreme control by the stage"
-  },
-  "FASCIST": {
-    "Definition": "someone who believes in fascism"
-  },
-  "FASCISTS": {
-    "Definition": "people who believe in fascism"
-  },
-  "FATE": {
-    "Definition": "what happens to someone, in particular at the end of their existence"
-  },
-  "FIERCE": {
-    "Definition": "very strong"
-  },
-  "GRIM": {
-    "Definition": "without hope"
-  },
-  "HEYDAY": {
-    "Definition": "the most successful period"
-  },
-  "HONE": {
-    "Definition": "to practice and improve"
-  },
-  "HYPERINFLATION": {
-    "Definition": "a state where prices increases very quickly"
-  },
-  "INTERVIEWER:": {
-    "Definition": null
-  },
-  "LURKING": {
-    "Definition": "waiting quietly and secretly, often in a threatening way"
-  },
-  "MAGNETISM": {
-    "Definition": "a quality that makes someone attractive to others"
-  },
-  "MEANS": {
-    "Definition": "ability"
-  },
-  "NOTORIOUS": {
-    "Definition": "famous (for something bad)"
-  },
-  "ORATOR": {
-    "Definition": "someone who is good at public speaking"
-  },
-  "OSWALD MOSLEY:": {
-    "Definition": null
-  },
-  "PAVING THE WAY": {
-    "Definition": "creating a set of circumstances that allow something to happen"
-  },
-  "POSHEST": {
-    "Definition": "the most expensive and high class"
-  },
-  "PUPPET": {
-    "Definition": "a person who allows others to control them"
-  },
-  "PURGED": {
-    "Definition": "got rid of"
-  },
-  "RADICAL": {
-    "Definition": "very different to the current situation"
-  },
-  "RATE": {
-    "Definition": "consider"
-  },
-  "RATIONALE": {
-    "Definition": "reason"
-  },
-  "REBELLIOUS": {
-    "Definition": "opposing the ideas of others in authority"
-  },
-  "RECKLESS": {
-    "Definition": "dangerous"
-  },
-  "REIGNITE": {
-    "Definition": "start again"
-  },
-  "REPUTABLE": {
-    "Definition": "having a good reputation"
-  },
-  "REPUTATION": {
-    "Definition": "if you have a reputation for something, you are known for it"
-  },
-  "RESONATED": {
-    "Definition": "if an idea resonates with you, you agree with it"
-  },
-  "ROSY": {
-    "Definition": "positive"
-  },
-  "SCAPEGOATING": {
-    "Definition": "blaming a group of people for something"
+  "ANTAGONISE": {
+    "Definition": "make angry on purpose"
   },
   "SCAPEGOATS": {
-    "Definition": "to blame a group of people for something"
+    "Definition": "people who are unfairly blamed for problems caused by others"
   },
-  "SERVICEMEN": {
-    "Definition": "people who work in the armed services"
+  "SCAPEGOATING": {
+    "Definition": "unfair blaming for problems caused by others"
   },
-  "SHUNNED": {
-    "Definition": "deliberately avoided"
+  "RESONATED": {
+    "Definition": "appealed strongly; seemed true or important to people"
   },
-  "SNAP": {
-    "Definition": "a snap election is an election that is called quickly"
+  "TENDENCIES": {
+    "Definition": "habits or ways of thinking or behaving"
   },
-  "SOUNDLY": {
-    "Definition": "completely"
+  "RATIONALE": {
+    "Definition": "the reasons or thinking"
   },
-  "STATUS QUO": {
-    "Definition": "the present situation"
+  "RHETORIC": {
+    "Definition": "language used to persuade or influence people, often seen as insincere"
   },
-  "STRIKINGLY": {
-    "Definition": "in a way that people notice easily"
+  "FIERCE": {
+    "Definition": "strong, violent and very determined"
   },
-  "SYMPATHISER": {
-    "Definition": "someone who supports a particular idea"
+  "ANTI-SEMITISM": {
+    "Definition": "hatred of, or unfair treatment towards, Jewish people"
   },
-  "THE USUAL SUSPECTS": {
-    "Definition": "the people or things that are normally involved in a particular activity"
+  "ENVISIONED": {
+    "Definition": "imagined or pictured"
   },
-  "UNTAMABLE": {
-    "Definition": "not able to be stopped"
+  "REPUTABLE": {
+    "Definition": "respected and trusted"
   },
-  "VIGOUR": {
-    "Definition": "strength"
+  "EXONERATING": {
+    "Definition": "freeing from blame"
   },
   "VILE": {
-    "Definition": "horrible, immoral"
+    "Definition": "extremely unpleasant and morally bad"
+  },
+  "UNTAMABLE": {
+    "Definition": "impossible to control"
+  },
+  "SYMPATHISER": {
+    "Definition": "a person who supports a group or its ideas"
+  },
+  "PUPPET": {
+    "Definition": "controlled by another country or power, not independent"
+  },
+  "ADVOCATED": {
+    "Definition": "spoke and argued publicly"
+  },
+  "REIGNITE": {
+    "Definition": "make popular or active again"
+  },
+  "MAGNETISM": {
+    "Definition": "a powerful quality that attracts people"
+  },
+  "CHARISMA": {
+    "Definition": "a strong personal charm that makes people admire and follow someone"
+  },
+  "ORATOR": {
+    "Definition": "a skilled public speaker"
+  },
+  "STRIKINGLY": {
+    "Definition": "extremely; in a way that is very noticeable"
   },
   "WELL SPOKEN": {
-    "Definition": "speaking in a refined and educated manner"
+    "Definition": "speaking in a polite, educated way, with an upper-class accent"
   },
-  "WORKFORCE": {
-    "Definition": "the group of people who work in a society"
+  "VIGOUR": {
+    "Definition": "strength, energy and determination"
+  },
+  "GRIM": {
+    "Definition": "serious, unsmiling and determined"
+  },
+  "RANKS": {
+    "Definition": "rows or large groups"
+  },
+  "SERVICEMEN": {
+    "Definition": "men who were in the armed forces"
+  },
+  "SOUNDLY": {
+    "Definition": "completely and clearly"
   }
 }
