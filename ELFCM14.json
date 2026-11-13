@@ -1,77 +1,77 @@
 {
-  "ABSORB": {
-    "Definition": "take in and understand fully (information, ideas, or experience)"
-  },
-  "ADMIRABLE": {
-    "Definition": "deserves respect or approval"
-  },
-  "BEG": {
-    "Definition": "ask for, normally as a charity"
-  },
-  "COLOURFUL": {
-    "Definition": "full of interest; lively and exciting"
-  },
-  "CONSCIOUS": {
-    "Definition": "(of an action or feeling) deliberate and intentional"
-  },
-  "CONSUMING": {
-    "Definition": "read, listen, or watch"
-  },
   "CUSTOMARY": {
-    "Definition": "usual, normal"
-  },
-  "DARE SAY": {
-    "Definition": "imagine, assume, think is probably"
-  },
-  "DASHING": {
-    "Definition": "rushing, going very fast"
-  },
-  "DEFICIENCIES": {
-    "Definition": "a failing or shortcoming"
-  },
-  "EMULATE": {
-    "Definition": "imitate, copy"
-  },
-  "ENCOUNTER": {
-    "Definition": "come across, meet"
-  },
-  "ENVIABLE": {
-    "Definition": "desirable by others"
-  },
-  "HAVE YOU BELIEVE": {
-    "Definition": "want you to think, want you to believe"
-  },
-  "HUNT OUT": {
-    "Definition": "look for, seek"
-  },
-  "INEVITABLY": {
-    "Definition": "as one would expect; predictably"
-  },
-  "INHIBITS": {
-    "Definition": "make (someone) self-conscious and unable to act in a relaxed and natural way"
-  },
-  "NEUROLOGICAL": {
-    "Definition": "relating to the anatomy, functions, and organic disorders of nerves and the nervous system"
-  },
-  "NUANCED": {
-    "Definition": "characterized by subtle shades of meaning or expression"
+    "Definition": "usual and expected; done every time"
   },
   "ON THE FACE OF IT": {
-    "Definition": "without knowing all of the relevant facts; apparently"
+    "Definition": "when you first look at it, before thinking about it more deeply"
   },
-  "PORING OVER": {
-    "Definition": "be absorbed in reading or studying (something)"
-  },
-  "PULLING THEIR FINGER OUT": {
-    "Definition": "finally make an effort"
-  },
-  "RETREAT": {
-    "Definition": "go back"
+  "DEFICIENCIES": {
+    "Definition": "weaknesses or things that are missing"
   },
   "SPONGES": {
-    "Definition": "a soft substance that is full of small holes and can absorb a lot of liquid, and is used for washing and cleaning"
+    "Definition": "soft objects that take in water very easily"
+  },
+  "NEUROLOGICAL": {
+    "Definition": "relating to the brain and the nerves"
+  },
+  "ABSORB": {
+    "Definition": "take in and learn"
+  },
+  "HUNT OUT": {
+    "Definition": "search hard to find"
+  },
+  "RETREAT": {
+    "Definition": "go back for safety"
+  },
+  "ENVIABLE": {
+    "Definition": "so good that other people would like to have it"
+  },
+  "CONSUMING": {
+    "Definition": "taking in by reading, watching or listening"
+  },
+  "ENCOUNTER": {
+    "Definition": "come across or experience"
+  },
+  "PORING OVER": {
+    "Definition": "studying very carefully for a long time"
+  },
+  "DARE SAY": {
+    "Definition": "suppose; think it is probably true"
+  },
+  "HAVE YOU BELIEVE": {
+    "Definition": "want you to think (even if it is not true)"
+  },
+  "ADMIRABLE": {
+    "Definition": "deserving respect and praise"
+  },
+  "PULLING THEIR FINGER OUT": {
+    "Definition": "starting to make a real effort and stopping being lazy"
+  },
+  "DASHING": {
+    "Definition": "rushing; going very quickly without waiting"
+  },
+  "INHIBITS": {
+    "Definition": "holds back or reduces"
+  },
+  "NUANCED": {
+    "Definition": "carefully thought out, with attention to small details"
+  },
+  "CONSCIOUS": {
+    "Definition": "deliberate; made with full awareness"
+  },
+  "INEVITABLY": {
+    "Definition": "certainly; in a way that cannot be avoided"
+  },
+  "COLOURFUL": {
+    "Definition": "interesting and expressive"
   },
   "STRIVING": {
-    "Definition": "trying hard"
+    "Definition": "trying very hard to reach"
+  },
+  "EMULATE": {
+    "Definition": "copy, because you think it is good"
+  },
+  "BEG": {
+    "Definition": "ask in a very strong, almost desperate way"
   }
 }
