@@ -1,176 +1,182 @@
 {
-  "ACTIVISTS": {
-    "Definition": "people who believe strongly in political or social change and take part in activities such as public protests to try to make this happen"
+  "GUNPOWDER": {
+    "Definition": "an explosive black powder used in weapons and fireworks"
   },
-  "ANARCHY": {
-    "Definition": "a situation in which there is no organisation and control, especially in society, because there is no effective government"
+  "TREASON": {
+    "Definition": "the crime of trying to harm or remove your own king or country's government"
   },
-  "ANTI-ESTABLISHMENT": {
-    "Definition": "against the powerful people who control a country or an organisation, against the status quo"
-  },
-  "ASPIRATIONAL": {
-    "Definition": "someone or something that a group of people want to be like, or hold as a positive example"
-  },
-  "BARON": {
-    "Definition": "a low-ranking male member of the nobility (= group of people from a high social class)‍"
-  },
-  "BARRELS": {
-    "Definition": "a large container, made of wood, metal, or plastic, with a flat top and bottom and curved sides that make it fatter in the middle"
-  },
-  "BLAME": {
-    "Definition": "to say or think that someone or something did something wrong or is responsible for something bad happening"
-  },
-  "BLOWN TO SMITHEREENS": {
-    "Definition": "blown into lots of very small pieces, completely blown up"
+  "PLOT": {
+    "Definition": "a secret plan by a group of people to do something harmful or illegal"
   },
   "BONFIRE": {
-    "Definition": "a large fire that is made outside to burn unwanted things, or for pleasure"
-  },
-  "CELLAR": {
-    "Definition": "a room under the ground floor of a building, usually used for storing things"
-  },
-  "CELLARS": {
-    "Definition": "a room under the ground floor of a building, usually used for storing things"
-  },
-  "CLASSIFY": {
-    "Definition": "to divide things or people into groups according to their type, or to say which group or type something or someone belongs to"
-  },
-  "COMMIT": {
-    "Definition": "to do something illegal or something that is considered wrong"
-  },
-  "COMMITS": {
-    "Definition": "to do something illegal or something that is considered wrong"
-  },
-  "CONSPIRATORS": {
-    "Definition": "people who plan secretly with other people to do something bad, illegal, or against someone’s wishes"
-  },
-  "DECLARED": {
-    "Definition": "publicly say"
-  },
-  "DEEP STATE": {
-    "Definition": "organisations such as military, police, or political groups that are said to work secretly in order to protect particular interests and to rule a country without being elected"
-  },
-  "DISASSOCIATE": {
-    "Definition": "to consider as separate and not related"
-  },
-  "DISCREDITED": {
-    "Definition": "not considered to be legitimate"
-  },
-  "DISPLAY": {
-    "Definition": "to arrange something or a collection of things so that it can be seen by the public"
+    "Definition": "a large fire built outdoors"
   },
   "EFFIGY": {
-    "Definition": "a model or other object that represents someone, especially one of a hated person that is hanged or burned in a public place"
+    "Definition": "a model of a person, made to be burnt or laughed at"
   },
-  "ENLISTED": {
-    "Definition": "to get support from"
+  "DISPLAY": {
+    "Definition": "a public show"
   },
-  "ENTICING": {
-    "Definition": "Something that is enticing attracts you to it by offering you advantages or pleasure"
-  },
-  "ENTIRETY": {
-    "Definition": "the whole duration, all"
-  },
-  "EXECUTED": {
-    "Definition": "to kill someone as a legal punishment"
+  "STRETCHES BACK": {
+    "Definition": "goes back in time"
   },
   "FATE": {
-    "Definition": "what happens to a particular person or thing, especially something final or negative, such as death or defeat"
+    "Definition": "future direction; what happens in the end"
   },
-  "FELLOW": {
-    "Definition": "used of people or a person with whom you share something, esp. the same kind of job, interest, or experience"
+  "PAINT A PICTURE": {
+    "Definition": "give a clear description"
   },
-  "FUSE": {
-    "Definition": "a string or piece of paper connected to a firework or other explosive product by which it is lit, or a device inside a bomb that causes it to explode after a fixed length of time or when it hits or is near something"
-  },
-  "GAINED A REPUTATION": {
-    "Definition": "was known for a particular thing"
-  },
-  "GENERIC": {
-    "Definition": "shared by, typical of, or relating to a whole group of similar things, rather than to any particular thing"
-  },
-  "GUNPOWDER": {
-    "Definition": "an explosive mixture of substances in the form of a powder, used for making explosive devices and fireworks"
-  },
-  "HIGH": {
-    "Definition": "(in relation to 'treason') the worst kind of"
-  },
-  "IN THE NICK OF TIME.": {
-    "Definition": "at the last possible moment"
+  "ON THE THRONE": {
+    "Definition": "ruling as king or queen"
   },
   "INHERITED": {
-    "Definition": "received from someone who has died"
+    "Definition": "received, as the next ruler after the one before"
   },
-  "INSTALL": {
-    "Definition": "to put someone in an important job or position"
+  "PERSECUTED": {
+    "Definition": "treated cruelly and unfairly because of their religion"
   },
-  "INTERROGATED": {
-    "Definition": "to ask someone a lot of questions for a long time in order to get information, sometimes using threats or violence"
+  "ENTIRETY": {
+    "Definition": "whole length"
   },
-  "LONGED": {
-    "Definition": "wanted for a long period of time"
+  "REIGN": {
+    "Definition": "period of time as ruler"
   },
-  "MATCH": {
-    "Definition": "a short, thin stick made of wood or cardboard and covered with a special chemical at one end that burns when rubbed firmly against a rough surface"
+  "TAKE MATTERS INTO THEIR OWN HANDS": {
+    "Definition": "act for themselves because nobody else would help"
+  },
+  "ACTIVISTS": {
+    "Definition": "people who take strong action to bring about political or social change"
+  },
+  "SNEAK": {
+    "Definition": "go secretly and quietly"
   },
   "METICULOUSLY": {
-    "Definition": "in a way that shows great care and attention to detail"
+    "Definition": "with great care and attention to every detail"
+  },
+  "SMUGGLE": {
+    "Definition": "move something secretly and illegally"
+  },
+  "CELLAR": {
+    "Definition": "a room under a building, below the ground"
+  },
+  "BARRELS": {
+    "Definition": "large round containers, usually made of wood"
+  },
+  "MATCH": {
+    "Definition": "a small stick that makes a flame when rubbed on a rough surface"
+  },
+  "BLOWN TO SMITHEREENS": {
+    "Definition": "destroyed into tiny pieces by an explosion"
+  },
+  "INSTALL": {
+    "Definition": "put into an official position"
   },
   "MONARCH": {
     "Definition": "a king or queen"
   },
-  "MORPHED": {
-    "Definition": "to gradually change, or change someone or something, from one thing to another"
-  },
-  "ON THE THRONE": {
-    "Definition": "to be the king or queen at the time"
-  },
-  "PAINT A PICTURE": {
-    "Definition": "to describe or show something in a particular way"
-  },
-  "PERCEPTION": {
-    "Definition": "a belief or opinion, often held by many people and based on how things seem"
-  },
-  "PERSECUTED": {
-    "Definition": "treat someone unfairly or cruelly over a long period of time because of their race, religion, or political beliefs, or to annoy someone by refusing to leave them alone"
-  },
-  "PLOT": {
-    "Definition": "a secret plan made by several people to do something that is wrong, harmful, or not legal, especially to do damage to a person or a government"
-  },
-  "PROFOUND": {
-    "Definition": "felt or experienced very strongly or in an extreme way"
-  },
-  "QUINTESSENTIALLY": {
-    "Definition": "in a way that is the most typical example or most important part of something"
+  "BARON": {
+    "Definition": "a title for a man who is a member of the nobility"
   },
   "RADIUS": {
-    "Definition": "(the length of) a straight line joining the centre of a circle to its edge or the centre of a sphere to its surface"
+    "Definition": "distance in every direction from a central point"
   },
-  "REIGN": {
-    "Definition": "to be the king or queen of a country"
+  "GAINED A REPUTATION": {
+    "Definition": "became known by other people"
+  },
+  "FELLOW": {
+    "Definition": "of the same group or country as him"
+  },
+  "LONGED": {
+    "Definition": "wanted very much"
   },
   "RID": {
-    "Definition": "to remove"
+    "Definition": "free (a place) from something unwanted"
   },
-  "ROMANTICISED": {
-    "Definition": "to talk about something in a way that makes it sound better than it really is, or to believe that something is better than it really is"
+  "IN THE NICK OF TIME": {
+    "Definition": "at the last possible moment, before it was too late"
   },
-  "SMUGGLE": {
-    "Definition": "to take things or people to or from a place secretly and often illegally"
+  "FUSE": {
+    "Definition": "a cord that is lit to make explosives go off after a short time"
   },
-  "SNEAK": {
-    "Definition": "to go somewhere secretly, or to take someone or something somewhere secretly"
+  "INTERROGATED": {
+    "Definition": "questioned closely and aggressively"
   },
-  "STRETCHES BACK": {
-    "Definition": "goes back"
-  },
-  "TAKE MATTERS INTO THEIR OWN HANDS": {
-    "Definition": "to deal with a problem yourself because the people who should have dealt with it have failed to do so"
-  },
-  "TREASON": {
-    "Definition": "(the crime of) showing no loyalty to your country, especially by helping its enemies or trying to defeat its government"
+  "CONSPIRATORS": {
+    "Definition": "people who secretly planned together to do something harmful or illegal"
   },
   "TROOPS": {
     "Definition": "soldiers"
+  },
+  "HIGH TREASON": {
+    "Definition": "the most serious crime against the king or the country"
+  },
+  "COMMITS": {
+    "Definition": "does (something wrong or illegal)"
+  },
+  "EXECUTED": {
+    "Definition": "killed as an official punishment"
+  },
+  "DECLARED": {
+    "Definition": "announced officially"
+  },
+  "DEEP STATE": {
+    "Definition": "a secret network of powerful officials working behind the government"
+  },
+  "SET-UP": {
+    "Definition": "a trick arranged to make someone else look guilty"
+  },
+  "ENLISTED": {
+    "Definition": "persuaded to join in and help"
+  },
+  "BLAME": {
+    "Definition": "say that someone is responsible for something bad"
+  },
+  "ENTICING": {
+    "Definition": "attractive and interesting"
+  },
+  "DISCREDITED": {
+    "Definition": "shown to be false or not believable"
+  },
+  "GENERIC": {
+    "Definition": "general; not specific"
+  },
+  "QUINTESSENTIALLY": {
+    "Definition": "very typically"
+  },
+  "CELLARS": {
+    "Definition": "rooms under a building, below the ground"
+  },
+  "PERCEPTION": {
+    "Definition": "the way people see and think about someone"
+  },
+  "COMMIT": {
+    "Definition": "do (something wrong or illegal)"
+  },
+  "CLASSIFY": {
+    "Definition": "be considered"
+  },
+  "MORPHED": {
+    "Definition": "changed gradually into something different"
+  },
+  "ASPIRATIONAL": {
+    "Definition": "admired, as someone people want to be like"
+  },
+  "ANTI-ESTABLISHMENT": {
+    "Definition": "against the people and institutions that hold power"
+  },
+  "ANARCHY": {
+    "Definition": "a situation with no government, order or control"
+  },
+  "DISASSOCIATE": {
+    "Definition": "separate in our minds; feel no connection"
+  },
+  "ROMANTICISED": {
+    "Definition": "made to seem more exciting or attractive than they really were"
+  },
+  "ICON": {
+    "Definition": "a famous person admired as a symbol of something"
+  },
+  "PROFOUND": {
+    "Definition": "very great and deep"
   }
 }
