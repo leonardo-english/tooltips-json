@@ -1,6 +1,6 @@
 {
   "INLET": {
-    "Definition": "a narrow area of sea that reaches into the land"
+    "Definition": "an area of sea that reaches into the land"
   },
   "CRAMMED": {
     "Definition": "pushed tightly together into a space that was too small"
@@ -9,10 +9,10 @@
     "Definition": "a long, narrow, raised strip of land"
   },
   "FOUL-SMELLING": {
-    "Definition": "having a very unpleasant smell"
+    "Definition": "stinking; very unpleasant to the nose"
   },
   "TENEMENT": {
-    "Definition": "a large building divided into many flats, often for poorer people"
+    "Definition": "a large building divided into many flats"
   },
   "STOREYS": {
     "Definition": "floors or levels of a building"
@@ -27,7 +27,7 @@
     "Definition": "turning and twisting, not straight"
   },
   "FLIGHTS OF STAIRS": {
-    "Definition": "sets of stairs between one floor and the next"
+    "Definition": "sets of steps between one floor and the next"
   },
   "SEWERS": {
     "Definition": "underground pipes that carry away human waste and dirty water"
@@ -60,7 +60,7 @@
     "Definition": "people who bought and sold goods, especially in trade with other countries"
   },
   "AS CONCERNS": {
-    "Definition": "when talking about; as far as something is affected"
+    "Definition": "when talking about"
   },
   "ENDEAVOUR": {
     "Definition": "an attempt to achieve something difficult"
@@ -81,7 +81,7 @@
     "Definition": "officially, though not really in practice"
   },
   "TIME ON THEIR HANDS": {
-    "Definition": "free time with nothing much to do"
+    "Definition": "spare hours with nothing much to do"
   },
   "ARISTOCRATIC": {
     "Definition": "belonging to the highest social class"
@@ -144,7 +144,7 @@
     "Definition": "four body fluids once thought to control a person's health and character"
   },
   "BLOOD-LETTING": {
-    "Definition": "the old medical practice of taking blood from a sick person"
+    "Definition": "the old practice of cutting veins to treat illness"
   },
   "DISSECTIONS": {
     "Definition": "cutting up dead bodies to study them"
@@ -183,7 +183,7 @@
     "Definition": "vehicles with wheels, pulled by horses"
   },
   "THROWN ACROSS": {
-    "Definition": "built quickly across a gap"
+    "Definition": "built over"
   },
   "ESTABLISHMENT": {
     "Definition": "the powerful and important people who control a society"
@@ -198,7 +198,7 @@
     "Definition": "very poor, crowded and dirty areas of a city"
   },
   "TENEMENTS": {
-    "Definition": "large buildings divided into many flats, often for poorer people"
+    "Definition": "large buildings divided into many flats"
   },
   "COUNTESSES": {
     "Definition": "women of high noble rank"
