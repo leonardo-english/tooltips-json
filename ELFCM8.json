@@ -1,95 +1,98 @@
 {
-  "ADVENT": {
-    "Definition": "the arrival of a notable person or thing"
-  },
-  "AIR TRAFFIC CONTROL": {
-    "Definition": "the people and equipment that control and monitor aircraft from the ground"
-  },
-  "AMENDMENTS": {
-    "Definition": "changes"
-  },
-  "BYPASS": {
-    "Definition": "to avoid by going around, above, or below"
-  },
-  "COME IN PRETTY HANDY": {
-    "Definition": "be useful"
-  },
-  "CONSENSUS": {
-    "Definition": "agreement"
-  },
   "CONTEXTUALISE": {
-    "Definition": "put into context, give you the background to help understand"
-  },
-  "CRISES": {
-    "Definition": "times of intense difficulty or danger"
-  },
-  "ENCROACH ON": {
-    "Definition": "intrude on (a person's territory, rights, personal life, etc.)"
-  },
-  "EXERT": {
-    "Definition": "put force upon"
+    "Definition": "give the background needed to understand"
   },
   "EXTENDS": {
-    "Definition": "go up"
-  },
-  "EXTRACT": {
-    "Definition": "require payments for"
-  },
-  "FOR STARTERS": {
-    "Definition": "to begin with, to start"
-  },
-  "FRONTIER": {
-    "Definition": "border"
-  },
-  "HANDY": {
-    "Definition": "convenient, nice"
-  },
-  "HARD AND FAST": {
-    "Definition": "(of a rule or a distinction made) fixed and definitive"
-  },
-  "INFINITE": {
-    "Definition": "without end, continues forever"
-  },
-  "LEADER ON": {
-    "Definition": "revealing part of what is to come"
-  },
-  "LUMP": {
-    "Definition": "treat in the same way"
-  },
-  "NICE LITTLE EARNER": {
-    "Definition": "(informal) something that you can make money from easily"
-  },
-  "OBSCURE": {
-    "Definition": "get in the way of"
-  },
-  "PROPORTION": {
-    "Definition": "a part, a percentage"
-  },
-  "REVENUE": {
-    "Definition": "income, money"
-  },
-  "ROUND OFF": {
-    "Definition": "conclude with, finish with"
-  },
-  "ROUTINE": {
-    "Definition": "usual, normal"
+    "Definition": "reaches or continues"
   },
   "SLICE": {
-    "Definition": "a portion or share of something"
-  },
-  "SOIL": {
-    "Definition": "the upper layer of earth in which plants grow"
+    "Definition": "a section or layer"
   },
   "STICK WITH": {
-    "Definition": "persevere or continue with"
+    "Definition": "keep talking about"
+  },
+  "ROUND OFF": {
+    "Definition": "finish in a satisfying way"
+  },
+  "LUMP": {
+    "Definition": "put together as if they were all the same"
+  },
+  "SOIL": {
+    "Definition": "the ground or land"
   },
   "STOOD THE TEST OF TIME": {
-    "Definition": "last or remain popular for a long time"
+    "Definition": "remained useful or accepted for a very long time"
   },
-  "STRETCH OUT": {
-    "Definition": "extend, continue"
+  "ENCROACH ON": {
+    "Definition": "enter or use part of something that belongs to someone else"
+  },
+  "AMENDMENTS": {
+    "Definition": "changes made to improve or update a law"
+  },
+  "ADVENT": {
+    "Definition": "the arrival or beginning"
   },
   "TRESPASSING": {
-    "Definition": "enter someone's land or property without permission"
+    "Definition": "entering someone's land without permission"
+  },
+  "INFINITE": {
+    "Definition": "unlimited; never-ending"
+  },
+  "EXTRACT": {
+    "Definition": "demand and collect"
+  },
+  "TARIFFS": {
+    "Definition": "charges or taxes that people must pay"
+  },
+  "ROUTINE": {
+    "Definition": "normal and everyday"
+  },
+  "HARD AND FAST": {
+    "Definition": "fixed and clear, with no exceptions"
+  },
+  "OBSCURE": {
+    "Definition": "block or hide"
+  },
+  "PROPORTION": {
+    "Definition": "a part of the whole"
+  },
+  "STRETCH OUT": {
+    "Definition": "reach as far as"
+  },
+  "COME IN PRETTY HANDY": {
+    "Definition": "be quite useful"
+  },
+  "FOR STARTERS": {
+    "Definition": "first of all"
+  },
+  "REVENUE": {
+    "Definition": "money that is received, especially by a country or business"
+  },
+  "AIR TRAFFIC CONTROL": {
+    "Definition": "the service that guides planes safely while they are flying"
+  },
+  "NICE LITTLE EARNER": {
+    "Definition": "an easy and steady way of making money"
+  },
+  "HANDY": {
+    "Definition": "useful and convenient"
+  },
+  "EXERT": {
+    "Definition": "put or apply"
+  },
+  "LEADER ON": {
+    "Definition": "a short introduction to what comes next"
+  },
+  "CONSENSUS": {
+    "Definition": "a general agreement among everyone involved"
+  },
+  "BYPASS": {
+    "Definition": "avoid by going around or over"
+  },
+  "CRISES": {
+    "Definition": "times of serious difficulty or danger"
+  },
+  "FRONTIER": {
+    "Definition": "an area at the edge of what is known or explored"
   }
 }
