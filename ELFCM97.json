@@ -1,167 +1,170 @@
 {
+  "MORBID": {
+    "Definition": "focused on death and other unpleasant things"
+  },
+  "INEVITABILITY": {
+    "Definition": "something that is certain to happen and cannot be avoided"
+  },
+  "DISCLAIMER": {
+    "Definition": "a statement made to warn or prepare people"
+  },
+  "KIDNEYS": {
+    "Definition": "the two body organs that clean the blood and produce urine"
+  },
+  "LIVER": {
+    "Definition": "the large body organ that cleans the blood and helps digest food"
+  },
+  "LIFELESS": {
+    "Definition": "dead and completely still"
+  },
+  "SPIRITUALLY": {
+    "Definition": "in terms of the soul or religious beliefs"
+  },
+  "ONE-WAY STREET": {
+    "Definition": "something you can only go into, with no way back"
+  },
   "ACCOUNTS": {
-    "Definition": "witness statements, stories"
+    "Definition": "descriptions of what happened, told by the people involved"
   },
-  "AFTERLIFE": {
-    "Definition": "a life that some people believe begins after death"
+  "REVISITED": {
+    "Definition": "met again"
   },
-  "ATHEIST": {
-    "Definition": "not believing in Gods or the supernatural"
-  },
-  "ATOMS": {
-    "Definition": "the smallest chemical unit"
+  "SCEPTICAL": {
+    "Definition": "doubtful; not ready to believe"
   },
   "ATTRIBUTED": {
-    "Definition": "explained by"
+    "Definition": "explained as being due"
   },
-  "BAFFLED": {
-    "Definition": "confused"
+  "LUCID-TYPE": {
+    "Definition": "very clear, real-seeming kind"
+  },
+  "ATHEIST": {
+    "Definition": "belonging to people who do not believe in any god"
+  },
+  "NON-CORPOREAL": {
+    "Definition": "not physical; not part of the body"
+  },
+  "AFTERLIFE": {
+    "Definition": "the world or existence that some believe people go to after death"
   },
   "BATTLED": {
-    "Definition": "if people battle with an idea, they debate it"
+    "Definition": "struggled to understand and agree on"
   },
-  "BEYOND THE REALMS OF POSSIBILITY": {
-    "Definition": "not possible"
+  "SOUL": {
+    "Definition": "the spiritual part of a person, which some believe continues after death"
   },
-  "CHANTING": {
-    "Definition": "singing or saying a phrase continuously"
+  "ATOMS": {
+    "Definition": "the tiny basic pieces that all matter is made of"
   },
-  "COFFIN": {
-    "Definition": "a long box in which the body of a dead person is buried"
+  "DISCIPLES": {
+    "Definition": "followers who learn from a teacher and spread his ideas"
   },
-  "COMMISSION": {
-    "Definition": "to pay for something to happen"
-  },
-  "COMMONPLACE": {
-    "Definition": "happening often"
+  "IMMORTALITY": {
+    "Definition": "the ability to exist forever and never die"
   },
   "CONCEPTION": {
-    "Definition": "the time when a woman falls pregnant"
+    "Definition": "the moment a baby starts to form inside its mother"
   },
-  "CONFRONT": {
-    "Definition": "face, meet, deal with (often a difficult situation)"
+  "TABOO": {
+    "Definition": "a subject people avoid because it is seen as embarrassing or offensive"
+  },
+  "CREEPY": {
+    "Definition": "strange in a way that makes people uneasy or a little frightened"
+  },
+  "SLUM": {
+    "Definition": "a very poor, crowded and dirty part of a town or city"
+  },
+  "DEPRIVED": {
+    "Definition": "very poor and without the things people need for a decent life"
+  },
+  "SIBLING": {
+    "Definition": "a brother or sister"
+  },
+  "COMMONPLACE": {
+    "Definition": "ordinary and happening often"
+  },
+  "COMMISSION": {
+    "Definition": "arrange and pay for"
+  },
+  "PROPPED UP": {
+    "Definition": "supported so that they stayed upright"
+  },
+  "DECEASED": {
+    "Definition": "dead"
+  },
+  "MEMENTO": {
+    "Definition": "an object kept to help people remember a person or event"
+  },
+  "CREMATED": {
+    "Definition": "burned to ashes after death"
+  },
+  "EMBALMED": {
+    "Definition": "treated with chemicals to stop the dead body from rotting"
+  },
+  "FORMALDEHYDE": {
+    "Definition": "a strong-smelling chemical used to stop dead bodies from rotting"
+  },
+  "UNORTHODOX": {
+    "Definition": "unusual; different from what is normal or accepted"
+  },
+  "PARADED": {
+    "Definition": "carried or walked around for people to see"
+  },
+  "FLUID": {
+    "Definition": "changing and not fixed"
+  },
+  "CREMATE": {
+    "Definition": "burn the dead body of"
   },
   "CORPSES": {
     "Definition": "dead bodies"
   },
-  "CREEP YOU OUT": {
-    "Definition": "if something creeps you out, it makes you uncomfortable"
-  },
-  "CREEPY": {
-    "Definition": "strange or unnatural"
-  },
-  "CREMATE": {
-    "Definition": "(of a body) burn"
-  },
-  "CREMATED": {
-    "Definition": "(of a body) burned"
-  },
-  "DECEASED": {
-    "Definition": "dead, not moving"
-  },
-  "DEPRIVED": {
-    "Definition": "very poor and not having basic amenities"
-  },
-  "DISCIPLES": {
-    "Definition": "people who believe and follow the ideas of someone else"
-  },
-  "DISCLAIMER": {
-    "Definition": "a formal statement saying that you don't take responsibility for something"
-  },
-  "EMBALMED": {
-    "Definition": "(of a body) treated with chemicals to prevent it decaying"
-  },
-  "EXTRAVAGANT": {
-    "Definition": "costing a lot of money, often more than what is necessary"
-  },
-  "FLUID": {
-    "Definition": "not fixed"
-  },
-  "FORMALDEHYDE": {
-    "Definition": "a chemical used to preserve dead bodies"
-  },
-  "IMMORTALITY": {
-    "Definition": "living forever"
-  },
-  "INEVITABILITY": {
-    "Definition": "something that is certain to happen"
-  },
-  "KIDNEYS": {
-    "Definition": "the pair of small organs that take waste from the blood"
-  },
-  "LIFELESS": {
-    "Definition": "dead, not moving"
-  },
-  "LIVER": {
-    "Definition": "the large organ that cleans the blood"
-  },
-  "LUCID-TYPE": {
-    "Definition": "(of a dream) feeling real and awake"
-  },
-  "MEME": {
-    "Definition": "a piece of video or image that spreads quickly on the internet"
-  },
-  "MEMENTO": {
-    "Definition": "something that helps you remember someone or something"
-  },
-  "MORBID": {
-    "Definition": "relating to death"
-  },
-  "NON-CORPOREAL": {
-    "Definition": "not relating to the body"
-  },
-  "ONE-WAY STREET": {
-    "Definition": "a journey with no return"
-  },
-  "PALLBEARERS": {
-    "Definition": "people who carry a coffin at a funeral"
-  },
-  "PARADED": {
-    "Definition": "taken or moved around (in celebration)"
-  },
-  "PROPPED UP": {
-    "Definition": "lifted and held in a position"
-  },
-  "REINCARNATED": {
-    "Definition": "reborn in another body"
-  },
-  "REINCARNATION": {
-    "Definition": "the belief that a dead person's spirit is reborn in another body"
-  },
-  "REVISITED": {
-    "Definition": "visited again"
-  },
   "SCAVENGERS": {
-    "Definition": "animals that eat other animals that they haven't killed"
-  },
-  "SCEPTICAL": {
-    "Definition": "doubting, not believing"
-  },
-  "SIBLING": {
-    "Definition": "brother or sister"
-  },
-  "SLUM": {
-    "Definition": "a very poor and crowded area"
-  },
-  "SOUGHT AFTER": {
-    "Definition": "in demand"
-  },
-  "SOUL": {
-    "Definition": "the spiritual part of a person that some people believe continues to exist after death"
-  },
-  "SOUND": {
-    "Definition": "sensible"
-  },
-  "SPIRITUALLY": {
-    "Definition": "relating to your spirit, not your body"
-  },
-  "TABOO": {
-    "Definition": "a subject or word that is avoided by a society"
-  },
-  "UNORTHODOX": {
-    "Definition": "different or unusual"
+    "Definition": "animals that feed on dead animals or bodies"
   },
   "VULTURES": {
-    "Definition": "large birds that eat dead animals"
+    "Definition": "large birds that eat the flesh of dead bodies"
+  },
+  "CHANTING": {
+    "Definition": "singing or saying words over and over in a steady rhythm"
+  },
+  "REINCARNATION": {
+    "Definition": "the belief that a person is born again in a new body after death"
+  },
+  "REINCARNATED": {
+    "Definition": "born again in a new body or form"
+  },
+  "MEME": {
+    "Definition": "a funny picture or video that is copied and shared widely online"
+  },
+  "PALLBEARERS": {
+    "Definition": "people who carry the box holding a dead body at a funeral"
+  },
+  "COFFIN": {
+    "Definition": "a box in which a dead body is placed for burial"
+  },
+  "EXTRAVAGANT": {
+    "Definition": "very showy and costing a lot of money"
+  },
+  "COFFINS": {
+    "Definition": "boxes in which dead bodies are placed for burial"
+  },
+  "SOUGHT AFTER": {
+    "Definition": "wanted and valued by many people"
+  },
+  "CONFRONT": {
+    "Definition": "face and deal with"
+  },
+  "SOUND": {
+    "Definition": "sensible and based on good reasons"
+  },
+  "BEYOND THE REALMS OF POSSIBILITY": {
+    "Definition": "completely impossible"
+  },
+  "CREEP YOU OUT": {
+    "Definition": "make you feel uneasy and a little frightened"
+  },
+  "BAFFLED": {
+    "Definition": "confused and unable to understand"
   }
 }
