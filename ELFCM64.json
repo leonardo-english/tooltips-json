@@ -1,131 +1,137 @@
 {
+  "PRINCIPLE": {
+    "Definition": "the basic idea of how something works"
+  },
   "AWKWARD": {
-    "Definition": "difficult to use, do, or deal with"
+    "Definition": "uncomfortable and slightly embarrassing"
   },
-  "BOOMING": {
-    "Definition": "experiencing a period of fast growth"
-  },
-  "BUSINESS MODEL": {
-    "Definition": "a description of the different parts of a business or organisation showing how they will work together successfully to make money"
-  },
-  "BYPASS": {
-    "Definition": "to avoid something by going around it"
+  "ENCOUNTER": {
+    "Definition": "a short meeting between people"
   },
   "CHANGE": {
-    "Definition": "the money that is returned to someone who has paid for something that costs less than the amount that they gave"
-  },
-  "COMMISSION": {
-    "Definition": "a payment to someone who sells goods that is directly related to the amount sold, or a system that uses such payments"
-  },
-  "COMMISSIONS": {
-    "Definition": "a payment to someone who sells goods that is directly related to the amount sold, or a system that uses such payments"
-  },
-  "CONCEPT": {
-    "Definition": "a principle or idea"
-  },
-  "CONSTRAINTS": {
-    "Definition": "something that controls what you do by keeping you within particular limits"
+    "Definition": "the money given back when you pay more than the price"
   },
   "CONVENIENCE": {
-    "Definition": "anything that is easy to use and makes life comfortable"
+    "Definition": "something that makes life easier"
   },
-  "DETAILED": {
-    "Definition": "described"
+  "SELLING POINT": {
+    "Definition": "a feature that makes something attractive to buyers or users"
   },
-  "DINE-IN": {
-    "Definition": "eating inside a restaurant, as opposed to take-away"
+  "CONSTRAINTS": {
+    "Definition": "limits that stop someone doing more"
+  },
+  "TAKEN CARE OF": {
+    "Definition": "dealt with; managed"
+  },
+  "PROFITABLE": {
+    "Definition": "making more money than is spent"
+  },
+  "COMMISSION": {
+    "Definition": "a part of the money from each sale, paid to the company that arranged it"
+  },
+  "WIN-WIN": {
+    "Definition": "good for everyone involved"
+  },
+  "SHADY": {
+    "Definition": "dishonest or not quite legal"
   },
   "EMPLOYED": {
     "Definition": "used"
   },
-  "ENTICE": {
-    "Definition": "to persuade someone to do something by offering them something pleasant"
-  },
-  "FEASIBLE": {
-    "Definition": "able to be made, done, or achieved"
-  },
-  "FIXED COSTS": {
-    "Definition": "a cost such as wages, rent, and interest that does not change in relation to how much a business produces"
-  },
-  "FUNDED": {
-    "Definition": "invested in, provided money for"
-  },
-  "GET RID OF": {
-    "Definition": "to sack or dismiss, to terminate a contract"
+  "SLICE": {
+    "Definition": "a part or share"
   },
   "GLUTEN-FREE": {
-    "Definition": "a protein that is contained in wheat and some other grains"
-  },
-  "INCENTIVES": {
-    "Definition": "something that encourages a person to do something"
-  },
-  "INTENSE": {
-    "Definition": "extreme and forceful or (of a feeling) very strong"
-  },
-  "MARGINS": {
-    "Definition": "the profit made on a product or service"
-  },
-  "MINIMUM WAGE": {
-    "Definition": "the smallest amount of money that employers are legally allowed to pay someone who works for them"
-  },
-  "MODEL": {
-    "Definition": "a description of the different parts of a business or organisation showing how they will work together successfully to make money"
-  },
-  "PRINCIPLE": {
-    "Definition": "a basic idea or rule that explains or controls how something happens or works"
-  },
-  "PROFITABLE": {
-    "Definition": "making or likely to make a profit, (of a business) having larger revenues than costs"
-  },
-  "RACE TO THE BOTTOM": {
-    "Definition": "a situation in which companies compete with each other to reduce costs by paying the lowest wages or giving workers the worst conditions"
-  },
-  "RELIANT": {
-    "Definition": "the state of depending on or trusting in something or someone"
+    "Definition": "made without the protein found in wheat and similar grains, which some people cannot eat"
   },
   "RENEWED": {
-    "Definition": "happening again"
+    "Definition": "fresh and increased"
   },
-  "RUN": {
-    "Definition": "do, make"
+  "SCRUTINY": {
+    "Definition": "careful and critical examination"
   },
-  "SELLING POINT": {
-    "Definition": "a characteristic of a product that will persuade people to buy it"
-  },
-  "SHADY": {
-    "Definition": "dishonest or illegal"
-  },
-  "SICK PAY": {
-    "Definition": "money given by an employer to someone who cannot work because of illness"
-  },
-  "SLICE": {
-    "Definition": "piece, percentage"
-  },
-  "SQUEEZED": {
-    "Definition": "to press something firmly, especially from all sides in order to change its shape, reduce its size, or remove liquid from it"
+  "MARGINS": {
+    "Definition": "amounts of profit left from each sale after costs are paid"
   },
   "SUSTAINABLE": {
-    "Definition": "able to continue over a period of time"
+    "Definition": "able to continue for a long time"
   },
-  "TAKEN CARE OF": {
-    "Definition": "looked after, dealt with"
+  "RUN": {
+    "Definition": "organise; put on"
   },
-  "THANKLESS": {
-    "Definition": "A thankless job is difficult or unpleasant, and people do not thank you for it"
+  "ENTICE": {
+    "Definition": "attract by offering something good"
   },
-  "TRAILER": {
-    "Definition": "a box on wheels that is pulled by a car and is used for taking things from one place to another"
+  "DETAILED": {
+    "Definition": "showed in full"
   },
-  "UNDER SCRUTINY": {
-    "Definition": "to be watched carefully"
-  },
-  "UNPREDICTABLE": {
-    "Definition": "likely to change suddenly and without reason and therefore not able to be predicted (= expected before it happens) or depended on"
+  "COMMISSIONS": {
+    "Definition": "parts of the money from sales, paid to the company that arranged them"
   },
   "VIABLE": {
-    "Definition": "able to be done or likely to succeed"
+    "Definition": "able to work successfully"
   },
-  "WIN-WIN": {
-    "Definition": "A win-win situation or result is one that is good for everyone who is involved"
+  "DINE-IN": {
+    "Definition": "eating at the restaurant rather than at home"
+  },
+  "RELIANT": {
+    "Definition": "dependent; needing something in order to continue"
+  },
+  "INCENTIVES": {
+    "Definition": "things that encourage people to do something"
+  },
+  "BUSINESS MODEL": {
+    "Definition": "a company's plan for how it will make money"
+  },
+  "FUNDED": {
+    "Definition": "paid for"
+  },
+  "INTENSE": {
+    "Definition": "very strong; extreme"
+  },
+  "RACE TO THE BOTTOM": {
+    "Definition": "a situation where competitors keep cutting prices to win, which harms everyone"
+  },
+  "SQUEEZED": {
+    "Definition": "put under strong financial pressure"
+  },
+  "MODEL": {
+    "Definition": "a way of doing business and making money"
+  },
+  "FEASIBLE": {
+    "Definition": "possible and practical"
+  },
+  "FIXED COSTS": {
+    "Definition": "costs, such as rent, that stay the same however much is sold"
+  },
+  "CONCEPT": {
+    "Definition": "an idea or plan"
+  },
+  "TRAILER": {
+    "Definition": "a large box on wheels, pulled by a vehicle, used here as a kitchen"
+  },
+  "BOOMING": {
+    "Definition": "growing very quickly and successfully"
+  },
+  "BYPASS": {
+    "Definition": "avoid using; go around"
+  },
+  "THANKLESS": {
+    "Definition": "hard and not appreciated by others"
+  },
+  "UNPREDICTABLE": {
+    "Definition": "changing a lot, so you cannot know in advance how much it will be"
+  },
+  "UNDER SCRUTINY": {
+    "Definition": "into careful and critical examination"
+  },
+  "MINIMUM WAGE": {
+    "Definition": "the lowest pay per hour that employers are legally allowed to pay"
+  },
+  "GET RID OF": {
+    "Definition": "stop working with; dismiss"
+  },
+  "SICK PAY": {
+    "Definition": "money paid to a worker who is too ill to work"
   }
 }
