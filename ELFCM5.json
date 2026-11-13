@@ -1,122 +1,125 @@
 {
-  "AGENDA": {
-    "Definition": "the underlying intentions or motives of a particular person or group"
-  },
-  "AMPLIFIES": {
-    "Definition": "makes louder"
-  },
-  "ASPIRATIONAL": {
-    "Definition": "having or characterized by aspirations to achieve social prestige and material success"
-  },
-  "BLOSSOM": {
-    "Definition": "mature or develop in a promising or healthy way"
-  },
-  "BOUND": {
-    "Definition": "likely"
-  },
-  "COERCION": {
-    "Definition": "force"
-  },
-  "COINED": {
-    "Definition": "invent (a new word or phrase)"
-  },
-  "DEEMED": {
-    "Definition": "considered, thought"
-  },
-  "DIVIDENDS": {
-    "Definition": "a benefit from an action or policy"
-  },
-  "DOMINANT": {
-    "Definition": "having power and influence over others"
-  },
-  "FOOTPRINT": {
-    "Definition": "the impression left by a foot or shoe on the ground or a surface"
-  },
-  "FOSTER": {
-    "Definition": "encourage the development of (something, especially something desirable)"
-  },
-  "FUNDING": {
-    "Definition": "providing money for"
-  },
-  "GRADUAL": {
-    "Definition": "slow"
-  },
-  "HOSTILE": {
-    "Definition": "unfriendly towards"
-  },
-  "IMPRINT": {
-    "Definition": "make an impression or mark on"
-  },
-  "INSTITUTIONS": {
-    "Definition": "an established official organization having an important role in a society, such as the Church or parliament"
-  },
-  "LINGUA FRANCA": {
-    "Definition": "a language that is adopted as a common language between speakers whose native languages are different"
-  },
-  "MASTERY": {
-    "Definition": "comprehensive knowledge or skill in a particular subject or activity"
-  },
-  "NEGLECT": {
-    "Definition": "fail to care for properly"
-  },
-  "PACKS A SIZABLE PUNCH": {
-    "Definition": "is powerful, normally beyond expectations"
-  },
-  "PACKS A SUBSTANTIAL SOFT POWER PUNCH": {
-    "Definition": "is powerful, normally beyond expectations"
-  },
-  "PORTRAY": {
-    "Definition": "show"
-  },
-  "PREVALENCE": {
-    "Definition": "commonness"
-  },
   "PROJECT": {
-    "Definition": "present or promote (a particular view or image)"
-  },
-  "PROJECTED": {
-    "Definition": "present or promote (a particular view or image)"
-  },
-  "RANKED": {
-    "Definition": "considered within a ratings system"
-  },
-  "RANKS": {
-    "Definition": "considered within a ratings system"
-  },
-  "REAPING": {
-    "Definition": "receive (something, especially something beneficial) as a consequence of one's own or another's actions"
-  },
-  "REPUBLICAN": {
-    "Definition": "advocating republican government"
-  },
-  "SANCTIONS": {
-    "Definition": "a threatened penalty for disobeying a law or rule"
-  },
-  "SELF-PROCLAIMED": {
-    "Definition": "described as or proclaimed to be such by oneself, without endorsement by others"
-  },
-  "SET IN MOTION": {
-    "Definition": "put into place"
-  },
-  "SHIFT": {
-    "Definition": "a slight change in position, direction, or tendency.: 'a shift in public opinion' 'a shift of wind took us by surprise'."
-  },
-  "SLIPPED": {
-    "Definition": "pass or change to a lower, worse, or different condition, typically in a gradual or imperceptible way"
-  },
-  "SOUNDBITES": {
-    "Definition": "a short extract from a recorded interview or speech, chosen for its succinctness or concision"
-  },
-  "STRUGGLE": {
-    "Definition": "have trouble doing"
-  },
-  "TIME FRAMES": {
-    "Definition": "#N/A"
+    "Definition": "show and spread"
   },
   "TOOLBOX": {
-    "Definition": "a box or container for keeping tools in"
+    "Definition": "a set of methods that can be used for a job"
+  },
+  "SELF-PROCLAIMED": {
+    "Definition": "calling himself this"
   },
   "ZERO SUM": {
-    "Definition": "#N/A"
+    "Definition": "in which one side can only win if another side loses"
+  },
+  "PROJECTED": {
+    "Definition": "shown and spread"
+  },
+  "COERCION": {
+    "Definition": "the use of force or threats to make someone do something"
+  },
+  "SANCTIONS": {
+    "Definition": "official punishments, such as limits on trade, used to put pressure on a country"
+  },
+  "ASPIRATIONAL": {
+    "Definition": "admired, so that people want to have it or be part of it"
+  },
+  "COINED": {
+    "Definition": "first created and used"
+  },
+  "LINGUA FRANCA": {
+    "Definition": "a shared language used by people whose first languages are different"
+  },
+  "DOMINANT": {
+    "Definition": "most powerful and important"
+  },
+  "PACKS A SIZABLE PUNCH": {
+    "Definition": "has much more power or influence than its size suggests"
+  },
+  "PREVALENCE": {
+    "Definition": "the fact of being very common and widely used"
+  },
+  "GRADUAL": {
+    "Definition": "slow and steady"
+  },
+  "DECLINE": {
+    "Definition": "fall to a lower position"
+  },
+  "INSTITUTIONS": {
+    "Definition": "large, important organisations, such as courts, universities or parliaments"
+  },
+  "SLIPPED": {
+    "Definition": "fallen"
+  },
+  "RANKS": {
+    "Definition": "is placed in a list ordered by success"
+  },
+  "FOOTPRINT": {
+    "Definition": "presence and influence"
+  },
+  "REPUBLICAN": {
+    "Definition": "based on government by the people, with no king or queen"
+  },
+  "IMPRINT": {
+    "Definition": "a lasting effect"
+  },
+  "MASTERY": {
+    "Definition": "great skill"
+  },
+  "AMPLIFIES": {
+    "Definition": "makes stronger and spreads further"
+  },
+  "DEEMED": {
+    "Definition": "considered to be"
+  },
+  "AGENDA": {
+    "Definition": "a plan of things it wants to achieve"
+  },
+  "FUNDING": {
+    "Definition": "money given to pay for something"
+  },
+  "PORTRAY": {
+    "Definition": "show or describe"
+  },
+  "TIME FRAMES": {
+    "Definition": "periods of time"
+  },
+  "BLOSSOM": {
+    "Definition": "grow and develop well"
+  },
+  "SOUNDBITES": {
+    "Definition": "short, memorable phrases that are easy to repeat in the news"
+  },
+  "HOSTILE": {
+    "Definition": "unfriendly and opposed"
+  },
+  "STRUGGLE": {
+    "Definition": "find it difficult"
+  },
+  "RANKED": {
+    "Definition": "placed in a list ordered by success"
+  },
+  "BOUND TO": {
+    "Definition": "certain to"
+  },
+  "FOSTER": {
+    "Definition": "encourage the growth of"
+  },
+  "DIVIDENDS": {
+    "Definition": "benefits or rewards"
+  },
+  "REAPING": {
+    "Definition": "receiving"
+  },
+  "SET IN MOTION": {
+    "Definition": "started"
+  },
+  "SHIFT": {
+    "Definition": "a change of direction"
+  },
+  "PACKS A SUBSTANTIAL SOFT POWER PUNCH": {
+    "Definition": "has a lot of influence through attraction, much more than its size suggests"
+  },
+  "NEGLECT": {
+    "Definition": "fail to give enough attention to"
   }
 }
