@@ -1,194 +1,197 @@
 {
-  "ACCOUNTABLE": {
-    "Definition": "required or expected to justify actions or decisions"
-  },
-  "ADVOCATING": {
-    "Definition": "publicly recommend or support"
-  },
-  "ANCHOR": {
-    "Definition": "provide with a firm basis or foundation"
-  },
-  "ANCHORED": {
-    "Definition": "provide with a firm basis or foundation"
-  },
-  "ANCHORING": {
-    "Definition": "provide with a firm basis or foundation"
-  },
-  "ANCHORS": {
-    "Definition": "provide with a firm basis or foundation"
-  },
-  "BACK OF OUR MINDS": {
-    "Definition": "still thought about"
-  },
-  "BLEAK": {
-    "Definition": "cold and miserable"
-  },
-  "BOMBARDED": {
-    "Definition": "subject (someone) to a continuous flow of questions, criticisms, or information"
-  },
-  "BOMBARDMENT": {
-    "Definition": "see bombarded"
-  },
-  "BURSTING YOUR BUBBLE": {
-    "Definition": "change someone's opinion by revealing a piece of information"
-  },
-  "BUSHFIRES": {
-    "Definition": "a fire in scrub or a forest, especially one that spreads rapidly."
-  },
-  "CAPTIVATE": {
-    "Definition": "attract and hold the interest and attention of"
-  },
-  "COMMONPLACE": {
-    "Definition": "frequent, usual"
-  },
-  "CONTRADICTORY": {
-    "Definition": "different to, incompatible with"
-  },
-  "CUT YOURSELF OFF": {
-    "Definition": "remove your access to"
-  },
-  "EDITORIAL": {
-    "Definition": "to be in charge of deciding what goes in the news"
-  },
-  "ELEMENT OF TRUTH": {
-    "Definition": "a certain amount of truth"
-  },
-  "EMPATHISE": {
-    "Definition": "understand and share the feelings of another"
-  },
-  "EXPOSED TO": {
-    "Definition": "see, watch, read"
-  },
-  "EYEBALLS": {
-    "Definition": "used here to describe the number of people who are reading or watching a piece of news"
-  },
   "FAMINES": {
-    "Definition": "extreme lack of food"
-  },
-  "FEARMONGER": {
-    "Definition": "deliberately making someone afraid"
-  },
-  "FED UP": {
-    "Definition": "bored, unable to cope with"
-  },
-  "FIRST AND FOREMOST": {
-    "Definition": "most importantly; more than anything else"
-  },
-  "FLICKING THROUGH": {
-    "Definition": "look quickly through"
-  },
-  "FRESHNESS": {
-    "Definition": "energy and vigour"
-  },
-  "GENOCIDE": {
-    "Definition": "the deliberate killing of a large group of people, especially those of a particular nation or ethnic group"
-  },
-  "GLOATING": {
-    "Definition": "thinking about one's own success or another's misfortune with smugness or malignant pleasure"
-  },
-  "GLUED": {
-    "Definition": "fixed to, unmovable from"
-  },
-  "GORE": {
-    "Definition": "blood that has been shed, especially as a result of violence"
-  },
-  "GRAVITATE": {
-    "Definition": "move towards"
-  },
-  "GRAVITATING": {
-    "Definition": "see gravitate"
-  },
-  "HELPLESS": {
-    "Definition": "unable to defend oneself or to act without help"
-  },
-  "IMPLAUSIBILITY": {
-    "Definition": "not believable"
-  },
-  "IMPLAUSIBLE": {
-    "Definition": "not believable"
+    "Definition": "times when many people have too little food and go hungry"
   },
   "INFLUX": {
-    "Definition": "an arrival or entry of large numbers of people or things"
-  },
-  "INSPIRE": {
-    "Definition": "create (a feeling, especially a positive one) in a person"
-  },
-  "INTAKE": {
-    "Definition": "consumption, the amount that you read, listen, or watch"
-  },
-  "LEAD WITH": {
-    "Definition": "the top headline of the news"
-  },
-  "LONGER FORM": {
-    "Definition": "content that is longer"
-  },
-  "MINDSET": {
-    "Definition": "the established set of attitudes held by someone"
-  },
-  "MINUSCULE": {
-    "Definition": "very small"
-  },
-  "MORTALITY": {
-    "Definition": "death"
-  },
-  "NEWS CYCLE": {
-    "Definition": "the flow of news"
-  },
-  "NEWSWORTHY": {
-    "Definition": "worth reporting as news"
-  },
-  "NOBLE PURSUIT": {
-    "Definition": "an admirable activity, something worth being proud of"
-  },
-  "NUMEROUS": {
-    "Definition": "large in number, many"
-  },
-  "NUTRITION": {
-    "Definition": "food or nourishment"
-  },
-  "OPTIMISTIC": {
-    "Definition": "hopeful and confident about the future"
-  },
-  "OUT OF THE LOOP": {
-    "Definition": "unaware of information"
-  },
-  "OUTWEIGHED": {
-    "Definition": "be heavier, greater, or more significant than"
-  },
-  "PERCEIVED": {
-    "Definition": "thought to be"
-  },
-  "PROMINENCE": {
-    "Definition": "importance"
-  },
-  "RECALIBRATING": {
-    "Definition": "reset"
-  },
-  "RETREAT": {
-    "Definition": "go away"
-  },
-  "REVENUE": {
-    "Definition": "income, money"
-  },
-  "SKEWED": {
-    "Definition": "make biased or distorted in a way that is regarded as inaccurate, unfair, or misleading"
-  },
-  "STRIKE FEAR INTO": {
-    "Definition": "make someone afraid, scare"
-  },
-  "TAKEN FOR GRANTED": {
-    "Definition": "assume that something is true without questioning it"
+    "Definition": "a large amount coming in"
   },
   "TUNING IN": {
-    "Definition": "turning on"
+    "Definition": "choosing to watch or listen"
+  },
+  "GENOCIDE": {
+    "Definition": "the deliberate killing of a whole group of people because of their race, religion or nationality"
+  },
+  "BLEAK": {
+    "Definition": "without hope; sad and depressing"
+  },
+  "NEWSWORTHY": {
+    "Definition": "interesting or important enough to be reported"
+  },
+  "COMMONPLACE": {
+    "Definition": "happening often; ordinary"
+  },
+  "ELEMENT OF TRUTH": {
+    "Definition": "a small part that is correct"
   },
   "UNTOLD": {
-    "Definition": "not told"
+    "Definition": "unknown, because nobody reports them"
+  },
+  "ACCOUNTABLE": {
+    "Definition": "responsible for what they did and made to explain it"
+  },
+  "NOBLE PURSUIT": {
+    "Definition": "a good and honourable thing to do"
+  },
+  "LEAD WITH": {
+    "Definition": "start with; put first"
+  },
+  "EDITORIAL": {
+    "Definition": "responsible for choosing and preparing what is published"
+  },
+  "PROMINENCE": {
+    "Definition": "importance and attention, such as a place near the front"
+  },
+  "GRAVITATE": {
+    "Definition": "be drawn or attracted"
+  },
+  "MORTALITY": {
+    "Definition": "death; the fact that people die"
+  },
+  "GORE": {
+    "Definition": "violent injuries with a lot of blood"
+  },
+  "GLOATING": {
+    "Definition": "showing happiness about being luckier than someone else"
+  },
+  "TAKEN FOR GRANTED": {
+    "Definition": "accepted as true without question"
+  },
+  "CAPTIVATE": {
+    "Definition": "strongly attract and hold"
+  },
+  "NUMEROUS": {
+    "Definition": "many"
+  },
+  "FIRST AND FOREMOST": {
+    "Definition": "more than anything else; mainly"
+  },
+  "EYEBALLS": {
+    "Definition": "people looking at the content"
+  },
+  "BURSTING YOUR BUBBLE": {
+    "Definition": "spoiling a happy belief you had"
+  },
+  "REVENUE": {
+    "Definition": "money that a business earns"
+  },
+  "GRAVITATING": {
+    "Definition": "being drawn or attracted"
+  },
+  "SKEWED": {
+    "Definition": "unbalanced; leaning too far one way"
+  },
+  "MINDSET": {
+    "Definition": "a fixed way of thinking"
+  },
+  "EXPOSED TO": {
+    "Definition": "made to see or hear"
+  },
+  "BOMBARDED": {
+    "Definition": "hit again and again"
+  },
+  "EMPATHISE": {
+    "Definition": "understand because you have felt the same way"
+  },
+  "BOMBARDMENT": {
+    "Definition": "a large and continuous flow"
+  },
+  "PERCEPTION": {
+    "Definition": "an idea or understanding of something"
+  },
+  "PERCEIVED": {
+    "Definition": "believed, though not necessarily real"
+  },
+  "MINUSCULE": {
+    "Definition": "extremely small"
+  },
+  "RECALIBRATING": {
+    "Definition": "adjusting and correcting"
+  },
+  "ANCHORING": {
+    "Definition": "relying too much on the first piece of information you get"
+  },
+  "IMPLAUSIBLE": {
+    "Definition": "hard to believe; unlikely to be true"
+  },
+  "ANCHOR": {
+    "Definition": "a fixed starting point that ideas are based on"
+  },
+  "IMPLAUSIBILITY": {
+    "Definition": "the fact of being hard to believe"
+  },
+  "ANCHORED": {
+    "Definition": "stuck to one idea"
+  },
+  "GLUED": {
+    "Definition": "firmly stuck; unable to look or move away"
+  },
+  "ANCHORS": {
+    "Definition": "fixes firmly in place"
+  },
+  "CONTRADICTORY": {
+    "Definition": "opposite; disagreeing"
   },
   "UNWED": {
-    "Definition": "unfix from, remove from"
+    "Definition": "separate yourself from it"
+  },
+  "IN THE BACK OF OUR MINDS": {
+    "Definition": "somewhere in our thoughts, even when we are not thinking about them directly"
+  },
+  "BUSHFIRES": {
+    "Definition": "large fires that burn out of control in wild areas of bushes and trees"
+  },
+  "HELPLESS": {
+    "Definition": "unable to do anything to change things"
+  },
+  "ADVOCATING": {
+    "Definition": "publicly arguing"
+  },
+  "INSPIRE": {
+    "Definition": "give people the wish and energy to do good things"
   },
   "UPLIFT": {
-    "Definition": "elevate (someone) morally or spiritually"
+    "Definition": "make people feel happier and more hopeful"
+  },
+  "STRIKE FEAR INTO": {
+    "Definition": "make very afraid"
+  },
+  "OPTIMISTIC": {
+    "Definition": "hopeful and positive"
+  },
+  "FED UP": {
+    "Definition": "tired and annoyed"
+  },
+  "NEWS CYCLE": {
+    "Definition": "the flow of reports, updated all day, every day"
+  },
+  "RETREAT": {
+    "Definition": "escape from busy life"
+  },
+  "INTAKE": {
+    "Definition": "the amount you consume"
+  },
+  "LONGER FORM": {
+    "Definition": "detailed, in-depth"
+  },
+  "FEARMONGER": {
+    "Definition": "deliberately make people worried and frightened"
+  },
+  "FLICKING THROUGH": {
+    "Definition": "quickly looking at, without reading carefully"
+  },
+  "NUTRITION": {
+    "Definition": "food that helps something grow and stay healthy"
+  },
+  "CUT YOURSELF OFF": {
+    "Definition": "separate yourself completely"
+  },
+  "OUT OF THE LOOP": {
+    "Definition": "not knowing what is happening"
+  },
+  "OUTWEIGHED": {
+    "Definition": "made less important"
+  },
+  "FRESHNESS": {
+    "Definition": "being lively and full of energy"
   }
 }
