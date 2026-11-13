@@ -1,128 +1,131 @@
 {
-  "ADMIRABLE": {
-    "Definition": "deserving of praise and admiration"
-  },
-  "ADVERTS": {
-    "Definition": "Advertisements, commercials"
-  },
-  "ADVOCATE": {
-    "Definition": "to publicly support or suggest an idea, development, or way of doing something"
-  },
-  "ALL OF THE TRAPPINGS": {
-    "Definition": "all the things that are part of or typical of a particular job, situation, or event"
-  },
-  "ANGLE": {
-    "Definition": "argument or reason"
-  },
-  "CASE STUDY": {
-    "Definition": "a detailed account giving information about the development of a person, group, or thing, especially in order to show general principles"
-  },
-  "CEO": {
-    "Definition": "abbreviation for chief executive officer the person with the most important position in a company"
-  },
-  "CEOS": {
-    "Definition": "abbreviation for chief executive officer the person with the most important position in a company"
-  },
-  "CORRELATION": {
-    "Definition": "a connection or relationship between two or more facts, numbers, etc."
-  },
-  "CRUNCHED THE NUMBERS": {
-    "Definition": "to do mathematical work involving large amounts of information or numbers"
-  },
-  "CUSHION": {
-    "Definition": "something that makes the effects of a bad situation less severe"
-  },
-  "CUSTOMER BASE": {
-    "Definition": "the people who buy or use a particular product or service"
-  },
-  "DEVIATION": {
-    "Definition": "to do something that is different from the usual or common way of behaving"
-  },
-  "DICTATES": {
-    "Definition": "to give orders, or tell someone exactly what they must do, with total authority"
-  },
-  "DUBBED": {
-    "Definition": "nicknamed, given the name of"
-  },
-  "DUST HAD SETTLED": {
-    "Definition": "If the dust settles after an argument or big change, the situation becomes calmer"
-  },
-  "ENLIGHTENED": {
-    "Definition": "showing understanding, acting in a positive way, and not following old-fashioned or false beliefs"
-  },
-  "FOLLOWED HIS LEAD": {
-    "Definition": "followed the example of someone or something"
-  },
-  "FRONTLINE": {
-    "Definition": "used to describe an employee who deals directly with customers, or who is directly involved in making a product"
-  },
-  "GOODWILL": {
-    "Definition": "friendly and helpful feelings"
-  },
-  "HAZARD PAY": {
-    "Definition": "extra money that is paid to someone because their job is dangerous"
-  },
-  "HIGH LIFE": {
-    "Definition": "an exciting way of living in which rich and successful people enjoy themselves by spending a lot of time and money in fashionable places"
-  },
-  "IN SOLIDARITY WITH": {
-    "Definition": "in support for"
-  },
-  "INEFFICIENT": {
-    "Definition": "not organised, skilled, or able to work in a satisfactory way"
-  },
-  "INFLUX": {
-    "Definition": "the fact of a large number of people or things arriving at the same time"
-  },
-  "LONG AND HARD": {
-    "Definition": "for a long time"
-  },
-  "LUXURY": {
-    "Definition": "great comfort, especially as provided by expensive and beautiful things"
-  },
-  "MAKE ENDS MEET": {
-    "Definition": "to have just enough money to pay for the things that you need"
-  },
-  "MBA": {
-    "Definition": "abbreviation for Master of Business Administration: an advanced degree in business, or a person who has this degree"
-  },
-  "MEDIA COVERAGE": {
-    "Definition": "the reporting of a particular important event or subject by the media"
-  },
-  "MOCKED": {
-    "Definition": "to laugh at someone, often by copying them in a funny but unkind way"
-  },
-  "NET WORTH": {
-    "Definition": "the value of the assets (= property and money) that a​ person or ​business has, after any ​debts are taken away"
-  },
-  "PAY CUT": {
-    "Definition": "a reduction in pay"
-  },
-  "PLAIN SAILING": {
-    "Definition": "to be easy and without problems"
-  },
-  "PREDICTED": {
-    "Definition": "to say that an event or action will happen in the future, especially as a result of knowledge or experience"
-  },
   "RADICAL": {
-    "Definition": "believing or expressing the belief that there should be great or extreme social or political change"
-  },
-  "RESIGNED": {
-    "Definition": "to give up a job or position by telling your employer that you are leaving"
-  },
-  "REVENUE": {
-    "Definition": "the income that a government or company receives regularly"
-  },
-  "SHAREHOLDERS": {
-    "Definition": "a person who owns shares in a company and therefore gets part of the company's profits and the right to vote on how the company is controlled"
-  },
-  "STOCKS": {
-    "Definition": "part of the ownership of a company that can be bought by members of the public"
+    "Definition": "very different from what is normal or usual"
   },
   "WAGE": {
-    "Definition": "a particular amount of money that is paid, usually every week, to an employee, especially one who does work that needs physical skills or strength, rather than a job needing a college education"
+    "Definition": "amount of money paid to a worker for their work"
+  },
+  "MOCKED": {
+    "Definition": "laughed at in an unkind way"
+  },
+  "INEFFICIENT": {
+    "Definition": "not working well and wasting time or effort"
+  },
+  "ENLIGHTENED": {
+    "Definition": "showing modern, fair and sensible thinking"
+  },
+  "DEVIATION": {
+    "Definition": "a move away from the usual way of doing things"
+  },
+  "DICTATES": {
+    "Definition": "sets the rule"
+  },
+  "SHAREHOLDERS": {
+    "Definition": "people who own part of a company"
+  },
+  "HIGH LIFE": {
+    "Definition": "an exciting way of life with lots of money and expensive things"
+  },
+  "ALL OF THE TRAPPINGS": {
+    "Definition": "all the things that show someone is rich and successful"
+  },
+  "MAKE ENDS MEET": {
+    "Definition": "have just enough money to pay for the things they needed"
+  },
+  "LONG AND HARD": {
+    "Definition": "very carefully and for a long time"
+  },
+  "CORRELATION": {
+    "Definition": "a connection between two things that change together"
+  },
+  "CRUNCHED THE NUMBERS": {
+    "Definition": "did a lot of calculations"
+  },
+  "CEO": {
+    "Definition": "the most senior person in charge of running a company"
+  },
+  "PREDICTED": {
+    "Definition": "said what would happen in the future"
+  },
+  "CASE STUDY": {
+    "Definition": "a detailed example that students examine to learn a general lesson"
+  },
+  "MBA": {
+    "Definition": "a university business degree, taken after a first degree"
+  },
+  "RESIGNED": {
+    "Definition": "left their jobs by choice"
+  },
+  "INFLUX": {
+    "Definition": "a sudden arrival of a large number"
+  },
+  "THE DUST HAD SETTLED": {
+    "Definition": "the situation had become calm again after a lot of excitement"
+  },
+  "MEDIA COVERAGE": {
+    "Definition": "reports about him in newspapers, on TV and online"
+  },
+  "FOLLOWED HIS LEAD": {
+    "Definition": "done the same as he did"
+  },
+  "CUSHION": {
+    "Definition": "an amount of money that protects it against problems"
+  },
+  "CUSTOMER BASE": {
+    "Definition": "group of people and businesses who regularly buy from it"
+  },
+  "LUXURY": {
+    "Definition": "something nice but not necessary, which many cannot afford"
+  },
+  "DUBBED": {
+    "Definition": "given the name; called"
+  },
+  "PLAIN SAILING": {
+    "Definition": "easy and without problems"
+  },
+  "REVENUE": {
+    "Definition": "the money a company receives from its business"
+  },
+  "NOSEDIVED": {
+    "Definition": "fell very quickly and suddenly"
+  },
+  "PAY CUT": {
+    "Definition": "a reduction in the money they earned"
+  },
+  "IN SOLIDARITY WITH": {
+    "Definition": "to show support for and unity with"
+  },
+  "ADVOCATE": {
+    "Definition": "a person who publicly supports an idea or cause"
+  },
+  "CEOS": {
+    "Definition": "the most senior people in charge of running companies"
+  },
+  "STOCKS": {
+    "Definition": "parts of a company's ownership that can be bought and sold"
+  },
+  "ADVERTS": {
+    "Definition": "short films, pictures or messages that publicly promote something"
+  },
+  "HAZARD PAY": {
+    "Definition": "extra money paid for doing dangerous work"
+  },
+  "FRONTLINE": {
+    "Definition": "jobs with the greatest risk, in direct contact with the public"
+  },
+  "NET WORTH": {
+    "Definition": "the total value of everything a person owns, minus what they owe"
+  },
+  "ANGLE": {
+    "Definition": "way of looking at or presenting an issue"
+  },
+  "ADMIRABLE": {
+    "Definition": "deserving respect and praise"
   },
   "WEATHER": {
-    "Definition": "to deal successfully with a difficult situation or a problem"
+    "Definition": "survive; get safely through"
+  },
+  "GOODWILL": {
+    "Definition": "friendly feelings and trust"
   }
 }
