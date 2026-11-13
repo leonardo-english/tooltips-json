@@ -1,77 +1,80 @@
 {
-  "A TASTER": {
-    "Definition": "a small trial, a small taste"
-  },
-  "ABSORB": {
-    "Definition": "take in, process"
-  },
-  "ARTIFICIALLY": {
-    "Definition": "in a way that isn’t real"
-  },
-  "AUTHENTIC": {
-    "Definition": "real, like you would find in the real world"
-  },
-  "AVID": {
-    "Definition": "very keen, wanting to do something very much"
-  },
-  "CARVE OUT": {
-    "Definition": "find time for"
-  },
-  "COME ROUND": {
-    "Definition": "start to appreciate"
-  },
-  "CONDENSE": {
-    "Definition": "express (written or spoken material) in fewer words; make concise"
-  },
-  "DULLED DOWN": {
-    "Definition": "made into a more plain and boring version"
-  },
-  "EXPOSING": {
-    "Definition": "hearing, or being around"
-  },
-  "FACELESS": {
-    "Definition": "without a face, soulless"
-  },
-  "FOR STARTERS": {
-    "Definition": "to begin with"
-  },
   "INAUGURAL": {
-    "Definition": "marking the beginning of an institution, activity, or period of office"
+    "Definition": "first, marking the start of a series"
   },
-  "INNATE": {
-    "Definition": "inborn; natural"
+  "MAXIMISE": {
+    "Definition": "make as great or as effective as possible"
   },
   "LET'S GET CRACKING": {
-    "Definition": "let's get started"
+    "Definition": "let's start quickly and with energy"
+  },
+  "TRILINGUAL": {
+    "Definition": "able to speak three languages"
+  },
+  "AVID": {
+    "Definition": "very keen and enthusiastic"
+  },
+  "EXPOSING": {
+    "Definition": "putting in regular contact with"
+  },
+  "UNFORGIVING": {
+    "Definition": "very difficult and not making things easy for"
+  },
+  "FOR STARTERS": {
+    "Definition": "as the first point; to begin with"
+  },
+  "SCRIPTED": {
+    "Definition": "written in advance rather than natural"
+  },
+  "MUST": {
+    "Definition": "something that is absolutely necessary"
+  },
+  "WHIRRING AWAY": {
+    "Definition": "working busily, like a fast-spinning machine"
+  },
+  "INNATE": {
+    "Definition": "natural, present from birth"
+  },
+  "ABSORB": {
+    "Definition": "take in and learn"
+  },
+  "SQUARELY": {
+    "Definition": "directly and clearly"
+  },
+  "CONDENSE": {
+    "Definition": "make shorter while keeping the important parts"
+  },
+  "DULLED DOWN": {
+    "Definition": "made simpler and easier"
+  },
+  "ARTIFICIALLY": {
+    "Definition": "in a way that is not natural"
+  },
+  "AUTHENTIC": {
+    "Definition": "real and natural, as native speakers really use it"
+  },
+  "NON-TRIVIAL": {
+    "Definition": "meaningful and serious, not basic or unimportant"
+  },
+  "CARVE OUT": {
+    "Definition": "make available, often with some effort"
   },
   "MAMMOTH": {
     "Definition": "very large"
   },
-  "MAXIMISE": {
-    "Definition": "make the most of, get the most benefit from"
-  },
-  "MUST": {
-    "Definition": "requirement"
-  },
-  "NON-TRIVIAL": {
-    "Definition": "not basic"
-  },
-  "SCRIPTED": {
-    "Definition": "overly produced and not real"
-  },
-  "SQUARELY": {
-    "Definition": "directly"
-  },
   "TOUCH ON": {
-    "Definition": "talk about"
+    "Definition": "talk briefly about"
   },
-  "TRILINGUAL": {
-    "Definition": "speaking 3 languages"
+  "COME ROUND": {
+    "Definition": "be persuaded to change your opinion and accept"
   },
-  "UNFORGIVING": {
-    "Definition": "not easy, not making any compromises for people who might not understand"
+  "A TASTER": {
+    "Definition": "a small sample to show what something is like"
   },
-  "WHIRRING": {
-    "Definition": "processing information actively, thinking"
+  "FACELESS": {
+    "Definition": "without a personal or human character"
+  },
+  "CORPORATION": {
+    "Definition": "a large company or business"
   }
 }
