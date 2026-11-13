@@ -1,116 +1,116 @@
 {
-  "ACRES": {
-    "Definition": "a unit of land area equal to 0.405 hectares"
+  "SHRUNK": {
+    "Definition": "decreased"
   },
-  "ARID": {
-    "Definition": "very dry, without water"
-  },
-  "BASIN": {
-    "Definition": "a circular or oval valley or natural depression on the earth's surface, especially one containing water"
-  },
-  "BED": {
-    "Definition": "the bottom of the sea"
-  },
-  "CARCASSES": {
-    "Definition": "the structural framework or remains of a building, ship, or piece of furniture"
-  },
-  "CONTAMINATED": {
-    "Definition": "having been made impure by exposure to or addition of a poisonous or polluting substance"
-  },
-  "CROPS": {
-    "Definition": "plants used for farming"
+  "ONE STEP AHEAD OF THE GAME": {
+    "Definition": "in a better position than other people because you are better prepared"
   },
   "CRUCIALLY": {
-    "Definition": "very importantly"
-  },
-  "CUTTING OFF": {
-    "Definition": "an act of stopping or interrupting the supply of something"
-  },
-  "DIVERT": {
-    "Definition": "move away from"
-  },
-  "EVAPORATE": {
-    "Definition": "turn from liquid into vapour"
-  },
-  "FERTILIZER": {
-    "Definition": "a chemical or natural substance added to land to increase its fertility"
-  },
-  "FLOURISHING": {
-    "Definition": "developing rapidly and successfully; thriving"
+    "Definition": "most importantly"
   },
   "FRESHWATER": {
-    "Definition": "of or found in freshwater; not of the sea"
+    "Definition": "not salty"
   },
-  "GHOST TOWNS": {
-    "Definition": "uninhabited towns"
-  },
-  "HALT": {
-    "Definition": "stop"
-  },
-  "HAPHAZARD": {
-    "Definition": "without any obvious principle of organisation"
-  },
-  "HUB": {
-    "Definition": "centre, main area"
-  },
-  "IN THEIR MASSES": {
-    "Definition": "in large amounts"
-  },
-  "INEXORABLY": {
-    "Definition": "in a way that is impossible to stop or prevent"
-  },
-  "IRRIGATE": {
-    "Definition": "supply water to (land or crops) to help growth, typically by means of channels"
-  },
-  "IRRIGATION": {
-    "Definition": "see 'irrigate'"
-  },
-  "JEOPARDISE": {
-    "Definition": "put (someone or something) into a situation in which there is a danger of loss, harm, or failure"
-  },
-  "JUNK": {
-    "Definition": "rubbish, trash"
-  },
-  "LIGHT AT THE END OF THIS TUNNEL": {
-    "Definition": "an indication that a long period of difficulty is nearing an end"
-  },
-  "LIVELIHOOD": {
-    "Definition": "a means of securing the necessities of life"
-  },
-  "ONE STEP AHEAD OF THE GAME.": {
-    "Definition": "ahead of everyone else, already ahead"
-  },
-  "PESTICIDES": {
-    "Definition": "a substance used for destroying insects or other organisms harmful to cultivated plants or to animals"
+  "SHIPWRECKS": {
+    "Definition": "the broken remains of old boats"
   },
   "PLETHORA": {
-    "Definition": "a large or excessive amount of something"
+    "Definition": "a very large amount"
   },
-  "REJUVENATION": {
-    "Definition": "restoration to its previous glory"
+  "JUNK": {
+    "Definition": "old things that are no longer useful"
   },
-  "RESERVOIRS": {
-    "Definition": "large natural or artificial lakes used as a source of water supply"
-  },
-  "SALINITY": {
-    "Definition": "the amount of salt in a liquid"
+  "CARCASSES": {
+    "Definition": "empty, broken remains"
   },
   "SHIFT": {
     "Definition": "change"
   },
-  "SHIPWRECKS": {
-    "Definition": "abandoned ships"
-  },
-  "SHRUNK": {
-    "Definition": "became smaller"
-  },
-  "SOIL": {
-    "Definition": "the upper layer of earth in which plants grow"
-  },
   "THRIVING": {
-    "Definition": "prospering, flourishing, doing very well"
+    "Definition": "successful and growing"
+  },
+  "GHOST TOWNS": {
+    "Definition": "places where nobody lives any more"
   },
   "UP STICKS": {
-    "Definition": "(informal) go and live elsewhere"
+    "Definition": "move away from their homes"
+  },
+  "ARID": {
+    "Definition": "very dry, with little rain"
+  },
+  "HUB": {
+    "Definition": "an important centre of activity"
+  },
+  "CROPS": {
+    "Definition": "plants grown in large amounts for food or sale"
+  },
+  "HAPHAZARD": {
+    "Definition": "random and badly organised"
+  },
+  "BASIN": {
+    "Definition": "a large area of land that is lower than the land around it"
+  },
+  "ACRES": {
+    "Definition": "units for measuring areas, each about 4,000 square metres"
+  },
+  "IRRIGATE": {
+    "Definition": "supply with water using channels"
+  },
+  "IRRIGATION": {
+    "Definition": "the supply of water to land or crops to help them grow"
+  },
+  "RESERVOIRS": {
+    "Definition": "large artificial lakes where water is stored"
+  },
+  "EVAPORATE": {
+    "Definition": "turn from liquid into gas and rise into the air"
+  },
+  "SALINITY": {
+    "Definition": "the level of salt"
+  },
+  "IN THEIR MASSES": {
+    "Definition": "in very large numbers"
+  },
+  "BED": {
+    "Definition": "ground at the bottom"
+  },
+  "CONTAMINATED": {
+    "Definition": "made dirty or poisonous by harmful substances"
+  },
+  "FERTILIZER": {
+    "Definition": "a substance added to the ground to help plants grow"
+  },
+  "PESTICIDES": {
+    "Definition": "chemicals used to kill insects and other small creatures that damage crops"
+  },
+  "SOIL": {
+    "Definition": "the earth in which plants grow"
+  },
+  "HALT": {
+    "Definition": "stop"
+  },
+  "CUTTING OFF": {
+    "Definition": "separating"
+  },
+  "LIGHT AT THE END OF THIS TUNNEL": {
+    "Definition": "hope that a difficult situation will improve"
+  },
+  "REJUVENATION": {
+    "Definition": "a process of bringing back to health"
+  },
+  "DIVERT": {
+    "Definition": "send in a different direction"
+  },
+  "JEOPARDISE": {
+    "Definition": "put in danger"
+  },
+  "LIVELIHOOD": {
+    "Definition": "way of earning the money they need to live on"
+  },
+  "INEXORABLY": {
+    "Definition": "in a way that cannot be avoided or changed"
+  },
+  "FLOURISHING": {
+    "Definition": "healthy growth and success"
   }
 }
