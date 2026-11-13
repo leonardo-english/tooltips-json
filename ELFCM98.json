@@ -1,128 +1,131 @@
 {
-  "ABANDONING": {
-    "Definition": "leaving"
+  "BOMBARDED": {
+    "Definition": "constantly overwhelmed"
   },
   "AGRARIAN": {
-    "Definition": "relating to the land or farming"
-  },
-  "APPEALING": {
-    "Definition": "attractive"
-  },
-  "APPROACH": {
-    "Definition": "way of doing something"
-  },
-  "BOMBARDED": {
-    "Definition": "(of information) continually presented by"
+    "Definition": "based on farming and growing crops"
   },
   "BUMPER": {
-    "Definition": "very large"
+    "Definition": "much larger than usual"
   },
-  "CHRONIC": {
-    "Definition": "continuing for a long time"
-  },
-  "COUNTERPARTS": {
-    "Definition": "a person or thing that has the same job in a different place"
-  },
-  "DITCH": {
-    "Definition": "stop using"
+  "HARVEST": {
+    "Definition": "the crops gathered from the fields at the end of the growing season"
   },
   "DROUGHT": {
-    "Definition": "a period where there is very little rain"
-  },
-  "FACTOR IN": {
-    "Definition": "consider"
+    "Definition": "a long period with little or no rain"
   },
   "FAMINE": {
-    "Definition": "a situation where there is not enough food for the population"
-  },
-  "GOVERNANCE": {
-    "Definition": "the way in which a country is governed"
-  },
-  "GUARANTEES": {
-    "Definition": "(of a product) a promise to repair or replace something if it breaks within a period of time"
-  },
-  "ILLUSION": {
-    "Definition": "an idea of belief that isn't true"
-  },
-  "ILLUSTRATE": {
-    "Definition": "show"
-  },
-  "IMPLEMENTED": {
-    "Definition": "started using"
-  },
-  "IMPLICATIONS": {
-    "Definition": "consequences"
-  },
-  "INCENTIVISE": {
-    "Definition": "to make someone want to do something"
-  },
-  "LEGISLATION": {
-    "Definition": "a set of laws"
-  },
-  "MINDSET": {
-    "Definition": "a way of thinking about something"
+    "Definition": "a serious shortage of food that makes many people starve"
   },
   "OBSESSING": {
-    "Definition": "thinking about something a lot"
-  },
-  "OUTCOMES": {
-    "Definition": "results"
-  },
-  "PAINED": {
-    "Definition": "suffering physically"
+    "Definition": "worrying constantly"
   },
   "POLICYMAKERS": {
-    "Definition": "people who decide what a government's policies should be"
+    "Definition": "people who decide a government's plans and rules"
   },
-  "POWERHOUSES": {
-    "Definition": "countries with a lot of influence"
+  "IMPLICATIONS": {
+    "Definition": "possible effects or results"
   },
-  "PURSUIT": {
-    "Definition": "chase of something"
-  },
-  "RANK": {
-    "Definition": "have a position in a list"
-  },
-  "REFLECT": {
-    "Definition": "show, be a sign of"
-  },
-  "REGENERATING": {
-    "Definition": "making something redevelop and grow back to its previous state"
-  },
-  "RELENTLESS": {
-    "Definition": "not stopping"
+  "WELFARE": {
+    "Definition": "health, happiness and comfort"
   },
   "RENEWED": {
-    "Definition": "starting again"
+    "Definition": "fresh; made again after earlier ones"
   },
-  "RESILIENCE": {
-    "Definition": "the ability to survive despite difficult conditions"
-  },
-  "SCENARIO": {
-    "Definition": "a situation that could happen"
-  },
-  "SHIFT": {
-    "Definition": "change"
-  },
-  "STAGNANT": {
-    "Definition": "not moving"
+  "ILLUSTRATE": {
+    "Definition": "show clearly by using an example"
   },
   "TASKED WITH": {
     "Definition": "given the job of"
   },
-  "THEORETICAL": {
-    "Definition": "based on ideas, not practical"
+  "REGENERATING": {
+    "Definition": "making healthy and full of life again"
   },
-  "VITALITY": {
-    "Definition": "energy and strength"
+  "SCENARIO": {
+    "Definition": "an imagined situation"
+  },
+  "COUNTERPARTS": {
+    "Definition": "people in a similar position or role in another place"
+  },
+  "FACTOR IN": {
+    "Definition": "count as part of"
   },
   "WAGED": {
-    "Definition": "(of a criticism) directed towards"
+    "Definition": "aimed"
   },
-  "WELFARE": {
-    "Definition": "health and happiness"
+  "REFLECT": {
+    "Definition": "show accurately"
+  },
+  "THEORETICAL": {
+    "Definition": "based on ideas rather than on real experience"
+  },
+  "STAGNANT": {
+    "Definition": "not changing or improving"
+  },
+  "ILLUSION": {
+    "Definition": "a false idea that seems real"
+  },
+  "RELENTLESS": {
+    "Definition": "never stopping or becoming weaker"
+  },
+  "INCENTIVISE": {
+    "Definition": "reward and encourage"
+  },
+  "LEGISLATION": {
+    "Definition": "a law or set of laws"
+  },
+  "GUARANTEES": {
+    "Definition": "promises by a company to repair or replace a product if it breaks"
+  },
+  "POWERHOUSES": {
+    "Definition": "very strong and successful countries"
+  },
+  "RESILIENCE": {
+    "Definition": "the ability to recover quickly from difficulties"
+  },
+  "GOVERNANCE": {
+    "Definition": "the way a country is run and controlled"
+  },
+  "VITALITY": {
+    "Definition": "energy and liveliness"
+  },
+  "CHRONIC": {
+    "Definition": "lasting a long time and hard to cure"
+  },
+  "PAINED": {
+    "Definition": "suffering and unhappy"
+  },
+  "IMPLEMENTED": {
+    "Definition": "put into practice"
+  },
+  "APPEALING": {
+    "Definition": "attractive and interesting"
+  },
+  "APPROACH": {
+    "Definition": "a way of dealing with something"
+  },
+  "DITCH": {
+    "Definition": "throw away; stop using"
+  },
+  "PURSUIT": {
+    "Definition": "the continued effort to achieve something"
+  },
+  "OUTCOMES": {
+    "Definition": "final results"
+  },
+  "RANK": {
+    "Definition": "are placed at a position in a list"
+  },
+  "ABANDONING": {
+    "Definition": "giving up completely"
+  },
+  "SHIFT": {
+    "Definition": "change"
+  },
+  "MINDSET": {
+    "Definition": "a person's attitude and way of thinking"
   },
   "WORTHWHILE": {
-    "Definition": "useful and important"
+    "Definition": "valuable and meaningful"
   }
 }
