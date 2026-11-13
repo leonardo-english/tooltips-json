@@ -1,176 +1,179 @@
 {
-  "ACCOMPLISHED": {
-    "Definition": "skilled"
-  },
-  "ACUTELY": {
-    "Definition": "very"
-  },
-  "ALL SYSTEMS WERE GO": {
-    "Definition": "everything was ready"
-  },
-  "ALLIANCE": {
-    "Definition": "a group of people or countries who have agreed to work together"
-  },
-  "ANIMOSITY": {
-    "Definition": "strong dislike"
-  },
-  "ASSET": {
-    "Definition": "a valuable quality, skill, object, or person"
-  },
-  "BEARABLE": {
-    "Definition": "acceptable, easy to manage"
-  },
-  "BRAND SPANKING NEW": {
-    "Definition": "entirely new"
-  },
-  "CAMPAIGN": {
-    "Definition": "military activities"
-  },
-  "CAPITAL": {
-    "Definition": "money"
-  },
-  "CHOLERA": {
-    "Definition": "a serious infection caused by drinking infected water or food"
-  },
-  "COLONISE": {
-    "Definition": "to establish political rule over another country"
-  },
-  "COLONY": {
-    "Definition": "a country politically controlled by another"
-  },
-  "CONCEIVED": {
-    "Definition": "imagined"
-  },
-  "CONDEMNED": {
-    "Definition": "criticised"
-  },
-  "CONDEMNING": {
-    "Definition": "criticising"
-  },
-  "COUP": {
-    "Definition": "an unexpected achievement"
-  },
-  "EXCAVATING": {
-    "Definition": "removing earth"
-  },
-  "EXERT": {
-    "Definition": "use force to make something happen"
-  },
-  "FINANCE": {
-    "Definition": "see 'financing'"
-  },
-  "FINANCING": {
-    "Definition": "money needed to do a particular thing"
-  },
-  "FLEET": {
-    "Definition": "a group of ships"
-  },
-  "FOR GOOD MEASURE": {
-    "Definition": "in addition to something that has already been done"
-  },
-  "HATCHED": {
-    "Definition": "made (a plan)"
-  },
-  "HORRENDOUS": {
-    "Definition": "very unpleasant"
-  },
-  "INCENTIVE": {
-    "Definition": "something that encourages someone to do something"
-  },
-  "INTERCONNECTED": {
-    "Definition": "joined together"
-  },
-  "INTERVENED": {
-    "Definition": "became involved in a difficult situation in order to influence the result"
-  },
-  "ITS CROWN JEWEL": {
-    "Definition": "its most important possession"
-  },
-  "LOCKS": {
-    "Definition": "a part of a canal that is closed by gates in order to adjust the water level to move boats up or down"
-  },
-  "MARVEL": {
-    "Definition": "something that is incredibly useful or beautiful"
+  "PRECISE": {
+    "Definition": "exact"
   },
   "MILLENNIA": {
     "Definition": "thousands of years"
   },
+  "TRACED BACK": {
+    "Definition": "shown to have started with"
+  },
+  "PHARAOHS": {
+    "Definition": "the kings of ancient Egypt"
+  },
+  "TESTAMENT": {
+    "Definition": "clear proof"
+  },
+  "ACCOMPLISHED": {
+    "Definition": "very skilled"
+  },
   "MILLENNIUM": {
     "Definition": "a period of a thousand years"
   },
-  "MINES": {
-    "Definition": "explosives hidden beneath the ground or underwater"
-  },
-  "NATIONALISED": {
-    "Definition": "when a government takes control of a business and declares that it is owned by the state"
-  },
-  "NATIONALISM": {
-    "Definition": "the desire by a group of people within a country to be independent"
-  },
   "OUTLIVE": {
-    "Definition": "exist for longer than"
-  },
-  "PEASANTS": {
-    "Definition": "a poor farmer"
-  },
-  "PHARAOHS": {
-    "Definition": "rulers of ancient Egypt"
-  },
-  "PRECISE": {
-    "Definition": "Exact"
+    "Definition": "last longer than"
   },
   "PREDECESSORS": {
-    "Definition": "someone or something that came before (something else)"
+    "Definition": "the earlier canals that did the same job before it"
   },
-  "QUITE A STEAL": {
-    "Definition": "if something is quite a steal, it means a low price was paid for it compared to its value"
-  },
-  "RECEPTIVE": {
-    "Definition": "willing to consider new ideas"
-  },
-  "RELUCTANT": {
-    "Definition": "not willing to do something"
-  },
-  "REVENUE": {
-    "Definition": "income generated"
-  },
-  "SHARE": {
-    "Definition": "a percentage of a company held by an individual or organisation"
+  "COLONISE": {
+    "Definition": "take control of and send settlers to"
   },
   "SHORTCUT": {
-    "Definition": "a shorter route than the usual one"
+    "Definition": "a quicker, more direct route"
   },
-  "SPARKED": {
-    "Definition": "caused"
+  "CROWN JEWEL": {
+    "Definition": "most valuable possession"
   },
-  "STRANDED": {
-    "Definition": "unable to leave"
-  },
-  "SURVEYS": {
-    "Definition": "examinations of land"
-  },
-  "SWELTERING": {
-    "Definition": "very hot and uncomfortable"
-  },
-  "TESTAMENT": {
-    "Definition": "proof"
-  },
-  "TRACED BACK": {
-    "Definition": "found (the origins of something)"
+  "CAMPAIGN": {
+    "Definition": "a series of military operations in a particular area"
   },
   "TRACTION": {
-    "Definition": "if an idea gains traction, it starts to be more accepted"
+    "Definition": "support or acceptance"
+  },
+  "SURVEYS": {
+    "Definition": "careful measurements and studies of the land"
+  },
+  "LOCKS": {
+    "Definition": "gated sections of a canal that raise or lower ships"
+  },
+  "ALL SYSTEMS WERE GO": {
+    "Definition": "everything was ready for the project to begin"
+  },
+  "PEASANTS": {
+    "Definition": "poor farm workers"
+  },
+  "EXCAVATING": {
+    "Definition": "digging out"
   },
   "TRENCH": {
-    "Definition": "a narrow hole dug in the ground"
+    "Definition": "a long, narrow hole cut into the ground"
+  },
+  "HORRENDOUS": {
+    "Definition": "extremely bad; terrible"
+  },
+  "CHOLERA": {
+    "Definition": "a serious and often deadly disease caught from dirty water"
+  },
+  "EPIDEMIC": {
+    "Definition": "a sudden spread of a disease to a large number of people"
+  },
+  "SWELTERING": {
+    "Definition": "being extremely and uncomfortably hot"
+  },
+  "BEARABLE": {
+    "Definition": "possible to put up with"
+  },
+  "MARVEL": {
+    "Definition": "a wonderful and amazing example"
+  },
+  "COUP": {
+    "Definition": "a clever and successful move"
+  },
+  "SHARE": {
+    "Definition": "part of the ownership"
+  },
+  "QUITE A STEAL": {
+    "Definition": "a real bargain; very cheap"
+  },
+  "EXERT": {
+    "Definition": "use forcefully"
+  },
+  "ASSET": {
+    "Definition": "a useful or valuable thing that someone owns"
+  },
+  "COLONY": {
+    "Definition": "a country controlled by another, more powerful country"
+  },
+  "INTERCONNECTED": {
+    "Definition": "closely linked with each other"
+  },
+  "VITAL": {
+    "Definition": "extremely important"
+  },
+  "NATIONALISM": {
+    "Definition": "a strong wish for your own country to be independent and powerful"
+  },
+  "RELUCTANT": {
+    "Definition": "unwilling and not keen"
+  },
+  "ANIMOSITY": {
+    "Definition": "strong dislike or anger"
+  },
+  "RECEPTIVE": {
+    "Definition": "open and willing to listen"
+  },
+  "FINANCING": {
+    "Definition": "money to pay for something; paying for"
+  },
+  "ALLIANCE": {
+    "Definition": "an agreement to work together and support each other"
+  },
+  "FINANCE": {
+    "Definition": "find the money to pay for"
+  },
+  "CAPITAL": {
+    "Definition": "money used to invest or do business"
+  },
+  "NATIONALISED": {
+    "Definition": "brought under government ownership"
+  },
+  "REVENUE": {
+    "Definition": "money earned; income"
+  },
+  "FOR GOOD MEASURE": {
+    "Definition": "as an extra action, in addition to what he had already done"
+  },
+  "HATCHED": {
+    "Definition": "secretly thought up"
   },
   "TROOPS": {
     "Definition": "soldiers"
   },
-  "VITAL": {
-    "Definition": "very important"
+  "MINES": {
+    "Definition": "bombs placed in the water that explode when touched"
+  },
+  "SPARKED": {
+    "Definition": "suddenly started"
+  },
+  "CONDEMNED": {
+    "Definition": "strongly criticised"
+  },
+  "CONDEMNING": {
+    "Definition": "strongly criticising"
+  },
+  "INTERVENED": {
+    "Definition": "became involved to stop the conflict"
   },
   "WITH THEIR TAILS BETWEEN THEIR LEGS": {
-    "Definition": "embarrassed or unhappy because they failed or were humiliated"
+    "Definition": "feeling ashamed and embarrassed after being defeated"
+  },
+  "STRANDED": {
+    "Definition": "stuck and unable to leave"
+  },
+  "FLEET": {
+    "Definition": "a group of ships"
+  },
+  "INCENTIVE": {
+    "Definition": "a reason or encouragement to do something"
+  },
+  "ACUTELY": {
+    "Definition": "very strongly; very much"
+  },
+  "CONCEIVED": {
+    "Definition": "first imagined or thought of"
+  },
+  "BRAND SPANKING NEW": {
+    "Definition": "completely new"
   }
 }
