@@ -1,140 +1,140 @@
 {
-  "A BODY OF WATER": {
-    "Definition": "a piece or stretch of water"
-  },
-  "ABIDE BY": {
-    "Definition": "obey, conform to"
-  },
-  "ANOMALIES": {
-    "Definition": "something that is different to what is normal or expected"
-  },
-  "BOIL THIS DOWN": {
-    "Definition": "simplify, make more concise"
-  },
-  "CANNON": {
-    "Definition": "a large, heavy gun"
-  },
-  "CANNONBALL": {
-    "Definition": "the bullet or ball fired by a cannon"
-  },
-  "CLAIM JURISDICTION": {
-    "Definition": "claim ownership of"
-  },
-  "COME IN PRETTY HANDY": {
-    "Definition": "be useful"
-  },
-  "CONSENSUS": {
-    "Definition": "a general agreement"
-  },
-  "DEMARCATE": {
-    "Definition": "set the boundaries or limits of"
-  },
-  "DENT": {
-    "Definition": "a reduction"
-  },
-  "ENDED UP": {
-    "Definition": "finished with, resulted in"
-  },
-  "ENGAGED IN": {
-    "Definition": "participate or become involved in"
-  },
-  "ENSHRINED IN LAW": {
-    "Definition": "preserve (a right, tradition, or idea) in a form that ensures it will be protected and respected"
-  },
-  "FLARE UP": {
-    "Definition": "a sudden outburst of something, especially violence or hostility"
-  },
   "FRONTIER": {
-    "Definition": "a line or border separating two countries"
-  },
-  "GARGANTUAN": {
-    "Definition": "very large"
-  },
-  "GET AROUND": {
-    "Definition": "avoid"
-  },
-  "GIVES YOU THE MEASURE": {
-    "Definition": "helps you understand (normally relating to the character or abilities of someone or something)"
-  },
-  "GLOSSING OVER": {
-    "Definition": "treat with less attention than it deserves, miss parts of it"
-  },
-  "HERITAGE": {
-    "Definition": "valued objects and qualities such as historic buildings and cultural traditions that have been passed down from previous generations"
-  },
-  "IMPASSIONED": {
-    "Definition": "full of passion and vigour"
-  },
-  "IMPINGE": {
-    "Definition": "advance over an area belonging to someone or something else; encroach"
-  },
-  "IMPINGES": {
-    "Definition": "advance over an area belonging to someone or something else; encroach"
-  },
-  "IN SHORT": {
-    "Definition": "to summarise"
-  },
-  "MARITIME": {
-    "Definition": "relating to the sea"
-  },
-  "OPEN UP": {
-    "Definition": "require to comply with"
-  },
-  "ORPHANED": {
-    "Definition": "(of a child) both parents have died"
-  },
-  "PENNILESS": {
-    "Definition": "extremely poor"
-  },
-  "PIRACY": {
-    "Definition": "the practice of attacking and robbing ships at sea"
-  },
-  "PREVALENT": {
-    "Definition": "common, frequent"
-  },
-  "PRIZED": {
-    "Definition": "valued extremely highly"
-  },
-  "RATIFIED": {
-    "Definition": "sign or give formal consent to (a treaty, contract, or agreement), making it officially valid"
-  },
-  "RECAP": {
-    "Definition": "state again as a summary"
-  },
-  "SCRAMBLING": {
-    "Definition": "searching for quickly"
-  },
-  "SINGLE OUT": {
-    "Definition": "choose someone or something from a group for special treatment"
+    "Definition": "an area that people have not yet fully explored"
   },
   "SOVEREIGN": {
-    "Definition": "(of a nation or its affairs) acting or done independently and without outside interference"
+    "Definition": "relating to a country's independent power to rule itself"
   },
   "STRAIGHTFORWARD": {
-    "Definition": "easy, simple"
+    "Definition": "simple and easy to understand"
   },
-  "SUBMERGED": {
-    "Definition": "under water"
+  "ENSHRINED IN LAW": {
+    "Definition": "officially written into the law and protected by it"
   },
-  "TIRELESSLY": {
-    "Definition": "without stopping, continuously"
+  "COME IN PRETTY HANDY": {
+    "Definition": "be quite useful"
   },
-  "TREACLE": {
-    "Definition": "a thick, sticky dark syrup made from partly refined sugar, used here to indicate that there is a lot of bureaucracy"
+  "GLOSSING OVER": {
+    "Definition": "dealing quickly with, without explaining in detail"
   },
-  "UNDERMINES": {
-    "Definition": "lessen the effectiveness, power, or ability of, especially gradually or insidiously"
+  "CANNON": {
+    "Definition": "a large, heavy gun, usually on wheels, that fired metal balls"
   },
-  "UNINHABITED": {
-    "Definition": "not lived in"
+  "CANNONBALL": {
+    "Definition": "a heavy metal ball fired from a large old-fashioned gun"
   },
-  "UNINTENDED": {
-    "Definition": "not predicted"
+  "ANOMALIES": {
+    "Definition": "things that were different from what was normal or expected"
   },
-  "VIOLATING": {
-    "Definition": "break or fail to comply with (a rule or formal agreement)"
+  "CONSENSUS": {
+    "Definition": "general agreement among everyone involved"
+  },
+  "A BODY OF WATER": {
+    "Definition": "a large area of water, such as a sea or lake"
+  },
+  "DEMARCATE": {
+    "Definition": "mark the limits or borders of"
   },
   "ZERO-SUM": {
-    "Definition": "relating to or denoting a situation in which whatever is gained by one side is lost by the other"
+    "Definition": "where one side's gain is always another side's loss"
+  },
+  "GARGANTUAN": {
+    "Definition": "extremely large"
+  },
+  "UNDERMINES": {
+    "Definition": "weakens or damages"
+  },
+  "OPEN UP": {
+    "Definition": "expose; make it have to deal with"
+  },
+  "DENT": {
+    "Definition": "a reduction or loss"
+  },
+  "IN SHORT": {
+    "Definition": "to say it briefly"
+  },
+  "BOIL THIS DOWN": {
+    "Definition": "simplify this; reduce this to its main parts"
+  },
+  "IMPINGES": {
+    "Definition": "interferes or has an unwanted effect"
+  },
+  "IMPINGE": {
+    "Definition": "interfere or have an unwanted effect"
+  },
+  "SUBMERGED": {
+    "Definition": "covered by water"
+  },
+  "ENDED UP": {
+    "Definition": "in the end found themselves"
+  },
+  "RECAP": {
+    "Definition": "summarise the main points"
+  },
+  "RATIFIED": {
+    "Definition": "officially approved"
+  },
+  "SCRAMBLING": {
+    "Definition": "rushing urgently, often competing with others"
+  },
+  "PREVALENT": {
+    "Definition": "common; happening a lot"
+  },
+  "ABIDE BY": {
+    "Definition": "obey or follow"
+  },
+  "ENGAGED IN": {
+    "Definition": "taking part in"
+  },
+  "PIRACY": {
+    "Definition": "the crime of attacking and robbing ships at sea"
+  },
+  "GET AROUND": {
+    "Definition": "avoid, by finding a clever way"
+  },
+  "VIOLATING": {
+    "Definition": "breaking"
+  },
+  "MARITIME": {
+    "Definition": "relating to the sea and ships"
+  },
+  "CLAIM JURISDICTION": {
+    "Definition": "say they have the legal right to control and make decisions"
+  },
+  "UNINTENDED": {
+    "Definition": "not planned or meant to happen"
+  },
+  "UNINHABITED": {
+    "Definition": "with no people living there"
+  },
+  "PRIZED": {
+    "Definition": "highly valued"
+  },
+  "FLARE UP": {
+    "Definition": "suddenly become serious or violent"
+  },
+  "SINGLE OUT": {
+    "Definition": "pick out from a group for special attention"
+  },
+  "GIVES YOU THE MEASURE": {
+    "Definition": "helps you understand the character and abilities"
+  },
+  "ORPHANED": {
+    "Definition": "left without parents because they had died"
+  },
+  "PENNILESS": {
+    "Definition": "with no money at all"
+  },
+  "TIRELESSLY": {
+    "Definition": "with great effort and without stopping"
+  },
+  "IMPASSIONED": {
+    "Definition": "full of strong feeling"
+  },
+  "TREACLE": {
+    "Definition": "slow, complicated processes, like a thick sweet syrup that is hard to move through"
+  },
+  "HERITAGE": {
+    "Definition": "family background and the traditions that come with it"
   }
 }
