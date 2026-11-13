@@ -1,158 +1,161 @@
 {
-  "ALLEGIANCES": {
-    "Definition": "loyalties and beliefs (especially to a country or leader)"
-  },
-  "BASE": {
-    "Definition": "the main place from where an army or organisation controls their activities"
-  },
-  "BAYING FOR BLOOD": {
-    "Definition": "wanting the death of someone"
-  },
-  "BIDED THEIR TIME": {
-    "Definition": "waited"
-  },
-  "BLINDFOLD": {
-    "Definition": "a piece of cloth that covers your eyes"
-  },
-  "BUFFER": {
-    "Definition": "something that protects another thing from something else"
-  },
-  "CHARM": {
-    "Definition": "being easily able to attract others"
-  },
-  "COMPOUND": {
-    "Definition": "a residential area surrounded by a wall, often used for the military"
-  },
-  "CURRY FAVOUR": {
-    "Definition": "become friendly with"
-  },
   "DECEPTION": {
-    "Definition": "tricking someone, hiding the truth"
+    "Definition": "tricking people into believing things that are not true"
   },
-  "DEMARCATED": {
-    "Definition": "signalled clearly"
-  },
-  "DERRING-DO": {
-    "Definition": "bravery and courage"
-  },
-  "DISGUISE": {
-    "Definition": "something you wear to change your appearance and make yourself look like someone else"
-  },
-  "DOWNFALL": {
-    "Definition": "the end of a person or organisation"
-  },
-  "ENLIST": {
-    "Definition": "to join the armed forces"
-  },
-  "EXACERBATED": {
-    "Definition": "made worse"
-  },
-  "EXILE": {
-    "Definition": "sent away from your own country"
-  },
-  "EXPANSE": {
-    "Definition": "a large open stretch of land"
-  },
-  "FACTIONS": {
-    "Definition": "groups (normally within a larger groups), typically with different characteristics or views"
-  },
-  "FOOTHOLD": {
-    "Definition": "a position from which you can make progress"
-  },
-  "GLOSSED OVER": {
-    "Definition": "to avoid talking about"
-  },
-  "GRAPPLED": {
-    "Definition": "fought, contested"
-  },
-  "HAVING NONE OF IT": {
-    "Definition": "not accepting it"
-  },
-  "HUMILIATING": {
-    "Definition": "embarrassing"
-  },
-  "INITIAL": {
-    "Definition": "first"
-  },
-  "LINE UP": {
-    "Definition": "stand in a line"
-  },
-  "LOATHED": {
-    "Definition": "hated"
-  },
-  "MOB": {
-    "Definition": "large group or crowds, especially violent ones"
-  },
-  "MOBS": {
-    "Definition": "large groups or crowds, especially violent ones"
-  },
-  "MOUNTING": {
-    "Definition": "launching"
+  "PROXY-WAR": {
+    "Definition": "a war in which two powers fight each other indirectly, through other people"
   },
   "NICHE": {
-    "Definition": "very specific and only interesting to a small group of people"
+    "Definition": "of interest to only a small number of people"
   },
-  "NOVEL": {
-    "Definition": "new and interesting"
+  "SPYMANSHIP": {
+    "Definition": "the skill of secretly collecting information about rivals"
   },
-  "OBEDIENCE": {
-    "Definition": "doing what you are told"
+  "DERRING-DO": {
+    "Definition": "brave and exciting actions"
   },
-  "OFFENCE": {
-    "Definition": "behaviour that makes someone angry or upset"
+  "GRAPPLED": {
+    "Definition": "struggled hard against each other"
   },
   "PRESTIGIOUS": {
-    "Definition": "important and admired"
+    "Definition": "admired and highly valued"
+  },
+  "SEIZE": {
+    "Definition": "take control of by force"
+  },
+  "EXPANSE": {
+    "Definition": "a large open area of land"
+  },
+  "BUFFER": {
+    "Definition": "acting as a protective zone between two rivals"
+  },
+  "ALLEGIANCES": {
+    "Definition": "loyal partnerships with other rulers"
+  },
+  "FOOTHOLD": {
+    "Definition": "a secure first position from which to gain more influence"
+  },
+  "DEMARCATED": {
+    "Definition": "clearly defined and fixed"
+  },
+  "WITH OPEN ARMS": {
+    "Definition": "warmly and gladly"
+  },
+  "LINE UP": {
+    "Definition": "stand in rows"
+  },
+  "NOVEL": {
+    "Definition": "new and unusual"
+  },
+  "BASE": {
+    "Definition": "the main place from which they operated"
+  },
+  "WILDERNESS": {
+    "Definition": "a remote, empty area with few people and no towns"
+  },
+  "DISGUISE": {
+    "Definition": "clothing and changes to his appearance that hid who he really was"
   },
   "PRIOR": {
     "Definition": "before"
   },
-  "PROXY-WAR": {
-    "Definition": "a war fought between smaller groups on behalf of larger groups"
-  },
-  "PUPPET": {
-    "Definition": "a person who is controlled by someone else"
-  },
   "REBUFFED": {
-    "Definition": "refused to accept"
+    "Definition": "rejected in an unfriendly way"
   },
-  "REGAIN": {
-    "Definition": "take possession of again"
+  "INITIAL": {
+    "Definition": "first"
   },
-  "ROUND UP": {
-    "Definition": "bring together"
+  "OBEDIENCE": {
+    "Definition": "willingness to do what he was told"
   },
-  "SEIZE": {
-    "Definition": "take by force"
-  },
-  "SPYMANSHIP": {
-    "Definition": "relating to spying"
-  },
-  "SQUADRON": {
-    "Definition": "a group of soldiers"
+  "HAVING NONE OF IT": {
+    "Definition": "refusing to accept it"
   },
   "STARTLED": {
-    "Definition": "surprised and alarmed"
+    "Definition": "suddenly shocked and worried"
+  },
+  "PUPPET": {
+    "Definition": "controlled by others, with no real authority of his own"
+  },
+  "EXILE": {
+    "Definition": "a state of being forced to live outside his own country"
+  },
+  "REGAIN": {
+    "Definition": "get back"
+  },
+  "SYMPATHETIC": {
+    "Definition": "friendly and supportive"
+  },
+  "LOATHED": {
+    "Definition": "hated very strongly"
+  },
+  "UPRISING": {
+    "Definition": "a violent rebellion by people against those in power"
   },
   "STATIONED": {
-    "Definition": "placed"
+    "Definition": "sent to live and work in a place as part of his duties"
+  },
+  "OFFENCE": {
+    "Definition": "anger and upset caused by something seen as rude or wrong"
   },
   "STRUCK UP": {
     "Definition": "started"
   },
-  "SYMPATHETIC": {
-    "Definition": "understanding and caring of"
+  "ENLIST": {
+    "Definition": "ask for the help of"
   },
-  "UPRISING": {
-    "Definition": "when the people of a place rise up against those people in power"
+  "ROUND UP": {
+    "Definition": "gather together"
+  },
+  "MOBS": {
+    "Definition": "large, angry and violent crowds"
+  },
+  "DOWNFALL": {
+    "Definition": "the cause of his ruin and death"
+  },
+  "MOB": {
+    "Definition": "a large, angry and violent crowd"
+  },
+  "STORMED": {
+    "Definition": "attacked and forced its way into"
+  },
+  "COMPOUND": {
+    "Definition": "a group of buildings with a wall or fence around them"
+  },
+  "CHARM": {
+    "Definition": "a pleasant manner that made people like him"
+  },
+  "BAYING FOR BLOOD": {
+    "Definition": "loudly demanding violence and death"
+  },
+  "BLINDFOLD": {
+    "Definition": "a piece of cloth tied over the eyes so that a person cannot see"
+  },
+  "SQUADRON": {
+    "Definition": "a small military unit"
+  },
+  "HUMILIATING": {
+    "Definition": "causing great shame and embarrassment"
+  },
+  "CURRY FAVOUR": {
+    "Definition": "win support by pleasing or flattering people"
+  },
+  "MOUNTING": {
+    "Definition": "organising and starting"
+  },
+  "FACTIONS": {
+    "Definition": "small groups within a larger political group who share particular aims"
+  },
+  "EXACERBATED": {
+    "Definition": "made worse or more intense"
+  },
+  "BIDED THEIR TIME": {
+    "Definition": "waited patiently for the right moment"
+  },
+  "GLOSSED OVER": {
+    "Definition": "passed quickly over without explaining"
   },
   "WHETTED YOUR APPETITE": {
-    "Definition": "makes you want to do something again (or in greater detail)"
-  },
-  "WILDERNESS": {
-    "Definition": "unknown territory"
-  },
-  "WITH OPEN ARMS": {
-    "Definition": "in a friendly and welcoming way"
+    "Definition": "made you interested and eager"
   }
 }
