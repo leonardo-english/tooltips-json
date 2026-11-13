@@ -1,104 +1,107 @@
 {
-  "ACCOUNTABLE": {
-    "Definition": "Someone who is accountable is completely responsible for what they do and must be able to give a satisfactory reason for it"
-  },
-  "AT FIRST GLANCE": {
-    "Definition": "to give a quick short look"
-  },
   "BLESSING": {
-    "Definition": "something that is extremely lucky or makes you happy"
-  },
-  "COMMODITIES": {
-    "Definition": "a substance or product that can be traded, bought, or sold"
-  },
-  "CONFLICT": {
-    "Definition": "an active disagreement between people with opposing opinions or principles"
-  },
-  "CURRENCY": {
-    "Definition": "the money that is used in a particular country at a particular time"
+    "Definition": "something very good that you are lucky to have"
   },
   "CURSE": {
-    "Definition": "a cause of trouble and unhappiness"
+    "Definition": "something that causes great harm or trouble"
   },
-  "DISPROVE": {
-    "Definition": "to prove that something is not true"
-  },
-  "EXCEPTIONS": {
-    "Definition": "someone or something that is not included in a rule, group, or list or that does not behave in the expected way"
-  },
-  "EXCREMENT": {
-    "Definition": "the solid waste that is released from the bowels of a person or animal"
-  },
-  "FALLEN PREY": {
-    "Definition": "to suddenly begin to suffer as a result of something or someone bad"
+  "CONFLICT": {
+    "Definition": "fighting between groups of people"
   },
   "FILTER": {
-    "Definition": "a tool for selecting or removing a particular type of information"
-  },
-  "FOUNDATIONS": {
-    "Definition": "an occasion when an organisation, state, etc. is established"
-  },
-  "GAIN TRACTION": {
-    "Definition": "become more popular"
-  },
-  "GDP PER CAPITA": {
-    "Definition": "the total value of all the goods and services produced by a country in a particular year, divided by the number of people living there"
-  },
-  "HANDFUL": {
-    "Definition": "an amount of something that can be held in one hand"
-  },
-  "INCENTIVES": {
-    "Definition": "something that encourages a person to do something"
-  },
-  "INEVITABLY": {
-    "Definition": "certain to happen and unable to be avoided or prevented"
-  },
-  "INFLATION": {
-    "Definition": "a general, continuous increase in prices"
-  },
-  "INFLUX": {
-    "Definition": "the fact of a large number of people or things arriving at the same time"
-  },
-  "LIKELIHOOD": {
-    "Definition": "the chance that something will happen"
-  },
-  "NET WORTH": {
-    "Definition": "the ​value of the ​assets (= property and money) ​ that a ​person or business has, after any ​debts are taken away"
-  },
-  "PERSUASIVE": {
-    "Definition": "easy to believe"
-  },
-  "PLETHORA": {
-    "Definition": "a very large amount of something, especially a larger amount than you need, want, or can deal with"
-  },
-  "PRESERVE": {
-    "Definition": "to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed"
-  },
-  "PROFITABLE": {
-    "Definition": "making or likely to make a profit, make money"
-  },
-  "PROSPER": {
-    "Definition": "(of a person or a business) to be or become successful, especially financially"
-  },
-  "RELIANT": {
-    "Definition": "the state of depending on or trusting in something or someone"
-  },
-  "SADDLED WITH": {
-    "Definition": "to put someone in a situation in which they have to deal with something difficult or unpleasant"
+    "Definition": "sort and choose"
   },
   "SHOVEL": {
-    "Definition": "a tool consisting of a wide, square metal or plastic blade, usually with slightly raised sides, attached to a handle, for moving loose material such as sand, coal, or snow"
+    "Definition": "a tool with a long handle and a wide flat end, used for digging"
   },
-  "STRIKES": {
-    "Definition": "hits, makes contact with"
+  "STRIKES GOLD": {
+    "Definition": "suddenly finds something that brings great wealth or success"
   },
-  "STRIKING": {
-    "Definition": "hitting, making contact with"
+  "PROFITABLE": {
+    "Definition": "that makes a lot of money"
+  },
+  "PLETHORA": {
+    "Definition": "a very large number"
+  },
+  "GAIN TRACTION": {
+    "Definition": "become accepted or popular"
+  },
+  "AT FIRST GLANCE": {
+    "Definition": "when you first look at something, before thinking carefully"
+  },
+  "PROSPER": {
+    "Definition": "live well and become successful and rich"
+  },
+  "EXCEPTIONS": {
+    "Definition": "cases that do not follow the general pattern"
+  },
+  "CURRENCY": {
+    "Definition": "the system of money used in a country"
+  },
+  "INFLATION": {
+    "Definition": "a general rise in prices over time"
+  },
+  "STRENGTHENS": {
+    "Definition": "increases in value"
+  },
+  "RELIANT": {
+    "Definition": "dependent; unable to manage without it"
+  },
+  "ACCOUNTABLE": {
+    "Definition": "responsible for decisions and required to explain them"
+  },
+  "INEVITABLY": {
+    "Definition": "in a way that cannot be avoided"
+  },
+  "NET WORTH": {
+    "Definition": "the total value of everything a person owns, minus what they owe"
+  },
+  "GDP PER CAPITA": {
+    "Definition": "the total value of a country's economy divided by the number of people"
   },
   "TRICKLING DOWN": {
-    "Definition": "relating to the idea that poor people experience positive effects when rich people get richer and spend more money"
+    "Definition": "slowly spreading down from the top"
+  },
+  "LIKELIHOOD": {
+    "Definition": "chance or probability"
+  },
+  "COMMODITIES": {
+    "Definition": "raw materials or farm products that are bought and sold"
   },
   "VOLATILE": {
-    "Definition": "likely to change suddenly and unexpectedly, especially by getting worse"
+    "Definition": "changing quickly and unpredictably"
+  },
+  "SADDLED WITH": {
+    "Definition": "left carrying the heavy burden of"
+  },
+  "PERSUASIVE": {
+    "Definition": "convincing; able to make people believe it"
+  },
+  "INCENTIVES": {
+    "Definition": "reasons that encourage people to do something"
+  },
+  "INFLUX": {
+    "Definition": "a sudden large arrival"
+  },
+  "FOUNDATIONS": {
+    "Definition": "basic structures or systems on which success is built"
+  },
+  "PRESERVE": {
+    "Definition": "keep and protect"
+  },
+  "HANDFUL": {
+    "Definition": "a small number"
+  },
+  "DISPROVE": {
+    "Definition": "show to be wrong"
+  },
+  "FALLEN PREY": {
+    "Definition": "become a victim"
+  },
+  "STRIKING GOLD": {
+    "Definition": "suddenly finding something that brings great wealth or success"
+  },
+  "EXCREMENT": {
+    "Definition": "solid waste passed from the body"
   }
 }
