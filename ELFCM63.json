@@ -1,137 +1,137 @@
 {
-  "ANONYMOUS": {
-    "Definition": "made or done by someone whose name is not known or not made public"
-  },
-  "APPEALING": {
-    "Definition": "asking for"
-  },
-  "ASTIGMATISM": {
-    "Definition": "a fault in the lens of the eye that reduces the quality of sight, especially a fault that stops the eye from focusing"
-  },
-  "AT STAKE": {
-    "Definition": "at risk"
-  },
-  "BREAKAGES": {
-    "Definition": "something that has been broken"
-  },
-  "CLERK": {
-    "Definition": "a person who works in an office, dealing with records or performing general office duties"
-  },
-  "CLOSURE": {
-    "Definition": "the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities"
-  },
-  "COLLAPSED": {
-    "Definition": "went bankrupt"
-  },
-  "CONCLUSIVE": {
-    "Definition": "proving that something is true, or ending any doubt"
-  },
-  "CONVENT": {
-    "Definition": "a building in which nuns (= members of a female religious order) live"
-  },
-  "COSMETICS": {
-    "Definition": "substances put on the face or body that are intended to improve its appearance or quality"
-  },
-  "CREDIBLE": {
-    "Definition": "able to be believed or trusted"
-  },
-  "CRYPT": {
-    "Definition": "a room under the floor of a church where bodies are buried"
-  },
-  "EXORCIST": {
-    "Definition": "to force an evil spirit to leave a person or place by using prayers or magic"
-  },
-  "EXTORTING": {
-    "Definition": "to get something by force or threats, or with difficulty"
-  },
-  "FILE": {
-    "Definition": "to officially record something"
-  },
-  "FLAUTIST": {
-    "Definition": "someone who plays the flute"
-  },
-  "FLUTE": {
-    "Definition": "a tube-shaped musical instrument with a hole that you blow across at one end while holding the tube out horizontally to one side"
-  },
-  "HOSTAGE": {
-    "Definition": "someone who is taken as a prisoner by an enemy in order to force the other people involved to do what the enemy wants"
-  },
-  "HOT LEAD": {
-    "Definition": "believable source or clue"
-  },
-  "HUNG UP": {
-    "Definition": "put down the telephone"
-  },
-  "IN PERSPECTIVE": {
-    "Definition": "in comparison (with something else)"
-  },
-  "INTRIGUE": {
-    "Definition": "to interest someone a lot, especially by being strange, unusual, or mysterious"
-  },
-  "INTRIGUING": {
-    "Definition": "to interest someone a lot, especially by being strange, unusual, or mysterious"
-  },
-  "KIDNAPPED": {
-    "Definition": "to take a person away illegally by force, usually in order to demand money in exchange for releasing them"
-  },
-  "LEADS": {
-    "Definition": "pieces of information that may help you solve a crime"
-  },
-  "NUN": {
-    "Definition": "a member of a female religious group that lives in a convent"
-  },
-  "RESIDENCE": {
-    "Definition": "a home"
-  },
-  "ROAM": {
-    "Definition": "to move about or travel, especially without a clear idea of what you are going to do"
+  "SCANDAL": {
+    "Definition": "an event that shocked people because it was seen as very wrong"
   },
   "ROCKED": {
-    "Definition": "caused feelings of shock or surprise"
+    "Definition": "shocked and upset greatly"
+  },
+  "IN PERSPECTIVE": {
+    "Definition": "in a way that shows its real size by comparing it with something else"
+  },
+  "ROAM": {
+    "Definition": "walk around freely without a fixed plan"
+  },
+  "FLAUTIST": {
+    "Definition": "a musician who plays a long, thin wind instrument held sideways"
+  },
+  "FLUTE": {
+    "Definition": "a long, thin musical instrument that you hold sideways and blow across"
   },
   "ROW": {
-    "Definition": "an argument"
-  },
-  "RUBBISHED": {
-    "Definition": "considered not believable"
-  },
-  "SCANDAL": {
-    "Definition": "(an action or event that causes ) a public feeling of shock and strong moral disapproval"
-  },
-  "SCANDALOUS": {
-    "Definition": "making people shocked and upset"
-  },
-  "SIGHTINGS": {
-    "Definition": "an occasion when you see something or someone, especially something that is rare or trying to hide"
+    "Definition": "an angry argument"
   },
   "SLAMMING THE DOOR": {
-    "Definition": "closing the door with force"
+    "Definition": "shutting the door very hard and loudly"
   },
-  "SMASHED": {
-    "Definition": "broken into lots of pieces"
+  "COSMETICS": {
+    "Definition": "products such as make-up and creams that people put on their face or body"
   },
-  "SPHERE": {
-    "Definition": "arena, knowledge"
-  },
-  "SWAP": {
-    "Definition": "to give something and be given something else instead"
-  },
-  "TAPE": {
-    "Definition": "thin plastic in a long, narrow strip with a magnetic covering that allows sounds or sounds and pictures to be recorded and played again, especially one on which sound is recorded"
-  },
-  "TIP-OFF": {
-    "Definition": "a secret warning or piece of secret information"
-  },
-  "TOMB": {
-    "Definition": "a large stone structure or underground room where someone, especially an important person, is buried"
+  "INTRIGUE": {
+    "Definition": "interest and curiosity caused by something mysterious"
   },
   "VANISHING": {
-    "Definition": "disappearance"
+    "Definition": "sudden disappearance with no explanation"
+  },
+  "FILE": {
+    "Definition": "make and send in"
+  },
+  "HUNG UP": {
+    "Definition": "ended the call by putting down"
+  },
+  "ASTIGMATISM": {
+    "Definition": "a problem with the shape of the eye that makes things look blurred"
+  },
+  "SPHERE": {
+    "Definition": "area of life or knowledge"
+  },
+  "HOT LEAD": {
+    "Definition": "a very promising piece of information that might help solve the case"
+  },
+  "CREDIBLE": {
+    "Definition": "able to be believed; likely to be true"
+  },
+  "SIGHTINGS": {
+    "Definition": "occasions when people reported seeing someone"
+  },
+  "SMASHED": {
+    "Definition": "broken violently into many pieces"
+  },
+  "BREAKAGES": {
+    "Definition": "cases where glass gets damaged or cracked"
+  },
+  "APPEALING": {
+    "Definition": "asking people seriously and publicly"
+  },
+  "ANONYMOUS": {
+    "Definition": "whose name was not known"
+  },
+  "HOSTAGE": {
+    "Definition": "as a prisoner, kept to force others to meet demands"
+  },
+  "RESIDENCE": {
+    "Definition": "the home where the family lived"
+  },
+  "TAPE": {
+    "Definition": "a sound recording on a small plastic cassette"
+  },
+  "LEADS": {
+    "Definition": "pieces of information that might help solve the case"
   },
   "WHEREABOUTS": {
-    "Definition": "the place where a person or thing is"
+    "Definition": "the place where someone is"
+  },
+  "CLOSURE": {
+    "Definition": "a feeling that something has ended, so that you can accept it and move on"
+  },
+  "TOMB": {
+    "Definition": "a place, often built of stone, where a dead person is buried"
+  },
+  "CRYPT": {
+    "Definition": "an underground room below a church, where dead people are buried"
+  },
+  "TIP-OFF": {
+    "Definition": "a secret warning or piece of information given to someone"
+  },
+  "CONCLUSIVE": {
+    "Definition": "that proves something completely, leaving no doubt"
+  },
+  "SWAP": {
+    "Definition": "an exchange of one person or thing for another"
+  },
+  "NUN": {
+    "Definition": "a woman who lives in a religious community and gives her life to God"
+  },
+  "RUBBISHED": {
+    "Definition": "rejected as nonsense; said to be untrue"
   },
   "WRONGDOING": {
-    "Definition": "a bad or an illegal action"
+    "Definition": "illegal or dishonest behaviour"
+  },
+  "CLERK": {
+    "Definition": "a person who works in an office or bank, keeping records"
+  },
+  "AT STAKE": {
+    "Definition": "at risk; in danger"
+  },
+  "EXTORTING": {
+    "Definition": "getting by using threats or force"
+  },
+  "COLLAPSED": {
+    "Definition": "failed completely and stopped doing business"
+  },
+  "KIDNAPPED": {
+    "Definition": "took away by force and held as a prisoner"
+  },
+  "SCANDALOUS": {
+    "Definition": "shocking because it is seen as morally very wrong"
+  },
+  "EXORCIST": {
+    "Definition": "a priest who tries to force evil spirits out of a person or place"
+  },
+  "CONVENT": {
+    "Definition": "a building where a community of religious women live together"
+  },
+  "INTRIGUING": {
+    "Definition": "very interesting because it is mysterious or unusual"
   }
 }
