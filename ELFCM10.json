@@ -1,89 +1,89 @@
 {
-  "ASPIRATIONAL": {
-    "Definition": "desirable, having or showing a desire to achieve a high level of success or social status"
+  "SCURRYING": {
+    "Definition": "moving or rushing around quickly and busily"
   },
-  "BITE-SIZED": {
-    "Definition": "very small or short"
-  },
-  "BOILS DOWN": {
-    "Definition": "can be summarised as"
+  "ONE STEP AHEAD OF THE GAME": {
+    "Definition": "more advanced and better prepared than other people"
   },
   "BOOM TIME": {
-    "Definition": "a period in which there is a surge of prosperity for a person, place, or industry"
-  },
-  "CATAPULTED": {
-    "Definition": "moved quickly upwards"
-  },
-  "CATCHY": {
-    "Definition": "easy to remember"
-  },
-  "COMMON PARLANCE": {
-    "Definition": "normal speech"
-  },
-  "CONGLOMERATE": {
-    "Definition": "large collection of brands or companies"
-  },
-  "CRAFT": {
-    "Definition": "exercise skill in making"
-  },
-  "EMPOWER": {
-    "Definition": "see empower"
-  },
-  "EMPOWERING": {
-    "Definition": "make (someone) stronger and more confident, especially in controlling their life and claiming their rights"
-  },
-  "GOING STRONG": {
-    "Definition": "to continue without stopping"
-  },
-  "IMPLICATION": {
-    "Definition": "the conclusion that can be drawn from something although it is not explicitly stated"
-  },
-  "INTANGIBLE": {
-    "Definition": "difficult or impossible to define or understand; vague and abstract"
-  },
-  "KEY": {
-    "Definition": "very important"
-  },
-  "LIVE UP TO": {
-    "Definition": "meets expectations or promises"
+    "Definition": "a period when business is very good and sales are high"
   },
   "MANICALLY": {
-    "Definition": "(informal) in a busy, excited or anxious way"
-  },
-  "PRICE TAG": {
-    "Definition": "the ticket on a piece of clothing that shows the price"
-  },
-  "PUTTING ONESELF DOWN": {
-    "Definition": "being critical about yourself"
-  },
-  "REINFORCE": {
-    "Definition": "strengthen (an existing feeling, idea, or habit)"
-  },
-  "REINFORCES": {
-    "Definition": "strengthen (an existing feeling, idea, or habit)"
-  },
-  "SCURRYING": {
-    "Definition": "(of a person or small animal) moving quickly with short quick steps"
-  },
-  "SEALANT": {
-    "Definition": "a liquid used to stop liquid getting into material"
-  },
-  "SELF-DEPRECATION": {
-    "Definition": "modest about or critical of oneself, especially humorously so"
+    "Definition": "in a wild, very busy and excited way"
   },
   "STAND OUT": {
-    "Definition": "be different from"
+    "Definition": "be easily noticed because of being different or better"
   },
-  "STEP AHEAD OF THE GAME": {
-    "Definition": "to already be in advantage, to already be already prepared"
+  "BOILS DOWN": {
+    "Definition": "can be simplified"
   },
-  "TIN": {
-    "Definition": "an airtight container made of tinplate or aluminium"
+  "INTANGIBLE": {
+    "Definition": "not physical; impossible to touch or see"
+  },
+  "CRAFT": {
+    "Definition": "create or make with care and skill"
+  },
+  "CATCHY": {
+    "Definition": "easy to remember and pleasant to repeat"
+  },
+  "BITE-SIZED": {
+    "Definition": "short and easy to take in"
+  },
+  "ASPIRATIONAL": {
+    "Definition": "linked to a better or more successful life that people want"
   },
   "TWISTS ON LANGUAGE": {
-    "Definition": "clever uses of words"
+    "Definition": "unexpected or playful ways of using words"
+  },
+  "KEY": {
+    "Definition": "most important; main"
+  },
+  "GOING STRONG": {
+    "Definition": "continuing to be successful and popular"
+  },
+  "EMPOWERING": {
+    "Definition": "helping and giving confidence to"
+  },
+  "REINFORCES": {
+    "Definition": "makes stronger or clearer"
+  },
+  "REINFORCE": {
+    "Definition": "make stronger or clearer"
+  },
+  "EMPOWER": {
+    "Definition": "help and give confidence to"
+  },
+  "PRICE TAG": {
+    "Definition": "the amount of money asked for something"
+  },
+  "CONGLOMERATE": {
+    "Definition": "a very large company made up of many different businesses"
   },
   "VARNISH": {
-    "Definition": "a liquid used to protect wood, metal, or other materials"
+    "Definition": "a clear liquid painted on wood to protect it and make it shine"
+  },
+  "SEALANT": {
+    "Definition": "a substance used to fill gaps and stop air or water getting in"
+  },
+  "TIN": {
+    "Definition": "a metal container in which the product is sold"
+  },
+  "LIVE UP TO": {
+    "Definition": "be as good as what was promised by"
+  },
+  "SELF-DEPRECATION": {
+    "Definition": "making jokes about yourself or playing down your own value"
+  },
+  "PUTTING ONESELF DOWN": {
+    "Definition": "criticising yourself or making yourself seem less important"
+  },
+  "CATAPULTED": {
+    "Definition": "pushed very quickly and suddenly"
+  },
+  "COMMON PARLANCE": {
+    "Definition": "the everyday language that ordinary people use"
+  },
+  "IMPLICATION": {
+    "Definition": "a meaning that is suggested but not said directly"
   }
 }
