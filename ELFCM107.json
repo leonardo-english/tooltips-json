@@ -1,128 +1,125 @@
 {
   "MYSTIFIED": {
-    "Definition": "was so strange and confusing that it was difficult to understand"
+    "Definition": "confused because it could not be understood or explained"
   },
   "HARDWIRED": {
-    "Definition": "if something is hardwired, it's a natural part of someone's character or being"
+    "Definition": "naturally built from birth"
   },
   "STIMULANTS": {
-    "Definition": "substances that cause you to stay awake and heighten your senses"
+    "Definition": "substances, such as caffeine, that make you feel more awake and active"
   },
   "ELUDED": {
-    "Definition": "escaped"
+    "Definition": "stayed impossible for them to find or understand"
   },
   "VULNERABLE": {
-    "Definition": "able to be easily hurt"
+    "Definition": "easily hurt or attacked; unable to protect itself"
   },
   "CREEPING UP": {
-    "Definition": "approaching slowly"
+    "Definition": "moving slowly and quietly closer without being noticed"
   },
   "RE-ENERGISED": {
-    "Definition": "feeling full of energy again"
+    "Definition": "full of strength and life again"
   },
   "GRUMPY": {
-    "Definition": "easily annoyed"
+    "Definition": "in a bad mood and easily annoyed"
   },
   "WELLBEING": {
-    "Definition": "being healthy and happy"
+    "Definition": "health and happiness"
   },
   "STANDBY": {
-    "Definition": "ready for use, but not in use"
+    "Definition": "a resting state, ready to start working again when needed"
   },
   "SWITCHING OFF": {
-    "Definition": "turning off"
+    "Definition": "stopping all activity and resting completely"
   },
   "SWITCHED OFF": {
-    "Definition": "turned off"
+    "Definition": "inactive and doing nothing"
   },
   "CRUCIAL": {
-    "Definition": "very important"
+    "Definition": "extremely important"
   },
   "HYPOTHESISE": {
-    "Definition": "to give a possible explanation"
+    "Definition": "suggest a possible explanation that has not yet been proved"
   },
   "ALL MANNER": {
-    "Definition": "lots"
+    "Definition": "many different kinds"
   },
   "OBESITY": {
-    "Definition": "the state of being extremely fat"
+    "Definition": "the condition of being very overweight in an unhealthy way"
   },
   "IMMUNE SYSTEM": {
-    "Definition": "the system protecting your body against disease and infections"
+    "Definition": "the body's natural defence against illness and infection"
   },
   "DISTINCT": {
-    "Definition": "clear and unique"
+    "Definition": "clearly different and separate"
   },
   "DRIFT OFF": {
-    "Definition": "go to sleep slowly"
+    "Definition": "gradually fall asleep"
   },
   "PARALYSED": {
-    "Definition": "unable to move"
+    "Definition": "completely unable to move"
   },
   "CRAM": {
-    "Definition": "force into a small space"
+    "Definition": "force or squeeze into a space that is too small"
   },
   "INTERPRET": {
-    "Definition": "understand the meaning of"
+    "Definition": "work out the meaning of"
   },
   "ANALYTICAL": {
-    "Definition": "relating to the ability to think and understand things"
+    "Definition": "using careful, logical thinking"
   },
   "INTERPRETS": {
-    "Definition": "understands the meaning of"
+    "Definition": "works out the meaning of"
   },
   "VIVID": {
-    "Definition": "clear and powerful"
+    "Definition": "very clear and detailed, as if real"
   },
   "HOMEOSTASIS": {
-    "Definition": "the ability for a creature to keep an internal balance"
+    "Definition": "the body's natural way of keeping things balanced, such as its need for sleep"
   },
   "TIMER": {
-    "Definition": "a clock that tells you when a particular amount of time has passed"
+    "Definition": "a device that measures how much time has passed"
   },
   "DEPRIVED": {
-    "Definition": "if you are deprived of something, you haven't had it for a long time"
+    "Definition": "lacking enough of something that is needed"
   },
   "CIRCADIAN": {
-    "Definition": "relating to a period of 24 hours"
+    "Definition": "relating to the body's natural 24-hour cycle"
   },
   "ALTER": {
     "Definition": "change"
   },
   "DISRUPT": {
-    "Definition": "cause a change from the normal routine"
+    "Definition": "disturb or upset the normal pattern of"
   },
   "RADICALLY": {
-    "Definition": "completely or extremely"
+    "Definition": "in a very big and basic way"
   },
   "POLYPHASIC": {
-    "Definition": "in multiple phases"
+    "Definition": "with sleep split into several short periods across the day"
   },
   "BATCHES": {
-    "Definition": "groups or periods"
+    "Definition": "separate amounts or periods"
   },
   "DEVOTED": {
-    "Definition": "very loyal and loving"
+    "Definition": "very loyal and enthusiastic"
   },
   "PROPONENTS": {
-    "Definition": "people who support something or someone"
+    "Definition": "people who support an idea and argue in favour of it"
   },
   "POLYPHASICALLY": {
-    "Definition": "in multiple phases"
+    "Definition": "in several short periods across the day"
   },
   "IN PERPETUITY": {
-    "Definition": "forever"
+    "Definition": "for all time, without ever ending"
   },
   "WARY": {
-    "Definition": "not completely trusting"
+    "Definition": "careful and not fully trusting"
   },
   "DROP DEAD": {
     "Definition": "die suddenly"
   },
   "SHONE A LITTLE LIGHT": {
-    "Definition": "provided a little information"
-  },
-  "": {
-    "Definition": null
+    "Definition": "helped you understand a bit more about"
   }
 }
