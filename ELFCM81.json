@@ -1,89 +1,92 @@
 {
-  "AISLE": {
-    "Definition": "a long, narrow space, normally between seats or shelves"
-  },
   "ARCHIPELAGO": {
-    "Definition": "a small group of islands"
-  },
-  "BACKING UP": {
-    "Definition": "see 'backup'"
+    "Definition": "a group of islands"
   },
   "BACKUP": {
-    "Definition": "something that you use to replace something else if it is lost or damaged"
+    "Definition": "an extra store kept safe in case the main one is lost"
+  },
+  "OFF": {
+    "Definition": "slightly wrong; not quite right"
+  },
+  "BACKING UP": {
+    "Definition": "making a spare copy of"
+  },
+  "CROPS": {
+    "Definition": "plants grown by farmers, especially for food"
+  },
+  "MAMMOTH": {
+    "Definition": "extremely large"
+  },
+  "EXTINGUISHED": {
+    "Definition": "removed completely and for ever"
+  },
+  "REFORM": {
+    "Definition": "change made to improve the way something is organised"
+  },
+  "CULTIVATED": {
+    "Definition": "grown by farmers"
+  },
+  "EFFECTIVE": {
+    "Definition": "real in practice, even if not officially"
+  },
+  "MONOCULTURE": {
+    "Definition": "a situation in which only one or very few types of plant are grown"
+  },
+  "CROP": {
+    "Definition": "a plant grown by farmers, especially for food"
+  },
+  "UNFORESEEN": {
+    "Definition": "not expected or predicted"
   },
   "BACKUPS": {
-    "Definition": "something that you use to replace something else if it is lost or damaged"
+    "Definition": "extra stores kept safe in case the main ones are lost"
   },
-  "BARRIERS": {
-    "Definition": "obstacle, things that would stop you doing something"
+  "GENE BANK": {
+    "Definition": "a place where seeds are stored to protect different types of plant"
+  },
+  "NUCLEAR HOLOCAUST": {
+    "Definition": "huge destruction and loss of life caused by nuclear war"
+  },
+  "DECIMATED": {
+    "Definition": "destroyed a large part of"
+  },
+  "AISLE": {
+    "Definition": "a passage between rows of shelves"
+  },
+  "ERA": {
+    "Definition": "a period of history known for a particular feature"
+  },
+  "INTENTIONS": {
+    "Definition": "plans or aims; what people want to do"
+  },
+  "NORTHERNMOST": {
+    "Definition": "lying furthest towards the Arctic"
+  },
+  "SUBMERGED": {
+    "Definition": "covered completely; hidden deep"
   },
   "BOG STANDARD": {
-    "Definition": "completely normal"
+    "Definition": "ordinary, with nothing special about them"
+  },
+  "OBSCURE": {
+    "Definition": "not well known"
+  },
+  "INFESTATION": {
+    "Definition": "an attack by large numbers"
+  },
+  "BARRIERS": {
+    "Definition": "things that stop someone or make it hard for them"
+  },
+  "TWIST OF FATE": {
+    "Definition": "an unexpected change in events that nobody could control"
+  },
+  "EXHAUSTED": {
+    "Definition": "used up completely; all tried"
+  },
+  "DUBBED": {
+    "Definition": "given the nickname"
   },
   "COLLABORATE": {
     "Definition": "work together"
-  },
-  "CROP": {
-    "Definition": "a plant grown by farmers"
-  },
-  "CROPS": {
-    "Definition": "plants grown by farmers"
-  },
-  "CULTIVATED": {
-    "Definition": "grown"
-  },
-  "DECIMATED": {
-    "Definition": "destroyed"
-  },
-  "DUBBED": {
-    "Definition": "called by people"
-  },
-  "EFFECTIVE": {
-    "Definition": "in practice"
-  },
-  "ERA": {
-    "Definition": "period of time"
-  },
-  "EXHAUSTED": {
-    "Definition": "used up"
-  },
-  "EXTINGUISHED": {
-    "Definition": "disappeared, extinct"
-  },
-  "GENE BANK": {
-    "Definition": "a repository that preserves genetic material"
-  },
-  "INFESTATION": {
-    "Definition": "a situation where there are too many insects, ants etc"
-  },
-  "INTENTIONS": {
-    "Definition": "things that you want to do"
-  },
-  "MAMMOTH": {
-    "Definition": "very large"
-  },
-  "NORTHERNMOST": {
-    "Definition": "furthest north"
-  },
-  "NUCLEAR HOLOCAUST": {
-    "Definition": "an event where a nuclear explosion destroys large parts of an area"
-  },
-  "OBSCURE": {
-    "Definition": "not known to many people"
-  },
-  "OFF": {
-    "Definition": "incorrect"
-  },
-  "REFORM": {
-    "Definition": "improvement by making changes"
-  },
-  "SUBMERGED": {
-    "Definition": "underneath something else"
-  },
-  "TWIST OF FATE": {
-    "Definition": "something that happens by chance, often in an unfortunate or strange way"
-  },
-  "UNFORESEEN": {
-    "Definition": "not predicted"
   }
 }
