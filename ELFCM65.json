@@ -1,131 +1,125 @@
 {
-  "ALASTAIR BUDGE:": {
-    "Definition": null
-  },
-  "ASCENT": {
-    "Definition": "the act of climbing or moving upwards"
-  },
-  "ASPIRATIONAL": {
-    "Definition": "see 'aspiring'"
-  },
-  "ASPIRING": {
-    "Definition": "hoping and trying to be successful at a particular activity"
-  },
-  "CAMPAIGNS": {
-    "Definition": "a planned group of especially political, business, or military activities that are intended to achieve a particular aim"
-  },
-  "CAPITALISED": {
-    "Definition": "to use a situation to your own advantage"
-  },
-  "CHILLED": {
-    "Definition": "cool"
-  },
-  "CHLORINE": {
-    "Definition": "a chemical element that is a greenish-yellow gas with a strong smell, added to water in order to kill organisms that might cause infection"
-  },
-  "CHOLERA": {
-    "Definition": "a serious infection of the bowels caused by drinking infected water or eating infected food, causing diarrhoea, vomiting, and often death"
-  },
-  "COINCIDED": {
-    "Definition": "to happen at or near the same time"
-  },
-  "CONDITIONED": {
-    "Definition": "made to think or believe something"
-  },
-  "EFFERVESCENT": {
-    "Definition": "sparkling, fizzy"
-  },
-  "ENCOUNTER": {
-    "Definition": "a meeting, especially one that happens by chance"
-  },
-  "FLOP": {
-    "Definition": "a failure"
-  },
-  "FORMULA": {
-    "Definition": "a standard or accepted way of doing or making something"
-  },
-  "GALLON": {
-    "Definition": "a unit for measuring volume"
-  },
-  "GLACIER": {
-    "Definition": "a large mass of ice that moves slowly"
-  },
-  "LOGO": {
-    "Definition": "a design or symbol used by a company to advertise its products"
-  },
-  "MUNICIPAL": {
-    "Definition": "of or belonging to a town or city"
-  },
-  "NECESSITY": {
-    "Definition": "the need for something"
-  },
-  "ON THE CONTINENT": {
-    "Definition": "used in the United Kingdom to refer to the main land of Europe"
-  },
-  "ORSON WELLES:": {
-    "Definition": null
-  },
-  "OUT OF REACH": {
-    "Definition": "not available"
-  },
-  "PHENOMENON": {
-    "Definition": "something that exists and can be seen, felt, tasted, etc., especially something unusual or interesting"
-  },
-  "PLUMMETED": {
-    "Definition": "to fall very quickly and suddenly"
-  },
-  "PREYED ON": {
-    "Definition": "to hurt or deceive a group of people, especially people who are weak or can easily be hurt or deceived"
-  },
-  "PRICE TAG": {
-    "Definition": "a piece of paper with a price that is attached to a product, or the amount that something costs"
-  },
-  "QUENCHING": {
-    "Definition": "(of a liquid) stops you from being thirsty"
-  },
-  "ROADBLOCK": {
-    "Definition": "anything that stops progress"
+  "STATUS SYMBOL": {
+    "Definition": "something people own or use to show they are rich or important"
   },
   "SETTLEMENTS": {
-    "Definition": "a place where people come to live or the process of settling in such a place"
-  },
-  "SKYROCKETED": {
-    "Definition": "to rise extremely quickly or make extremely quick progress towards success"
-  },
-  "SPA": {
-    "Definition": "a town where water comes out of the ground and people come to drink it or lie in it because they think it will improve their health"
-  },
-  "SPARKLE": {
-    "Definition": "to shine brightly with a lot of small points of light"
-  },
-  "SPAS": {
-    "Definition": "towns where water comes out of the ground and people come to drink it or lie in it because they think it will improve their health"
-  },
-  "STATUS SYMBOL": {
-    "Definition": "a thing that people want to have because they think other people will admire them if they have it:"
-  },
-  "TAGLINES": {
-    "Definition": "a short, easily remembered phrase that a company uses in its advertisements, especially on television or the internet, so that people will recognize it or its products"
-  },
-  "TAKE OFF": {
-    "Definition": "succeed, grow"
-  },
-  "TREATED": {
-    "Definition": "put through a special process"
-  },
-  "UNFIT": {
-    "Definition": "not suitable or good enough for a particular purpose or activity"
-  },
-  "UPROAR": {
-    "Definition": "a situation in which a lot of people complain about something angrily or make a lot of noise"
-  },
-  "VAST MAJORITY": {
-    "Definition": "most of"
+    "Definition": "places where people have come to live together"
   },
   "WELLS": {
-    "Definition": "a deep hole in the ground from which you can get water, oil, or gas"
+    "Definition": "deep holes dug in the ground to reach water"
   },
-  "WITH MY MARKETING HAT": {
-    "Definition": "thinking as a marketing person"
+  "SPA": {
+    "Definition": "a place with natural mineral water that people visit for their health"
+  },
+  "SPAS": {
+    "Definition": "places with natural mineral water that people visit for their health"
+  },
+  "ENCOUNTER": {
+    "Definition": "come across; meet"
+  },
+  "EFFERVESCENT": {
+    "Definition": "full of small bubbles of gas"
+  },
+  "ROADBLOCK": {
+    "Definition": "a problem that stopped or slowed progress"
+  },
+  "CHLORINE": {
+    "Definition": "a chemical used to kill bacteria and make water clean"
+  },
+  "MUNICIPAL": {
+    "Definition": "run by the local town or city government"
+  },
+  "PLUMMETED": {
+    "Definition": "fell very quickly and by a large amount"
+  },
+  "ON THE CONTINENT": {
+    "Definition": "in mainland Europe, as opposed to Britain"
+  },
+  "SPARKLE": {
+    "Definition": "fizziness; small bubbles of gas"
+  },
+  "QUENCHING": {
+    "Definition": "good at stopping you feeling thirsty"
+  },
+  "OUT OF REACH": {
+    "Definition": "too expensive for someone to buy"
+  },
+  "ASPIRING": {
+    "Definition": "wanting to become more successful or rise in society"
+  },
+  "COINCIDED": {
+    "Definition": "happened at the same time"
+  },
+  "ASPIRATIONAL": {
+    "Definition": "wanting to improve your life and social position"
+  },
+  "SKYROCKETED": {
+    "Definition": "rose very quickly and by a large amount"
+  },
+  "CAMPAIGNS": {
+    "Definition": "planned series of adverts designed to sell a product"
+  },
+  "PREYED ON": {
+    "Definition": "unfairly made use of"
+  },
+  "CAPITALISED": {
+    "Definition": "took advantage"
+  },
+  "TAGLINES": {
+    "Definition": "short, memorable phrases used in advertising"
+  },
+  "TAKE OFF": {
+    "Definition": "become successful or popular very quickly"
+  },
+  "ASCENT": {
+    "Definition": "rise; upward progress"
+  },
+  "UNFIT": {
+    "Definition": "not good enough or not suitable"
+  },
+  "PHENOMENON": {
+    "Definition": "something that happens and is interesting or unusual"
+  },
+  "GALLON": {
+    "Definition": "a unit for measuring liquid, about 3.8 litres in the US"
+  },
+  "CONDITIONED": {
+    "Definition": "trained by repeated experience"
+  },
+  "VAST MAJORITY": {
+    "Definition": "almost all; by far the largest part"
+  },
+  "LOGO": {
+    "Definition": "a design or symbol that represents a company or product"
+  },
+  "GLACIER": {
+    "Definition": "a very large mass of ice that moves slowly over land"
+  },
+  "TREATED": {
+    "Definition": "cleaned or changed using chemicals or a special process"
+  },
+  "FLOP": {
+    "Definition": "a failure; something that did not succeed"
+  },
+  "FORMULA": {
+    "Definition": "a method or plan that has worked before"
+  },
+  "PRICE TAG": {
+    "Definition": "a price that someone has to pay"
+  },
+  "UPROAR": {
+    "Definition": "an angry public reaction; a lot of noisy protest"
+  },
+  "CHILLED": {
+    "Definition": "made cold"
+  },
+  "NECESSITY": {
+    "Definition": "something that is needed; something you cannot live without"
+  },
+  "CHOLERA": {
+    "Definition": "a serious disease caught from dirty water that causes severe diarrhoea"
+  },
+  "WITH MY MARKETING HAT ON": {
+    "Definition": "thinking about it as someone who works in marketing"
   }
 }
