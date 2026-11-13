@@ -1,221 +1,224 @@
 {
-  "ACCOUNT": {
-    "Definition": "make up, form part of"
-  },
-  "ADJUSTING": {
-    "Definition": "to change something slightly, especially to make it more correct, effective, or suitable"
-  },
-  "ANCESTRY": {
-    "Definition": "your ancestors who lived a long time ago, or the origin of your family"
-  },
-  "ALLEGATIONS": {
-    "Definition": "statements, made without giving proof, that someone has done something wrong or illegal"
-  },
-  "BENEFICIARIES": {
-    "Definition": "a person or group who receives money, advantages, etc. as a result of something else"
-  },
-  "BIDDER": {
-    "Definition": "someone who offers to pay a particular amount of money for something"
-  },
-  "BIDDING": {
-    "Definition": "the act of offering to pay a particular amount of money for something, by different people"
-  },
-  "BIRTHRIGHT": {
-    "Definition": "something that you believe you deserve to have because of your family situation or social class, or because you believe it is your right as a human being"
-  },
-  "BLOWN UP": {
-    "Definition": "killed with explosives"
-  },
-  "BOOM": {
-    "Definition": "a period of sudden economic growth, especially one that results in a lot of money being made"
-  },
-  "BOOMED": {
-    "Definition": "increased very quickly"
-  },
-  "CITIZENSHIP": {
-    "Definition": "the state of being a member of a particular country and having rights because of it"
-  },
-  "COLONIAL": {
-    "Definition": "relating to a colony or colonialism"
-  },
-  "CRITIC": {
-    "Definition": "someone who says that they do not approve of someone or something"
-  },
-  "DESCENT": {
-    "Definition": "the state or fact of being related to a particular person or group of people who lived in the past"
-  },
-  "DESERVING": {
-    "Definition": "If people or things are deserving, they should be helped because they have good qualities"
-  },
-  "DUBBED": {
-    "Definition": "given a particular name"
-  },
-  "EMBASSY": {
-    "Definition": "the official building of a country (in another country)"
-  },
-  "ERODE": {
-    "Definition": "to rub or be rubbed away gradually"
-  },
-  "EXPRESS": {
-    "Definition": "clearly and intentionally stated"
-  },
-  "FACTOR EVERYTHING IN": {
-    "Definition": "consider everything"
-  },
-  "FORK OUT": {
-    "Definition": "to pay an amount of money, especially unwillingly"
-  },
-  "FORMATIVE": {
-    "Definition": "relating to the time when someone or something is starting to develop in character"
-  },
-  "GET ON THE WRONG SIDE": {
-    "Definition": "to annoy, to upset"
-  },
-  "GLOBALISED": {
-    "Definition": "(of the world) more interconnected"
-  },
-  "GOLD MINE": {
-    "Definition": "something that produces wealth or information"
-  },
-  "GOLD RUSH": {
-    "Definition": "a situation in which a lot of people move to a place to try to find gold because they have heard that gold has been found there"
-  },
-  "GRANT": {
-    "Definition": "to give or allow someone something, usually in an official way"
-  },
-  "HASSLE": {
-    "Definition": "(a situation causing) difficulty or trouble"
+  "STATUS SYMBOL": {
+    "Definition": "a possession that shows other people how rich or important you are"
   },
   "IMPLICATIONS": {
-    "Definition": "an occasion when you seem to suggest something without saying it directly"
+    "Definition": "possible effects or results"
   },
-  "IN NAME ONLY": {
-    "Definition": "If a situation exists in name only, it is officially described that way, although that description is not completely accurate"
-  },
-  "IN THE GRAND SCHEME OF THINGS": {
-    "Definition": "considering everything"
-  },
-  "INCENTIVES": {
-    "Definition": "things that encourages a person to do something"
-  },
-  "INFLATION": {
-    "Definition": "a general, continuous increase in prices"
-  },
-  "INSURANCE POLICY": {
-    "Definition": "a written agreement for insurance between an insurance company and a person who wants insurance"
-  },
-  "INTERACTION": {
-    "Definition": "an occasion when two or more people or things communicate with or react to each other"
-  },
-  "LUCRATIVE": {
-    "Definition": "(especially of a business, job, or activity) producing a lot of money"
-  },
-  "MASTERMIND": {
-    "Definition": "to plan a difficult activity, often a crime, in detail and make certain that it happens successfully"
-  },
-  "MEANS": {
-    "Definition": "a method or way of doing something"
-  },
-  "MIDDLEMEN": {
-    "Definition": "a person who buys goods from the company that has produced them and makes a profit by selling them to a shop or a user"
-  },
-  "MURKY": {
-    "Definition": "dark and dirty or difficult to see through"
+  "SOVEREIGNTY": {
+    "Definition": "a country's right to govern itself without control from others"
   },
   "NATIONALITY": {
-    "Definition": "the official right to belong to a particular country"
+    "Definition": "being officially a member of a particular country"
   },
-  "NATIONHOOD": {
-    "Definition": "the fact of being a nation (= a country with its own government, language, traditions, etc.)"
+  "EXPRESS": {
+    "Definition": "clear and deliberate"
   },
-  "NETTED": {
-    "Definition": "earned"
+  "ANCESTRY": {
+    "Definition": "the family members who lived before you"
   },
-  "NICKNAMED": {
-    "Definition": "given an informal name for someone or something, especially a name that you are called by your friends or family, usually based on your real name or your character"
+  "DESCENT": {
+    "Definition": "the family line you come from"
+  },
+  "GRANT": {
+    "Definition": "officially give"
+  },
+  "CITIZENSHIP": {
+    "Definition": "the legal right to belong to a country"
+  },
+  "BIRTHRIGHT": {
+    "Definition": "a right you have because of where you were born"
+  },
+  "WILL": {
+    "Definition": "the wish or determination to do something"
+  },
+  "STATE THE OBVIOUS": {
+    "Definition": "say something that everyone already knows"
+  },
+  "ADJUSTING": {
+    "Definition": "changing the figures to take account of something"
+  },
+  "INFLATION": {
+    "Definition": "the general rise in prices over time"
+  },
+  "GLOBALISED": {
+    "Definition": "connected around the world through trade, travel and communication"
+  },
+  "BOOMED": {
+    "Definition": "grown very quickly"
+  },
+  "INCENTIVES": {
+    "Definition": "benefits offered to encourage people to do something"
+  },
+  "INSURANCE POLICY": {
+    "Definition": "something that protects you if things go wrong"
+  },
+  "GET ON THE WRONG SIDE": {
+    "Definition": "make yourself an enemy"
   },
   "OLIGARCHS": {
-    "Definition": "very rich and powerful people (in an oligarchy)"
-  },
-  "PARTIALLY": {
-    "Definition": "not completely"
-  },
-  "PHENOMENON": {
-    "Definition": "something that exists and can be seen, felt, tasted, etc., especially something unusual or interesting"
-  },
-  "PITCH BLACK": {
-    "Definition": "completely dark"
-  },
-  "PLETHORA": {
-    "Definition": "a very large amount of something, especially a larger amount than you need, want, or can deal with"
-  },
-  "PRIDES ITSELF": {
-    "Definition": "is proud of"
-  },
-  "SCHENGEN": {
-    "Definition": "an agreement between many countries of the European Union that allows people and goods to pass freely across the borders of each country without passport or other controls."
+    "Definition": "very rich business people who have a lot of political power"
   },
   "SEIZED": {
-    "Definition": "to take something quickly and keep or hold it"
+    "Definition": "taken by force or by law"
   },
-  "SET FOOT IN": {
-    "Definition": "to go to a place"
+  "EMBASSY": {
+    "Definition": "the office of a foreign government in your country, where you apply for visas"
+  },
+  "HASSLE": {
+    "Definition": "something annoying and difficult"
+  },
+  "PLETHORA": {
+    "Definition": "a very large number"
+  },
+  "SCHENGEN": {
+    "Definition": "relating to the group of European countries that have no border controls between them"
+  },
+  "UNACCUSTOMED": {
+    "Definition": "not used"
+  },
+  "TEDIOUS": {
+    "Definition": "boring and tiring"
+  },
+  "SKIP": {
+    "Definition": "avoid waiting in"
   },
   "SET YOU BACK": {
     "Definition": "cost you"
   },
-  "SHADY": {
-    "Definition": "dishonest or illegal"
+  "FACTOR EVERYTHING IN": {
+    "Definition": "include all the costs"
   },
-  "SHORTAGE": {
-    "Definition": "a situation in which there is not enough of something"
+  "FORK OUT": {
+    "Definition": "pay a large amount, often unwillingly"
   },
-  "SHOVELS": {
-    "Definition": "a tool consisting of a wide, square metal or plastic blade, usually with slightly raised sides, attached to a handle, for moving loose material such as sand, coal, or snow"
+  "COLONIAL": {
+    "Definition": "relating to a time when a country was ruled by another, more powerful country"
   },
-  "SKIP": {
-    "Definition": "avoid"
+  "BIDDER": {
+    "Definition": "a person who offers money to buy something, competing with others"
   },
-  "SOVEREIGNTY": {
-    "Definition": "the power of a country to control its own government"
+  "BIDDING": {
+    "Definition": "offering to pay"
   },
-  "STATE THE OBVIOUS": {
-    "Definition": "to say something that everyone knows"
+  "IN THE GRAND SCHEME OF THINGS": {
+    "Definition": "when you look at the bigger picture"
   },
-  "STATELESS": {
-    "Definition": "A stateless person has no country that they officially belong to"
+  "LUCRATIVE": {
+    "Definition": "profitable; bringing in money"
   },
-  "STATUS SYMBOL": {
-    "Definition": "a thing that people want to have because they think other people will admire them if they have it"
+  "ACCOUNT FOR": {
+    "Definition": "make up"
   },
-  "STRUGGLE": {
-    "Definition": "to experience difficulty and make a very great effort in order to do something"
-  },
-  "SUPERFICIAL": {
-    "Definition": "not complete and involving only the most obvious things"
+  "PRIDES ITSELF": {
+    "Definition": "feels very pleased about its success"
   },
   "SURPLUS": {
-    "Definition": "(an amount that is) more than is needed"
+    "Definition": "the money left over when income is more than spending"
   },
-  "TEDIOUS": {
-    "Definition": "boring"
+  "PARTIALLY": {
+    "Definition": "partly; to some degree"
   },
-  "UNACCUSTOMED": {
-    "Definition": "not familiar with something, or not used to something"
+  "CREDITED": {
+    "Definition": "named as the reason"
   },
-  "UNSCRUPULOUS": {
-    "Definition": "behaving in a way that is dishonest or unfair in order to get what you want"
+  "GOLD MINE": {
+    "Definition": "something that makes a lot of money"
   },
-  "UP YOUR GAME": {
-    "Definition": "to try harder and improve the quality of what you are doing"
+  "SUPERFICIAL": {
+    "Definition": "only on the surface; not looked at closely"
   },
-  "WHATSOEVER": {
-    "Definition": "used after a negative phrase to add emphasis to the idea that is being expressed"
+  "STRUGGLE": {
+    "Definition": "find it very difficult"
+  },
+  "MEANS": {
+    "Definition": "methods; ways"
+  },
+  "BENEFICIARIES": {
+    "Definition": "people who gain from something"
   },
   "WIDESPREAD": {
-    "Definition": "existing or happening in many places and/or among many people"
+    "Definition": "made by many people; very common"
   },
-  "WILL": {
-    "Definition": "the mental power used to control and direct your thoughts and actions, or a determination to do something, despite any difficulties or opposition"
+  "ALLEGATIONS": {
+    "Definition": "claims, not yet proved, that someone has done something wrong"
+  },
+  "CRITIC": {
+    "Definition": "a person who strongly disapproves of something and says so publicly"
+  },
+  "BLOWN UP": {
+    "Definition": "killed by an explosion"
+  },
+  "MURKY": {
+    "Definition": "unclear and possibly dishonest"
+  },
+  "UNSCRUPULOUS": {
+    "Definition": "willing to do dishonest or wrong things to get what they want"
+  },
+  "SHADY": {
+    "Definition": "seeming dishonest or illegal"
+  },
+  "ERODE": {
+    "Definition": "slowly reduce or damage"
+  },
+  "NATIONHOOD": {
+    "Definition": "being an independent country with its own people and identity"
+  },
+  "INTERACTION": {
+    "Definition": "contact or communication"
+  },
+  "IN NAME ONLY": {
+    "Definition": "officially, but not in reality"
+  },
+  "STATELESS": {
+    "Definition": "not belonging to any country"
+  },
+  "PITCH BLACK": {
+    "Definition": "completely dark"
+  },
+  "SHORTAGE": {
+    "Definition": "a situation where there is not enough of something"
+  },
+  "BOOM": {
+    "Definition": "a period of fast growth"
+  },
+  "SET FOOT IN": {
+    "Definition": "entered or visited"
+  },
+  "MIDDLEMEN": {
+    "Definition": "people or companies who arrange deals between buyers and sellers"
+  },
+  "DUBBED": {
+    "Definition": "given the title"
+  },
+  "NICKNAMED": {
+    "Definition": "called, informally"
+  },
+  "MASTERMIND": {
+    "Definition": "the person or group who planned and organised something clever or complex"
+  },
+  "NETTED": {
+    "Definition": "earned as profit"
+  },
+  "GOLD RUSH": {
+    "Definition": "a time when crowds hurried to a place where gold had been found, hoping to get rich"
+  },
+  "SHOVELS": {
+    "Definition": "tools with a long handle and a wide blade, used for digging"
+  },
+  "DESERVING": {
+    "Definition": "worthy; having a fair right to something"
+  },
+  "FORMATIVE": {
+    "Definition": "important in shaping a person's character"
+  },
+  "WHATSOEVER": {
+    "Definition": "at all"
+  },
+  "PHENOMENON": {
+    "Definition": "something that happens and that people notice or study"
+  },
+  "UP YOUR GAME": {
+    "Definition": "improve your level or performance"
   }
 }
