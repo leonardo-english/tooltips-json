@@ -1,128 +1,131 @@
 {
-  "AIRTIGHT": {
-    "Definition": "completely closed so no air can come in"
+  "MINDSET": {
+    "Definition": "a fixed way of thinking about things"
   },
-  "APOCALYPSE": {
-    "Definition": "the end of the world"
+  "INTERCHANGEABLY": {
+    "Definition": "in place of each other, with the same meaning"
   },
-  "APOCALYPTIC": {
-    "Definition": "connected with the final destruction of the world"
-  },
-  "BUNKER": {
-    "Definition": "a shelter, usually underground, to protect the people inside"
-  },
-  "BUNKERS": {
-    "Definition": "shelters, usually underground, to protect the people inside"
-  },
-  "CROPS": {
-    "Definition": "a plant grown for food"
-  },
-  "CRUMBLING DOWN": {
-    "Definition": "falling down"
-  },
-  "DISPROPORTIONATELY": {
-    "Definition": "in a way that is too large or too small when compared to something else"
-  },
-  "DISRUPT": {
-    "Definition": "prevent from continuing as normal"
-  },
-  "DOOMSDAY": {
-    "Definition": "the end of the world"
-  },
-  "DUTY": {
-    "Definition": "something that you have to do"
-  },
-  "ELITE": {
-    "Definition": "the richest, most powerful in society"
+  "PERCEPTIONS": {
+    "Definition": "views or opinions that people have about something"
   },
   "FEASIBLE": {
-    "Definition": "able to be done, possible"
+    "Definition": "possible or practical"
   },
-  "FIRSTHAND": {
-    "Definition": "if you experience something firsthand, you experience it for yourself"
+  "SHORTAGES": {
+    "Definition": "situations where there is not enough of something"
   },
-  "FRACTURES": {
-    "Definition": "breaks"
+  "BUNKERS": {
+    "Definition": "strong shelters, often underground, built to protect people"
+  },
+  "KITTED OUT": {
+    "Definition": "fully supplied and fitted"
+  },
+  "STOCKPILING": {
+    "Definition": "collecting and storing large amounts of"
+  },
+  "STOCKPILE": {
+    "Definition": "collect and store large amounts of"
+  },
+  "CROPS": {
+    "Definition": "plants grown for food"
+  },
+  "SELF-SUFFICIENT": {
+    "Definition": "able to provide everything we need without help from others"
+  },
+  "TICKING OVER": {
+    "Definition": "working steadily at a basic, normal level"
+  },
+  "WRITTEN IN STONE": {
+    "Definition": "fixed and certain; impossible to change"
+  },
+  "MONETARY": {
+    "Definition": "relating to a country's currency and how it is controlled"
+  },
+  "APOCALYPTIC": {
+    "Definition": "causing terrible destruction, like the end of the world"
+  },
+  "RIDICULE": {
+    "Definition": "laugh at and make look foolish"
+  },
+  "POKED FUN": {
+    "Definition": "made unkind jokes; laughed"
+  },
+  "DOOMSDAY": {
+    "Definition": "the day when the world ends"
+  },
+  "AIRTIGHT": {
+    "Definition": "sealed so that no air can get in or out"
+  },
+  "FORTRESSES": {
+    "Definition": "strong buildings made to be defended against attack"
+  },
+  "MELTDOWN": {
+    "Definition": "a sudden and complete collapse"
+  },
+  "SHONE A LIGHT": {
+    "Definition": "drew people's attention; showed clearly"
+  },
+  "MISSILE SILO": {
+    "Definition": "an underground structure built to store and launch nuclear rockets"
+  },
+  "DISRUPT": {
+    "Definition": "interrupt or upset the normal working of"
+  },
+  "STATUS QUO": {
+    "Definition": "the way things are now"
+  },
+  "PAINT": {
+    "Definition": "describe or show"
+  },
+  "MADWOMAN": {
+    "Definition": "a woman who acts in a crazy, irrational way"
+  },
+  "OVERCOME": {
+    "Definition": "strongly affected and controlled"
   },
   "HANDY": {
     "Definition": "useful"
   },
-  "INTERCHANGEABLY": {
-    "Definition": "things that are interchangeable can be used instead of each other"
-  },
-  "IT’S ALL WELL AND GOOD": {
-    "Definition": "used to say that something may be ok, but it has disadvantages"
-  },
-  "KITTED OUT": {
-    "Definition": "provided with the necessary equipment"
-  },
-  "MADWOMAN": {
-    "Definition": "a woman who is mad / crazy"
-  },
-  "MELTDOWN": {
-    "Definition": "complete collapse"
-  },
-  "MINDSET": {
-    "Definition": "a way of thinking"
-  },
-  "MISSILE SILO": {
-    "Definition": "a large structure under the ground from where missiles can be fired"
-  },
-  "MONETARY": {
-    "Definition": "related to the money in a country"
-  },
   "OUT OF THE BLUE": {
-    "Definition": "completely unexpected"
+    "Definition": "suddenly and without any warning"
   },
-  "OVERCOME": {
-    "Definition": "if you are overcome by a feeling, you can't continue your normal life without thinking about it"
+  "BUNKER": {
+    "Definition": "a strong shelter, often underground, built to protect people"
   },
-  "PAINT": {
-    "Definition": "describe, portray"
+  "ELITE": {
+    "Definition": "a small group of the richest and most powerful people"
   },
-  "PERCEPTIONS": {
-    "Definition": "beliefs or opinions"
-  },
-  "POKED FUN": {
-    "Definition": "made fun of"
+  "FIRSTHAND": {
+    "Definition": "personally, through their own experience"
   },
   "REGULATING": {
-    "Definition": "controlling"
+    "Definition": "controlling and keeping at the right level"
   },
-  "RIDICULE": {
-    "Definition": "make fun of"
+  "DISPROPORTIONATELY": {
+    "Definition": "to a much greater degree than would be expected"
   },
-  "SELF-SUFFICIENT": {
-    "Definition": "able to provide for yourself without the help of others"
-  },
-  "SEWER": {
-    "Definition": "a large pipe, normally underground, used to carry away waste water from buildings"
-  },
-  "SHONE A LIGHT": {
-    "Definition": "helped explain (something)"
-  },
-  "SHORTAGES": {
-    "Definition": "situations where there isn't enough of something"
-  },
-  "SPARE": {
-    "Definition": "extra"
-  },
-  "STATUS QUO": {
-    "Definition": "the present situation"
-  },
-  "STOCKPILE": {
-    "Definition": "a supply of goods for future use"
-  },
-  "STOCKPILING": {
-    "Definition": "building a supply of goods (for future use)"
-  },
-  "TICKING OVER": {
-    "Definition": "continues working without input"
+  "FRACTURES": {
+    "Definition": "divisions or splits between groups of people"
   },
   "UNDERLINED": {
-    "Definition": "shown"
+    "Definition": "showed clearly"
   },
-  "WRITTEN IN STONE": {
-    "Definition": "if something is written in stone, it does not change"
+  "CRUMBLING DOWN": {
+    "Definition": "falling apart and collapsing"
+  },
+  "DUTY": {
+    "Definition": "a moral responsibility; something you must do"
+  },
+  "IT’S ALL WELL AND GOOD": {
+    "Definition": "it may sound fine in theory"
+  },
+  "SPARE": {
+    "Definition": "extra and not normally in use"
+  },
+  "SEWER": {
+    "Definition": "living in the underground pipes that carry dirty water away"
+  },
+  "APOCALYPSE": {
+    "Definition": "a disaster that destroys everything, like the end of the world"
   }
 }
