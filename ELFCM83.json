@@ -1,158 +1,161 @@
 {
-  "A LOT TO ANSWER FOR": {
-    "Definition": "to be responsible for a lot of bad things"
-  },
-  "A STRETCH": {
-    "Definition": "something that is hard to believe"
-  },
-  "ABANDON": {
-    "Definition": "leave"
-  },
-  "ABDUCTING": {
-    "Definition": "making someone come with you, especially by using force"
-  },
-  "ABDUCTIONS": {
-    "Definition": "making someone come with you, especially by using force"
-  },
-  "BARRELS": {
-    "Definition": "large, circular containers"
-  },
-  "BINOCULARS": {
-    "Definition": "a handheld tool to help you see things in the distance"
-  },
-  "BOARDED": {
-    "Definition": "gone onto another ship"
-  },
-  "CAPSIZE": {
-    "Definition": "(of a boat) to turn upside down"
-  },
-  "CAUSALITY": {
-    "Definition": "something that causes something else"
-  },
-  "CAUTIOUS": {
-    "Definition": "avoiding risks"
-  },
-  "CITED": {
-    "Definition": "mentioned as a way of explaining something"
-  },
-  "COMPENSATION": {
-    "Definition": "money that is paid in exchange for something, often lost or stolen"
-  },
-  "CONCLUSIVELY": {
-    "Definition": "without any doubt"
-  },
-  "CORRELATION": {
-    "Definition": "a connection between two things"
-  },
-  "DENSE": {
-    "Definition": "difficult to see through"
-  },
-  "DESERTED": {
-    "Definition": "without people in it"
-  },
-  "DOTS": {
-    "Definition": "very small marks"
-  },
   "EXCEPTIONALLY": {
-    "Definition": "very much"
-  },
-  "FACTUAL": {
-    "Definition": "relating to the actual facts"
-  },
-  "FAINTER": {
-    "Definition": "less strong and able to be heard or seen"
-  },
-  "FAR-FETCHED": {
-    "Definition": "unlikely to be true and (therefore) hard to believe"
-  },
-  "FOG": {
-    "Definition": "cloudy air near the ground"
-  },
-  "IN TWO MINDS": {
-    "Definition": "to not have decided"
-  },
-  "INCIDENT": {
-    "Definition": "an event"
-  },
-  "INSISTED": {
-    "Definition": "said firmly, demanded"
-  },
-  "INTRIGUING": {
-    "Definition": "interesting"
-  },
-  "LATCH ON TO": {
-    "Definition": "to want to believe (a theory)"
-  },
-  "LIFT THE CURTAIN": {
-    "Definition": "tell the truth (about something)"
-  },
-  "MAHOGANY": {
-    "Definition": "a dark, expensive wood often used to make furniture"
-  },
-  "MASTS": {
-    "Definition": "tall poles"
-  },
-  "NANNIES": {
-    "Definition": "people whose job it is to look after the children of a family"
-  },
-  "PARANORMAL": {
-    "Definition": "impossible to explain with science"
-  },
-  "PASS JUDGMENT": {
-    "Definition": "form your opinion on"
-  },
-  "PLAUSIBLE": {
-    "Definition": "believable"
-  },
-  "PLOT": {
-    "Definition": "a secret plan"
-  },
-  "PRONE": {
-    "Definition": "likely (to do or have something)"
-  },
-  "PUZZLED": {
-    "Definition": "confused"
-  },
-  "RADICALLY": {
-    "Definition": "completely"
-  },
-  "RELUCTANT": {
-    "Definition": "not willing to do something"
-  },
-  "REPUTABLE": {
-    "Definition": "trustworthy, having a good reputation"
-  },
-  "SEEK": {
-    "Definition": "trying to find"
-  },
-  "SENSATIONALIST": {
-    "Definition": "reporting events to make them sound as strange as possible, even if they are not"
-  },
-  "SET OFF": {
-    "Definition": "leave (for somewhere else)"
-  },
-  "SHORE": {
-    "Definition": "the mainland"
-  },
-  "SQUID": {
-    "Definition": "a sea creature with a long body and tentacles"
-  },
-  "STORMY": {
-    "Definition": "with strong wind and rain"
-  },
-  "SUCKS": {
-    "Definition": "to pull up (normally a liquid)"
-  },
-  "SUPERNATURAL": {
-    "Definition": "impossible to explain with science"
-  },
-  "THOUGHT MUCH OF IT": {
-    "Definition": "think it is important or worth discussion"
-  },
-  "TREACHEROUS": {
-    "Definition": "extremely dangerous"
+    "Definition": "unusually; much more than is normal"
   },
   "VENTURES": {
-    "Definition": "goes into"
+    "Definition": "goes, even though it may be risky"
+  },
+  "LIFT THE CURTAIN": {
+    "Definition": "reveal the hidden truth about it"
+  },
+  "REPUTABLE": {
+    "Definition": "trusted and respected"
+  },
+  "THOUGHT MUCH OF IT": {
+    "Definition": "paid much attention to it or saw it as important"
+  },
+  "TREACHEROUS": {
+    "Definition": "full of hidden dangers"
+  },
+  "INSISTED": {
+    "Definition": "firmly demanded"
+  },
+  "NANNIES": {
+    "Definition": "women employed to look after a family's children"
+  },
+  "SENSATIONALIST": {
+    "Definition": "someone who makes stories seem more shocking than they really are"
+  },
+  "ABDUCTIONS": {
+    "Definition": "cases of people being taken away by force"
+  },
+  "SUCKS": {
+    "Definition": "pulls with great force"
+  },
+  "PASS JUDGMENT": {
+    "Definition": "decide and give our opinion"
+  },
+  "INTRIGUING": {
+    "Definition": "very interesting, especially because strange or mysterious"
+  },
+  "SET OFF": {
+    "Definition": "started a journey"
+  },
+  "SHORE": {
+    "Definition": "the land at the edge of the sea"
+  },
+  "PLAUSIBLE": {
+    "Definition": "reasonable and likely to be true"
+  },
+  "SEEK": {
+    "Definition": "try to find"
+  },
+  "BINOCULARS": {
+    "Definition": "a device with two lenses that you look through to see things far away"
+  },
+  "CAUTIOUS": {
+    "Definition": "careful to avoid risks"
+  },
+  "BOARDED": {
+    "Definition": "got onto"
+  },
+  "MAHOGANY": {
+    "Definition": "a hard, reddish-brown wood used for making furniture"
+  },
+  "DESERTED": {
+    "Definition": "empty, with no people on it"
+  },
+  "RELUCTANT": {
+    "Definition": "unwilling and hesitant"
+  },
+  "DENSE": {
+    "Definition": "thick and difficult to see through"
+  },
+  "FOG": {
+    "Definition": "a thick cloud close to the ground or sea that makes it hard to see"
+  },
+  "FAINTER": {
+    "Definition": "quieter and harder to hear"
+  },
+  "FACTUAL": {
+    "Definition": "concerning real events and details"
+  },
+  "INACCURACIES": {
+    "Definition": "mistakes; details that are not correct"
+  },
+  "CITED": {
+    "Definition": "mentioned as an example or as proof"
+  },
+  "INCIDENT": {
+    "Definition": "an event, especially an unusual or bad one"
+  },
+  "BARRELS": {
+    "Definition": "large round containers, usually made of wood, used for storing liquids"
+  },
+  "STORMY": {
+    "Definition": "with strong winds and rough weather"
+  },
+  "PUZZLED": {
+    "Definition": "confused, because it was hard to understand"
+  },
+  "PLOT": {
+    "Definition": "a secret plan, often to do something dishonest"
+  },
+  "COMPENSATION": {
+    "Definition": "money paid to someone for a loss or damage"
+  },
+  "PARANORMAL": {
+    "Definition": "impossible to explain by science"
+  },
+  "SQUID": {
+    "Definition": "a sea animal with a long soft body and ten arms"
+  },
+  "FAR-FETCHED": {
+    "Definition": "very unlikely and hard to believe"
+  },
+  "ABANDON": {
+    "Definition": "leave and not come back to"
+  },
+  "PRONE": {
+    "Definition": "likely to experience"
+  },
+  "CAPSIZE": {
+    "Definition": "turn over in the water"
+  },
+  "LATCH ON TO": {
+    "Definition": "become strongly attached to and not let go of"
+  },
+  "RADICALLY": {
+    "Definition": "completely; in a very basic way"
+  },
+  "CORRELATION": {
+    "Definition": "a connection between two things that happen together"
+  },
+  "CAUSALITY": {
+    "Definition": "one thing making another thing happen"
+  },
+  "SUPERNATURAL": {
+    "Definition": "magical; beyond what science can explain"
+  },
+  "DOTS": {
+    "Definition": "small round marks"
+  },
+  "CONCLUSIVELY": {
+    "Definition": "in a way that proves something without any doubt"
+  },
+  "MASTS": {
+    "Definition": "tall poles or towers that hold equipment for sending signals"
+  },
+  "ABDUCTING": {
+    "Definition": "taking away by force"
+  },
+  "A STRETCH": {
+    "Definition": "something hard to believe or accept"
+  },
+  "A LOT TO ANSWER FOR": {
+    "Definition": "a lot of responsibility for causing problems or false ideas"
+  },
+  "IN TWO MINDS": {
+    "Definition": "unable to decide what to think"
   }
 }
