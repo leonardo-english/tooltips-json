@@ -1,86 +1,86 @@
 {
-  "ABBREVIATION": {
-    "Definition": "a short form of a word or phrase"
-  },
-  "ASHORE": {
-    "Definition": "towards or onto land from an area of water"
-  },
-  "BACKSTORIES": {
-    "Definition": "the things that have happened to someone before you first see or read about that person in a film or story"
+  "ETYMOLOGIES": {
+    "Definition": "the origins and histories of words"
   },
   "COLLOQUIALLY": {
-    "Definition": "informally"
-  },
-  "CONCRETE": {
-    "Definition": "clear and certain, or real and existing in a form that can be seen or felt"
-  },
-  "DAMSEL": {
-    "Definition": "a young woman who is not married"
-  },
-  "DEFINITIVE": {
-    "Definition": "firm, final, and complete; not to be questioned or changed"
-  },
-  "DESIRABLE": {
-    "Definition": "worth having and wanted by most people"
-  },
-  "ETYMOLOGIES": {
-    "Definition": "the study of the origin and history of words, or a study of this type relating to one particular word"
-  },
-  "ETYMOLOGY": {
-    "Definition": "the study of the origin and history of words, or a study of this type relating to one particular word"
-  },
-  "EVOLVES": {
-    "Definition": "to develop gradually, or to cause something or someone to develop gradually"
-  },
-  "GOBLIN": {
-    "Definition": "(in stories) a small, ugly creature that is harmful to humans"
-  },
-  "HERMAPHRODITE": {
-    "Definition": "a plant, animal, or person with both male and female sex organs"
-  },
-  "LEGEND HAS IT": {
-    "Definition": "used to refer to something that is generally thought to be true although not official or known to be a fact"
-  },
-  "MAIDEN": {
-    "Definition": "a girl or young woman"
-  },
-  "MORPHED": {
-    "Definition": "to gradually change, or change someone or something, from one thing to another"
-  },
-  "MUTINOUS": {
-    "Definition": "(especially of a sailor or a soldier) refusing to obey orders or attempting to take control from people in authority"
-  },
-  "NONSENSE": {
-    "Definition": "an idea, something said or written, or behaviour that is silly or stupid"
-  },
-  "NORSE": {
-    "Definition": "a North Germanic language once spoken in Scandinavia, the Faroe Islands, Iceland, Greenland, and in parts of Russia, France and the British Isles and Ireland. It was the language of the Vikings or Norsemen"
-  },
-  "OBLITERATE": {
-    "Definition": "to remove all signs of something, either by destroying it or by covering it so that it cannot be seen"
-  },
-  "PRECISE": {
-    "Definition": "exact and accurate"
-  },
-  "PURISTS": {
-    "Definition": "someone who believes in and follows very traditional rules or ideas in a subject"
-  },
-  "RAVAGING": {
-    "Definition": "to cause great damage to something"
+    "Definition": "in informal, everyday speech"
   },
   "ROOTS": {
-    "Definition": "the origin or source of something"
+    "Definition": "origins; the places where something first came from"
+  },
+  "MUTINOUS": {
+    "Definition": "rebellious; refusing to obey those in charge"
+  },
+  "PRECISE": {
+    "Definition": "exact and clearly defined"
+  },
+  "MORPHED": {
+    "Definition": "gradually changed into something different"
+  },
+  "OBLITERATE": {
+    "Definition": "destroy completely so that nothing is left"
   },
   "RUFFLED A FEW FEATHERS": {
-    "Definition": "to cause someone to be upset"
+    "Definition": "upset or annoyed some people"
+  },
+  "PURISTS": {
+    "Definition": "people who want language to follow traditional rules exactly"
+  },
+  "EVOLVES": {
+    "Definition": "develops and changes slowly over time"
+  },
+  "GOBLIN": {
+    "Definition": "a small, ugly, evil creature in old stories"
+  },
+  "ETYMOLOGY": {
+    "Definition": "the origin and history of a word"
+  },
+  "RAVAGING": {
+    "Definition": "causing great damage and destruction across"
+  },
+  "ASHORE": {
+    "Definition": "onto land from a ship"
   },
   "SYMPTOMS": {
-    "Definition": "any feeling of illness or physical or mental change that is caused by a particular disease"
-  },
-  "TRACE": {
-    "Definition": "to find the origin of something"
+    "Definition": "signs in the body that show someone has an illness"
   },
   "UNIQUE": {
-    "Definition": "being the only existing one of its type or, more generally, unusual, or special in some way"
+    "Definition": "limited; belonging only"
+  },
+  "BACKSTORIES": {
+    "Definition": "stories about how something began or what happened before"
+  },
+  "LEGEND HAS IT": {
+    "Definition": "according to an old, popular story"
+  },
+  "NONSENSE": {
+    "Definition": "meaningless; with no real meaning"
+  },
+  "ABBREVIATION": {
+    "Definition": "a short form of a longer word or phrase"
+  },
+  "DESIRABLE": {
+    "Definition": "attractive and wanted by many people"
+  },
+  "NORSE": {
+    "Definition": "the old language of Scandinavia, spoken by the Vikings"
+  },
+  "TRACE": {
+    "Definition": "follow something back to discover where it began"
+  },
+  "DEFINITIVE": {
+    "Definition": "final and certain, so that it settles the question"
+  },
+  "CONCRETE": {
+    "Definition": "real and certain, based on facts"
+  },
+  "HERMAPHRODITE": {
+    "Definition": "a person or animal with both male and female body parts"
+  },
+  "MAIDEN": {
+    "Definition": "an old word for a young unmarried woman"
+  },
+  "DAMSEL": {
+    "Definition": "an old-fashioned word for a young woman who is not married"
   }
 }
