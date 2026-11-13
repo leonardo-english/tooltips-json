@@ -1,200 +1,203 @@
 {
-  "ABSENT MINDED": {
-    "Definition": "Someone who is absent-minded often forgets things or does not pay attention to what is happening near them because they are thinking about other things."
-  },
-  "AGGRESSIVELY": {
-    "Definition": "in an angry and violent way"
-  },
-  "ANTHROPOLOGIST": {
-    "Definition": "someone who scientifically studies humans and their customs, beliefs, and relationships"
-  },
-  "ASSIGNED": {
-    "Definition": "to give a particular job or piece of work to someone"
-  },
-  "ASTOUNDED": {
-    "Definition": "very surprised"
-  },
-  "CODE": {
-    "Definition": "a language used to program (= give instructions to) computers"
-  },
-  "COMMUTERS": {
-    "Definition": "someone who regularly travels between work and home"
-  },
-  "CONTRIBUTING": {
-    "Definition": "to give something, in order to provide or achieve something together with other people"
-  },
-  "DECORUM": {
-    "Definition": "behaviour that is socially correct, calm, and polite"
-  },
-  "DEMONIZED": {
-    "Definition": "to try to make someone or a group of people seem as if they are evil"
-  },
-  "DILIGENTLY": {
-    "Definition": "in a way that is careful and uses a lot of effort"
-  },
-  "DISPARAGE": {
-    "Definition": "to criticize someone or something in a way that shows you do not respect or value him, her, or it"
-  },
-  "ENSURE": {
-    "Definition": "to make something certain to happen"
-  },
-  "ENSURING": {
-    "Definition": "to make something certain to happen"
-  },
-  "ESSENTIALLY": {
-    "Definition": "relating to the most important characteristics or ideas of something"
-  },
-  "EXPOSED TO": {
-    "Definition": "seen or experienced"
-  },
-  "EXTENSION": {
-    "Definition": "adding to something in order to make it bigger or longer"
-  },
-  "FIRSTHAND": {
-    "Definition": "if you experience something firsthand, you experience it yourself"
-  },
-  "FORAY": {
-    "Definition": "a short period of time being involved in an activity that is different from and outside the range of a usual set of activities"
-  },
-  "GESTURES": {
-    "Definition": "an action that expresses your feelings or intentions, although it might have little practical effect"
-  },
-  "GOT RID OF": {
-    "Definition": "to remove or throw away something unwanted"
-  },
-  "GUARDING": {
-    "Definition": "to be responsible for protecting someone or something, or for preventing someone from escaping"
-  },
-  "GUERILLA": {
-    "Definition": "using unusual methods to create or get attention for your ideas, art, products, etc., usually ones that cost little money and involve using public spaces"
-  },
-  "HIT THE NAIL ON THE HEAD": {
-    "Definition": "to describe exactly what is causing a situation or problem"
-  },
-  "INEFFICIENCIES": {
-    "Definition": "a lack of organization or skill that wastes time, energy, money, etc., or methods or actions that waste time, etc. in this way"
-  },
-  "INHERENTLY": {
-    "Definition": "in a way that exists as a natural or basic part of something"
-  },
-  "JUSTIFY": {
-    "Definition": "to give or to be a good reason for"
-  },
-  "LOBBYISTS": {
-    "Definition": "someone who tries to persuade a politician or official group to do something"
-  },
-  "LOGIC": {
-    "Definition": "a particular way of thinking, especially one that is reasonable and based on good judgment"
-  },
-  "LOOK DOWN ON": {
-    "Definition": "to feel that someone is less important than you or does not deserve respect"
-  },
-  "MONOSPACED": {
-    "Definition": "(of a font) the letters or characters occupy the same space"
-  },
-  "NULLIFIED": {
-    "Definition": "to make a legal agreement or decision have no legal force"
-  },
-  "OBLIGED": {
-    "Definition": "to force someone to do something, or to make it necessary for someone to do something"
-  },
-  "OBSCURE": {
-    "Definition": "not known to many people"
-  },
-  "OBSESSED": {
-    "Definition": "unable to stop thinking about something; too interested in or worried about something"
-  },
-  "PAPERWORK": {
-    "Definition": "the part of a job that involves writing letters and reports and keeping records"
-  },
   "PARENTAL GUIDANCE": {
-    "Definition": "may contain content not suitable for children"
-  },
-  "PERNICIOUS": {
-    "Definition": "having a very harmful effect or influence"
+    "Definition": "advice that adults should check whether something is suitable for children"
   },
   "PHENOMENON": {
-    "Definition": "something that exists and can be seen, felt, tasted, etc., especially something unusual or interesting"
-  },
-  "PIONEERED": {
-    "Definition": "to be one of the first people to do something"
-  },
-  "PR": {
-    "Definition": "abbreviation for public relations"
-  },
-  "PREVENTABLE": {
-    "Definition": "could be stopped"
-  },
-  "PRODUCTIVITY": {
-    "Definition": "the rate at which a company or country makes goods, usually judged in connection with the number of people and the amount of materials necessary to produce the goods"
-  },
-  "PROFITABILITY": {
-    "Definition": "the amount of profit (money) generated by a company"
-  },
-  "PROXY": {
-    "Definition": "replacement"
-  },
-  "RECOUNT": {
-    "Definition": "to describe how something happened, or to tell a story"
-  },
-  "RESONATED": {
-    "Definition": "if an experience or memory resonates, it makes you think of another similar one"
-  },
-  "RUBBER BAND": {
-    "Definition": "a thin ring of rubber used for holding things together"
-  },
-  "SCAR": {
-    "Definition": "a sign of physical destruction in a place"
-  },
-  "SHARP": {
-    "Definition": "intelligent or quick to notice things"
-  },
-  "STAKEHOLDERS": {
-    "Definition": "a person such as an employee, customer, or citizen who is involved with an organization, society, etc. and therefore has responsibilities towards it and an interest in its success"
-  },
-  "STRUCK A CHORD": {
-    "Definition": "If something strikes a chord, it causes people to approve of it or agree with it"
-  },
-  "SYSTEMATIC": {
-    "Definition": "relating to the way a system works"
-  },
-  "TAKES AIM AT": {
-    "Definition": "to criticize someone, especially in public"
-  },
-  "TANGIBLE": {
-    "Definition": "real and not imaginary; able to be shown, touched, or experienced"
-  },
-  "TELEMARKETERS": {
-    "Definition": "a person or company that sells a product or service by phone"
-  },
-  "TEXTBOOK": {
-    "Definition": "(of an example of something) extremely good, or thought to be usual or typical"
+    "Definition": "a fact or situation that is seen to exist or happen"
   },
   "TRICKIER": {
-    "Definition": "if a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill"
+    "Definition": "more difficult"
   },
-  "TWIDDLED MY THUMBS": {
-    "Definition": "to do nothing for a period of time, usually while you are waiting for something to happen"
+  "PIONEERED": {
+    "Definition": "first developed or introduced"
   },
-  "UNADULTERATED": {
-    "Definition": "not spoiled or made weaker by the addition of other substances; pure"
+  "ANTHROPOLOGIST": {
+    "Definition": "a scientist who studies human societies and cultures"
   },
-  "UNDIVIDED": {
-    "Definition": "existing as a whole not in separate parts"
+  "ESSENTIALLY": {
+    "Definition": "basically; in its most important points"
   },
-  "UNIVERSAL BASIC INCOME": {
-    "Definition": "the idea that every citizen would be given a set amount of money by the government, regardless of their financial situation"
-  },
-  "VALIDATED": {
-    "Definition": "to prove that something is correct"
-  },
-  "VAST": {
-    "Definition": "extremely big"
-  },
-  "VIRAL": {
-    "Definition": "used to describe something that quickly becomes very popular or well known by being published on the internet or sent from person to person by email, phone, etc."
+  "SCAR": {
+    "Definition": "a lasting mark of damage"
   },
   "VIRTUALLY": {
     "Definition": "almost"
+  },
+  "OBSCURE": {
+    "Definition": "not well known"
+  },
+  "VIRAL": {
+    "Definition": "shared very quickly and widely online"
+  },
+  "GUERILLA": {
+    "Definition": "acting in small, unofficial groups using surprise actions"
+  },
+  "ACTIVISTS": {
+    "Definition": "people who take action to bring about political or social change"
+  },
+  "COMMUTERS": {
+    "Definition": "people who travel regularly between home and work"
+  },
+  "VALIDATED": {
+    "Definition": "confirmed; showed to be true"
+  },
+  "STRUCK A CHORD": {
+    "Definition": "caused strong feelings of agreement or recognition"
+  },
+  "RESONATED": {
+    "Definition": "felt meaningful and true to"
+  },
+  "EXTENSION": {
+    "Definition": "a longer, more developed version of something"
+  },
+  "TAKES AIM AT": {
+    "Definition": "criticises; directs his attack at"
+  },
+  "VAST": {
+    "Definition": "very large"
+  },
+  "GOT RID OF": {
+    "Definition": "removed"
+  },
+  "PERNICIOUS": {
+    "Definition": "harmful, especially in a gradual or hidden way"
+  },
+  "JUSTIFY": {
+    "Definition": "give a good reason for"
+  },
+  "OBLIGED": {
+    "Definition": "forced by duty or rules"
+  },
+  "AGGRESSIVELY": {
+    "Definition": "in a forceful, attacking way"
+  },
+  "LOBBYISTS": {
+    "Definition": "people paid to try to influence politicians for a company or group"
+  },
+  "TELEMARKETERS": {
+    "Definition": "people who sell products or services by telephone"
+  },
+  "PREVENTABLE": {
+    "Definition": "able to be avoided"
+  },
+  "CODE": {
+    "Definition": "instructions written for a computer program"
+  },
+  "PAPERWORK": {
+    "Definition": "forms, documents and records that are filled in or kept"
+  },
+  "GESTURES": {
+    "Definition": "actions done to show something rather than to achieve a real result"
+  },
+  "PROXY": {
+    "Definition": "something used instead of something else"
+  },
+  "PRODUCTIVITY": {
+    "Definition": "how much work is done in a given amount of time"
+  },
+  "ASTOUNDED": {
+    "Definition": "very surprised; amazed"
+  },
+  "PROFITABILITY": {
+    "Definition": "the ability to make money"
+  },
+  "INEFFICIENCIES": {
+    "Definition": "wastes of time, money or effort"
+  },
+  "SYSTEMATIC": {
+    "Definition": "built into the way society and organisations work"
+  },
+  "OBSESSED": {
+    "Definition": "constantly and too strongly concerned"
+  },
+  "DEMONIZED": {
+    "Definition": "seen or described as bad or evil"
+  },
+  "LOOK DOWN ON": {
+    "Definition": "consider less important or less worthy"
+  },
+  "DISPARAGE": {
+    "Definition": "talk about as having little value"
+  },
+  "INHERENTLY": {
+    "Definition": "by their basic nature"
+  },
+  "TANGIBLE": {
+    "Definition": "real and easy to see"
+  },
+  "UNIVERSAL BASIC INCOME": {
+    "Definition": "a regular, fixed amount of money paid by the state to every person, whether or not they work"
+  },
+  "LOGIC": {
+    "Definition": "reasoning; way of thinking"
+  },
+  "FIRSTHAND": {
+    "Definition": "personally, by being directly involved"
+  },
+  "EXPOSED TO": {
+    "Definition": "in contact with; able to experience"
+  },
+  "HIT THE NAIL ON THE HEAD": {
+    "Definition": "described the situation exactly right"
+  },
+  "RECOUNT": {
+    "Definition": "describe in detail; tell the story of"
+  },
+  "GUARDING": {
+    "Definition": "watching over to protect"
+  },
+  "ENSURING": {
+    "Definition": "making certain"
+  },
+  "ENSURE": {
+    "Definition": "make certain"
+  },
+  "SHARP": {
+    "Definition": "quick to notice and understand; alert"
+  },
+  "UNDIVIDED": {
+    "Definition": "fully focused on one thing"
+  },
+  "TWIDDLED MY THUMBS": {
+    "Definition": "did nothing useful, just passing the time"
+  },
+  "TEXTBOOK": {
+    "Definition": "typical and very clear"
+  },
+  "NULLIFIED": {
+    "Definition": "cancelled; stopped from having any effect"
+  },
+  "ASSIGNED": {
+    "Definition": "given"
+  },
+  "CONTRIBUTING": {
+    "Definition": "adding; helping to create"
+  },
+  "DECORUM": {
+    "Definition": "the proper, respectable look and behaviour expected in a place"
+  },
+  "MONOSPACED": {
+    "Definition": "with every letter taking up the same width"
+  },
+  "ABSENT MINDED": {
+    "Definition": "done without much attention or thought"
+  },
+  "DILIGENTLY": {
+    "Definition": "carefully and with a lot of effort"
+  },
+  "RUBBER BAND": {
+    "Definition": "a thin loop of stretchy material used to hold things together"
+  },
+  "PR": {
+    "Definition": "public relations: managing the public image of a company or person"
+  },
+  "STAKEHOLDERS": {
+    "Definition": "people or groups with an interest in a business or project"
+  },
+  "UNADULTERATED": {
+    "Definition": "complete and total, with nothing else mixed in"
+  },
+  "FORAY": {
+    "Definition": "a short exploration of a new subject"
   }
 }
