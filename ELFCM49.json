@@ -1,191 +1,191 @@
 {
-  "ACHIEVE": {
-    "Definition": "to succeed in finishing something or reaching an aim, especially after a lot of work or effort"
-  },
-  "ALIGNED": {
-    "Definition": "to put two or more things into a straight line"
-  },
-  "ALLOCATED": {
-    "Definition": "to give something to someone as their share of a total amount, to use in a particular way"
-  },
-  "AT THE HANDS OF": {
-    "Definition": "If you suffer at the hands of someone, they hurt you or treat you badly"
-  },
-  "BULLIED": {
-    "Definition": "someone who hurts or frightens someone else, often over a period of time, and often forcing them to do something that they do not want to do"
-  },
-  "BUREAUCRACY": {
-    "Definition": "a system for controlling or managing a country, company, or organisation that is operated by a large number of officials employed to follow rules carefully"
-  },
-  "BUREAUCRATIC": {
-    "Definition": "relating to a system of controlling or managing a country, company, or organisation that is operated by a large number of officials"
-  },
-  "CERTIFICATION": {
-    "Definition": "the process of earning an official document, or the act of providing an official document, as proof that something has happened or been done"
-  },
-  "COFFEE LABEL": {
-    "Definition": "a brand or type of coffee"
-  },
-  "COLLECTIVES": {
-    "Definition": "see 'cooperative'"
-  },
-  "COMMON": {
-    "Definition": "the same in a lot of places or for a lot of people"
-  },
-  "CONJURE UP": {
-    "Definition": "to make a picture or idea appear in someone's mind"
-  },
-  "COOPERATIVE": {
-    "Definition": "a company owned and managed by the people who work in it"
-  },
-  "COOPERATIVES": {
-    "Definition": "a company owned and managed by the people who work in it"
-  },
-  "CRASHED": {
-    "Definition": "fell quickly"
-  },
-  "CRITICS": {
-    "Definition": "someone who says that they do not approve of someone or something"
-  },
-  "ETHICAL": {
-    "Definition": "a system of accepted beliefs that control behaviour, especially such a system based on morals"
-  },
-  "EXPLOITATION": {
-    "Definition": "the use of something in order to get an advantage from it"
-  },
-  "FAIR SHARE": {
-    "Definition": "a lot, or more than enough, of something bad"
-  },
-  "FEEL-GOOD": {
-    "Definition": "causing happy and positive feelings about life"
-  },
-  "FIXED THE PRICES": {
-    "Definition": "controlled the prices"
-  },
-  "FLUCTUATIONS": {
-    "Definition": "a change, or the process of changing, especially continuously between one level or thing and another"
-  },
-  "HOVERING": {
-    "Definition": "to stay in one place in the air, usually by moving the wings quickly; to stay at or near a particular level"
-  },
-  "IN-HOUSE": {
-    "Definition": "Something that is done in-house is done within an organisation or business by its employees rather than by other people"
-  },
-  "INCENTIVE": {
-    "Definition": "something that encourages a person to do something"
-  },
-  "INCENTIVES": {
-    "Definition": "something that encourages a person to do something"
-  },
-  "INEFFICIENCIES": {
-    "Definition": "a lack of organisation or skill that wastes time, energy, money, etc., or methods or actions that waste time, etc. in this way"
-  },
-  "INEVITABILITY": {
-    "Definition": "the fact of being certain to happen and unable to be avoided or prevented"
-  },
-  "INSTANCES": {
-    "Definition": "a particular situation, event, or fact, especially an example of something that happens generally"
-  },
-  "LABEL": {
-    "Definition": "a piece of paper or other material that gives you information about the object it is attached to"
-  },
-  "LACK": {
-    "Definition": "the fact that something is not available or that there is not enough of it"
+  "TERM": {
+    "Definition": "a word or name used for a particular thing"
   },
   "LOGO": {
-    "Definition": "a design or symbol used by a company to advertise its products"
+    "Definition": "a small design or symbol that represents an organisation"
   },
-  "MIDDLEMAN": {
-    "Definition": "a person who buys goods from the company that has produced them and makes a profit by selling them to a shop or a user"
+  "CONJURE UP": {
+    "Definition": "bring to mind"
   },
-  "MONITOR": {
-    "Definition": "to watch and check a situation carefully for a period of time in order to discover something about it"
+  "FEEL-GOOD": {
+    "Definition": "making you feel happy and pleased with yourself"
+  },
+  "FAIR SHARE": {
+    "Definition": "a reasonable or quite large amount, often more than you might expect"
+  },
+  "CRITICS": {
+    "Definition": "people who say what they think is wrong with something"
+  },
+  "EXPLOITATION": {
+    "Definition": "unfair treatment of people and land in order to make money"
+  },
+  "INSTANCES": {
+    "Definition": "examples; cases"
+  },
+  "PRECARIOUS": {
+    "Definition": "uncertain and unsafe, with a real risk of getting worse"
+  },
+  "HOVERING": {
+    "Definition": "staying close"
+  },
+  "VOLATILE": {
+    "Definition": "likely to change suddenly and by a lot"
+  },
+  "TENDED": {
+    "Definition": "were usually likely"
+  },
+  "BULLIED": {
+    "Definition": "frightened and forced to do things by people with more power"
   },
   "NEGOTIATING": {
-    "Definition": "to have formal discussions with someone in order to reach an agreement with them"
+    "Definition": "used in discussing and agreeing prices with others"
+  },
+  "INEVITABILITY": {
+    "Definition": "something that cannot be avoided"
+  },
+  "COFFEE LABEL": {
+    "Definition": "a brand name under which coffee is sold"
+  },
+  "AT THE HANDS OF": {
+    "Definition": "caused or done by"
+  },
+  "FIXED THE PRICES": {
+    "Definition": "decided what the prices would be and did not let them change"
+  },
+  "TINY SUM": {
+    "Definition": "a very small amount of money"
+  },
+  "SO-CALLED": {
+    "Definition": "described in this way, although the description is not true or deserved"
+  },
+  "CRASHED": {
+    "Definition": "fell suddenly and by a large amount"
+  },
+  "MIDDLEMAN": {
+    "Definition": "a person or company that buys goods from producers and sells them on to others"
+  },
+  "SPAN": {
+    "Definition": "cover; stretch across"
+  },
+  "COMMON": {
+    "Definition": "shared by all of them"
+  },
+  "TERMS OF TRADE": {
+    "Definition": "the conditions agreed when goods are bought and sold"
+  },
+  "ACHIEVE": {
+    "Definition": "succeed in carrying out"
+  },
+  "INCENTIVE": {
+    "Definition": "something that encourages people to act in a certain way"
+  },
+  "FLUCTUATIONS": {
+    "Definition": "frequent rises and falls"
+  },
+  "PREMIUM": {
+    "Definition": "an extra amount of money paid on top of the normal price"
+  },
+  "COOPERATIVE": {
+    "Definition": "a group of farmers or workers who own and run a business together"
+  },
+  "WELL": {
+    "Definition": "a deep hole dug in the ground to reach water"
+  },
+  "STABLE": {
+    "Definition": "steady and not likely to change suddenly"
+  },
+  "ETHICAL": {
+    "Definition": "morally right and fair to the people involved"
+  },
+  "STAMP": {
+    "Definition": "an official mark that shows approval"
+  },
+  "ROSY": {
+    "Definition": "good, pleasant and hopeful"
+  },
+  "RATE": {
+    "Definition": "amount of pay"
+  },
+  "CERTIFICATION": {
+    "Definition": "official approval showing that they meet the required standards"
+  },
+  "BUREAUCRATIC": {
+    "Definition": "connected with complicated official rules and paperwork"
+  },
+  "LACK": {
+    "Definition": "an absence; not enough"
+  },
+  "MONITOR": {
+    "Definition": "regularly check"
+  },
+  "ALLOCATED": {
+    "Definition": "given out for particular uses"
+  },
+  "SALARIES": {
+    "Definition": "fixed amounts of money paid to workers, usually every month"
+  },
+  "BUREAUCRACY": {
+    "Definition": "complicated official rules and processes"
+  },
+  "INEFFICIENCIES": {
+    "Definition": "ways in which time, money or effort is wasted"
+  },
+  "OVERHEADS": {
+    "Definition": "regular costs of running an organisation, such as rent and staff"
+  },
+  "RETAILERS": {
+    "Definition": "businesses that sell goods to the public"
+  },
+  "LABEL": {
+    "Definition": "a name or mark printed on products to show where they come from or what they are"
+  },
+  "SUPPOSEDLY": {
+    "Definition": "according to what they say, although it may not be true"
+  },
+  "IN-HOUSE": {
+    "Definition": "inside their own company"
+  },
+  "SCEPTICAL": {
+    "Definition": "doubtful; not easily convinced"
+  },
+  "OVERSIGHT": {
+    "Definition": "the job of watching and checking that things are done properly"
+  },
+  "TERMS": {
+    "Definition": "words or names"
+  },
+  "THROWN AROUND": {
+    "Definition": "used often and carelessly"
+  },
+  "SOURCED": {
+    "Definition": "bought or obtained from producers"
   },
   "NUMB": {
-    "Definition": "If a part of your body is numb, you are unable to feel it, usually for a short time; not able to feel any emotions or to think clearly, because you are so shocked or frightened, et"
+    "Definition": "no longer able to react or pay attention"
+  },
+  "ALIGNED": {
+    "Definition": "in agreement; working towards the same aims"
+  },
+  "SCANDALS": {
+    "Definition": "events that shock people because someone has behaved wrongly or dishonestly"
+  },
+  "INCENTIVES": {
+    "Definition": "things that encourage people to act in certain ways"
+  },
+  "COOPERATIVES": {
+    "Definition": "groups of farmers or workers who own and run businesses together"
   },
   "OPT FOR": {
     "Definition": "choose"
   },
-  "OVERHEADS": {
-    "Definition": "the regular and necessary costs, such as rent and heating, that are involved in operating a business"
-  },
-  "OVERSIGHT": {
-    "Definition": "responsibility for a job or activity and for making sure it is being done correctly"
-  },
-  "PRECARIOUS": {
-    "Definition": "in a dangerous state because of not being safe or not being held in place firmly"
-  },
-  "PREMIUM": {
-    "Definition": "an amount that is more than usual"
-  },
-  "RATE": {
-    "Definition": "price, fee (for work)"
-  },
-  "RETAILERS": {
-    "Definition": "a person, shop, or business that sells goods to the public"
-  },
-  "ROSY": {
-    "Definition": "If a situation is described as rosy, it gives hope of success or happiness"
-  },
-  "SALARIES": {
-    "Definition": "a fixed amount of money agreed every year as pay for an employee, usually paid directly into his or her bank account every month"
-  },
-  "SCANDALS": {
-    "Definition": "(an action or event that causes) a public feeling of shock and strong moral disapproval"
-  },
-  "SCEPTICAL": {
-    "Definition": "doubting that something is true or useful"
-  },
-  "SO-CALLED": {
-    "Definition": "used to show that you think a word that is used to describe someone or something is not suitable or not correct"
-  },
-  "SOURCED": {
-    "Definition": "got from a particular place"
-  },
-  "SPAN": {
-    "Definition": "cover"
-  },
-  "STABLE": {
-    "Definition": "firmly fixed or not likely to move or change"
-  },
-  "STAMP": {
-    "Definition": "a tool for putting a mark on an object either by printing on it or pushing into it, or the mark made in this way"
-  },
-  "SUPPLY CHAIN": {
-    "Definition": "the system of people and things that are involved in getting a product from the place where it is made to the person who buys it"
-  },
-  "SUPPOSEDLY": {
-    "Definition": "used to show that you do not believe that something you have been told is true"
-  },
-  "TENDED": {
-    "Definition": "to be likely to behave in a particular way or have a particular characteristic"
-  },
-  "TERM": {
-    "Definition": "a word or expression used in relation to a particular subject, often to describe something official or technical"
-  },
-  "TERMS": {
-    "Definition": "words or expressions used in relation to a particular subject, often to describe something official or technical"
-  },
-  "TERMS OF TRADE": {
-    "Definition": "the agreements of trade between two parties"
-  },
-  "THROWN AROUND": {
-    "Definition": "used"
-  },
-  "TINY SUM": {
-    "Definition": "small amount of money"
+  "COLLECTIVES": {
+    "Definition": "groups of people who work together and share what they produce or earn"
   },
   "UNDENIABLE": {
-    "Definition": "certainly true"
+    "Definition": "clearly true; impossible to argue against"
   },
-  "VOLATILE": {
-    "Definition": "likely to change suddenly and unexpectedly, especially by getting worse"
-  },
-  "WELL": {
-    "Definition": "a deep hole in the ground from which you can get water, oil, or gas"
+  "SUPPLY CHAIN": {
+    "Definition": "the series of steps and businesses that bring a product from the producer to the customer"
   }
 }
