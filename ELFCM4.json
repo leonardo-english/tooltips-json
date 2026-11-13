@@ -1,77 +1,80 @@
 {
-  "AKIN TO": {
-    "Definition": "similar to"
+  "DEAR TO MY HEART": {
+    "Definition": "very important to me and something I care about a lot"
+  },
+  "UNDERRATED": {
+    "Definition": "not valued or appreciated as much as it should be"
+  },
+  "TURBOCHARGE": {
+    "Definition": "greatly speed up and improve"
+  },
+  "TOOLKIT": {
+    "Definition": "a set of methods and resources that you can use"
   },
   "ATTUNED": {
-    "Definition": "accustomed or acclimatized, used to"
-  },
-  "BENEFICIAL": {
-    "Definition": "have a good impact on"
-  },
-  "BRAINLESSLY": {
-    "Definition": "without involving your brain, thoughtlessly"
-  },
-  "COMES DOWN TO": {
-    "Definition": "is due to, because of"
-  },
-  "CUES": {
-    "Definition": "things that are used by the brain to interpret and understand a situation"
-  },
-  "DEAR TO MY HEART": {
-    "Definition": "important to me‍"
-  },
-  "DOES WONDERS FOR": {
-    "Definition": "has a very positive impact on"
+    "Definition": "familiar with and able to understand easily"
   },
   "EXPOSED": {
-    "Definition": "heard, been around"
+    "Definition": "put in regular contact with"
   },
-  "FIRST THINGS FIRST": {
-    "Definition": "to begin with, for starters"
+  "SUPERFICIAL": {
+    "Definition": "simple, without looking deeper or in detail"
   },
-  "FUNDAMENTAL": {
-    "Definition": "basic, very important"
-  },
-  "GET BY": {
-    "Definition": "manage to do something"
-  },
-  "IN YOUR HEART OF HEARTS": {
-    "Definition": "truthfully to yourself"
-  },
-  "INBUILT": {
-    "Definition": "already existing"
+  "COMES DOWN TO": {
+    "Definition": "can be explained, in the end, by"
   },
   "INDULGING": {
-    "Definition": "allow oneself to enjoy the pleasure of"
+    "Definition": "spending time enjoying yourself"
   },
-  "PASTIME": {
-    "Definition": "activity"
+  "SWITCH OFF": {
+    "Definition": "stop paying attention and relax"
   },
   "REVERT": {
     "Definition": "go back"
   },
-  "SET ASIDE A TIME": {
-    "Definition": "make time for"
+  "CUES": {
+    "Definition": "signs or signals that help you understand something"
+  },
+  "GET BY": {
+    "Definition": "manage well enough"
+  },
+  "FIRST THINGS FIRST": {
+    "Definition": "starting with the most important step"
+  },
+  "TEND TO": {
+    "Definition": "usually"
   },
   "SPELLCHECK": {
-    "Definition": "software that tells you if you have written a word incorrectly"
+    "Definition": "a computer program that finds and corrects words written wrongly"
   },
-  "SUPERFICIAL": {
-    "Definition": "not thorough, deep, or complete; cursory"
+  "BENEFICIAL": {
+    "Definition": "helpful and good"
   },
-  "SWITCH OFF": {
-    "Definition": "(of a person) not concentrate"
+  "FUNDAMENTAL": {
+    "Definition": "basic and very important"
   },
-  "TEND": {
-    "Definition": "normally do"
+  "DOES WONDERS FOR": {
+    "Definition": "greatly improves"
   },
-  "TOOLKIT": {
-    "Definition": "a personal set of resources, abilities, or skills"
+  "AKIN TO": {
+    "Definition": "similar to"
   },
-  "TURBOCHARGE": {
-    "Definition": "make more powerful, fast, or exciting"
+  "PASTIME": {
+    "Definition": "an activity you do for enjoyment when you are not working"
   },
-  "UNDERRATED": {
-    "Definition": "valued less than it should be"
+  "INBUILT": {
+    "Definition": "already included as a part of it"
+  },
+  "SET ASIDE A TIME": {
+    "Definition": "choose a period and keep it free for this"
+  },
+  "BRAINLESSLY": {
+    "Definition": "without thinking at all"
+  },
+  "FLICKING THROUGH": {
+    "Definition": "quickly looking at one thing after another on"
+  },
+  "IN YOUR HEART OF HEARTS": {
+    "Definition": "if you are completely honest with yourself"
   }
 }
