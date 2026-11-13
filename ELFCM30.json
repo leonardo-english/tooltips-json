@@ -1,152 +1,152 @@
 {
-  "ACCOMPLICE": {
-    "Definition": "a person who helps someone else to commit a crime or to do something morally wrong"
-  },
-  "ACCUSER": {
-    "Definition": "a person who claims that someone has done something morally wrong, illegal, or unkind"
-  },
-  "ALCOHOLISM": {
-    "Definition": "the condition of being an alcoholic, dependent on alcohol"
-  },
-  "ANATOMICAL": {
-    "Definition": "relating to the scientific study and representation of the physical body and how its parts are arranged"
-  },
-  "ARISTOCRAT": {
-    "Definition": "a class of people who hold high social rank"
-  },
-  "AT LARGE": {
-    "Definition": "a person who is at large is not in prison"
-  },
-  "ATROCIOUS": {
-    "Definition": "of very bad quality"
-  },
-  "AWARENESS": {
-    "Definition": "knowing that something exists, or having knowledge or experience of a particular thing"
-  },
-  "BOOM": {
-    "Definition": "an increase in something, or a time when something becomes more popular"
-  },
-  "BOOST": {
-    "Definition": "to improve or increase something"
-  },
-  "BROTHELS": {
-    "Definition": "a place where people go and pay to have sex with prostitutes"
-  },
-  "CIRCULATION": {
-    "Definition": "the number of people that a newspaper or magazine is regularly sold to"
-  },
-  "COMMONPLACE": {
-    "Definition": "happening often or often seen or experienced and so not considered to be special"
-  },
-  "CONCLUSIVE": {
-    "Definition": "proving that something is TRUE, or ending any doubt"
-  },
-  "DETAINED": {
-    "Definition": "to force someone officially to stay in a place"
-  },
-  "DISGUST": {
-    "Definition": "to make someone feel annoyed, upset, or ill about something"
-  },
-  "ECCENTRIC": {
-    "Definition": "strange or unusual, sometimes in a humorous way"
-  },
-  "EMBELLISHED": {
-    "Definition": "(of a story) made it sound more interesting by adding details that are not true"
-  },
-  "EVADE": {
-    "Definition": "to avoid or escape from someone or something"
-  },
-  "EXTRADITE": {
-    "Definition": "to make someone return for trial to another country or state where they have been accused of doing something illegal"
-  },
-  "GET AWAY WITH": {
-    "Definition": "to succeed in avoiding punishment for something"
-  },
-  "GORY": {
-    "Definition": "involving violence and blood"
-  },
-  "GRUESOME": {
-    "Definition": "extremely unpleasant and shocking, and usually dealing with death or injury"
-  },
-  "HEIGHT": {
-    "Definition": "the time when a situation or event is strongest or most full of activity"
-  },
   "INFAMOUS": {
-    "Definition": "famous for something considered bad"
-  },
-  "INFLUX": {
-    "Definition": "the fact of a large number of people or things arriving at the same time"
-  },
-  "IT'S TELLING": {
-    "Definition": "showing the truth about a situation or showing what someone really thinks"
-  },
-  "JAIL": {
-    "Definition": "a place where criminals are kept to punish them for their crimes, or where people accused of crimes are kept while waiting for their trials"
-  },
-  "METHODOLOGY": {
-    "Definition": "a system of ways of doing, teaching, or studying something"
-  },
-  "NONE THE WISER": {
-    "Definition": "to be none the wiser also means to not be aware of something"
-  },
-  "PATROLLED": {
-    "Definition": "(especially of soldiers or the police) to go around an area or a building to see if there is any trouble or danger"
-  },
-  "PERSECUTION": {
-    "Definition": "the treatment of someone unfairly or cruelly over a long period of time because of their race, religion, or political beliefs"
-  },
-  "PERUSE": {
-    "Definition": "to read through something, especially in order to find the part you are interested in"
-  },
-  "PILE UP": {
-    "Definition": "to increase in amount"
-  },
-  "POINT THE FINGER": {
-    "Definition": "to say that someone should be blamed or is guilty of something"
-  },
-  "POSTED BAIL": {
-    "Definition": "to pay money, especially so that a person who has been accused of committing a crime can be free until their trial"
-  },
-  "PREVENTATIVE": {
-    "Definition": "intended to stop something before it happens"
-  },
-  "RIFE": {
-    "Definition": "if something unpleasant is rife, it is very common or happens a lot"
-  },
-  "SADISTIC": {
-    "Definition": "a person who gets pleasure, sometimes sexual, by being cruel to or hurting another person"
-  },
-  "SEIZED UPON": {
-    "Definition": "to use or bring attention to something for your advantage"
+    "Definition": "well known for something bad"
   },
   "SERIAL KILLER": {
-    "Definition": "someone who repeatedly murders people"
-  },
-  "SUFFICE": {
-    "Definition": "to be enough"
-  },
-  "SUPPOSED": {
-    "Definition": "believed by many people to be true, but not proven and often doubted by the person who is speaking or writing"
+    "Definition": "a person who murders several people, one after another, over a period of time"
   },
   "TERRORISED": {
-    "Definition": "deliberately frighten people"
+    "Definition": "made very frightened over a period of time"
   },
-  "TO NO AVAIL": {
-    "Definition": "without any success or any effect"
+  "GRUESOME": {
+    "Definition": "horrible and shocking, involving violent death"
   },
   "TO THIS DAY": {
-    "Definition": "up to now"
+    "Definition": "even now; up to the present time"
   },
-  "TOOK TO THE GRAVE WITH HIM": {
-    "Definition": "died with"
+  "INFLUX": {
+    "Definition": "a large number of people arriving at the same time"
   },
-  "TRAUMATIZED": {
-    "Definition": "severely shocked and upset in a way that causes lasting emotional pain"
+  "PERSECUTION": {
+    "Definition": "cruel and unfair treatment, especially because of race, religion or beliefs"
   },
-  "VICINITY": {
-    "Definition": "the area around a place or where the speaker is"
+  "ATROCIOUS": {
+    "Definition": "extremely bad"
+  },
+  "ALCOHOLISM": {
+    "Definition": "a condition in which people cannot stop drinking too much beer, wine or spirits"
+  },
+  "RIFE": {
+    "Definition": "very common (used about something bad)"
   },
   "WIDESPREAD": {
-    "Definition": "existing or happening in many places and/or among many people"
+    "Definition": "found in many places or among many people"
+  },
+  "BROTHELS": {
+    "Definition": "buildings where men paid to have sex with women"
+  },
+  "COMMONPLACE": {
+    "Definition": "happening often; normal and usual"
+  },
+  "GORY": {
+    "Definition": "full of violence and blood"
+  },
+  "SUFFICE IT TO SAY": {
+    "Definition": "it is enough to say; I will only say"
+  },
+  "SADISTIC": {
+    "Definition": "getting pleasure from hurting other people"
+  },
+  "BOOM": {
+    "Definition": "a sudden, fast increase"
+  },
+  "EMBELLISHED": {
+    "Definition": "made more exciting by adding details that were not true"
+  },
+  "SEIZED UPON": {
+    "Definition": "quickly took and made great use of"
+  },
+  "PILE UP": {
+    "Definition": "increase in number"
+  },
+  "HEIGHT": {
+    "Definition": "the most active or intense point"
+  },
+  "BOOST": {
+    "Definition": "increase"
+  },
+  "CIRCULATION": {
+    "Definition": "the number of copies sold"
+  },
+  "AWARENESS": {
+    "Definition": "knowledge and interest"
+  },
+  "DETAINED": {
+    "Definition": "kept by the police and not allowed to leave"
+  },
+  "TO NO AVAIL": {
+    "Definition": "without success"
+  },
+  "AT LARGE": {
+    "Definition": "free; not caught"
+  },
+  "PATROLLED": {
+    "Definition": "walked around an area regularly to watch for trouble or crime"
+  },
+  "VICINITY": {
+    "Definition": "the area near a place"
+  },
+  "ANATOMICAL": {
+    "Definition": "relating to the structure of the human body"
+  },
+  "ARISTOCRAT": {
+    "Definition": "a person from the highest social class"
+  },
+  "GET AWAY WITH": {
+    "Definition": "avoid being caught or punished for"
+  },
+  "EVADE": {
+    "Definition": "escape or avoid"
+  },
+  "PREVENTATIVE": {
+    "Definition": "aimed at stopping something bad from happening"
+  },
+  "NONE THE WISER": {
+    "Definition": "still without any new knowledge or understanding"
+  },
+  "CONCLUSIVE": {
+    "Definition": "proving something clearly, so that there is no doubt"
+  },
+  "METHODOLOGY": {
+    "Definition": "the way the research or testing was done"
+  },
+  "POINT THE FINGER": {
+    "Definition": "say who is responsible; blame someone"
+  },
+  "TRAUMATIZED": {
+    "Definition": "badly upset and harmed in the mind"
+  },
+  "SUPPOSED": {
+    "Definition": "claimed to be true, but doubtful"
+  },
+  "ACCUSER": {
+    "Definition": "the person who says that someone did something wrong"
+  },
+  "ACCOMPLICE": {
+    "Definition": "a person who helps someone commit a crime"
+  },
+  "ECCENTRIC": {
+    "Definition": "strange and unusual in behaviour"
+  },
+  "POSTED BAIL": {
+    "Definition": "paid money so that he could leave prison until his trial"
+  },
+  "JAIL": {
+    "Definition": "prison"
+  },
+  "EXTRADITE": {
+    "Definition": "officially send back to another country to face the law"
+  },
+  "PERUSE": {
+    "Definition": "read or look through carefully"
+  },
+  "TOOK TO THE GRAVE WITH HIM": {
+    "Definition": "never told anyone before he died"
+  },
+  "IT'S TELLING": {
+    "Definition": "it shows something important; it is revealing"
+  },
+  "DISGUST": {
+    "Definition": "cause strong feelings of dislike and horror in"
   }
 }
