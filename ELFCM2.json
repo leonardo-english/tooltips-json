@@ -1,44 +1,44 @@
 {
   "AIRSPACE": {
-    "Definition": "space in the air above a country, piece of land or sea"
+    "Definition": "the sky above a country, which that country controls"
   },
   "ALLY": {
-    "Definition": "a state formally cooperating with another for a military or other purpose"
+    "Definition": "a friendly country that supports it and works with it"
   },
   "BAN": {
-    "Definition": "restrict the use of"
-  },
-  "BOOMING": {
-    "Definition": "having a period of great prosperity or rapid economic growth"
-  },
-  "DESIRABLE": {
-    "Definition": "wished for as being an attractive, useful, or necessary course of action"
-  },
-  "DETOUR": {
-    "Definition": "a long or roundabout route that is taken to avoid something or to visit somewhere along the way"
-  },
-  "ELEVATION": {
-    "Definition": "height"
-  },
-  "INHABITANTS": {
-    "Definition": "people who live in a place"
-  },
-  "LOFTY": {
-    "Definition": "very high in altitude"
-  },
-  "OSTENSIBLY": {
-    "Definition": "as appears or is stated to be true, though not necessarily so; apparently"
-  },
-  "PROHIBITED": {
-    "Definition": "not allowed, restrict"
-  },
-  "REGULATION": {
-    "Definition": "law"
+    "Definition": "officially do not allow"
   },
   "REVENUE": {
-    "Definition": "money received for services"
+    "Definition": "money that is earned or received"
+  },
+  "DETOUR": {
+    "Definition": "a longer route taken to avoid something"
+  },
+  "BOOMING": {
+    "Definition": "growing very quickly and doing very well"
+  },
+  "DESIRABLE": {
+    "Definition": "wanted by many people; attractive"
+  },
+  "LOFTY": {
+    "Definition": "very high"
+  },
+  "ELEVATION": {
+    "Definition": "height above sea level"
+  },
+  "REGULATION": {
+    "Definition": "an official rule"
   },
   "WARRANT": {
-    "Definition": "justify or necessitate (a course of action)"
+    "Definition": "be a good enough reason for"
+  },
+  "PROHIBITED": {
+    "Definition": "not allowed by law or by official rules"
+  },
+  "INHABITANTS": {
+    "Definition": "the people who live in these places"
+  },
+  "OSTENSIBLY": {
+    "Definition": "according to the official reason, which may not be the whole truth"
   }
 }
