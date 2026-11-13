@@ -1,197 +1,206 @@
 {
-  "ANECDOTE": {
-    "Definition": "a short, often funny story, especially about something someone has done"
+  "RIGHT UP YOUR STREET": {
+    "Definition": "exactly the kind of thing you like"
   },
-  "BARBED WIRE": {
-    "Definition": "a type of strong wire with sharp points on it, used to prevent people or animals from entering or leaving a place , especially a field"
+  "SOMEWHAT": {
+    "Definition": "to some degree; a little"
   },
-  "BARRACKS": {
-    "Definition": "a building or group of buildings where soldiers live"
+  "FADING FROM MEMORY": {
+    "Definition": "slowly being forgotten"
   },
-  "BOUNCE BACK": {
-    "Definition": "to start to be successful again after a difficult period, for example after experiencing failure, loss of confidence, illness, or unhappiness"
-  },
-  "BROADLY": {
-    "Definition": "in a general way, without considering specific examples or all the details"
-  },
-  "CIVILIAN": {
-    "Definition": "a person who is not a member of the police or the armed forces"
-  },
-  "CLOSE PROXIMITY": {
-    "Definition": "close to one another"
-  },
-  "COLLABORATION": {
-    "Definition": "to work with someone else for a special purpose"
-  },
-  "CONFINED": {
-    "Definition": "to limit an activity, person, or problem in some way"
-  },
-  "CONFINEMENT": {
-    "Definition": "the situation in which a person or animal is kept somewhere, usually by force"
-  },
-  "CONFLICT": {
-    "Definition": "war"
+  "SCRAMBLING": {
+    "Definition": "rushing in a disorganised way"
   },
   "CONFRONT": {
-    "Definition": "to face, meet, or deal with a difficult situation or person"
+    "Definition": "face and deal with"
   },
-  "CONTAINED": {
-    "Definition": "to keep under control"
+  "DRAGGED": {
+    "Definition": "pulled, without wanting to be"
   },
-  "COORDINATE": {
-    "Definition": "to make many different things work effectively as a whole"
+  "FRUITLESS": {
+    "Definition": "producing no useful result; pointless"
   },
-  "COORDINATED": {
-    "Definition": "to make many different things work effectively as a whole"
+  "DEVASTATED": {
+    "Definition": "very badly damaged or destroyed"
   },
-  "CRAMPED": {
-    "Definition": "not having enough space or time"
+  "WORN DOWN": {
+    "Definition": "made tired and weak over a long time"
+  },
+  "DRAGGED ON": {
+    "Definition": "continued for too long"
+  },
+  "RATES": {
+    "Definition": "speeds and numbers"
+  },
+  "RAVAGED": {
+    "Definition": "caused terrible damage to"
+  },
+  "RANGE": {
+    "Definition": "vary"
+  },
+  "DIAGNOSE": {
+    "Definition": "identify an illness by examining people"
+  },
+  "NEUTRAL": {
+    "Definition": "not supporting either side in a war"
+  },
+  "NEUTRALITY": {
+    "Definition": "the position of not taking sides in a war"
+  },
+  "MORALE": {
+    "Definition": "the confidence and positive feelings of a group of people"
+  },
+  "DETRIMENTAL": {
+    "Definition": "harmful; causing damage"
+  },
+  "CONFLICT": {
+    "Definition": "a war or fight between groups or countries"
+  },
+  "SCALE": {
+    "Definition": "a size or level"
+  },
+  "TRENCH": {
+    "Definition": "a long, deep hole dug in the ground where soldiers lived and fought"
+  },
+  "BARBED WIRE": {
+    "Definition": "wire with sharp points along it, used to stop people getting past"
+  },
+  "DIVINE": {
+    "Definition": "coming from God or a god"
   },
   "CREDIBLE": {
-    "Definition": "able to be believed or trusted"
+    "Definition": "believable"
+  },
+  "STRAIN": {
+    "Definition": "a particular type"
+  },
+  "BROADLY": {
+    "Definition": "in general, without the details"
+  },
+  "CLOSE PROXIMITY": {
+    "Definition": "positions very near to each other"
+  },
+  "TRENCHES": {
+    "Definition": "long, deep holes dug in the ground where soldiers lived and fought"
+  },
+  "BARRACKS": {
+    "Definition": "buildings where soldiers live"
+  },
+  "CONFINEMENT": {
+    "Definition": "conditions where people are kept together in a small space"
+  },
+  "OVERFLOWING": {
+    "Definition": "so full that there was no more room"
+  },
+  "MUTATES": {
+    "Definition": "changes its form"
+  },
+  "CIVILIAN": {
+    "Definition": "not connected with the army or war"
+  },
+  "MUTATIONS": {
+    "Definition": "changed forms"
+  },
+  "CONFINED": {
+    "Definition": "kept in a place and not allowed to leave"
+  },
+  "ISOLATED": {
+    "Definition": "separated from other people"
+  },
+  "MILD": {
+    "Definition": "not serious or severe"
+  },
+  "TEND": {
+    "Definition": "are likely"
+  },
+  "FRONT LINES": {
+    "Definition": "the places where the fighting happens in a war"
   },
   "DEADLY": {
     "Definition": "likely to cause death"
   },
-  "DETRIMENTAL": {
-    "Definition": "causing harm or damage"
-  },
-  "DEVASTATED": {
-    "Definition": "completely destroyed"
-  },
-  "DIAGNOSE": {
-    "Definition": "to recognise and name the exact character of a disease or a problem, by examining it"
-  },
-  "DIVINE": {
-    "Definition": "connected with a god, or like a god"
-  },
-  "DRAGGED": {
-    "Definition": "pulled"
-  },
-  "DRAW ANY PARALLELS": {
-    "Definition": "make a comparison between things"
-  },
-  "EPIDEMIOLOGY": {
-    "Definition": "the scientific study of diseases and how they are found, spread, and controlled in groups of people"
-  },
-  "EQUIPPED": {
-    "Definition": "having the necessary tools, clothes, equipment, etc."
-  },
-  "ERADICATE": {
-    "Definition": "to get rid of something completely or destroy something bad"
-  },
-  "FRONT LINES": {
-    "Definition": "a place where opposing armies face each other in war and where fighting happens"
-  },
-  "FRUITLESS": {
-    "Definition": "If an action or attempt to do something is fruitless, it is unsuccessful or produces nothing of value"
-  },
-  "IMPLEMENTED": {
-    "Definition": "to start using a plan or system"
-  },
-  "INGENIOUS": {
-    "Definition": "(of a person) very intelligent and skilful, or (of a thing) skilfully made or planned and involving new ideas and methods"
-  },
-  "ISOLATED": {
-    "Definition": "not near to other places"
-  },
-  "MEASURES": {
-    "Definition": "way of achieving something, or method for dealing with a situation"
-  },
-  "MILD": {
-    "Definition": "not violent, severe, or extreme"
-  },
-  "MINT": {
-    "Definition": "a sweet tasting of mint (the herb)"
-  },
-  "MORALE": {
-    "Definition": "the amount of confidence felt by a person or group of people, especially when in a dangerous or difficult situation"
-  },
-  "MUNICIPAL": {
-    "Definition": "of or belonging to a town or city"
-  },
-  "MUTATES": {
-    "Definition": "to change from one thing or type of thing into another"
-  },
-  "MUTATIONS": {
-    "Definition": "the way in which things change and produce permanent differences"
-  },
-  "NEUTRAL": {
-    "Definition": "not saying or doing anything that would encourage or help any of the groups involved in an argument or war"
-  },
-  "NEUTRALITY": {
-    "Definition": "a neutral position, especially in a war"
-  },
-  "OVERFLOWING": {
-    "Definition": "When a liquid overflows, it flows over the edges of a container, etc. because there is too much of it"
-  },
   "PACKED": {
     "Definition": "very full of people"
   },
-  "PARALLEL": {
-    "Definition": "something very similar to something else, or a similarity between two things"
-  },
-  "RANGE": {
-    "Definition": "to have an upper and a lower limit in amount, number, etc."
-  },
-  "RATES": {
-    "Definition": "the speed at which something happens or changes, or the amount or number of times it happens or changes in a particular period"
-  },
-  "RAVAGED": {
-    "Definition": "to cause great damage to something"
-  },
-  "REFRESHING": {
-    "Definition": "pleasantly different and interesting"
-  },
-  "REOPEN": {
-    "Definition": "If a place or business, etc. reopens or is reopened, it begins to operate, or it becomes open for people to use, after being closed for a period of time"
-  },
-  "RIGHT UP YOUR STREET": {
-    "Definition": "to be the type of thing that you are interested in or that you enjoy doing"
-  },
-  "SCALE": {
-    "Definition": "level, amount"
-  },
-  "SCRAMBLING": {
-    "Definition": "to move or climb quickly but with difficulty, often using your hands to help you"
-  },
-  "SOMEWHAT": {
-    "Definition": "to some degree"
-  },
-  "SQUASH": {
-    "Definition": "to crush something into a flat shape"
-  },
-  "STATED": {
-    "Definition": "said"
-  },
-  "STRAIN": {
-    "Definition": "an animal or plant from a particular group whose characteristics are different in some way from others of the same group"
-  },
-  "SYMPTOMS": {
-    "Definition": "any feeling of illness or physical or mental change that is caused by a particular disease"
-  },
-  "TEND": {
-    "Definition": "to be likely to behave in a particular way or have a particular characteristic"
-  },
-  "TRANSMITTED": {
-    "Definition": "passed, infect"
-  },
-  "TRENCH": {
-    "Definition": "a narrow hole that is dug into the ground"
-  },
-  "TRENCHES": {
-    "Definition": "a narrow hole that is dug into the ground"
+  "MUTATION": {
+    "Definition": "changed form"
   },
   "TROOPS": {
     "Definition": "soldiers"
   },
-  "ULTERIOR": {
-    "Definition": "a secret purpose or reason for doing something"
+  "IMPLEMENTED": {
+    "Definition": "put into action; carried out"
+  },
+  "MEASURES": {
+    "Definition": "official actions taken to deal with a problem"
+  },
+  "EPIDEMIOLOGY": {
+    "Definition": "the scientific study of how diseases spread and are controlled"
+  },
+  "TRANSMITTED": {
+    "Definition": "passed from one person to another"
+  },
+  "SQUASH": {
+    "Definition": "stop completely; crush"
+  },
+  "ERADICATE": {
+    "Definition": "destroy completely so that it no longer exists"
   },
   "VACCINE": {
-    "Definition": "a substance containing a virus or bacterium in a form that is not harmful, given to a person or animal to prevent them from getting the disease that the virus or bacterium causes"
+    "Definition": "a substance given to people to protect them from a disease"
   },
-  "WORN DOWN": {
-    "Definition": "to make someone tired"
+  "COORDINATE": {
+    "Definition": "organise so that different people work well together"
+  },
+  "COLLABORATION": {
+    "Definition": "working together with others"
+  },
+  "CONTAINED": {
+    "Definition": "limited to smaller areas"
+  },
+  "MUNICIPAL": {
+    "Definition": "relating to a town or city and its local government"
+  },
+  "COORDINATED": {
+    "Definition": "organised so that everyone acted together"
+  },
+  "PARALLEL": {
+    "Definition": "a similarity"
+  },
+  "INGENIOUS": {
+    "Definition": "very clever and original"
+  },
+  "CRAMPED": {
+    "Definition": "small and crowded"
+  },
+  "BOUNCE BACK": {
+    "Definition": "recover quickly after a difficult time"
+  },
+  "REOPEN": {
+    "Definition": "start working and trading again"
+  },
+  "DRAW ANY PARALLELS": {
+    "Definition": "find any similarities"
+  },
+  "ULTERIOR": {
+    "Definition": "secret and hidden"
+  },
+  "SYMPTOMS": {
+    "Definition": "signs that someone has an illness"
+  },
+  "STATED": {
+    "Definition": "said clearly or officially"
+  },
+  "MINT": {
+    "Definition": "a small sweet with a fresh, strong taste"
+  },
+  "ANECDOTE": {
+    "Definition": "a short, interesting story about a real event"
+  },
+  "EQUIPPED": {
+    "Definition": "prepared, with the things that are needed"
+  },
+  "REFRESHING": {
+    "Definition": "pleasantly different and encouraging"
   }
 }
