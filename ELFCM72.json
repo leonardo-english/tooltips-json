@@ -1,179 +1,185 @@
 {
-  "ACCESSIBILITY": {
-    "Definition": "ease of use, ease to get"
+  "MENACE": {
+    "Definition": "a serious danger or threat"
+  },
+  "WAGED": {
+    "Definition": "fought or carried on"
+  },
+  "DECLARATION": {
+    "Definition": "an official public announcement"
+  },
+  "SYNTHESISED": {
+    "Definition": "made artificially by combining chemicals"
+  },
+  "MORPHINE": {
+    "Definition": "a strong drug used in medicine to reduce severe pain"
+  },
+  "ISOLATED": {
+    "Definition": "separated from a plant as a pure substance"
+  },
+  "SYRINGES": {
+    "Definition": "tubes with needles used to put liquids into the body"
+  },
+  "VEINS": {
+    "Definition": "tubes in the body that carry blood back to the heart"
+  },
+  "VETERANS": {
+    "Definition": "people who have served as soldiers in a war"
+  },
+  "INSOMNIA": {
+    "Definition": "a condition in which someone cannot sleep well"
+  },
+  "ICONIC": {
+    "Definition": "very famous and seen as a symbol of something"
+  },
+  "CATALOGUE": {
+    "Definition": "a book showing goods for sale that people could order"
+  },
+  "SYRINGE": {
+    "Definition": "a tube with a needle used to put liquids into the body"
+  },
+  "TOLERATED": {
+    "Definition": "accepted and allowed"
+  },
+  "PROHIBITION": {
+    "Definition": "the banning of something, such as alcohol or drugs, by law"
+  },
+  "TRAUMA": {
+    "Definition": "deep shock and suffering caused by terrible experiences"
+  },
+  "RECREATIONAL": {
+    "Definition": "done for pleasure rather than for a medical reason"
+  },
+  "HIPPY": {
+    "Definition": "linked to the young people of the 1960s who rejected normal society and wanted peace"
   },
   "AIDE": {
-    "Definition": "an important assistant"
+    "Definition": "a person who helps and advises an important politician"
+  },
+  "HIPPIE": {
+    "Definition": "linked to the young people of the 1960s who rejected normal society and wanted peace"
+  },
+  "RAID": {
+    "Definition": "suddenly enter and search by force"
+  },
+  "VILIFY": {
+    "Definition": "say very bad things about, to make people hate"
+  },
+  "CROWD": {
+    "Definition": "a group of people who share the same interests or way of life"
+  },
+  "ELIMINATE": {
+    "Definition": "completely remove or get rid of"
+  },
+  "BINGO": {
+    "Definition": "a word used to say that something has suddenly succeeded"
+  },
+  "INCARCERATION": {
+    "Definition": "the putting of people in prison"
   },
   "BEHIND BARS": {
     "Definition": "in prison"
   },
-  "BINGO": {
-    "Definition": "(colloquial) there you go"
-  },
-  "CATALOGUE": {
-    "Definition": "a magazine with a list of things you can buy"
-  },
-  "CLAMPING DOWN": {
-    "Definition": "to take action against something"
-  },
-  "COUNTER ARGUMENT": {
-    "Definition": "a point that is opposite to what was previously said"
-  },
-  "CRACKDOWN": {
-    "Definition": "see 'cracking down'"
-  },
-  "CRACKING DOWN": {
-    "Definition": "dealing with severely"
-  },
-  "DECLARATION": {
-    "Definition": "an official announcement"
-  },
-  "DECRIMINALISING": {
-    "Definition": "stopping something from being illegal"
-  },
-  "DECRIMINALIZED": {
-    "Definition": "stopped from being illegal"
-  },
-  "DETRIMENT": {
-    "Definition": "harm, negative effect"
-  },
-  "DEVASTATING": {
-    "Definition": "very bad, causing a lot of damage"
-  },
-  "DRUG REHABILITATION": {
-    "Definition": "helping drug addicts stop using drugs"
-  },
-  "ELIMINATE": {
-    "Definition": "get rid of completely"
-  },
-  "ERADICATE": {
-    "Definition": "get rid of completely"
-  },
-  "EVERY MAN AND HIS DOG": {
-    "Definition": "(colloquial) everyone"
-  },
-  "GATEWAY DRUGS": {
-    "Definition": "drugs that make it more likely that a harder (and more dangerous) drug will be used"
-  },
-  "HABITS": {
-    "Definition": "(of drugs) addiction"
-  },
-  "HIPPIE": {
-    "Definition": "someone in the 1960s and 1970s who was against violence"
-  },
-  "HIPPY": {
-    "Definition": "someone in the 1960s and 1970s who was against violence"
-  },
-  "ICONIC": {
-    "Definition": "very famous or well known"
-  },
-  "IMPLICIT": {
-    "Definition": "suggested or understood, but not said"
+  "INORDINATE": {
+    "Definition": "much greater than is normal or reasonable"
   },
   "INCARCERATED": {
-    "Definition": "put in prison"
+    "Definition": "held in prison"
   },
-  "INCARCERATION": {
-    "Definition": "imprisonment"
+  "CRACKING DOWN": {
+    "Definition": "taking strong action to stop something illegal"
   },
-  "INORDINATE": {
-    "Definition": "much more than expected or would be fair"
+  "ACCESSIBILITY": {
+    "Definition": "how easy something is to get"
   },
-  "INSOMNIA": {
-    "Definition": "the condition of not being able to sleep"
+  "HABITS": {
+    "Definition": "addictions; the drugs they use regularly and cannot easily stop"
   },
-  "ISOLATED": {
-    "Definition": "obtained or extracted"
-  },
-  "LIBERTARIAN": {
-    "Definition": "someone who thinks that people should be free to do what they please without government interference"
-  },
-  "LOFTY": {
-    "Definition": "high"
+  "ERADICATE": {
+    "Definition": "destroy completely"
   },
   "LUCRATIVE": {
-    "Definition": "produces a lot of money"
+    "Definition": "producing a lot of money"
   },
-  "MENACE": {
-    "Definition": "threat, something that is likely to cause harm"
+  "CLAMPING DOWN": {
+    "Definition": "taking strict action to stop or control something"
   },
-  "MORPHINE": {
-    "Definition": "a drug made from opium, often used for pain relief"
-  },
-  "NIGH": {
-    "Definition": "or even"
-  },
-  "OPIATES": {
-    "Definition": "drugs that contain opium, often used for pain relief"
+  "CRACKDOWN": {
+    "Definition": "a strong official effort to stop an illegal activity"
   },
   "OPIUM": {
-    "Definition": "a drug made from poppy seeds"
+    "Definition": "a drug made from the poppy plant, used to make heroin"
+  },
+  "NIGH": {
+    "Definition": "nearly; almost"
   },
   "PANEL": {
-    "Definition": "a small group"
+    "Definition": "a group of people chosen to study a subject and give advice"
   },
-  "POLICYMAKERS": {
-    "Definition": "people who decide policy and laws"
-  },
-  "PROHIBITION": {
-    "Definition": "officially not allowing something"
-  },
-  "PROPHECIES": {
-    "Definition": "statements about what will happen in the future"
-  },
-  "RAID": {
-    "Definition": "make a surprise visit (especially by police or soldiers)"
-  },
-  "RAW MATERIALS": {
-    "Definition": "the base ingredients"
-  },
-  "RECREATIONAL": {
-    "Definition": "(of drugs) non-medical"
-  },
-  "SHOUT OUTS": {
-    "Definition": "(colloquial) public congratulations"
-  },
-  "SKYROCKET": {
-    "Definition": "Increase quickly"
-  },
-  "SOMETHING HAS TO GIVE": {
-    "Definition": "you can't have everything"
-  },
-  "SYNTHESISED": {
-    "Definition": "produce a substance via a chemical reaction"
-  },
-  "SYRINGE": {
-    "Definition": "a medical piece of equipment used for sucking liquid out or inserting liquid into somewhere"
-  },
-  "SYRINGES": {
-    "Definition": "a medical piece of equipment used for sucking liquid out or inserting liquid into somewhere"
-  },
-  "TABOOS": {
-    "Definition": "subjects that are avoided"
-  },
-  "TOLERATED": {
-    "Definition": "accepted, allowed"
-  },
-  "TRAUMA": {
-    "Definition": "severe shock"
+  "DEVASTATING": {
+    "Definition": "causing great damage or suffering"
   },
   "URGENT": {
-    "Definition": "very important and requiring action"
+    "Definition": "needing to be done immediately"
+  },
+  "REFORMS": {
+    "Definition": "changes made to improve a system"
+  },
+  "DECRIMINALISING": {
+    "Definition": "changing the law so that it no longer punishes"
+  },
+  "TABOOS": {
+    "Definition": "social rules that make a subject unacceptable to talk about"
+  },
+  "OPIATES": {
+    "Definition": "strong painkilling drugs made from the poppy plant"
+  },
+  "POLICYMAKERS": {
+    "Definition": "people in government who decide on rules and plans"
+  },
+  "DETRIMENT": {
+    "Definition": "harm or damage"
+  },
+  "IMPLICIT": {
+    "Definition": "suggested but not said directly"
+  },
+  "GATEWAY DRUGS": {
+    "Definition": "substances that people often use first before moving on"
   },
   "VAST MAJORITY": {
-    "Definition": "almost all"
+    "Definition": "by far the largest part"
   },
-  "VEINS": {
-    "Definition": "the tubes that carry blood to the heart"
+  "RAW MATERIALS": {
+    "Definition": "the basic natural substances used to make a product"
   },
-  "VETERANS": {
-    "Definition": "soldiers who fought in a war"
+  "LIBERTARIAN": {
+    "Definition": "believing that the government should control people's lives as little as possible"
   },
-  "VILIFY": {
-    "Definition": "to talk about in a negative way in order to get others to develop a negative opinion (of that person or group)"
+  "DRUG REHABILITATION": {
+    "Definition": "treatment to help addicted people stop taking harmful substances"
   },
-  "WAGED": {
-    "Definition": "start (a war)"
+  "COUNTER ARGUMENT": {
+    "Definition": "a reason given against an idea"
+  },
+  "SKYROCKET": {
+    "Definition": "rise very quickly and by a large amount"
+  },
+  "DECRIMINALIZED": {
+    "Definition": "changed the law so that it no longer punishes"
+  },
+  "PROPHECIES": {
+    "Definition": "warnings or predictions about the future"
+  },
+  "EVERY MAN AND HIS DOG": {
+    "Definition": "everybody; a very large number of people"
+  },
+  "SOMETHING HAS TO GIVE": {
+    "Definition": "one of the goals must be sacrificed"
+  },
+  "LOFTY": {
+    "Definition": "high and noble"
+  },
+  "SHOUT OUTS": {
+    "Definition": "public mentions to greet or praise people"
   }
 }
