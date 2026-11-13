@@ -1,251 +1,257 @@
 {
-  "A BIG SPENDER": {
-    "Definition": "someone who spends a lot of money"
-  },
-  "A DROP IN THE OCEAN": {
-    "Definition": "very small compared to something else"
-  },
-  "A NOBODY": {
-    "Definition": "an unimportant person"
-  },
-  "ACQUAINTED": {
-    "Definition": "know, or be familiar with"
-  },
-  "ADEQUATELY": {
-    "Definition": "in a way that is enough"
-  },
-  "ADVISORY": {
-    "Definition": "giving advice"
+  "SCANDAL": {
+    "Definition": "a situation that shocks people because it involves dishonest or wrong behaviour"
   },
   "ALLEGEDLY": {
-    "Definition": "used to say that people say something is true, without providing proof"
+    "Definition": "according to what people say, although it has not been proved"
   },
-  "ANONYMOUS": {
-    "Definition": "without an official, named owner"
+  "TALE": {
+    "Definition": "story"
   },
   "APPOINTED": {
-    "Definition": "officially chosen"
+    "Definition": "chosen someone for an official job"
   },
-  "ASSETS": {
-    "Definition": "money or valuable things"
+  "LACKED": {
+    "Definition": "did not have enough of"
   },
-  "AT LARGE": {
-    "Definition": "escaped, and the authorities do not know where they are"
+  "INFRASTRUCTURE": {
+    "Definition": "basic systems a country needs, such as roads, power and transport"
   },
-  "BAR TAB": {
-    "Definition": "the bill at the bar"
+  "PUMP": {
+    "Definition": "put large amounts of money"
   },
-  "BEFRIEND": {
-    "Definition": "to become friends with"
+  "FUNDS": {
+    "Definition": "large amounts of money collected and kept for a particular purpose"
+  },
+  "FUND": {
+    "Definition": "an amount of money collected and kept to be invested for a particular purpose"
+  },
+  "SUFFIX": {
+    "Definition": "letters added to the end of a word or name"
+  },
+  "MANDATE": {
+    "Definition": "an official task or authority given to it"
+  },
+  "ELITE": {
+    "Definition": "only for the richest, most powerful or most talented people"
+  },
+  "INSTITUTIONS": {
+    "Definition": "large, important organisations such as schools and universities"
+  },
+  "ACQUAINTED": {
+    "Definition": "familiar"
   },
   "BEFRIENDING": {
     "Definition": "becoming friends with"
   },
-  "BRAZEN": {
-    "Definition": "obvious and without trying to hide"
+  "FLAMBOYANT": {
+    "Definition": "very showy and designed to attract attention"
+  },
+  "HUNG AROUND": {
+    "Definition": "spent a lot of time"
+  },
+  "CARVED OUT": {
+    "Definition": "created, through hard work"
+  },
+  "NICHE": {
+    "Definition": "a special position or role that suits a person well"
+  },
+  "FIXER": {
+    "Definition": "a person who arranges things for others, often using contacts"
+  },
+  "POCKETING": {
+    "Definition": "keeping for himself"
+  },
+  "ADVISORY": {
+    "Definition": "giving advice"
+  },
+  "HIGH PLACES": {
+    "Definition": "positions of power and importance"
+  },
+  "RAKING IN": {
+    "Definition": "easily collecting"
+  },
+  "GOING TOWARDS": {
+    "Definition": "being used for"
+  },
+  "KICKBACKS": {
+    "Definition": "secret, illegal payments for helping a deal to happen"
   },
   "BRIBE": {
-    "Definition": "to try to make someone do something by giving them money or presents"
+    "Definition": "give money or gifts to, so that they act dishonestly"
   },
-  "BROKE": {
-    "Definition": "was released"
+  "UPCOMING": {
+    "Definition": "happening soon"
+  },
+  "LAVISH": {
+    "Definition": "very expensive and luxurious"
+  },
+  "SHOPPING SPREES": {
+    "Definition": "short periods of buying a lot of things"
+  },
+  "A BIG SPENDER": {
+    "Definition": "a person who spends a lot of money"
+  },
+  "HEADLINE": {
+    "Definition": "the title printed in large letters above a newspaper story"
+  },
+  "SMALL FRY": {
+    "Definition": "something unimportant"
+  },
+  "SMALL POTATOES": {
+    "Definition": "a small amount, not worth much attention"
+  },
+  "PENTHOUSES": {
+    "Definition": "expensive flats on the top floor of tall buildings"
   },
   "BURST OUT": {
-    "Definition": "suddenly come out"
+    "Definition": "jumped out suddenly"
   },
-  "CARVED": {
-    "Definition": "found"
+  "A DROP IN THE OCEAN": {
+    "Definition": "a very small amount compared with what he had"
   },
-  "CHUBBY": {
-    "Definition": "fat, but in a pleasant way"
+  "GAMBLE": {
+    "Definition": "risk money on the result of games such as cards"
   },
-  "DEALMAKERS": {
-    "Definition": "people who make deals and bring in new business"
+  "PLAYBOY": {
+    "Definition": "a rich man who spends his time enjoying himself"
   },
-  "ELITE": {
-    "Definition": "the most rich and powerful (in society)"
+  "IRONICALLY": {
+    "Definition": "in a surprising and slightly funny way, given the situation"
+  },
+  "MODEL": {
+    "Definition": "fake, not real"
+  },
+  "WRECK": {
+    "Definition": "destroy or damage very badly"
+  },
+  "INHERITED": {
+    "Definition": "received from someone after their death"
+  },
+  "SHOWER": {
+    "Definition": "give a lot of things to"
+  },
+  "BAR TAB": {
+    "Definition": "the total money owed for drinks at a bar"
+  },
+  "SOPHISTICATED": {
+    "Definition": "advanced and complex"
+  },
+  "ADEQUATELY": {
+    "Definition": "well; as much as needed"
+  },
+  "COMPENSATED": {
+    "Definition": "paid for what they did"
   },
   "EMIRATI": {
     "Definition": "from the United Arab Emirates"
   },
-  "ENTITY": {
-    "Definition": "organisation, thing"
-  },
-  "EXPLOITED": {
-    "Definition": "used to the maximum"
-  },
-  "FIXER": {
-    "Definition": "someone who arranges for things to happen"
-  },
-  "FLAMBOYANT": {
-    "Definition": "very confident and noticed by other people"
-  },
-  "FUND": {
-    "Definition": "collection of money"
-  },
-  "FUNDS": {
-    "Definition": "collections of money"
-  },
-  "GAMBLE": {
-    "Definition": "to risk money on a game"
-  },
-  "GOING TOWARDS": {
-    "Definition": "being used to pay for"
-  },
-  "GREED": {
-    "Definition": "the wish to continually get more (of something)"
-  },
-  "HEADLINE": {
-    "Definition": "a story in a newspaper"
-  },
-  "HIGH PLACES": {
-    "Definition": "important or rich (people)"
-  },
-  "HINDSIGHT": {
-    "Definition": "looking back in the past"
-  },
-  "HUNG AROUND": {
-    "Definition": "to be with, be friends with"
-  },
-  "IMPLICATED": {
-    "Definition": "shown (that someone is involved in something)"
-  },
-  "INCRIMINATING": {
-    "Definition": "showing that someone is guilty"
-  },
-  "INFRASTRUCTURE": {
-    "Definition": "the basic systems and structures that a country needs to work properly"
-  },
-  "INHERITED": {
-    "Definition": "received from someone who has died"
-  },
-  "INNATE": {
-    "Definition": "a non-learnt characteristic"
-  },
-  "INSTITUTIONS": {
-    "Definition": "large and important organisations"
-  },
-  "INSTRUCT": {
-    "Definition": "tell (to do something)"
-  },
-  "INTERTWINED": {
-    "Definition": "linked together"
-  },
-  "INVINCIBLE": {
-    "Definition": "impossible to defeat"
-  },
-  "IRONICALLY": {
-    "Definition": "in a strange but funny way"
-  },
-  "KICKBACKS": {
-    "Definition": "money that is paid back to someone, usually as a commission"
-  },
-  "LACKED": {
-    "Definition": "did not have"
-  },
-  "LAVISH": {
-    "Definition": "expensive"
-  },
-  "LONG STORY SHORT": {
-    "Definition": "used when you condense the main parts of a story"
-  },
-  "MANDATE": {
-    "Definition": "the authority to do something"
-  },
-  "MODEL": {
-    "Definition": "not a full, real version of something else"
-  },
-  "NICHE": {
-    "Definition": "a job that is very suitable for someone"
+  "SCHEME": {
+    "Definition": "a secret and dishonest plan"
   },
   "OFFSHORE": {
-    "Definition": "in countries that are typically islands, where there is a lower tax rate"
+    "Definition": "set up in another country, usually where taxes and rules are lighter"
   },
-  "ON THE HOOK": {
-    "Definition": "liable to pay"
+  "SHELL COMPANIES": {
+    "Definition": "companies that exist only on paper and do no real business"
   },
-  "PAYOUT": {
-    "Definition": "an amount of money that is paid (as compensation)"
+  "INSTRUCT": {
+    "Definition": "order or tell"
   },
-  "PENTHOUSES": {
-    "Definition": "expensive apartments at the top of a building"
-  },
-  "PHILANTHROPIST": {
-    "Definition": "someone who helps the poor and needy, normally by giving financial donations"
-  },
-  "PICK UP THE BILL": {
-    "Definition": "to pay the bill"
-  },
-  "PICKED UP THE BILL": {
-    "Definition": "to pay the bill"
-  },
-  "PLAYBOY": {
-    "Definition": "a rich man who spends his time on leisure activities"
-  },
-  "POCKETING": {
-    "Definition": "collecting"
-  },
-  "PRESTIGIOUS": {
-    "Definition": "with a reputation for high quality"
-  },
-  "PUMP": {
-    "Definition": "put (into)"
-  },
-  "RAKING IN": {
-    "Definition": "earning a lot of money"
-  },
-  "RUMOURED": {
-    "Definition": "thought to"
-  },
-  "SACKED": {
-    "Definition": "terminated from their job"
-  },
-  "SCANDAL": {
-    "Definition": "a shocking event, often public"
-  },
-  "SCHEME": {
-    "Definition": "plan"
-  },
-  "SENTENCING": {
-    "Definition": "punishment (by a court)"
-  },
-  "SHELL": {
-    "Definition": "(of a company) that has been formed purely for tax or organisational reasons"
-  },
-  "SHOPPING SPREES": {
-    "Definition": "large shopping trips"
-  },
-  "SHOWER": {
-    "Definition": "give (in large quantities)"
-  },
-  "SIPHONING OFF": {
-    "Definition": "taking (for yourself)"
-  },
-  "SMALL FRY": {
-    "Definition": "not important, not big"
-  },
-  "SMALL POTATOES": {
-    "Definition": "not important, not big"
-  },
-  "SOPHISTICATED": {
-    "Definition": "very detailed and clever"
-  },
-  "SUFFIX": {
-    "Definition": "a letter or a group of letters that are added to the end of a word"
-  },
-  "TALE": {
-    "Definition": "a story"
-  },
-  "TRACE": {
-    "Definition": "found"
+  "ANONYMOUS": {
+    "Definition": "with no name, so nobody knows who is behind it"
   },
   "TRICKS OF THE TRADE": {
-    "Definition": "methods or ways (to do something)"
+    "Definition": "clever methods used by experts in a particular area"
   },
-  "UPCOMING": {
-    "Definition": "future"
+  "EXPLOITED": {
+    "Definition": "used fully for his own advantage"
   },
-  "WRECK": {
-    "Definition": "destroy"
+  "INNATE": {
+    "Definition": "natural, as if he had been born with it"
+  },
+  "GREED": {
+    "Definition": "a strong wish to have more money or things than you need"
+  },
+  "PRESTIGIOUS": {
+    "Definition": "admired and respected"
+  },
+  "DEALMAKERS": {
+    "Definition": "people who arrange business agreements"
+  },
+  "BEFRIEND": {
+    "Definition": "become friends with"
+  },
+  "A NOBODY": {
+    "Definition": "a person who is not important at all"
+  },
+  "SIPHONING OFF": {
+    "Definition": "secretly taking money for himself"
+  },
+  "BRAZEN": {
+    "Definition": "open and shameless"
+  },
+  "HINDSIGHT": {
+    "Definition": "the understanding of a situation that you only have after it has happened"
+  },
+  "INVINCIBLE": {
+    "Definition": "too strong to be defeated or stopped"
+  },
+  "IMPLICATED": {
+    "Definition": "shown to be involved in a crime"
+  },
+  "SACKED": {
+    "Definition": "dismissed from his job"
+  },
+  "INCRIMINATING": {
+    "Definition": "suggesting that someone is guilty of a crime"
+  },
+  "LONG STORY SHORT": {
+    "Definition": "to say it quickly, without all the details"
+  },
+  "BROKE": {
+    "Definition": "became public for the first time"
+  },
+  "ENTITY": {
+    "Definition": "an organisation that exists as a separate unit"
+  },
+  "SENTENCING": {
+    "Definition": "the decision by a judge on what his punishment will be"
+  },
+  "ON THE HOOK": {
+    "Definition": "responsible for paying"
+  },
+  "PAYOUT": {
+    "Definition": "a large payment of money"
+  },
+  "CHUBBY": {
+    "Definition": "slightly fat"
+  },
+  "PROTAGONIST": {
+    "Definition": "the main character in a story"
+  },
+  "RUMOURED": {
+    "Definition": "said by some people"
+  },
+  "ASSETS": {
+    "Definition": "valuable things that he owns, such as money and property"
+  },
+  "TRACE": {
+    "Definition": "follow or find"
+  },
+  "PHILANTHROPIST": {
+    "Definition": "a rich person who gives money to help others"
+  },
+  "AT LARGE": {
+    "Definition": "free and not caught"
+  },
+  "PICKED UP THE BILL": {
+    "Definition": "paid for everything"
+  },
+  "PICK UP THE BILL": {
+    "Definition": "pay the cost"
+  },
+  "INTERTWINED": {
+    "Definition": "closely connected"
   }
 }
