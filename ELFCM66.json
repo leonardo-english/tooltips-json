@@ -1,197 +1,200 @@
 {
-  "ANATOMIST": {
-    "Definition": "an expert in anatomy, the study of the structure of the body and its parts"
+  "CONFESS": {
+    "Definition": "admit, even though it is a little embarrassing"
   },
-  "ANATOMY": {
-    "Definition": "the scientific study of the body and how its parts are arranged"
-  },
-  "APPRENTICE": {
-    "Definition": "someone who has agreed to work for a skilled person for a particular period of time and often for low payment, in order to learn that person's skills"
-  },
-  "ARISTOCRATS": {
-    "Definition": "people of high social rank who belongs to the aristocracy"
+  "TURNS OUT": {
+    "Definition": "is discovered in the end"
   },
   "BACK STORY": {
-    "Definition": "the things that have happened to someone before you first see or read about that person in a film or story"
-  },
-  "BANKING ON": {
-    "Definition": "to expect something or depend on something happening"
-  },
-  "BOOM": {
-    "Definition": "an increase in something, or a time when something becomes more popular"
-  },
-  "BRAND": {
-    "Definition": "a type of product made by a particular company"
-  },
-  "BROKE TIES": {
-    "Definition": "cut off relations"
-  },
-  "BY ALL ACCOUNTS": {
-    "Definition": "as said by most people"
-  },
-  "CELEBRATORY": {
-    "Definition": "celebrating the importance of something or someone"
-  },
-  "COATED": {
-    "Definition": "thickly covered"
-  },
-  "CONFESS": {
-    "Definition": "to admit that you have done something wrong or something that you feel guilty or bad about"
-  },
-  "DESTINY": {
-    "Definition": "the things that will happen in the future"
-  },
-  "EAGER": {
-    "Definition": "wanting very much to do or have something, especially something interesting or enjoyable"
-  },
-  "EERILY": {
-    "Definition": "in a strange, frightening, and mysterious way"
-  },
-  "ELABORATED": {
-    "Definition": "containing a lot of careful detail or many detailed parts"
-  },
-  "EXECUTE": {
-    "Definition": "kill as a legal punishment"
-  },
-  "EXECUTED": {
-    "Definition": "to kill someone as a legal punishment"
-  },
-  "EXECUTIONS": {
-    "Definition": "when someone is killed as a punishment"
-  },
-  "FAR FETCHED": {
-    "Definition": "extremely unlikely to be true or to happen"
-  },
-  "FATE": {
-    "Definition": "what happens to a particular person or thing, especially something final or negative, such as death or defeat"
-  },
-  "FEATURES": {
-    "Definition": "a typical quality or an important part of something"
-  },
-  "GET A NAME FOR HERSELF": {
-    "Definition": "became known for a particular thing"
-  },
-  "GOODIES": {
-    "Definition": "an object that people want or enjoy, often something nice to eat"
-  },
-  "GORE": {
-    "Definition": "blood that has come from an injury and become thick"
-  },
-  "GRUESOME": {
-    "Definition": "extremely unpleasant and shocking, and usually dealing with death or injury"
+    "Definition": "a history of how something began and developed"
   },
   "GUILLOTINE": {
-    "Definition": "a device, invented in France, consisting of a sharp blade in a tall frame, used in the past for killing criminals by cutting off their heads"
-  },
-  "HIGH SOCIETY": {
-    "Definition": "rich, powerful, and fashionable people"
-  },
-  "HOUSEKEEPER": {
-    "Definition": "a person whose job is to organise another person's house and deal with cooking, cleaning, etc."
-  },
-  "ILLUSIONIST": {
-    "Definition": "an entertainer who performs tricks where objects seem to appear and then disappear"
-  },
-  "IN THE FLESH": {
-    "Definition": "in real life, and not on TV, in a film, in a picture, etc."
-  },
-  "INHERENTLY": {
-    "Definition": "in a way that exists as a natural or basic part of something"
-  },
-  "LIKENESS": {
-    "Definition": "the fact of being similar in appearance"
-  },
-  "MARVEL": {
-    "Definition": "to show or experience great surprise or admiration"
-  },
-  "MASKS": {
-    "Definition": "a covering for all or part of the face that protects, hides, or decorates the person wearing it"
-  },
-  "MEMOIRS": {
-    "Definition": "a book or other piece of writing based on the writer's personal knowledge of famous people, places, or events"
-  },
-  "MENTOR": {
-    "Definition": "a person who gives a younger or less experienced person help and advice over a period of time, especially at work or school"
-  },
-  "MONARCHY": {
-    "Definition": "a country that has a king or queen"
-  },
-  "OUTGROWING": {
-    "Definition": "to grow bigger than or too big for something"
-  },
-  "PROFITABLE": {
-    "Definition": "making or likely to make a profit, make money"
-  },
-  "PROMINENT": {
-    "Definition": "very well known and important"
-  },
-  "PROSPECTS": {
-    "Definition": "the possibility that something good might happen in the future"
-  },
-  "REIGN": {
-    "Definition": "to be the main feeling or quality in a situation or person"
+    "Definition": "a machine with a heavy falling blade, used to cut off people's heads"
   },
   "RIDE": {
-    "Definition": "exciting journey"
+    "Definition": "an exciting experience full of surprises"
   },
-  "SCULPTURE": {
-    "Definition": "the art of forming solid objects that represent a thing, person, idea, etc. out of a material such as wood, clay, metal, or stone, or an object made in this way"
+  "WAXWORKS": {
+    "Definition": "models of people made from the soft material used for candles, or a museum showing them"
   },
-  "SEEK HIS FORTUNE": {
-    "Definition": "look for success"
+  "BRAND": {
+    "Definition": "a well-known company name and business"
   },
-  "SOCIALISING": {
-    "Definition": "to spend time when you are not working with friends or with other people in order to enjoy yourself"
+  "MEMOIRS": {
+    "Definition": "written accounts of her own life"
   },
-  "SPARED": {
-    "Definition": "(of a person) saved their life"
+  "FAR FETCHED": {
+    "Definition": "hard to believe; unlikely to be true"
   },
-  "STEEL": {
-    "Definition": "a strong metal that is a mixture of iron and carbon, used for making things that need a strong structure, especially vehicles and buildings"
+  "WAXWORKING": {
+    "Definition": "the craft of making models of people from the material used for candles"
+  },
+  "COATED": {
+    "Definition": "covered with a thin layer"
+  },
+  "FEATURES": {
+    "Definition": "face and its parts, such as the eyes, nose and mouth"
   },
   "SUBJECT": {
-    "Definition": "the thing that is being discussed, considered, or studied"
+    "Definition": "the person that the artist is showing"
+  },
+  "HOUSEKEEPER": {
+    "Definition": "a person paid to look after a home, doing the cooking and cleaning"
+  },
+  "ANATOMIST": {
+    "Definition": "a scientist who studies the structure of the human body"
+  },
+  "WAXMAKER": {
+    "Definition": "an artist who makes models from the material used for candles"
+  },
+  "SCULPTURE": {
+    "Definition": "the art of making figures and shapes from materials like stone, clay or wood"
+  },
+  "EAGER": {
+    "Definition": "keen and wanting to learn"
+  },
+  "PROSPECTS": {
+    "Definition": "chances of being successful in the future"
+  },
+  "SEEK HIS FORTUNE": {
+    "Definition": "try to become rich and successful"
+  },
+  "APPRENTICE": {
+    "Definition": "a person learning a skilled job from an expert"
   },
   "SWITCHED": {
     "Definition": "changed"
   },
-  "SYMPATHIES": {
-    "Definition": "support and agreement"
+  "ANATOMY": {
+    "Definition": "bodies and the parts they are made of"
   },
-  "TAPPED INTO": {
-    "Definition": "to manage to use something in a way that brings good results"
+  "HIGH SOCIETY": {
+    "Definition": "the richest and most fashionable people"
   },
-  "THE OUTSET": {
-    "Definition": "the beginning"
+  "DREW": {
+    "Definition": "attracted"
+  },
+  "BOOM": {
+    "Definition": "sudden large increase"
+  },
+  "IN THE FLESH": {
+    "Definition": "in person, physically present"
+  },
+  "GET A NAME FOR HERSELF": {
+    "Definition": "become well known"
+  },
+  "MONARCHY": {
+    "Definition": "the king and the royal family, or rule by a king"
+  },
+  "SOCIALISING": {
+    "Definition": "spending time with other people for pleasure"
+  },
+  "MENTOR": {
+    "Definition": "an experienced person who taught and advised her"
   },
   "THE TIMES": {
-    "Definition": "the current environment"
+    "Definition": "the way things were changing in that period"
   },
-  "TIMELESS": {
-    "Definition": "Something that is timeless does not change as the years go past"
+  "CELEBRATORY": {
+    "Definition": "made to praise and honour someone"
   },
-  "TURNS OUT": {
-    "Definition": "to happen in a particular way or to have a particular result, especially an unexpected one"
+  "EXECUTED": {
+    "Definition": "killed as an official punishment"
   },
-  "UP CLOSE AND PERSONAL": {
-    "Definition": "(colloquial) to be very close to"
+  "ARISTOCRATS": {
+    "Definition": "people from the highest social class"
   },
-  "WAXMAKER": {
-    "Definition": "someone who makes waxworks"
+  "MARVEL": {
+    "Definition": "look with great surprise and admiration"
+  },
+  "FATE": {
+    "Definition": "end; what happened to them"
+  },
+  "REIGN": {
+    "Definition": "period of power or control"
+  },
+  "EXECUTE": {
+    "Definition": "kill as an official punishment"
+  },
+  "SYMPATHIES": {
+    "Definition": "feelings of support"
+  },
+  "STEEL": {
+    "Definition": "strong, hard metal used to make the blade"
+  },
+  "MASKS": {
+    "Definition": "copies of a person's face, made by pressing material onto it"
+  },
+  "SPARED": {
+    "Definition": "saved from being killed"
+  },
+  "GRUESOME": {
+    "Definition": "horrible and unpleasant because it involves death"
+  },
+  "BY ALL ACCOUNTS": {
+    "Definition": "according to what everyone says"
+  },
+  "DESTINY": {
+    "Definition": "future; what would happen to her in life"
+  },
+  "ILLUSIONIST": {
+    "Definition": "a performer who does magic tricks that fool people's eyes"
+  },
+  "BROKE TIES": {
+    "Definition": "ended her connection"
   },
   "WAXWORK": {
-    "Definition": "a wax model of a person"
+    "Definition": "a life-size model of a person made from the material used for candles"
   },
-  "WAXWORKING": {
-    "Definition": "the process of making a waxwork"
+  "PROMINENT": {
+    "Definition": "important and well known"
   },
-  "WAXWORKS": {
-    "Definition": "a wax model of a person"
+  "UP CLOSE AND PERSONAL": {
+    "Definition": "from very close, as if meeting them in person"
   },
-  "WELL-OILED": {
-    "Definition": "working easily and effectively"
+  "EXECUTIONS": {
+    "Definition": "killings carried out as official punishments"
+  },
+  "GORE": {
+    "Definition": "the horrible sight of violent injuries"
+  },
+  "THE OUTSET": {
+    "Definition": "the very beginning"
+  },
+  "PROFITABLE": {
+    "Definition": "making a lot of money"
   },
   "WORTHY": {
-    "Definition": "deserving respect, admiration, or support"
+    "Definition": "useful and deserving praise"
+  },
+  "EERILY": {
+    "Definition": "strangely and in a slightly frightening way"
+  },
+  "OUTGROWING": {
+    "Definition": "becoming too big for"
+  },
+  "TIMELESS": {
+    "Definition": "never going out of fashion; always appealing"
+  },
+  "LIKENESS": {
+    "Definition": "a copy that looks just like a person"
+  },
+  "TAPPED INTO": {
+    "Definition": "found and made use of"
+  },
+  "INHERENTLY": {
+    "Definition": "naturally, as a basic part of what it is"
+  },
+  "BANKING ON": {
+    "Definition": "relying on; confidently expecting"
+  },
+  "WELL-OILED": {
+    "Definition": "running smoothly and efficiently"
+  },
+  "ELABORATED": {
+    "Definition": "added to and made more exciting than the truth"
+  },
+  "GOODIES": {
+    "Definition": "nice extra things"
   }
 }
