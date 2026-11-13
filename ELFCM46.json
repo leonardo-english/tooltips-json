@@ -1,221 +1,227 @@
 {
-  "ABHORRENT": {
-    "Definition": "hateful"
-  },
-  "ABOLISH": {
-    "Definition": "to end an activity or custom officially"
-  },
-  "AGGRAVATES": {
-    "Definition": "to make a bad situation worse"
-  },
-  "AMPUTATIONS": {
-    "Definition": "cutting off of part of the body"
-  },
-  "ARCHITECT": {
-    "Definition": "the person behind, the mastermind"
-  },
-  "ARCHRIVAL": {
-    "Definition": "the chief rival of a person, team, or group"
-  },
-  "BALANCE OF POWER": {
-    "Definition": "a position in which both or all of the groups or people involved, usually in a political situation, have equal power"
-  },
-  "BANNED": {
-    "Definition": "forbidden"
-  },
-  "BARBARIC": {
-    "Definition": "extremely cruel and unpleasant"
-  },
-  "BARBARITY": {
-    "Definition": "behaviour that is very cruel, or a very cruel act"
-  },
-  "BIDE THEIR TIME": {
-    "Definition": "to wait patiently"
-  },
-  "BIDING THEIR TIME": {
-    "Definition": "waiting patiently"
-  },
-  "BOOTS ON THE GROUND": {
-    "Definition": "soldiers, police, etc. who are physically present somewhere in a military or police operation"
-  },
-  "BURQAS": {
-    "Definition": "a piece of clothing that covers the whole head and body, with a hole for the eyes, worn by some Muslim women"
-  },
-  "CHAUVINISTIC": {
-    "Definition": "believing that or behaving as if women are naturally less important, intelligent, or able than men"
-  },
-  "CONDONE": {
-    "Definition": "to accept or allow behaviour that is wrong"
-  },
-  "CONVICTED": {
-    "Definition": "having officially been found guilty of a crime in a law court"
-  },
-  "CYNICAL": {
-    "Definition": "believing that people are only interested in themselves and are not sincere"
-  },
-  "DEEPLY": {
-    "Definition": "extremely or strongly"
-  },
-  "DIVERTED": {
-    "Definition": "to cause something or someone to change direction"
-  },
-  "EMERGE": {
-    "Definition": "to come to the end of a difficult period or experience"
-  },
-  "EMERGED": {
-    "Definition": "come at the end of a difficult period or experience"
-  },
-  "ENDORSEMENT": {
-    "Definition": "the act of saying that you approve of or support something or someone"
-  },
-  "ENFORCED": {
-    "Definition": "to make people obey a law, or to make a particular situation happen or be accepted"
-  },
-  "ENGAGE WITH": {
-    "Definition": "deal with something, take part in something"
-  },
-  "ENLIGHTENING": {
-    "Definition": "giving you more information about something"
-  },
-  "ESTABLISH": {
-    "Definition": "to start a company or organisation that will continue for a long time"
-  },
-  "ETHNIC": {
-    "Definition": "relating to a particular race of people"
-  },
-  "EXTRACT": {
-    "Definition": "to remove or take out something"
-  },
-  "FLOURISH": {
-    "Definition": "to grow or develop successfully"
-  },
-  "FRAUGHT": {
-    "Definition": "full of unpleasant things such as problems or dangers"
-  },
-  "FRINGE": {
-    "Definition": "the outer or less important part of an area, group, or activity"
-  },
-  "FROM THE SIDELINES": {
-    "Definition": "If you are on the sidelines or do something from the sidelines, you are not actively involved in something"
-  },
-  "GAIN": {
-    "Definition": "benefit, or get an advantage"
-  },
-  "GRAPPLING": {
-    "Definition": "to fight, especially in order to win something"
-  },
-  "HARBOURED": {
-    "Definition": "to protect someone or something bad, especially by hiding that person or thing when the police are looking for him, her, or it"
-  },
-  "HORRIFIED": {
-    "Definition": "very shocked"
-  },
-  "INHUMANE": {
-    "Definition": "cruel and causing suffering to people or animals"
-  },
-  "IRONY": {
-    "Definition": "a situation in which something which was intended to have a particular result has the opposite or a very different result"
-  },
-  "LONG STORY SHORT": {
-    "Definition": "used when you do not tell all the details"
-  },
-  "LUCRATIVE": {
-    "Definition": "(especially of a business, job, or activity) producing a lot of money"
-  },
-  "LURKING": {
-    "Definition": "a lurking person or animal is waiting where he, she, or it cannot be seen, usually waiting to attack or do something bad"
-  },
-  "MADRASSAS": {
-    "Definition": "schools where people go to learn about the religion of Islam"
-  },
-  "MIDDLE AGES": {
-    "Definition": "a period in European history, between about AD 1000 and AD 1500, when the power of kings, people of high rank, and the Christian Church was strong"
-  },
-  "MISMANAGEMENT": {
-    "Definition": "the process of organising or controlling something badly"
-  },
-  "MUJAHEDDIN": {
-    "Definition": "fundamentalist Muslim guerrillas; in Afghanistan in 1992 the mujaheddin overthrew the government but were unable to agree on a constitution due to factional conflict and in 1996 Taliban forces seized power"
-  },
-  "OPIUM": {
-    "Definition": "a drug made from the seeds of a poppy (= redflower) that is used to control pain or to help people sleep . It can make a person who takes it want more of it and is sometimes used by people as an illegal drug for pleasure"
-  },
-  "PLOTTING": {
-    "Definition": "making a secret plan"
-  },
-  "PROP IT UP": {
-    "Definition": "to support something"
-  },
-  "PROPOSITION": {
-    "Definition": "an offer or suggestion, usually in business"
-  },
-  "PROXY": {
-    "Definition": "authority given to a person to act for someone else, such as by voting for them in an election, or the person who this authority is given to"
-  },
-  "REGAINING": {
-    "Definition": "to take or get possession of something again"
-  },
-  "REPORTEDLY": {
-    "Definition": "according to what many people say"
-  },
-  "RETREAT": {
-    "Definition": "a private and safe place"
-  },
-  "RIVALRIES": {
-    "Definition": "a situation in which people, businesses, etc. compete with each other for the same thing"
+  "SHARIAH LAW": {
+    "Definition": "the religious legal system of Islam, based on the Koran and Islamic tradition"
   },
   "ROCKET LAUNCHERS": {
-    "Definition": "weapons used to fire rockets into the sky"
-  },
-  "ROUNDED": {
-    "Definition": "balanced"
-  },
-  "SEEN THE LIGHT": {
-    "Definition": "If you see the light, you suddenly understand something you didn't understand before"
+    "Definition": "weapons, often carried on the shoulder, that fire explosive missiles"
   },
   "SEIZE": {
-    "Definition": "to take something quickly and keep or hold it"
+    "Definition": "take control of, often by force"
   },
-  "SHARIAH LAW": {
-    "Definition": "a religious law forming part of the Islamic tradition. It is derived from the religious precepts of Islam, particularly the Quran and the hadith"
+  "EMERGE": {
+    "Definition": "come out at the end"
   },
-  "SIDELINE": {
-    "Definition": "something on the periphery, not a mainstream thing"
+  "ROUNDED": {
+    "Definition": "complete, covering all sides of a subject"
   },
-  "SKEPTICS": {
-    "Definition": "a person who doubts the truth or value of an idea or belief"
+  "BALANCE OF POWER": {
+    "Definition": "the way strength and influence are shared between countries or groups"
   },
-  "STABILITY": {
-    "Definition": "a situation in which something is not likely to move or change"
+  "SEEN THE LIGHT": {
+    "Definition": "finally understood or accepted something that is right"
   },
-  "STAMPING OUT": {
-    "Definition": "to get rid of something that is wrong or harmful"
+  "ENDORSEMENT": {
+    "Definition": "a public statement of support or approval"
   },
-  "STRINGS ATTACHED": {
-    "Definition": "If something such as an agreement has strings attached, it involves special demands or limits"
+  "CONDONE": {
+    "Definition": "accept or approve of (behaviour that is wrong)"
   },
-  "TERRAIN": {
-    "Definition": "an area of land, when considering its natural features"
+  "FLOURISH": {
+    "Definition": "grow and become strong or successful"
   },
-  "THROWBACK": {
-    "Definition": "a person or thing that is similar to an earlier type"
+  "RETREAT": {
+    "Definition": "a quiet, private place where people go to rest and relax"
   },
-  "TOLERATED": {
-    "Definition": "to accept behaviour and beliefs that are different from your own, although you might not agree with or approve of them"
+  "LURKING": {
+    "Definition": "waiting secretly, out of sight, often to do something bad"
   },
   "TRICKY": {
-    "Definition": "If a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill"
+    "Definition": "difficult; needing care or skill"
+  },
+  "PROXY": {
+    "Definition": "indirect, with two powers supporting different sides instead of fighting each other directly"
   },
   "TROOPS": {
     "Definition": "soldiers"
   },
-  "UNIVERSAL SUFFRAGE": {
-    "Definition": "the right for everyone to vote"
+  "PROP IT UP": {
+    "Definition": "help it stay in power when it was weak"
   },
-  "WENT TO THE GROUND": {
-    "Definition": "went into hiding"
+  "MUJAHEDDIN": {
+    "Definition": "Muslim fighters who fought against Soviet forces in Afghanistan"
+  },
+  "LONG STORY SHORT": {
+    "Definition": "to tell the story briefly; in summary"
+  },
+  "MISMANAGEMENT": {
+    "Definition": "bad or careless control and organisation"
+  },
+  "STABILITY": {
+    "Definition": "a calm and safe situation, without sudden changes or trouble"
+  },
+  "STAMPING OUT": {
+    "Definition": "completely ending something bad, often using force"
+  },
+  "DEEPLY": {
+    "Definition": "very; extremely"
+  },
+  "LAWLESS": {
+    "Definition": "without order, where rules were not obeyed and crime was common"
+  },
+  "PROPOSITION": {
+    "Definition": "an offer or idea for people to consider"
+  },
+  "STRINGS ATTACHED": {
+    "Definition": "conditions or limits that come with an offer"
+  },
+  "EMERGED": {
+    "Definition": "come out; first appeared"
+  },
+  "MADRASSAS": {
+    "Definition": "Islamic religious schools"
+  },
+  "ENFORCED": {
+    "Definition": "made people obey"
+  },
+  "CONVICTED": {
+    "Definition": "officially found guilty of a crime in a court"
+  },
+  "AMPUTATIONS": {
+    "Definition": "punishments or operations in which a hand, foot, arm or leg is cut off"
+  },
+  "BURQAS": {
+    "Definition": "long, loose pieces of clothing that cover a woman's whole body and face"
+  },
+  "BANNED": {
+    "Definition": "officially not allowed"
+  },
+  "CHAUVINISTIC": {
+    "Definition": "believing that men are better than women and treating women unfairly"
+  },
+  "BARBARIC": {
+    "Definition": "extremely cruel and violent; uncivilised"
+  },
+  "INHUMANE": {
+    "Definition": "cruel and causing unnecessary suffering"
+  },
+  "HORRIFIED": {
+    "Definition": "very shocked and upset"
+  },
+  "GAIN": {
+    "Definition": "get as an advantage or benefit"
+  },
+  "RIVALRIES": {
+    "Definition": "situations in which countries or groups compete with each other"
+  },
+  "ARCHRIVAL": {
+    "Definition": "the greatest enemy or competitor"
+  },
+  "THROWBACK": {
+    "Definition": "a return to something from a much earlier time"
+  },
+  "MIDDLE AGES": {
+    "Definition": "the period in European history between about AD 500 and 1500"
+  },
+  "BARBARITY": {
+    "Definition": "extreme cruelty and violence"
+  },
+  "TOLERATED": {
+    "Definition": "accepted or allowed, even though not liked"
+  },
+  "HARBOURED": {
+    "Definition": "hidden and protected"
+  },
+  "ARCHITECT": {
+    "Definition": "a person who planned and organised something"
   },
   "WERE NO MATCH": {
-    "Definition": "were no competition"
+    "Definition": "could not compete with; were much weaker than"
+  },
+  "WENT TO THE GROUND": {
+    "Definition": "hid in order to avoid being found or caught"
+  },
+  "REPORTEDLY": {
+    "Definition": "according to what people say, though it is not proven"
+  },
+  "ETHNIC": {
+    "Definition": "relating to groups of people who share a culture, origin or language"
+  },
+  "FRAUGHT": {
+    "Definition": "full (of something bad or worrying)"
+  },
+  "TERRAIN": {
+    "Definition": "the land and its physical features"
+  },
+  "BIDE THEIR TIME": {
+    "Definition": "wait patiently for the right moment to act"
+  },
+  "BOOTS ON THE GROUND": {
+    "Definition": "soldiers present and fighting in an area"
+  },
+  "OPIUM": {
+    "Definition": "an illegal drug made from the poppy plant"
+  },
+  "EXTRACT": {
+    "Definition": "take or get (something), often with difficulty or by force"
+  },
+  "LUCRATIVE": {
+    "Definition": "producing a lot of money; very profitable"
+  },
+  "IRONY": {
+    "Definition": "a situation that is strange or amusing because it is the opposite of what you would expect"
+  },
+  "BIDING THEIR TIME": {
+    "Definition": "waiting patiently for the right moment to act"
+  },
+  "REGAINING": {
+    "Definition": "getting back"
+  },
+  "FROM THE SIDELINES": {
+    "Definition": "from a position away from the main centre of action"
+  },
+  "AGGRAVATES": {
+    "Definition": "annoys or makes angry"
+  },
+  "FRINGE": {
+    "Definition": "outside the main or usual groups; small and extreme"
+  },
+  "SIDELINE": {
+    "Definition": "not central and less important"
+  },
+  "ENGAGE WITH": {
+    "Definition": "deal with; communicate and work with"
+  },
+  "SKEPTICS": {
+    "Definition": "people who doubt that something is true or honest"
+  },
+  "CYNICAL": {
+    "Definition": "done only for selfish reasons, without honest intentions"
+  },
+  "PLOY": {
+    "Definition": "a clever trick or plan to gain an advantage"
+  },
+  "ESTABLISH": {
+    "Definition": "set up; create"
+  },
+  "ABOLISH": {
+    "Definition": "officially end"
+  },
+  "UNIVERSAL SUFFRAGE": {
+    "Definition": "the right of all adults to vote in elections"
+  },
+  "GRAPPLING": {
+    "Definition": "struggling hard"
+  },
+  "DIVERTED": {
+    "Definition": "turned or moved in another direction"
+  },
+  "PLOTTING": {
+    "Definition": "secretly planning"
+  },
+  "ABHORRENT": {
+    "Definition": "extremely wrong and causing disgust"
+  },
+  "ENLIGHTENING": {
+    "Definition": "helpful in giving new knowledge and understanding"
   }
 }
