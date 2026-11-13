@@ -1,95 +1,95 @@
 {
-  "ABUSE": {
-    "Definition": "use of something in a wrong or bad way"
-  },
-  "BILATERAL": {
-    "Definition": "between two groups or countries"
-  },
-  "BROADLY": {
-    "Definition": "largely"
-  },
-  "CODED": {
-    "Definition": "written in a secret way"
-  },
-  "COMPENSATION": {
-    "Definition": "money that is paid to another person or organisation because they have suffered (financially or otherwise)"
-  },
-  "CONGRESS": {
-    "Definition": "a large meeting"
-  },
-  "CONSTITUENTS": {
-    "Definition": "people who vote in an area"
+  "ERA": {
+    "Definition": "a period of history with particular features"
   },
   "CREDITED": {
-    "Definition": "given praise for something that has been done by someone"
-  },
-  "DECOLONISATION": {
-    "Definition": "when a previous colony gains independence"
-  },
-  "DENOUNCED": {
-    "Definition": "criticised"
-  },
-  "DRASTICALLY": {
-    "Definition": "extreme, very large"
-  },
-  "EASE": {
-    "Definition": "easiness, simpleness"
-  },
-  "ECCENTRIC": {
-    "Definition": "strange and unusual"
-  },
-  "ERA": {
-    "Definition": "time or period"
-  },
-  "EVEN ITSELF OUT": {
-    "Definition": "balance"
-  },
-  "EVENTUAL": {
-    "Definition": "final"
+    "Definition": "recognised as the person responsible"
   },
   "FERVENT": {
-    "Definition": "very strong"
+    "Definition": "very strong and passionate"
   },
-  "FLAT": {
-    "Definition": "single, not changing"
+  "EASE": {
+    "Definition": "how simple or difficult it was"
   },
   "FRAUD": {
-    "Definition": "the crime of deceiving someone or something in order to gain something"
+    "Definition": "dishonest tricks used to get money or avoid paying"
   },
-  "HASSLE": {
-    "Definition": "difficulty"
-  },
-  "IMBALANCE": {
-    "Definition": "a lack of balance between parties"
-  },
-  "IMPLEMENTED": {
-    "Definition": "put into place"
-  },
-  "LIABLE": {
-    "Definition": "likely to be affected by"
-  },
-  "LUDICROUS": {
-    "Definition": "very stupid and unreasonable"
-  },
-  "PERENNIAL": {
-    "Definition": "lasting for a long time, forever"
-  },
-  "PRESSED AGAINST THE WALL": {
-    "Definition": "under extreme pressure"
+  "CONSTITUENTS": {
+    "Definition": "the people who live in the area an MP represents"
   },
   "RIPE": {
-    "Definition": "ready"
+    "Definition": "very open; in just the right state"
   },
-  "SHOT UP": {
-    "Definition": "rose quickly"
+  "ABUSE": {
+    "Definition": "wrong or dishonest use"
   },
-  "SUBSIDISING": {
-    "Definition": "paying for part of the cost of something"
+  "CODED": {
+    "Definition": "secret, using signs or words only the receiver understood"
   },
-  "TURNING IN HIS GRAVE": {
-    "Definition": "to say that someone who is dead would not like a current situation"
+  "DRASTICALLY": {
+    "Definition": "by a very large amount"
+  },
+  "LUDICROUS": {
+    "Definition": "extremely silly or unreasonable"
+  },
+  "DENOUNCED": {
+    "Definition": "strongly criticised in public"
+  },
+  "ECCENTRIC": {
+    "Definition": "a person with strange or unusual ideas and behaviour"
   },
   "URGED": {
-    "Definition": "asked strongly"
+    "Definition": "strongly encouraged"
+  },
+  "LIABLE": {
+    "Definition": "likely to suffer from"
+  },
+  "SHOT UP": {
+    "Definition": "rose very quickly"
+  },
+  "BILATERAL": {
+    "Definition": "involving only two countries"
+  },
+  "EVENTUAL": {
+    "Definition": "final, reached at the end"
+  },
+  "HASSLE": {
+    "Definition": "a situation that is annoying and takes a lot of effort"
+  },
+  "CONGRESS": {
+    "Definition": "a large formal meeting of representatives"
+  },
+  "IMPLEMENTED": {
+    "Definition": "put into action"
+  },
+  "FLAT": {
+    "Definition": "fixed and the same for everyone"
+  },
+  "EVEN ITSELF OUT": {
+    "Definition": "become balanced or equal over time"
+  },
+  "IMBALANCE": {
+    "Definition": "a situation in which two amounts are not equal"
+  },
+  "BROADLY": {
+    "Definition": "mostly; in general"
+  },
+  "DECOLONISATION": {
+    "Definition": "territories ruled by other countries becoming independent"
+  },
+  "COMPENSATION": {
+    "Definition": "money paid to make up for work done or costs"
+  },
+  "PERENNIAL": {
+    "Definition": "lasting a long time or happening again and again"
+  },
+  "SUBSIDISING": {
+    "Definition": "paying part of"
+  },
+  "PRESSED AGAINST THE WALL": {
+    "Definition": "forced into a position with no other choice"
+  },
+  "TURNING IN HIS GRAVE": {
+    "Definition": "feeling very upset about it, if he were still alive"
   }
 }
