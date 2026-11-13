@@ -1,197 +1,197 @@
 {
-  "ADMIRABLE": {
-    "Definition": "deserving of praise"
-  },
-  "ANATOMICAL": {
-    "Definition": "relating to anatomy, the study of the human body"
-  },
   "ANATOMIST": {
-    "Definition": "someone who studies anatomy, the study of the structure of the human body"
+    "Definition": "a scientist who studies how the bodies of humans and animals are built"
   },
-  "ANATOMISTS": {
-    "Definition": "people who study anatomy, the structure of the human body"
+  "FUTURIST": {
+    "Definition": "a person who imagines and plans things that will exist in the future"
   },
-  "ANATOMY": {
-    "Definition": "the study of the human body"
+  "POLYMATH": {
+    "Definition": "a person who knows a great deal about many different subjects"
   },
-  "APOCRYPHAL": {
-    "Definition": "well known but probably not true"
+  "EMBODIES": {
+    "Definition": "is a perfect example of"
   },
-  "APPARENT": {
-    "Definition": "clear, able to be seen"
+  "NOTARY": {
+    "Definition": "an official who prepares and checks legal documents"
+  },
+  "PEASANT": {
+    "Definition": "a poor person who worked on the land"
+  },
+  "WEDLOCK": {
+    "Definition": "marriage"
+  },
+  "ILLEGITIMATE": {
+    "Definition": "born to parents who were not married to each other"
+  },
+  "FOOTSTEPS": {
+    "Definition": "path in life, especially the job someone did"
   },
   "APPRENTICESHIP": {
-    "Definition": "a period where a (normally) young person works for a skilled person in order to learn how to do that job"
+    "Definition": "a period of learning a job by working for a skilled person"
   },
-  "ASSUMPTIONS": {
-    "Definition": "things that you believe to be true"
+  "WORKSHOP": {
+    "Definition": "a room or building where an artist and his helpers made things"
   },
-  "BAFFLE": {
-    "Definition": "confuse"
+  "HUB": {
+    "Definition": "the main place where a lot of activity happens"
   },
-  "COMMISSION": {
-    "Definition": "(of an artist) a request from someone to paint or create something"
+  "APPARENT": {
+    "Definition": "clear and easy to see"
   },
-  "COMMISSIONED": {
-    "Definition": "(of an artist) paid to create something"
+  "VOWING": {
+    "Definition": "promising very seriously"
+  },
+  "APOCRYPHAL": {
+    "Definition": "probably made up, though often told as true"
+  },
+  "UNDENIABLE": {
+    "Definition": "certainly true; impossible to argue against"
   },
   "COMMISSIONS": {
-    "Definition": "a commission for a painting is when someone pays you to do it"
+    "Definition": "orders from people paying him to create works of art"
   },
-  "COMPARATIVE": {
-    "Definition": "compared to others people"
+  "DEVELOPED": {
+    "Definition": "gradually came to have"
+  },
+  "REPUTATION": {
+    "Definition": "the opinion that people generally have of someone"
+  },
+  "WANDER": {
+    "Definition": "move away from what it should be focusing on"
+  },
+  "METICULOUS": {
+    "Definition": "very careful and detailed"
+  },
+  "ASSUMPTIONS": {
+    "Definition": "things believed to be true without proof"
+  },
+  "RELENTLESSLY": {
+    "Definition": "without ever stopping or slowing down"
+  },
+  "LABELS": {
+    "Definition": "words used to describe or group people"
+  },
+  "DISCIPLINES": {
+    "Definition": "areas of study or knowledge"
+  },
+  "SOUGHT": {
+    "Definition": "tried; made an effort"
+  },
+  "WHIRLWIND": {
+    "Definition": "very quick and covering a lot"
+  },
+  "WHIZZED THROUGH": {
+    "Definition": "gone through very quickly"
+  },
+  "IDYLLIC": {
+    "Definition": "perfectly happy and peaceful"
+  },
+  "OUTCAST": {
+    "Definition": "a person who is not accepted by society"
+  },
+  "MISFIT": {
+    "Definition": "a person who seems different and is not accepted by the people around them"
+  },
+  "HANDICAP": {
+    "Definition": "a disadvantage that makes things harder"
+  },
+  "SMUDGE": {
+    "Definition": "rub and spread so that it looks messy"
+  },
+  "FAME": {
+    "Definition": "the state of being known by many people"
+  },
+  "ADMIRABLE": {
+    "Definition": "deserving respect and approval"
+  },
+  "SODOMY": {
+    "Definition": "anal sex, which was treated as a crime at the time"
+  },
+  "PUPIL": {
+    "Definition": "a student who learns from a teacher or master"
+  },
+  "DISSECT": {
+    "Definition": "cut open and examine carefully"
   },
   "CORPSES": {
     "Definition": "dead bodies"
   },
+  "SPINES": {
+    "Definition": "the rows of bones down the middle of our backs"
+  },
+  "CURVED": {
+    "Definition": "bent in a smooth line"
+  },
+  "ANATOMISTS": {
+    "Definition": "scientists who study how the bodies of humans and animals are built"
+  },
+  "ANATOMICAL": {
+    "Definition": "based on studying closely how a body is built and works"
+  },
+  "RECREATE": {
+    "Definition": "make a copy of"
+  },
+  "PROPERTIES": {
+    "Definition": "qualities or features that something has"
+  },
+  "DEVISING": {
+    "Definition": "inventing or planning"
+  },
+  "CREDITED": {
+    "Definition": "said to be the person responsible"
+  },
+  "PARACHUTE": {
+    "Definition": "a large piece of cloth that lets a person fall slowly and safely from a height"
+  },
+  "FUNDAMENTAL": {
+    "Definition": "basic and most important"
+  },
+  "EPITOME": {
+    "Definition": "a perfect example"
+  },
+  "ELICITED": {
+    "Definition": "caused or produced"
+  },
+  "SILK": {
+    "Definition": "a fine, smooth, shiny cloth made from threads produced by caterpillars"
+  },
+  "FOREHEAD": {
+    "Definition": "the part of the face above the eyes"
+  },
+  "TRIBUTE": {
+    "Definition": "something done to show respect or love for someone"
+  },
+  "COMMISSION": {
+    "Definition": "a request to create a work of art for payment"
+  },
+  "COMPARATIVE": {
+    "Definition": "relative; when compared with others"
+  },
+  "NOBODY": {
+    "Definition": "an unimportant person"
+  },
+  "COMMISSIONED": {
+    "Definition": "ordered and agreed to pay for"
+  },
+  "ENDURING": {
+    "Definition": "lasting a long time"
+  },
+  "BAFFLE": {
+    "Definition": "completely confuse"
+  },
+  "PIECE TOGETHER": {
+    "Definition": "form by joining small bits of information"
+  },
+  "RELENTLESS": {
+    "Definition": "never stopping or becoming weaker"
+  },
+  "THIRST": {
+    "Definition": "a strong desire"
+  },
   "COUNTLESS": {
     "Definition": "very many"
   },
-  "CREDITED": {
-    "Definition": "given credit for, thought to be the person responsible for something"
-  },
-  "CURVED": {
-    "Definition": "not straight"
-  },
-  "DEVELOPED": {
-    "Definition": "created"
-  },
-  "DEVISING": {
-    "Definition": "planning"
-  },
-  "DISCIPLINES": {
-    "Definition": "subjects or areas"
-  },
-  "DISSECT": {
-    "Definition": "cut up (especially of a dead body)"
-  },
-  "ELICITED": {
-    "Definition": "succeed in getting a reaction from"
-  },
-  "EMBODIES": {
-    "Definition": "represents a quality exactly"
-  },
-  "ENDURING": {
-    "Definition": "existing for a long time"
-  },
-  "EPITOME": {
-    "Definition": "the best possible example"
-  },
-  "FAME": {
-    "Definition": "being famous"
-  },
-  "FOOTSTEPS": {
-    "Definition": "if you follow in someone's footsteps, you do what they do"
-  },
-  "FOREHEAD": {
-    "Definition": "the part of your head between your eyes and your hairline"
-  },
-  "FUNDAMENTAL": {
-    "Definition": "the most basic and important parts of something"
-  },
-  "FUTURIST": {
-    "Definition": "someone who thinking about and studies the future"
-  },
-  "HANDICAP": {
-    "Definition": "disadvantage"
-  },
-  "HUB": {
-    "Definition": "centre, place where lots of activity happens"
-  },
-  "IDYLLIC": {
-    "Definition": "beautiful and happy"
-  },
-  "ILLEGITIMATE": {
-    "Definition": "if you are illegitimate, your parents weren't married when you were born"
-  },
-  "LABELS": {
-    "Definition": "names"
-  },
-  "METICULOUS": {
-    "Definition": "very careful"
-  },
-  "MISFIT": {
-    "Definition": "someone who isn't suited to a situation, or isn't accepted"
-  },
-  "NOTARY": {
-    "Definition": "someone who has the power to officially witness a legal document"
-  },
-  "OUTCAST": {
-    "Definition": "someone who doesn't fit into society"
-  },
-  "PARACHUTE": {
-    "Definition": "a piece of equipment used to jump safely out of a plane"
-  },
-  "PEASANT": {
-    "Definition": "someone who owns or rents a small piece of land"
-  },
-  "PIECE TOGETHER": {
-    "Definition": "if you piece together something, you put together the information you know to discover the truth about it"
-  },
-  "POLYMATH": {
-    "Definition": "someone who has a lot of knowledge about different subjects"
-  },
-  "PROPERTIES": {
-    "Definition": "characteristics"
-  },
-  "PUPIL": {
-    "Definition": "someone who is being taught"
-  },
-  "RECREATE": {
-    "Definition": "to make something exist (again) in a different form"
-  },
-  "RELENTLESS": {
-    "Definition": "without stopping"
-  },
-  "RELENTLESSLY": {
-    "Definition": "without stopping"
-  },
-  "REPUTATION": {
-    "Definition": "if you have a reputation for something, you are known because of it"
-  },
-  "SILK": {
-    "Definition": "a thin, smooth cloth"
-  },
-  "SMUDGE": {
-    "Definition": "if you smudge ink or writing, it becomes dirty and unclear"
-  },
-  "SODOMY": {
-    "Definition": "anal sex"
-  },
-  "SOUGHT": {
-    "Definition": "looked for"
-  },
-  "SPINES": {
-    "Definition": "the line of bones in the centre of your back"
-  },
-  "THIRST": {
-    "Definition": "(figuratively) a need for something"
-  },
-  "TREAT": {
-    "Definition": "something special that is given to someone"
-  },
-  "TRIBUTE": {
-    "Definition": "something you do to express your admiration for someone or something"
-  },
-  "UNDENIABLE": {
-    "Definition": "definitely true"
-  },
-  "VOWING": {
-    "Definition": "promising"
-  },
-  "WANDER": {
-    "Definition": "move without clear purpose"
-  },
-  "WEDLOCK": {
-    "Definition": "being married"
-  },
-  "WHIRLWIND": {
-    "Definition": "very quick"
-  },
-  "WHIZZED THROUGH": {
-    "Definition": "go to very quickly through"
-  },
-  "WORKSHOP": {
-    "Definition": "a building or room where artists work"
+  "ANATOMY": {
+    "Definition": "the study of how bodies are built"
   }
 }
