@@ -1,167 +1,167 @@
 {
-  "ACCOUNTS DIFFER": {
-    "Definition": "there are different versions (of a story)"
-  },
-  "ADMITTED": {
-    "Definition": "given entry (to)"
-  },
-  "APPALLED": {
-    "Definition": "shocked and upset"
-  },
-  "APPRENTICE": {
-    "Definition": "someone who has agreed to work for a skilled person for a period of time"
-  },
-  "ARRAY": {
-    "Definition": "large group"
-  },
-  "BEGGARS": {
-    "Definition": "poor people who ask others for money or food"
-  },
-  "BEHEADING": {
-    "Definition": "cutting the head off"
-  },
-  "BIG BREAK": {
-    "Definition": "an event that gives you the chance to become successful in your job"
-  },
-  "BLASPHEMOUS": {
-    "Definition": "offensive to God or religion"
-  },
-  "CARDINAL": {
-    "Definition": "a high-rank priest of the Catholic church"
-  },
-  "CASTRATE": {
-    "Definition": "to remove the testicles of a male"
-  },
-  "CHIC": {
-    "Definition": "stylish"
-  },
-  "COMMISSIONED": {
-    "Definition": "formally choose someone to do something"
-  },
-  "COMMISSIONING": {
-    "Definition": "formally choosing someone to do something"
-  },
-  "COMMISSIONS": {
-    "Definition": "requests for an artist, designer, or musician to make a piece of art or music, for which they are paid"
-  },
-  "CREDITED": {
-    "Definition": "given credit for"
-  },
-  "CUPID": {
-    "Definition": "in Roman mythology, Cupid was the son of Venus, the Goddess of Love"
-  },
-  "DECAPITATED": {
-    "Definition": "cut off"
-  },
-  "DEPICT": {
-    "Definition": "represent"
-  },
-  "DEPICTED": {
-    "Definition": "represented"
-  },
-  "DUELS": {
-    "Definition": "a formal, arranged fight"
-  },
-  "ENGAGE": {
-    "Definition": "participate (in)"
-  },
-  "ERRATIC": {
-    "Definition": "in an irregular, unpredictable way"
-  },
-  "EXILED": {
-    "Definition": "forced to leave a city or country"
-  },
-  "FIGURES": {
-    "Definition": "characters"
-  },
-  "FLED": {
-    "Definition": "past participle of 'flee'"
-  },
-  "FLEE": {
-    "Definition": "escape by running away"
-  },
-  "FLOATED AROUND": {
-    "Definition": "to move around without purpose"
-  },
-  "GAME OVER": {
-    "Definition": "finished, ended"
-  },
-  "IDEALISED": {
-    "Definition": "represented as perfect"
-  },
-  "IGNOMINIOUS": {
-    "Definition": "embarrassing or humiliating"
-  },
-  "IN DEMAND": {
-    "Definition": "requested by many"
-  },
-  "IN THE FLESH": {
-    "Definition": "in real life"
-  },
-  "IN THE SLIGHTEST": {
-    "Definition": "at all"
-  },
-  "LENGTHY": {
-    "Definition": "very long"
-  },
-  "METICULOUS": {
-    "Definition": "very careful"
-  },
-  "MORALITY": {
-    "Definition": "personal or social standards for behaviour"
-  },
-  "OBSESSED": {
-    "Definition": "unable to stop thinking about something"
-  },
-  "ODD-JOBS": {
-    "Definition": "small jobs"
+  "PATERNAL": {
+    "Definition": "related through his father; on his father's side of the family"
   },
   "ORPHAN": {
-    "Definition": "a child with no parents"
+    "Definition": "someone whose mother and father have both died"
   },
-  "PARDON": {
-    "Definition": "officially forgiven (for something)"
+  "APPRENTICE": {
+    "Definition": "a young person who works for a skilled person to learn their trade"
   },
-  "PATERNAL": {
-    "Definition": "on the father's side"
-  },
-  "PISTOL": {
-    "Definition": "a small gun"
-  },
-  "RETRIBUTION": {
-    "Definition": "revenge for something"
-  },
-  "SATIRICAL": {
-    "Definition": "criticising of others in a funny, clever, way"
-  },
-  "SEVERED": {
-    "Definition": "cut off"
-  },
-  "SIGNATURE": {
-    "Definition": "typical of someone"
+  "CHIC": {
+    "Definition": "stylish and elegant"
   },
   "SIN": {
-    "Definition": "law-breaking, often against religious laws"
-  },
-  "SLASHED": {
-    "Definition": "cut with a sharp blade"
-  },
-  "SPONSORED": {
-    "Definition": "supported with payments"
-  },
-  "SUCCUMBED": {
-    "Definition": "if you succumb to an illness, you die of it"
+    "Definition": "wrong and immoral behaviour"
   },
   "SWIFTLY": {
     "Definition": "quickly"
   },
-  "TAVERN": {
-    "Definition": "a bar or pub"
+  "FLEE": {
+    "Definition": "leave a place quickly to escape danger"
+  },
+  "ODD-JOBS": {
+    "Definition": "small, different pieces of work, often for little pay"
+  },
+  "BIG BREAK": {
+    "Definition": "a lucky chance that led to success"
+  },
+  "SPONSORED": {
+    "Definition": "supported with money"
+  },
+  "COMMISSIONING": {
+    "Definition": "formally ordering and paying for"
   },
   "TURBULENT": {
-    "Definition": "full of changes and violence"
+    "Definition": "full of trouble, conflict and sudden changes"
+  },
+  "IDEALISED": {
+    "Definition": "made to look perfect, better than in real life"
+  },
+  "FIGURES": {
+    "Definition": "people or characters, especially important ones"
+  },
+  "BEGGARS": {
+    "Definition": "people who live by asking others for money or food"
+  },
+  "CUPID": {
+    "Definition": "the Roman god of love, often shown as a boy with wings and a bow"
+  },
+  "COMMISSIONED": {
+    "Definition": "formally ordered and paid for"
+  },
+  "APPALLED": {
+    "Definition": "very shocked and upset"
+  },
+  "DEPICT": {
+    "Definition": "show or represent in a picture"
+  },
+  "BLASPHEMOUS": {
+    "Definition": "showing disrespect towards God or religion"
+  },
+  "DEPICTED": {
+    "Definition": "shown or represented in a picture"
+  },
+  "METICULOUS": {
+    "Definition": "very careful and detailed"
+  },
+  "LENGTHY": {
+    "Definition": "very long"
+  },
+  "ENGAGE": {
+    "Definition": "take part"
+  },
+  "DUELS": {
+    "Definition": "formal fights between two people, usually with weapons, to settle an argument"
+  },
+  "PISTOL": {
+    "Definition": "a small gun held in one hand"
+  },
+  "SATIRICAL": {
+    "Definition": "using humour to mock and criticise someone"
+  },
+  "ARRAY": {
+    "Definition": "a large and varied collection"
+  },
+  "IN DEMAND": {
+    "Definition": "wanted by many people"
+  },
+  "ACCOUNTS DIFFER": {
+    "Definition": "people's descriptions of the events do not agree"
+  },
+  "CASTRATE": {
+    "Definition": "remove the sexual organs of a man by cutting them off"
+  },
+  "EXILED": {
+    "Definition": "officially forced to leave and not allowed to return"
+  },
+  "PARDON": {
+    "Definition": "an official decision to forgive a crime and cancel its punishment"
+  },
+  "ADMITTED": {
+    "Definition": "allowed to join"
+  },
+  "SIGNATURE": {
+    "Definition": "typical and easily recognised as belonging to him"
+  },
+  "BEHEADING": {
+    "Definition": "killing someone by cutting through their neck"
+  },
+  "OBSESSED": {
+    "Definition": "always thinking about something and unable to stop"
+  },
+  "SEVERED": {
+    "Definition": "cut off completely"
+  },
+  "GAME OVER": {
+    "Definition": "the end, with no hope left"
+  },
+  "FLED": {
+    "Definition": "escaped quickly from danger"
+  },
+  "FLOATED AROUND": {
+    "Definition": "moved from place to place without a fixed plan"
+  },
+  "COMMISSIONS": {
+    "Definition": "orders to produce pieces of art for payment"
+  },
+  "ERRATIC": {
+    "Definition": "unpredictable and strange"
   },
   "VICIOUSLY": {
-    "Definition": "in a cruel way"
+    "Definition": "in a very violent and cruel way"
+  },
+  "TAVERN": {
+    "Definition": "an old-fashioned pub or inn where people drank alcohol"
+  },
+  "SLASHED": {
+    "Definition": "cut deeply with a violent stroke of a knife or sword"
+  },
+  "RETRIBUTION": {
+    "Definition": "an act of revenge or punishment"
+  },
+  "DECAPITATED": {
+    "Definition": "removed from the body by cutting through the neck"
+  },
+  "CARDINAL": {
+    "Definition": "a very senior priest in the Catholic Church"
+  },
+  "SUCCUMBED": {
+    "Definition": "died because of"
+  },
+  "IGNOMINIOUS": {
+    "Definition": "shameful and embarrassing"
+  },
+  "CREDITED": {
+    "Definition": "recognised as an important influence"
+  },
+  "MORALITY": {
+    "Definition": "ideas about what is right and wrong"
+  },
+  "IN THE SLIGHTEST": {
+    "Definition": "at all"
+  },
+  "IN THE FLESH": {
+    "Definition": "when seen in person, not in a copy or photo"
   }
 }
