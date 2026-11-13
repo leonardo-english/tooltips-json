@@ -1,113 +1,113 @@
 {
-  "ALGORITHM": {
-    "Definition": "a set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem"
-  },
-  "ALL-SEEING": {
-    "Definition": "something that can see everything"
-  },
-  "ANYTHING BUT": {
-    "Definition": "used to mean the opposite of the stated quality"
-  },
-  "BACK DOWN": {
-    "Definition": "to admit that you were wrong or that you have been defeated"
-  },
-  "BIAS": {
-    "Definition": "the action of supporting or opposing a particular person or thing in an unfair way, because of allowing personal opinions to influence your judgment"
-  },
-  "BLINDING": {
-    "Definition": "extremely bright"
-  },
-  "BUZZWORD": {
-    "Definition": "a word or expression from a particular subject area that has become fashionable by being used a lot, especially on television and in the newspapers"
-  },
-  "COMB": {
-    "Definition": "to search a place or an area very carefully"
-  },
-  "CONNECT THE DOTS": {
-    "Definition": "bringing together information from different places, find a pattern"
-  },
-  "CRACK": {
-    "Definition": "solve"
-  },
-  "CREEPY": {
-    "Definition": "strange or unnatural and making you feel frightened"
-  },
-  "CYNICS": {
-    "Definition": "people who believe that people are only interested in themselves and are not sincere"
-  },
-  "DEPORT": {
-    "Definition": "to force someone to leave a country, especially someone who has no legal right to be there or who has broken the law"
-  },
-  "DOUBLESPEAK": {
-    "Definition": "language that has no real meaning or has more than one meaning and is intended to hide the truth"
-  },
-  "EERILY": {
-    "Definition": "in a strange, frightening, and mysterious way"
-  },
-  "EROSION": {
-    "Definition": "the fact of a good quality or situation being gradually lost or destroyed"
-  },
-  "FRAUDSTER": {
-    "Definition": "someone who gets money by deceiving people"
-  },
-  "GARGANTUAN": {
-    "Definition": "very large"
-  },
-  "HARDWARE": {
-    "Definition": "metal tools, materials, and equipment used in a house or a garden, such as hammers, nails, and screws"
-  },
-  "IN INVERTED COMMAS": {
-    "Definition": "used in spoken English after a word or phrase to show that it has not been used accurately or that the opposite meaning is intended"
-  },
-  "INFINITELY": {
-    "Definition": "very or very much"
-  },
-  "INSIDER TRADING": {
-    "Definition": "the illegal buying and selling of company shares by people who have special information because they are involved with the company"
-  },
-  "INTRUSION": {
-    "Definition": "an occasion when someone goes into a place or situation where they are not wanted or expected to be"
+  "POSES": {
+    "Definition": "creates or brings"
   },
   "LIBERTARIAN": {
-    "Definition": "a person who believes that people should be free to think and behave as they want and should not have limits put on them by governments"
+    "Definition": "believing that people should be free to live with very little control from the government"
   },
-  "LUCRATIVE": {
-    "Definition": "(especially of a business, job, or activity) producing a lot of money‍"
+  "DOUBLESPEAK": {
+    "Definition": "language that sounds important but hides the real meaning or says very little"
   },
-  "MONITOR": {
-    "Definition": "to watch and check a situation carefully for a period of time in order to discover something about it"
+  "ANYTHING BUT": {
+    "Definition": "not at all simple; the opposite of that"
   },
-  "OMNIPOTENT": {
-    "Definition": "having unlimited power and able to do anything"
+  "CONNECT THE DOTS": {
+    "Definition": "find the links between separate pieces of information"
   },
-  "ORB": {
-    "Definition": "something in the shape of a ball"
+  "INSIDER TRADING": {
+    "Definition": "the illegal buying or selling of shares by people who use secret company information"
+  },
+  "BUZZWORD": {
+    "Definition": "a fashionable word or phrase that many people use"
+  },
+  "GARGANTUAN": {
+    "Definition": "extremely large"
   },
   "PIECE TOGETHER": {
-    "Definition": "if you piece together facts or information, you collect them in order to understand a situation"
-  },
-  "PLEAS": {
-    "Definition": "an urgent and emotional request"
-  },
-  "POSES": {
-    "Definition": "to cause something, especially a problem or difficulty"
+    "Definition": "combine separate bits of information to build a full picture from"
   },
   "SCRATCHING THEIR HEAD": {
-    "Definition": "to be confused about something, unable to figure it out"
+    "Definition": "thinking hard about a problem that they cannot understand"
   },
-  "SPOKEN OUT": {
-    "Definition": "to publicly speak in protest about something, especially when protesting could be dangerous"
+  "CRACK": {
+    "Definition": "solve; work out"
   },
-  "TREASONOUS": {
-    "Definition": "involving or guilty of the crime of betraying one's country‍"
+  "INFINITELY": {
+    "Definition": "far, far; by an enormous amount"
   },
-  "WEB": {
-    "Definition": "a large connected group of"
+  "HARDWARE": {
+    "Definition": "tools, building materials and household equipment"
   },
   "WEIGH UP": {
-    "Definition": "to think carefully about the advantages or disadvantages of a situation before making a decision"
+    "Definition": "carefully compare"
+  },
+  "EROSION": {
+    "Definition": "a slow loss or weakening"
+  },
+  "ALL-SEEING": {
+    "Definition": "able to see everything"
+  },
+  "COMB": {
+    "Definition": "search very carefully"
+  },
+  "SPOKEN OUT": {
+    "Definition": "publicly given its strong opinion"
+  },
+  "MONITOR": {
+    "Definition": "watch and check closely"
+  },
+  "IN INVERTED COMMAS": {
+    "Definition": "so-called; used to show some doubt about the words just said"
+  },
+  "EERILY": {
+    "Definition": "in a strange and slightly frightening way"
+  },
+  "ALGORITHM": {
+    "Definition": "a set of rules that a computer follows to solve a problem or make decisions"
+  },
+  "CREEPY": {
+    "Definition": "strange and frightening in an unpleasant way"
+  },
+  "BIAS": {
+    "Definition": "unfair treatment for or against a particular group of people"
   },
   "WEIGHTED": {
-    "Definition": "prepared and arranged in a way that is likely to produce a particular effect, usually an advantage, rather than any other"
+    "Definition": "leaned; focused more"
+  },
+  "DEPORT": {
+    "Definition": "force people to leave a country"
+  },
+  "PLEAS": {
+    "Definition": "strong, emotional requests"
+  },
+  "BACK DOWN": {
+    "Definition": "give up its position after being challenged"
+  },
+  "TREASONOUS": {
+    "Definition": "disloyal to its own country in a way that is a serious crime"
+  },
+  "CYNICS": {
+    "Definition": "people who believe that others act only for selfish reasons"
+  },
+  "LUCRATIVE": {
+    "Definition": "making a lot of money"
+  },
+  "WEB": {
+    "Definition": "a large, complicated network"
+  },
+  "INTRUSION": {
+    "Definition": "illegal entry into places or systems where you are not allowed"
+  },
+  "FRAUDSTER": {
+    "Definition": "a person who tricks people in order to get money"
+  },
+  "OMNIPOTENT": {
+    "Definition": "all-powerful; able to do anything"
+  },
+  "ORB": {
+    "Definition": "a round object shaped like a ball"
+  },
+  "BLINDING": {
+    "Definition": "so bright that you cannot see"
   }
 }
