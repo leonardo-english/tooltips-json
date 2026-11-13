@@ -1,110 +1,110 @@
 {
+  "GLIDE": {
+    "Definition": "move smoothly and easily"
+  },
+  "SYNONYM": {
+    "Definition": "a word with the same meaning as another word"
+  },
+  "MAMMALS": {
+    "Definition": "animals that breathe air and feed their young on milk"
+  },
+  "PORPOISES": {
+    "Definition": "small sea animals related to dolphins, with short rounded noses"
+  },
+  "ORCA": {
+    "Definition": "large black and white whales with teeth that hunt seals and fish"
+  },
+  "BALEEN": {
+    "Definition": "stiff, comb-like material that hangs in the mouth and filters food from the water"
+  },
+  "GRILL": {
+    "Definition": "a set of thin bars or plates that lets water through but traps food"
+  },
+  "MISCONCEPTION": {
+    "Definition": "a wrong belief or idea that many people have"
+  },
+  "KILLER WHALES": {
+    "Definition": "large black and white sea mammals that hunt seals, fish and other sea animals"
+  },
+  "PLANKTON": {
+    "Definition": "tiny plants and animals that float in the sea"
+  },
+  "HOOVERING UP": {
+    "Definition": "sucking in quickly, like a vacuum cleaner"
+  },
+  "MATTER": {
+    "Definition": "material or substance"
+  },
+  "GROSS": {
+    "Definition": "disgusting; very unpleasant"
+  },
+  "MIGRATE": {
+    "Definition": "travel from one region to another"
+  },
+  "MIGRATES": {
+    "Definition": "travels from one region to another and back"
+  },
+  "LENGTHY": {
+    "Definition": "taking a lot of time"
+  },
+  "INTERACT": {
+    "Definition": "communicate and respond to one another"
+  },
+  "CLICKS": {
+    "Definition": "short, sharp sounds"
+  },
+  "WHISTLES": {
+    "Definition": "high, clear sounds"
+  },
+  "IMITATE": {
+    "Definition": "copy"
+  },
+  "INNATE": {
+    "Definition": "natural and present from birth"
+  },
+  "OCTAVES": {
+    "Definition": "ranges of musical notes, each from one note to the same note higher up"
+  },
+  "HYPOTHESISED": {
+    "Definition": "suggested as a possible explanation"
+  },
+  "GOSSIPING": {
+    "Definition": "chatting casually and perhaps unkindly"
+  },
+  "WIPED OFF THE FACE OF THE PLANET": {
+    "Definition": "completely destroyed so that none were left"
+  },
+  "HARPOON": {
+    "Definition": "a spear-like weapon fired from a ship to kill whales"
+  },
+  "EXTINCTION": {
+    "Definition": "the point where a species has died out completely"
+  },
+  "WITHIN AN INCH OF": {
+    "Definition": "very close to"
+  },
+  "QUOTAS": {
+    "Definition": "official limits on the number of whales that could be killed"
+  },
   "ALBEIT": {
     "Definition": "although"
   },
-  "BALEEN": {
-    "Definition": "the grill feeding system used by baleen whales"
-  },
   "BANNED": {
-    "Definition": "forbidden"
-  },
-  "CLICKS": {
-    "Definition": "short, hard sounds"
-  },
-  "DISCONCERTING": {
-    "Definition": "making you feel confused or worried"
-  },
-  "DRIFTING": {
-    "Definition": "moving slowly"
-  },
-  "ENDANGERED": {
-    "Definition": "to be in danger of extinction"
-  },
-  "EXTINCTION": {
-    "Definition": "when a particular kind of animal no longer exists"
-  },
-  "GLIDE": {
-    "Definition": "move easily, with little effort"
-  },
-  "GOSSIPING": {
-    "Definition": "having a conversation about someone's life, normally without their knowledge"
-  },
-  "GRILL": {
-    "Definition": "a frame with bars"
-  },
-  "GROSS": {
-    "Definition": "disgusting"
-  },
-  "HARPOON": {
-    "Definition": "a long, heavy spear, attached to a rope"
+    "Definition": "officially forbidden"
   },
   "HARPOONS": {
-    "Definition": "long, heavy spears, attached to a rope"
+    "Definition": "spear-like weapons fired from ships to kill whales"
   },
-  "HOOVERING UP": {
-    "Definition": "eating in a manner similar to a vacuum cleaner"
+  "DISCONCERTING": {
+    "Definition": "upsetting and confusing"
   },
-  "HYPOTHESISED": {
-    "Definition": "provided an explanation"
+  "ENDANGERED": {
+    "Definition": "at risk of dying out completely"
   },
-  "IMITATE": {
-    "Definition": "behave in a similar way to"
-  },
-  "INNATE": {
-    "Definition": "something you were born with, not learned"
-  },
-  "INTERACT": {
-    "Definition": "communicate (in a group)"
-  },
-  "KILLER WHALES": {
-    "Definition": "black and while whales"
-  },
-  "LENGTHY": {
-    "Definition": "very long"
-  },
-  "MAMMALS": {
-    "Definition": "warm-blooded animals where the female feeds the young with her own milk"
-  },
-  "MATTER": {
-    "Definition": "material"
-  },
-  "MIGRATE": {
-    "Definition": "travels to a different place"
-  },
-  "MIGRATES": {
-    "Definition": "travels to a different place"
-  },
-  "MISCONCEPTION": {
-    "Definition": "an idea that is wrong because people don't understand the subject properly"
-  },
-  "OCTAVES": {
-    "Definition": "an octave is the distance between 8 musical notes"
-  },
-  "ORCA": {
-    "Definition": "a black and while whale"
-  },
-  "PLANKTON": {
-    "Definition": "very small plants and animals that float on the surface of the sea"
+  "DRIFTING": {
+    "Definition": "moving slowly and gently, without any control"
   },
   "POINTLESS": {
-    "Definition": "having no purpose"
-  },
-  "PORPOISES": {
-    "Definition": "a sea animal similar to a dolphin"
-  },
-  "QUOTAS": {
-    "Definition": "a fixed amount of something"
-  },
-  "SYNONYM": {
-    "Definition": "a word that has the same meaning as another"
-  },
-  "WHISTLES": {
-    "Definition": "high sounds created by forcing air through a small hole"
-  },
-  "WIPED OFF": {
-    "Definition": "destroyed"
-  },
-  "WITHIN AN INCH OF": {
-    "Definition": "almost"
+    "Definition": "useless; having no real purpose"
   }
 }
