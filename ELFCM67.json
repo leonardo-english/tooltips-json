@@ -1,131 +1,131 @@
 {
-  "ABANDONED": {
-    "Definition": "left in a particular place or condition, usually forever"
-  },
-  "ACOUSTIC": {
-    "Definition": "relating to sound or hearing"
-  },
-  "ASTRONAUTS": {
-    "Definition": "people who have been trained for travelling in space"
-  },
-  "AWKWARD": {
-    "Definition": "difficult to use, do, or deal with, embarrassing"
-  },
-  "BARE": {
-    "Definition": "without any clothes or not covered by anything"
-  },
-  "CONCENTRATED": {
-    "Definition": "using a lot of effort to succeed at one particular thing"
-  },
-  "DAWN": {
-    "Definition": "the period in the day when light from the sun begins to appear in the sky, the start of"
-  },
-  "DESIRED": {
-    "Definition": "that is wanted"
-  },
-  "DEVICE": {
-    "Definition": "an object or machine that has been invented for a particular purpose"
-  },
-  "DISTILLING": {
-    "Definition": "to make a liquid stronger or purer by heating it until it changes to a gas and then cooling it so that it changes back into a liquid"
-  },
-  "EMITTED": {
-    "Definition": "sent out (a noise, or signal)"
-  },
-  "EUREKA": {
-    "Definition": "used to show that you have been successful in something you were trying to do"
-  },
-  "EVOLVED": {
-    "Definition": "having changed"
-  },
-  "FASTENING": {
-    "Definition": "fixing something together"
-  },
-  "FILED": {
-    "Definition": "to officially record something"
-  },
-  "FLUFFY": {
-    "Definition": "soft and like wool or fur"
-  },
-  "FUR": {
-    "Definition": "the thick hair that covers the bodies of some animals, or the hair-covered skin(s) of animals, removed from their bodies"
-  },
-  "HIT": {
-    "Definition": "success"
-  },
-  "HOLLOW": {
-    "Definition": "having a hole or empty space inside"
-  },
-  "HOOKS": {
-    "Definition": "a curved device used for catching or holding things, especially one attached to a surface for hanging things on"
-  },
-  "LABORATORIES": {
-    "Definition": "a room or building with scientific equipment for doing scientific tests or for teaching science, or a place where chemicals or medicines are produced"
-  },
   "LABORATORY": {
-    "Definition": "a room or building with scientific equipment for doing scientific tests or for teaching science, or a place where chemicals or medicines are produced"
-  },
-  "LACES": {
-    "Definition": "a string that you use to fasten openings, especially in shoes, by putting it through two lines of small holes and tying the ends together"
-  },
-  "MELTED": {
-    "Definition": "having turned soft or into a liquid"
-  },
-  "MIRACLE": {
-    "Definition": "an unusual and mysterious event that is thought to have been caused by a god because it does not follow the usual laws of nature"
-  },
-  "PATENT": {
-    "Definition": "the official legal right to make or sell an invention for a particular number of years"
-  },
-  "PATENTS": {
-    "Definition": "the official legal right to make or sell an invention for a particular number of years"
-  },
-  "PENULTIMATE": {
-    "Definition": "second from the last"
-  },
-  "PILOT": {
-    "Definition": "to test a new product before it is sold"
-  },
-  "POPPING": {
-    "Definition": "exploding"
-  },
-  "RADAR": {
-    "Definition": "a system that uses radio waves to find the position of objects that cannot be seen"
-  },
-  "RELUCTANT": {
-    "Definition": "not willing to do something and therefore slow to do it"
-  },
-  "SCRATCHED": {
-    "Definition": "to cut or damage a surface or your skin slightly with or on something sharp or rough"
-  },
-  "SIDE-EFFECT": {
-    "Definition": "an unpleasant effect of a drug that happens in addition to the main effect"
-  },
-  "STUMBLE": {
-    "Definition": "to discover or find something or someone by chance"
-  },
-  "STUMBLED ACROSS": {
-    "Definition": "to discover or find something or someone by chance"
-  },
-  "SYNTHETIC": {
-    "Definition": "Synthetic products are made from artificial substances, often copying a natural product"
-  },
-  "THE LEGEND GOES": {
-    "Definition": "according to the story"
-  },
-  "TIGHTEN": {
-    "Definition": "to become tighter or to make something become tighter, firmer, or less easy to move"
-  },
-  "UNCONVENTIONAL": {
-    "Definition": "different from what is usual or from the way most people do things"
+    "Definition": "a room or building used for scientific experiments"
   },
   "UNORTHODOX": {
-    "Definition": "different from what is usual or expected in behaviour, ideas, methods, etc."
-  },
-  "WITHOUT FURTHER ADO": {
-    "Definition": "without wasting more time"
+    "Definition": "different from the usual or accepted way"
   },
   "WORKSHOP": {
-    "Definition": "a room or building where things are made or repaired using machines and/or tools"
+    "Definition": "a room or building where things are made or repaired"
+  },
+  "EUREKA": {
+    "Definition": "sudden discovery"
+  },
+  "WITHOUT FURTHER ADO": {
+    "Definition": "without waiting or talking any longer"
+  },
+  "DISTILLING": {
+    "Definition": "heating until it turns to steam, then cooling it to make it stronger"
+  },
+  "DAWN": {
+    "Definition": "very beginning"
+  },
+  "CONCENTRATED": {
+    "Definition": "made stronger by taking out much of the water"
+  },
+  "STUMBLED ACROSS": {
+    "Definition": "found by chance"
+  },
+  "RADAR": {
+    "Definition": "a system that uses radio waves to find where objects such as planes are"
+  },
+  "MELTED": {
+    "Definition": "become soft or liquid because of heat"
+  },
+  "EMITTED": {
+    "Definition": "sent out"
+  },
+  "THE LEGEND GOES": {
+    "Definition": "according to the popular story"
+  },
+  "POPPING": {
+    "Definition": "bursting open with short, sharp sounds"
+  },
+  "FILED": {
+    "Definition": "officially sent in a request for"
+  },
+  "PATENT": {
+    "Definition": "an official right to be the only one who makes or sells an invention"
+  },
+  "MIRACLE": {
+    "Definition": "amazingly effective"
+  },
+  "DESIRED": {
+    "Definition": "wanted or hoped-for"
+  },
+  "ABANDONED": {
+    "Definition": "given up; no longer worked on"
+  },
+  "PILOT": {
+    "Definition": "small first test"
+  },
+  "SIDE-EFFECT": {
+    "Definition": "an extra result of a medicine that was not intended"
+  },
+  "RELUCTANT": {
+    "Definition": "unwilling"
+  },
+  "PATENTS": {
+    "Definition": "official rights to be the only one who makes or sells an invention"
+  },
+  "PENULTIMATE": {
+    "Definition": "second to last"
+  },
+  "TIGHTEN": {
+    "Definition": "make firmer so that they fit closely"
+  },
+  "LACES": {
+    "Definition": "thin strings used to tie shoes"
+  },
+  "FLUFFY": {
+    "Definition": "soft and covered in fine hairs"
+  },
+  "HOOKS": {
+    "Definition": "small curved pieces that catch onto things"
+  },
+  "FUR": {
+    "Definition": "thick hair covering an animal's body"
+  },
+  "SYNTHETIC": {
+    "Definition": "made by people rather than found in nature"
+  },
+  "FASTENING": {
+    "Definition": "joining or fixing"
+  },
+  "HIT": {
+    "Definition": "success; something very popular"
+  },
+  "ASTRONAUTS": {
+    "Definition": "people who travel into space"
+  },
+  "BARE": {
+    "Definition": "not covered by clothes"
+  },
+  "AWKWARD": {
+    "Definition": "uncomfortable or embarrassing"
+  },
+  "HOLLOW": {
+    "Definition": "empty inside"
+  },
+  "SCRATCHED": {
+    "Definition": "rubbed with something sharp"
+  },
+  "EVOLVED": {
+    "Definition": "changed and developed gradually"
+  },
+  "ACOUSTIC": {
+    "Definition": "relating to sound"
+  },
+  "DEVICE": {
+    "Definition": "a tool or machine made for a particular purpose"
+  },
+  "LABORATORIES": {
+    "Definition": "rooms or buildings used for scientific research"
+  },
+  "STUMBLE ACROSS": {
+    "Definition": "find by chance"
+  },
+  "UNCONVENTIONAL": {
+    "Definition": "not usual; different from the normal way"
   }
 }
