@@ -1,284 +1,299 @@
 {
-  "ACCOMPLISHED": {
-    "Definition": "skilled"
+  "TERRORISED": {
+    "Definition": "frightened and attacked with violence"
   },
-  "ADMIRABLE": {
-    "Definition": "worthy of praise"
-  },
-  "ANCESTRY": {
-    "Definition": "members of your family who lived a long time ago"
-  },
-  "ARCHAEOLOGY": {
-    "Definition": "the study of ancient societies by looking at what remains of their buildings, graves, tools etc."
+  "THE BEST PART OF": {
+    "Definition": "most of; nearly all of"
   },
   "BARBARIAN": {
-    "Definition": "a member of a group from a different country"
+    "Definition": "wild and violent, without manners or culture"
   },
-  "BARBARIANS": {
-    "Definition": "members of a group from a different country"
+  "HORNS": {
+    "Definition": "hard, pointed parts that grow on an animal's head, or cups made from them"
   },
-  "BERSERK": {
-    "Definition": "mad"
+  "RAPING": {
+    "Definition": "forcing people to have sex against their will"
   },
-  "BLOODTHIRSTY": {
-    "Definition": "wanting to see violent activities happen"
+  "TERRORISING": {
+    "Definition": "frightening and attacking with violence"
+  },
+  "GROSS": {
+    "Definition": "very great and obvious"
+  },
+  "OVERSIMPLIFICATION": {
+    "Definition": "an explanation that makes something seem much less complicated than it really is"
+  },
+  "SOPHISTICATED": {
+    "Definition": "advanced and highly developed"
+  },
+  "ADMIRABLE": {
+    "Definition": "deserving praise and respect"
+  },
+  "MONASTERY": {
+    "Definition": "a building where religious men live, work and pray together"
+  },
+  "MONKS": {
+    "Definition": "men who live apart from society and give their lives to religion"
+  },
+  "RUSHED OUT": {
+    "Definition": "ran out very quickly"
+  },
+  "SPEARS": {
+    "Definition": "long weapons with a sharp metal point at one end"
+  },
+  "MASSACRED": {
+    "Definition": "violently and cruelly killed"
+  },
+  "RAIDS": {
+    "Definition": "sudden attacks on places, often to steal things"
+  },
+  "MONASTERIES": {
+    "Definition": "buildings where religious men live, work and pray together"
+  },
+  "OVERPOPULATION": {
+    "Definition": "too many people living in one area"
+  },
+  "PASTURES NEW": {
+    "Definition": "a new place to live or work"
+  },
+  "SEEK": {
+    "Definition": "look for; try to find"
+  },
+  "IMBALANCE": {
+    "Definition": "a situation where two numbers are not equal"
   },
   "BRIDES": {
     "Definition": "women to marry"
   },
-  "BROAD": {
-    "Definition": "general"
-  },
-  "BRUTAL": {
-    "Definition": "cruel and violet"
-  },
-  "CARVED": {
-    "Definition": "cut (into something)"
-  },
-  "CAUGHT THEIR EYE": {
-    "Definition": "attracted them"
-  },
-  "CEREMONIAL": {
-    "Definition": "related to a ceremony"
-  },
-  "COTTONED ON": {
-    "Definition": "to understand"
-  },
-  "DEFLECT": {
-    "Definition": "to prevent something happening"
-  },
-  "DEPICTED": {
-    "Definition": "represented"
-  },
-  "DEVICE": {
-    "Definition": "an object or machine"
-  },
-  "DNA": {
-    "Definition": "the substance that contains the genetic information"
-  },
-  "DOTTED AROUND": {
-    "Definition": "in various different places"
-  },
-  "DOUBLE-ENDED": {
-    "Definition": "with two ends"
-  },
-  "EXPEDITIONS": {
-    "Definition": "long and careful journeys"
-  },
-  "FABRIC": {
-    "Definition": "the basic structure"
-  },
-  "FERTILITY": {
-    "Definition": "the quality of being able to produce young or fruit"
-  },
-  "FORBADE": {
-    "Definition": "did not allow"
-  },
-  "FORMIDABLE": {
-    "Definition": "very impressive"
-  },
-  "GENEALOGICAL": {
-    "Definition": "relating to the history of families"
-  },
-  "GROSS": {
-    "Definition": "very large"
-  },
-  "HALLUCINOGENIC": {
-    "Definition": "a hallucinogenic drug makes you see things that don't exist"
-  },
-  "HANDY": {
-    "Definition": "useful"
-  },
-  "HERITAGE": {
-    "Definition": "your heritage is what you inherit"
-  },
-  "HIGHER-RANKING": {
-    "Definition": "more important (in society)"
-  },
-  "HORNED": {
-    "Definition": "with horns on"
-  },
-  "HORNS": {
-    "Definition": "the hard pointed things that grow on the heads of some animals, e.g. cows"
-  },
-  "HULLS": {
-    "Definition": "the bottom of a boat"
-  },
-  "IMBALANCE": {
-    "Definition": "a situation where two things aren't equal"
-  },
-  "INLAND": {
-    "Definition": "in the middle of a country, away from the sea"
-  },
-  "KEEL": {
-    "Definition": "the long piece of wood along the bottom of a boat"
-  },
-  "LEGACY": {
-    "Definition": "something that exists because it was left by someone"
-  },
-  "LONGBOAT": {
-    "Definition": "a long boat"
-  },
-  "MASSACRED": {
-    "Definition": "killed"
-  },
-  "MILITARILY": {
-    "Definition": "relating to armed forces"
-  },
-  "MISCONCEPTIONS": {
-    "Definition": "ideas that are wrong"
-  },
-  "MONASTERIES": {
-    "Definition": "places where monks live"
-  },
-  "MONASTERY": {
-    "Definition": "a place where monks live"
-  },
-  "MONKS": {
-    "Definition": "a member of an all-male religious group that lives apart from society"
-  },
-  "NAVIGATE": {
-    "Definition": "to find a way to where you want to go"
-  },
-  "NEWFOUND": {
-    "Definition": "recently started"
-  },
-  "NORSE": {
-    "Definition": "the language spoken by the people of ancient Scandinavia"
-  },
-  "OARS": {
-    "Definition": "the long pole with a flat part at the end, used to row a boat"
-  },
-  "OTHERWORLDLY": {
-    "Definition": "relating to thoughts and ideas rather than normal life"
-  },
-  "OVERARCHING": {
-    "Definition": "main"
-  },
-  "OVERPOPULATION": {
-    "Definition": "the situation of having too many people"
+  "SETTLEMENTS": {
+    "Definition": "places where people have come to live and build homes"
   },
   "PAGAN": {
-    "Definition": "belonging to a religion that worships many gods"
+    "Definition": "following old religions with many gods, rather than Christianity"
   },
-  "PASTURES NEW": {
-    "Definition": "new of exciting places or activities"
+  "BRUTAL": {
+    "Definition": "extremely violent and cruel"
   },
-  "PEASANTS": {
-    "Definition": "people who own or rent small pieces of land"
-  },
-  "PECKING ORDER": {
-    "Definition": "an informal order of society"
-  },
-  "PILES": {
-    "Definition": "large amounts"
-  },
-  "PILLAGING": {
-    "Definition": "stealing from someone"
+  "OVERARCHING": {
+    "Definition": "most important and explaining everything else"
   },
   "PROFITABLE": {
-    "Definition": "able to produce lots of money"
+    "Definition": "bringing in a lot of money or valuable things"
   },
-  "RAIDING": {
-    "Definition": "see 'raid'"
-  },
-  "RAIDS": {
-    "Definition": "short, sudden attacks"
-  },
-  "RAPING": {
-    "Definition": "forcing someone to have sex when they do not want to"
-  },
-  "RELATIVE": {
-    "Definition": "comparable"
-  },
-  "REVERSE": {
-    "Definition": "backwards"
-  },
-  "RUNESTONES": {
-    "Definition": "stones with Old Norse carved on them"
-  },
-  "RUSH UP": {
-    "Definition": "go quickly towards"
-  },
-  "RUSHED OUT": {
-    "Definition": "ran quickly (out)"
-  },
-  "SAVAGE": {
-    "Definition": "very violent"
-  },
-  "SAVAGES": {
-    "Definition": "extremely violent people"
-  },
-  "SEEK": {
-    "Definition": "look for"
-  },
-  "SETTLE": {
-    "Definition": "go and live in a new place"
-  },
-  "SETTLEMENTS": {
-    "Definition": "groups of houses where people live"
-  },
-  "SETTLERS": {
-    "Definition": "people who arrive somewhere and live there"
-  },
-  "SHED A LITTLE LIGHT": {
-    "Definition": "provided some information"
-  },
-  "SHIPBUILDING": {
-    "Definition": "the activity of building ships"
+  "DEPICTED": {
+    "Definition": "shown or described"
   },
   "SNATCHING": {
-    "Definition": "catching, often by force"
+    "Definition": "quickly grabbing and taking away by force"
   },
-  "SOPHISTICATED": {
-    "Definition": "having a lot of knowledge and experience"
+  "EXPEDITIONS": {
+    "Definition": "long journeys made for a particular purpose"
   },
-  "SPEARS": {
-    "Definition": "a pole with a sharp point"
+  "CAUGHT THEIR EYE": {
+    "Definition": "attracted their attention"
   },
-  "SPOILS": {
-    "Definition": "things taken by a victorious party in war"
+  "MILITARILY": {
+    "Definition": "in terms of army and fighting strength"
+  },
+  "SETTLE": {
+    "Definition": "stay and make their home in a place"
+  },
+  "INLAND": {
+    "Definition": "away from the coast, towards the middle of the country"
+  },
+  "RELATIVE": {
+    "Definition": "considered in comparison with others"
+  },
+  "EASE": {
+    "Definition": "lack of difficulty"
+  },
+  "OARS": {
+    "Definition": "long poles with a flat end, used to row a boat"
+  },
+  "KEEL": {
+    "Definition": "a long piece of wood along the bottom of a boat that keeps it steady"
   },
   "STABLE": {
-    "Definition": "firmly fixed, not likely to move"
+    "Definition": "steady and not likely to tip over"
   },
-  "STATISTICALLY": {
-    "Definition": "relating to statistics"
+  "HULLS": {
+    "Definition": "the main bodies of ships, especially the parts under the water"
   },
-  "STEREOTYPES": {
-    "Definition": "set ideas that people have about what something is like"
+  "HANDY": {
+    "Definition": "useful and convenient"
+  },
+  "RUSH UP": {
+    "Definition": "move very quickly up"
+  },
+  "NAVIGATE": {
+    "Definition": "find a way along and travel on"
+  },
+  "DOUBLE-ENDED": {
+    "Definition": "having the same shape at the front and the back"
+  },
+  "REVERSE": {
+    "Definition": "a backwards direction"
+  },
+  "CARVED": {
+    "Definition": "cut and shaped as decoration"
+  },
+  "SPOILS": {
+    "Definition": "valuable things taken by force, especially in war"
+  },
+  "RAIDING PARTIES": {
+    "Definition": "groups of people who go together to attack places and steal things"
+  },
+  "MISCONCEPTIONS": {
+    "Definition": "wrong ideas or beliefs"
+  },
+  "HORNED": {
+    "Definition": "with pointed parts sticking out, like those on an animal's head"
+  },
+  "CEREMONIAL": {
+    "Definition": "used for special formal or religious events"
+  },
+  "BERSERK": {
+    "Definition": "wild and out of control"
+  },
+  "TRANCE": {
+    "Definition": "a dreamlike condition, as if not fully awake or in control"
+  },
+  "HALLUCINOGENIC": {
+    "Definition": "making people see or feel things that are not real"
+  },
+  "OTHERWORLDLY": {
+    "Definition": "strange and unreal, as if not part of normal life"
+  },
+  "WOUNDS": {
+    "Definition": "injuries where the skin is cut or broken"
+  },
+  "WILD BOAR": {
+    "Definition": "a large, fierce forest pig with thick hair and long pointed teeth"
+  },
+  "FORMIDABLE": {
+    "Definition": "powerful, frightening and difficult to defeat"
+  },
+  "ACCOMPLISHED": {
+    "Definition": "very skilled and experienced"
+  },
+  "FORBADE": {
+    "Definition": "did not allow; banned"
+  },
+  "WILLING": {
+    "Definition": "eager and ready"
+  },
+  "PILES": {
+    "Definition": "large heaps; big amounts"
+  },
+  "BROAD": {
+    "Definition": "general; not detailed"
   },
   "TASKED": {
-    "Definition": "given a piece of work to do"
+    "Definition": "given the job or duty"
   },
-  "TERRORISED": {
-    "Definition": "deliberately frightened by threatening"
+  "HIGHER-RANKING": {
+    "Definition": "with a more important position"
   },
-  "TERRORISING": {
-    "Definition": "deliberately frightening by threatening"
+  "PEASANTS": {
+    "Definition": "poor people who farmed small pieces of land"
   },
-  "THE BEST PART OF": {
-    "Definition": "most of"
+  "PECKING ORDER": {
+    "Definition": "the order of importance within a group"
+  },
+  "ARCHAEOLOGY": {
+    "Definition": "the study of the past by digging up and examining old objects and buildings"
+  },
+  "RUNESTONES": {
+    "Definition": "large stones with ancient letters cut into them"
+  },
+  "NORSE": {
+    "Definition": "belonging to old Scandinavia and its language; that old language"
+  },
+  "DOTTED AROUND": {
+    "Definition": "spread around in different places"
+  },
+  "DEVICE": {
+    "Definition": "a piece of electronic equipment, such as a phone"
+  },
+  "LEGACY": {
+    "Definition": "a lasting effect left behind for the future"
+  },
+  "FERTILITY": {
+    "Definition": "the ability to have children or produce crops"
+  },
+  "LONGBOAT": {
+    "Definition": "a narrow viking warship powered by oars and a sail"
+  },
+  "UNARMED": {
+    "Definition": "not carrying any weapons"
+  },
+  "COTTONED ON": {
+    "Definition": "began to understand what was happening"
+  },
+  "DEFLECT": {
+    "Definition": "stop and turn away"
+  },
+  "BARBARIANS": {
+    "Definition": "wild, violent people without manners or culture"
+  },
+  "SAVAGES": {
+    "Definition": "wild, cruel people seen as having no culture"
+  },
+  "BLOODTHIRSTY": {
+    "Definition": "eager to kill and hurt people"
+  },
+  "NEWFOUND": {
+    "Definition": "recently developed"
+  },
+  "FASCINATION": {
+    "Definition": "very strong interest"
+  },
+  "PILLAGING": {
+    "Definition": "stealing things violently, especially in war"
+  },
+  "DNA": {
+    "Definition": "the material in our cells that carries information passed from parents to children"
+  },
+  "SETTLERS": {
+    "Definition": "people who move to a new place to live there permanently"
   },
   "TRACE": {
-    "Definition": "find something in the past"
+    "Definition": "follow back through history"
+  },
+  "HERITAGE": {
+    "Definition": "family background passed down from the past"
+  },
+  "ANCESTRY": {
+    "Definition": "family origins; the line of people you come from"
+  },
+  "GENEALOGICAL": {
+    "Definition": "relating to family history"
+  },
+  "FABRIC": {
+    "Definition": "basic structure and character"
+  },
+  "SAVAGE": {
+    "Definition": "wild, fierce and cruel"
+  },
+  "INVADERS": {
+    "Definition": "people who enter a country by force to attack or take it"
   },
   "TRADERS": {
     "Definition": "people who buy and sell goods"
   },
-  "TRANCE": {
-    "Definition": "a temporary condition when someone isn't fully conscious"
+  "SHIPBUILDING": {
+    "Definition": "boat-making"
   },
-  "UNARMED": {
-    "Definition": "not armed"
+  "INNOVATORS": {
+    "Definition": "people who invent new ideas or ways of doing things"
   },
-  "WILD BOAR": {
-    "Definition": "a wild pig"
+  "STATISTICALLY": {
+    "Definition": "in terms of numbers and probability"
   },
-  "WILLING": {
-    "Definition": "happy to do something"
+  "STEREOTYPES": {
+    "Definition": "fixed, simple and often wrong ideas about what a type of person is like"
   },
-  "WOUNDS": {
-    "Definition": "damaged area of the body"
+  "SHED A LITTLE LIGHT": {
+    "Definition": "given a little explanation"
   }
 }
