@@ -1,155 +1,152 @@
 {
   "ICONIC": {
-    "Definition": "very well known"
+    "Definition": "famous and seen as a symbol of something"
   },
   "SPRAWLING": {
-    "Definition": "covered with a lot of buildings"
+    "Definition": "spreading out over a large area"
   },
   "BLUEPRINT": {
-    "Definition": "plan, design"
+    "Definition": "a model or plan that others copy"
   },
   "STATE OF THE ART": {
-    "Definition": "very modern, advanced"
+    "Definition": "very modern and using the latest technology"
   },
   "TRACK": {
-    "Definition": "pair of metal bars on which trains travel"
+    "Definition": "rails that trains run on"
   },
   "STRAIGHTFORWARD": {
-    "Definition": "easy, simple"
+    "Definition": "simple and easy"
   },
   "BALLOON": {
-    "Definition": "grow dramatically"
+    "Definition": "increase very quickly"
   },
   "SWELL": {
-    "Definition": "grow dramatically"
+    "Definition": "become bigger in number"
   },
   "BOOM": {
-    "Definition": "period of sudden growth"
+    "Definition": "a period of fast growth and success"
   },
   "INNOVATIVE": {
-    "Definition": "using new methods or ideas"
+    "Definition": "having new and original ideas"
   },
   "RIP ROARING SUCCESS": {
-    "Definition": "great success"
+    "Definition": "something that went extremely well and was very popular"
   },
   "SPOIL": {
-    "Definition": "reveal the details too early"
+    "Definition": "give away the ending of"
   },
   "ITERATION": {
-    "Definition": "version, form"
+    "Definition": "version"
   },
   "LANTERNS": {
-    "Definition": "lamps, lights"
+    "Definition": "lamps with a glass case around the flame"
   },
   "DRILLED": {
-    "Definition": "opened using a machine or tools"
+    "Definition": "made by cutting a hole through the ground"
   },
   "PRACTICAL": {
-    "Definition": "effective"
+    "Definition": "useful and easy to use in real life"
   },
   "EXISTENCE": {
-    "Definition": "the fact of existing, being"
+    "Definition": "life as a working system"
   },
   "COORDINATED": {
-    "Definition": "effectively organised"
+    "Definition": "organised so that the different parts worked well together"
   },
   "SOMETHING OF A": {
-    "Definition": "having a lot of qualities of one"
+    "Definition": "in some ways a"
   },
   "SNAKED": {
-    "Definition": "moved following the shape of a snake"
+    "Definition": "bent or curved"
   },
   "SUPERFLUOUS": {
-    "Definition": "more than it was needed"
+    "Definition": "extra and not needed"
   },
   "TEND": {
-    "Definition": "usually (are)"
+    "Definition": "are generally likely"
   },
   "OPT FOR": {
-    "Definition": "choose, prefer"
+    "Definition": "choose"
   },
   "SHELTER": {
-    "Definition": "building that provided protection"
+    "Definition": "protection from danger, or a safe place that gives it"
   },
   "INTENSITY": {
-    "Definition": "power, ferocity"
+    "Definition": "great strength and force"
   },
-  "DOUBLED": {
-    "Definition": "became twice as many"
+  "DOUBLED AS": {
+    "Definition": "were also used as"
   },
   "AIR RAID SHELTERS": {
-    "Definition": "places that provided protection from air attacks"
+    "Definition": "places where people could hide safely from bombs dropped by planes"
   },
   "TRACKS": {
-    "Definition": "the metal bars on which trains travel"
+    "Definition": "metal rails that trains run on"
   },
   "OVERCROWDED": {
-    "Definition": "filled with too many people"
+    "Definition": "too full of people"
   },
   "AIR RAIDS": {
-    "Definition": "attacks by enemy aircrafts who were dropping bombs"
+    "Definition": "attacks in which planes dropped bombs on a place"
   },
   "SHELTERING": {
-    "Definition": "protected from danger"
+    "Definition": "hiding from the bombs in a safe place"
   },
   "ARTEFACTS": {
-    "Definition": "objects of historical importance or interest"
+    "Definition": "objects of historical or cultural interest made by people"
   },
   "NOTICEABLE": {
-    "Definition": "easy to see"
+    "Definition": "clear and easy to see"
   },
   "SOIL": {
-    "Definition": "ground"
+    "Definition": "earth; the material that the ground is made of"
   },
   "CLAY": {
-    "Definition": "thick, soft ground"
+    "Definition": "a heavy, sticky type of earth"
   },
   "COMPLAINING": {
-    "Definition": "expressing annoyance"
+    "Definition": "saying they are unhappy or annoyed"
   },
   "CHUGGED ALONG": {
-    "Definition": "moved forward slowly"
+    "Definition": "travelled slowly and noisily on a train"
   },
   "ARTEFACT": {
-    "Definition": "object of historical importance or interest"
+    "Definition": "something made in the past that remains as evidence"
   },
   "EMULATED": {
-    "Definition": "copied"
+    "Definition": "copied because people admired it"
   },
   "TRACE": {
-    "Definition": "find"
+    "Definition": "follow the history of"
   },
   "ROOTS": {
-    "Definition": "origins"
+    "Definition": "origins; where it began"
   },
   "TRIVIA": {
-    "Definition": "facts, details"
+    "Definition": "interesting but unimportant information"
   },
   "TWISTING": {
-    "Definition": "having lots of changes in direction"
+    "Definition": "bending from side to side"
   },
   "TWISTS": {
-    "Definition": "changes in direction"
+    "Definition": "sharp bends"
   },
   "ESCALATORS": {
-    "Definition": "moving staircases"
+    "Definition": "moving stairs that carry people up and down"
   },
   "REFLECT": {
-    "Definition": "show, indicate"
+    "Definition": "show accurately"
   },
   "TAPPED IN": {
-    "Definition": "entered the underground system using a payment card"
+    "Definition": "touched a reader at the entrance to pay"
   },
   "STAGGERING": {
-    "Definition": "very surprising, shocking"
+    "Definition": "very surprising because it is so large"
   },
   "PIONEER": {
-    "Definition": "the first who did it"
+    "Definition": "one of the first of its kind, which others followed"
   },
   "PAVED THE WAY": {
-    "Definition": "opened the way, set the scene"
-  },
-  "": {
-    "Definition": null
+    "Definition": "made progress possible and easier"
   }
 }
