@@ -1,170 +1,170 @@
 {
-  "ADMITTAL": {
-    "Definition": "confession"
+  "PHYSIOLOGY": {
+    "Definition": "how the bodies of living things work"
   },
-  "AMATEURS": {
-    "Definition": "people who take part in an activity out of pleasure, not professionally"
+  "PASSIONATE": {
+    "Definition": "very enthusiastic and keen"
   },
-  "AMPHIBIAN": {
-    "Definition": "an animal that lives both on land and in water"
-  },
-  "BENEFIT OF THE DOUBT": {
-    "Definition": "if you give something the benefit of the doubt, you accept it until you see a reason not to"
-  },
-  "BUDDING": {
-    "Definition": "keen, beginning to show signs of interest in a subject"
-  },
-  "CANOE": {
-    "Definition": "a small, narrow boat, pointed at both ends"
-  },
-  "CATALOGUED": {
-    "Definition": "added to a list"
-  },
-  "CLASSIFIED": {
-    "Definition": "given a name and put into a particular group"
-  },
-  "CONSERVE": {
-    "Definition": "keep and protect"
-  },
-  "CONTRARY": {
-    "Definition": "opposite"
-  },
-  "CRYPTOZOOLOGISTS": {
-    "Definition": "people who are interested in cryptozoology"
-  },
-  "DEBUNKED": {
-    "Definition": "proved to be untrue"
-  },
-  "DENOUNCE": {
-    "Definition": "criticised publicly"
-  },
-  "DISCOUNTING": {
-    "Definition": "not believing"
-  },
-  "DISMISSED": {
-    "Definition": "considered to be unimportant"
-  },
-  "EMBELLISHED": {
-    "Definition": "if a story is embellished, details are added that aren't true"
-  },
-  "EXTINCT": {
-    "Definition": "no longer existing"
-  },
-  "EXTINCTION": {
-    "Definition": "the state of no longer existing"
-  },
-  "EYE-WITNESSES": {
-    "Definition": "people who saw an event"
-  },
-  "FRAUD": {
-    "Definition": "someone who deceives people"
-  },
-  "GEOLOGICAL": {
-    "Definition": "relating to geology, the study of the rocks and soil that make up the Earth"
+  "TRACED BACK": {
+    "Definition": "followed back through history"
   },
   "GOLDEN ERA": {
-    "Definition": "the best time (to be doing something)"
+    "Definition": "the best and most successful period"
   },
-  "HEAD OFF": {
-    "Definition": "leave"
+  "STATUS QUO": {
+    "Definition": "the way things are now; the existing situation"
   },
-  "HUMPED": {
-    "Definition": "with large, raised parts"
+  "ZOOLOGISTS": {
+    "Definition": "scientists who study animals"
   },
-  "IMPLAUSIBLE": {
-    "Definition": "not believable"
+  "KOMODO DRAGON": {
+    "Definition": "a very large lizard that lives on some Indonesian islands"
   },
-  "IMPROBABLE": {
-    "Definition": "not likely (to exist)"
+  "CLASSIFIED": {
+    "Definition": "named and put into a scientific group"
+  },
+  "UNPACK": {
+    "Definition": "examine and explain in detail"
+  },
+  "DISMISSED": {
+    "Definition": "rejected as not worth thinking about"
+  },
+  "BENEFIT OF THE DOUBT": {
+    "Definition": "the chance to be believed, even without proof"
+  },
+  "RIGOROUS": {
+    "Definition": "careful, thorough and exact"
+  },
+  "UNDERTAKEN": {
+    "Definition": "carried out; done"
   },
   "IN SHORT": {
-    "Definition": "used when you want to express the main point of an argument"
+    "Definition": "to summarise; in a few words"
   },
-  "INDICATE": {
-    "Definition": "show, suggest"
+  "AMATEURS": {
+    "Definition": "people who do something as a hobby, without training or pay"
+  },
+  "IMPROBABLE": {
+    "Definition": "unlikely to exist or be true"
+  },
+  "HUMPED": {
+    "Definition": "having a large round lump"
+  },
+  "DEBUNKED": {
+    "Definition": "shown to be false"
+  },
+  "SUPPOSED": {
+    "Definition": "said to be genuine but doubtful"
+  },
+  "SWANS": {
+    "Definition": "large white birds with long necks that live on lakes and rivers"
+  },
+  "CANOE": {
+    "Definition": "a light, narrow boat moved through water with a paddle"
+  },
+  "FRAUD": {
+    "Definition": "a person who tricks others by pretending something is true"
+  },
+  "OUT OF THE CORNER OF YOUR EYE": {
+    "Definition": "at the edge of what you can see, without looking directly"
+  },
+  "POPPING OUT": {
+    "Definition": "suddenly coming up out"
   },
   "INSTANT": {
-    "Definition": "a very short period"
+    "Definition": "a very short moment"
+  },
+  "JUMP TO THE CONCLUSION": {
+    "Definition": "quickly decide without enough evidence"
+  },
+  "EMBELLISHED": {
+    "Definition": "made more exciting by adding untrue details"
+  },
+  "EYE-WITNESSES": {
+    "Definition": "people who personally saw something happen"
+  },
+  "UNRELIABLE": {
+    "Definition": "hard to trust; often wrong"
+  },
+  "SCEPTICAL": {
+    "Definition": "doubtful; not easily convinced"
+  },
+  "MYTHICAL": {
+    "Definition": "existing only in stories, not in real life"
+  },
+  "CRYPTOZOOLOGISTS": {
+    "Definition": "people who search for animals that science has not yet officially recognised"
+  },
+  "OBEY": {
+    "Definition": "follow; act according to"
+  },
+  "REMAINS": {
+    "Definition": "parts of dead bodies that are left behind"
+  },
+  "INDICATE": {
+    "Definition": "show or suggest"
+  },
+  "IMPLAUSIBLE": {
+    "Definition": "difficult to believe; unlikely to be true"
+  },
+  "GEOLOGICAL": {
+    "Definition": "relating to the history and structure of the earth's rocks and land"
+  },
+  "RATIONALISE": {
+    "Definition": "explain in a logical way"
+  },
+  "DENOUNCE": {
+    "Definition": "publicly criticise"
+  },
+  "NUTCASE": {
+    "Definition": "a person who is mad or very foolish"
+  },
+  "DISCOUNTING": {
+    "Definition": "ignoring or rejecting as not worth considering"
+  },
+  "RATE": {
+    "Definition": "the speed or frequency"
+  },
+  "CONTRARY": {
+    "Definition": "opposite; against"
   },
   "INSTITUTION": {
-    "Definition": "large and important institution"
+    "Definition": "an established organisation, for example for science or education"
+  },
+  "AMPHIBIAN": {
+    "Definition": "belonging to the group of animals, like frogs, that live both on land and in water"
+  },
+  "ADMITTAL": {
+    "Definition": "an open acceptance that something is true"
   },
   "INTREPID": {
     "Definition": "brave and adventurous"
   },
+  "HEAD OFF": {
+    "Definition": "set out; leave to go somewhere"
+  },
   "JOURNAL": {
-    "Definition": "diary"
-  },
-  "JUMP TO THE CONCLUSION": {
-    "Definition": "believe something before knowing all the facts"
-  },
-  "KOMODO DRAGON": {
-    "Definition": "a very large lizard that lives in Indonesia"
-  },
-  "MODELS": {
-    "Definition": "mathematical predictions"
-  },
-  "MYTHICAL": {
-    "Definition": "not real, existing only in stories"
-  },
-  "NUTCASE": {
-    "Definition": "crazy person"
-  },
-  "OBEY": {
-    "Definition": "behave according to a rule or law"
-  },
-  "OUT OF THE CORNER OF YOUR EYE": {
-    "Definition": "if you see something out of the corner of your eye, you notice it accidentally without seeing it properly"
-  },
-  "PASSIONATE": {
-    "Definition": "feeling strongly about something"
-  },
-  "PHYSIOLOGY": {
-    "Definition": "the study of the way in which the bodies of living things work"
-  },
-  "POPPING OUT": {
-    "Definition": "if something pops out, only a small part of it is visible"
-  },
-  "RATE": {
-    "Definition": "speed"
-  },
-  "RATIONALISE": {
-    "Definition": "believe can be true"
-  },
-  "REMAINS": {
-    "Definition": "the body of someone or something who has died"
-  },
-  "RIGOROUS": {
-    "Definition": "careful and considerate"
-  },
-  "SCEPTICAL": {
-    "Definition": "doubting"
-  },
-  "STATUS QUO": {
-    "Definition": "the present situation"
-  },
-  "SUPPOSED": {
-    "Definition": "claimed to be true"
-  },
-  "SWANS": {
-    "Definition": "large white birds with long necks"
-  },
-  "TRACED BACK": {
-    "Definition": "find the origins of"
-  },
-  "UNDERTAKEN": {
-    "Definition": "done, conducted"
-  },
-  "UNPACK": {
-    "Definition": "to understand an idea by considering all of its parts"
-  },
-  "UNRELIABLE": {
-    "Definition": "not trusted"
+    "Definition": "a notebook for writing down daily events and observations"
   },
   "VALID": {
-    "Definition": "true, acceptable"
+    "Definition": "real and acceptable; worth taking seriously"
   },
-  "ZOOLOGISTS": {
-    "Definition": "people who study zoology"
+  "MODELS": {
+    "Definition": "computer or mathematical systems used to predict what will happen"
+  },
+  "EXTINCT": {
+    "Definition": "completely gone, with none left alive"
+  },
+  "EXTINCTION": {
+    "Definition": "the point where no animals of a species are left alive"
+  },
+  "CATALOGUED": {
+    "Definition": "recorded and listed in an organised way"
+  },
+  "BUDDING": {
+    "Definition": "just beginning and showing promise"
+  },
+  "CONSERVE": {
+    "Definition": "protect and keep safe"
   }
 }
