@@ -1,17 +1,17 @@
 {
-  "BACK CATALOGUE": {
-    "Definition": "a list of the books, music, etc. that a person or company has produced, which can be made available for sale"
-  },
-  "FOUNDING": {
-    "Definition": "original and first"
-  },
   "SPONSOR": {
-    "Definition": "a person or company that supports a person, organisation, or activity by giving money, encouragement, or other help"
+    "Definition": "a company that pays money to support something in return for advertising"
   },
-  "THRIVING": {
-    "Definition": "growing, developing, or being successful"
+  "BACK CATALOGUE": {
+    "Definition": "all the earlier episodes that have already been released"
   },
   "TOPICS": {
-    "Definition": "subjects that are discussed, written about, or studied"
+    "Definition": "subjects for episodes to be about"
+  },
+  "FOUNDING": {
+    "Definition": "involved from the very start"
+  },
+  "THRIVING": {
+    "Definition": "growing and doing very well"
   }
 }
