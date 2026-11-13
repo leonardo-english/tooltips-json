@@ -1,122 +1,122 @@
 {
-  "ADAPT": {
-    "Definition": "to change, or to change something, to suit different conditions or uses"
-  },
-  "ALL-ENCOMPASSING": {
-    "Definition": "complete, total"
-  },
-  "ANOMALIES": {
-    "Definition": "a person or thing that is different from what is usual, or not in agreement with something else and therefore not satisfactory"
-  },
-  "AUTHORITATIVE": {
-    "Definition": "containing complete and accurate information, and therefore respected"
-  },
-  "BURIED": {
-    "Definition": "(literally) to put a dead body into the ground, in this sense it means 'hidden'"
-  },
-  "BUSIES": {
-    "Definition": "If you are busy, you are working hard, or giving your attention to a particular thing"
-  },
-  "CAPTURED": {
-    "Definition": "the act of recording or taking a picture of something using a camera, or the recording or picture taken"
-  },
-  "COLLATE": {
-    "Definition": "to bring together different pieces of written information so that the similarities and differences can be seen"
-  },
-  "CONVOLUTED": {
-    "Definition": "very twisted"
-  },
-  "ESTIMATED": {
-    "Definition": "roughly calculated or approximate"
-  },
-  "EVOLVING": {
-    "Definition": "to develop gradually, or to cause something or someone to develop gradually"
-  },
-  "EXCEPTIONS": {
-    "Definition": "someone or something that is not included in a rule, group, or list or that does not behave in the expected way"
-  },
-  "EXTENSIVE": {
-    "Definition": "covering a large area; having a great range"
-  },
-  "FAST-FORWARD": {
-    "Definition": "move ahead, move forward"
-  },
-  "FORMAL": {
-    "Definition": "public or official"
-  },
-  "FROM SCRATCH": {
-    "Definition": "from the beginning, without using anything that already exists"
-  },
-  "GARGANTUAN": {
-    "Definition": "very large"
-  },
-  "HANG ON": {
-    "Definition": "to wait for a short time"
-  },
-  "HARMLESS": {
-    "Definition": "not able or not likely to cause harm"
-  },
-  "HIGHLIGHTED": {
-    "Definition": "to attract attention to or emphasise something important"
+  "SCHOLARSHIP": {
+    "Definition": "serious study and learning"
   },
   "INTRIGUING": {
-    "Definition": "to interest someone a lot, especially by being strange, unusual, or mysterious"
+    "Definition": "very interesting because it is unusual"
+  },
+  "POLITICALLY CORRECT": {
+    "Definition": "careful to avoid offending particular groups of people"
+  },
+  "AUTHORITATIVE": {
+    "Definition": "trusted as accurate and reliable"
+  },
+  "CAPTURED": {
+    "Definition": "recorded accurately"
+  },
+  "THE MASSES": {
+    "Definition": "ordinary people; most of the population"
+  },
+  "PAINTING A PICTURE": {
+    "Definition": "describing clearly"
   },
   "LINGUISTIC": {
-    "Definition": "connected with language or the study of language"
+    "Definition": "relating to language"
+  },
+  "REFLECTING ON": {
+    "Definition": "thinking carefully about"
+  },
+  "ESTIMATED": {
+    "Definition": "roughly calculated or judged"
+  },
+  "MESS": {
+    "Definition": "a confused and disorganised situation"
   },
   "LITERACY": {
     "Definition": "the ability to read and write"
   },
-  "MESS": {
-    "Definition": "Something or someone that is a mess, or is in a mess, looks dirty or untidy"
+  "FORMAL": {
+    "Definition": "official"
   },
-  "MESSY": {
-    "Definition": "untidy"
+  "ALL-ENCOMPASSING": {
+    "Definition": "including everything"
   },
-  "ORGANISM": {
-    "Definition": "a single living plant, animal, virus, etc."
-  },
-  "PAINTING A PICTURE": {
-    "Definition": "describing the situation"
-  },
-  "PECULIARITIES": {
-    "Definition": "the quality of being strange or unusual, or an unusual characteristic or habit"
-  },
-  "POLITICALLY CORRECT": {
-    "Definition": "Someone who is politically correct believes that language and actions that could be offensive to others, especially those relating to sex and race, should be avoided"
-  },
-  "REFLECTING ON": {
-    "Definition": "thinking about"
-  },
-  "RIVALRY": {
-    "Definition": "continued competition"
-  },
-  "SCENE WAS SET": {
-    "Definition": "the scene was ready, the environment was ready"
-  },
-  "SCHOLARSHIP": {
-    "Definition": "serious, detailed study"
-  },
-  "SET THINGS STRAIGHT": {
-    "Definition": "to correct things"
-  },
-  "STABILISE": {
-    "Definition": "If something stabilises, it becomes fixed or stops changing"
-  },
-  "THE MASSES": {
-    "Definition": "the population"
-  },
-  "TRACING": {
-    "Definition": "finding the origin of something, especially if it was lost before"
-  },
-  "UNAPPRECIATED": {
-    "Definition": "not appreciated or considered worthy by others"
-  },
-  "UNPLEASANT": {
-    "Definition": "not enjoyable"
+  "COLLATE": {
+    "Definition": "collect and arrange together"
   },
   "UNSATISFACTORY": {
-    "Definition": "not satisfactory, not considered good enough"
+    "Definition": "not good enough"
+  },
+  "FAST-FORWARD": {
+    "Definition": "move ahead in time"
+  },
+  "THE SCENE WAS SET": {
+    "Definition": "the right conditions existed"
+  },
+  "STABILISE": {
+    "Definition": "make firm and unlikely to change"
+  },
+  "MESSY": {
+    "Definition": "untidy and disorganised"
+  },
+  "ANOMALIES": {
+    "Definition": "things that are different from what is normal or expected"
+  },
+  "PECULIARITIES": {
+    "Definition": "strange or unusual features"
+  },
+  "SET THINGS STRAIGHT": {
+    "Definition": "put things right; correct what was wrong"
+  },
+  "HANG ON": {
+    "Definition": "wait a moment"
+  },
+  "EXCEPTIONS": {
+    "Definition": "cases that do not follow the usual rule"
+  },
+  "CONVOLUTED": {
+    "Definition": "very complicated and difficult to follow"
+  },
+  "ORGANISM": {
+    "Definition": "a single living thing, such as a plant or animal"
+  },
+  "GARGANTUAN": {
+    "Definition": "extremely large"
+  },
+  "RIVALRY": {
+    "Definition": "competition and bad feeling between two sides"
+  },
+  "HARMLESS": {
+    "Definition": "not dangerous or likely to hurt anyone"
+  },
+  "BUSIES": {
+    "Definition": "occupies"
+  },
+  "TRACING": {
+    "Definition": "searching back through history to find"
+  },
+  "UNPLEASANT": {
+    "Definition": "not nice or enjoyable"
+  },
+  "UNAPPRECIATED": {
+    "Definition": "not valued or thanked by others"
+  },
+  "EXTENSIVE": {
+    "Definition": "large, with a lot of food"
+  },
+  "BURIED": {
+    "Definition": "hid"
+  },
+  "HIGHLIGHTED": {
+    "Definition": "marked so that they stand out"
+  },
+  "ADAPT": {
+    "Definition": "change to make suitable"
+  },
+  "FROM SCRATCH": {
+    "Definition": "from the very beginning, with nothing to build on"
+  },
+  "EVOLVING": {
+    "Definition": "developing and changing gradually"
   }
 }
