@@ -1,155 +1,161 @@
 {
-  "ALE": {
-    "Definition": "a kind of beer, normally without fizz / effervescence"
-  },
-  "ALLIES": {
-    "Definition": "the countries that fought with Britain in the First and Second World Wars"
-  },
-  "AMOUNTED TO": {
-    "Definition": "come to be (the total) when added together"
-  },
-  "AWARD": {
-    "Definition": "money that was received"
-  },
-  "BANQUET": {
-    "Definition": "very large meal, particularly for a celebration"
-  },
-  "BATCH": {
-    "Definition": "a quantity or consignment of goods produced at one time"
-  },
-  "BITTER": {
-    "Definition": "unfriendly, hard"
-  },
-  "BOLSTERED": {
-    "Definition": "supported or strengthened"
-  },
-  "CLUBBED TOGETHER": {
-    "Definition": "put money together to buy"
-  },
-  "COMPENSATION": {
-    "Definition": "something, typically money, given to someone in recognition of loss, suffering, or injury"
-  },
-  "CONTAMINATED": {
-    "Definition": "having been made impure or damaged by exposure to or addition of a poisonous or polluting substance"
+  "HOT OFF THE HEELS": {
+    "Definition": "coming straight after"
   },
   "CULINARY": {
-    "Definition": "relating to food"
-  },
-  "CULT": {
-    "Definition": "a person or thing that is popular or fashionable among a particular group"
-  },
-  "CULTIVATION": {
-    "Definition": "growing, farming"
-  },
-  "CUNNING": {
-    "Definition": "clever, ingenious"
-  },
-  "DELICACY": {
-    "Definition": "something delicious"
-  },
-  "DEPLETED": {
-    "Definition": "reduced in number"
-  },
-  "DIGNITARY": {
-    "Definition": "a person considered to be important because of high rank or office"
-  },
-  "DISTRUSTED": {
-    "Definition": "regarded with suspicion"
-  },
-  "DODGY": {
-    "Definition": "dishonest or unreliable"
-  },
-  "DRIFT": {
-    "Definition": "go slowly"
-  },
-  "DRUMMING UP BUSINESS": {
-    "Definition": "encouraging the attraction of potential clients"
-  },
-  "ERA": {
-    "Definition": "time, a long and distinct period of history"
-  },
-  "ESTEEMED": {
-    "Definition": "held in great respect; admired"
-  },
-  "FELL COMPLETELY OUT OF FAVOUR": {
-    "Definition": "become unpopular with a group of people"
-  },
-  "FLAT": {
-    "Definition": "lacking in fizz"
-  },
-  "HEYDAY": {
-    "Definition": "the height of power or popularity"
-  },
-  "HOT OFF THE HEELS": {
-    "Definition": "shortly after"
-  },
-  "INSCRIBED": {
-    "Definition": "(of a surface or object) marked with characters"
-  },
-  "MOGULS": {
-    "Definition": "powerful businessmen"
-  },
-  "NEXT IN STORE": {
-    "Definition": "coming up next"
-  },
-  "NUTRIENTS": {
-    "Definition": "a substance that provides nourishment essential for the maintenance of life and for growth"
-  },
-  "ON THE OFF CHANCE": {
-    "Definition": "if you do something on the off chance, you do it even though you think it is unlikely to succeed"
+    "Definition": "related to cooking and food"
   },
   "OYSTERS": {
-    "Definition": "a large flat sea creature that lives in a shell, some types of which can be eaten either cooked"
+    "Definition": "sea creatures with a rough, hard shell, often eaten raw"
   },
   "PEARL": {
-    "Definition": "a small round jewel that is white and shiny (and that grows inside the shell of an oyster)"
+    "Definition": "a small, hard, shiny white ball used in jewellery"
   },
-  "PIPED": {
-    "Definition": "taken in pipes / tubes"
+  "FELL COMPLETELY OUT OF FAVOUR": {
+    "Definition": "stopped being liked or popular at all"
   },
-  "PLUCKED": {
-    "Definition": "picked up, taken from"
-  },
-  "PRESS CHARGES": {
-    "Definition": "accuse someone formally of a crime so that they can be brought to trial"
-  },
-  "PROSPECT": {
-    "Definition": "the possibility or likelihood of some future event occurring"
-  },
-  "SEWAGE": {
-    "Definition": "waste water and excrement"
-  },
-  "SEWERS": {
-    "Definition": "pipes used to carry away waste water"
-  },
-  "SITTING": {
-    "Definition": "a continuous period of being seated, especially when engaged in a particular activity"
-  },
-  "SLIMY": {
-    "Definition": "covered with a thick wet unpleasant substance"
+  "DISTRUSTED": {
+    "Definition": "regarded with suspicion; not believed to be safe"
   },
   "SLURPING": {
-    "Definition": "drink or eat (something) with a loud sucking noise"
+    "Definition": "eating or drinking noisily by sucking"
   },
-  "STOCKS": {
-    "Definition": "available amounts"
+  "SITTING": {
+    "Definition": "a single period of eating a meal"
   },
-  "STRETCH": {
-    "Definition": "a continuous area or expanse of land or water"
+  "PROSPECT": {
+    "Definition": "the idea of something that might happen"
+  },
+  "THINK MUCH OF": {
+    "Definition": "have a high opinion of"
+  },
+  "DELICACY": {
+    "Definition": "a rare or expensive food that is considered special"
+  },
+  "DRIFT": {
+    "Definition": "slowly move"
+  },
+  "PLUCKED": {
+    "Definition": "pulled out quickly"
+  },
+  "CULTIVATION": {
+    "Definition": "work to grow and look after them"
+  },
+  "ALE": {
+    "Definition": "a type of traditional beer"
+  },
+  "FLAT": {
+    "Definition": "without bubbles"
+  },
+  "DRUMMING UP BUSINESS": {
+    "Definition": "trying to get more customers"
+  },
+  "ERA": {
+    "Definition": "a period of history"
+  },
+  "HEYDAY": {
+    "Definition": "the time of greatest success or popularity"
+  },
+  "SLIMY": {
+    "Definition": "wet, slippery and unpleasant"
   },
   "SUBSTITUTE": {
-    "Definition": "replacement, alternative"
+    "Definition": "something used in place of something else"
   },
-  "TESTIFIED": {
-    "Definition": "acted as a witness in court"
+  "STRETCH": {
+    "Definition": "a long area"
   },
-  "THINK MUCH": {
-    "Definition": "#N/A"
+  "BANQUET": {
+    "Definition": "a large formal meal for many guests"
   },
   "TRANSPIRED": {
-    "Definition": "occur; happen"
+    "Definition": "turned out; became known"
+  },
+  "BATCH": {
+    "Definition": "a group of things produced or delivered together"
+  },
+  "CONTAMINATED": {
+    "Definition": "made dirty or poisonous"
+  },
+  "DIGNITARY": {
+    "Definition": "an important official person"
   },
   "TYPHOID": {
-    "Definition": "an infectious bacterial fever with an eruption of red spots on the chest and abdomen and severe intestinal irritation."
+    "Definition": "a serious disease caused by bacteria in dirty food or water"
+  },
+  "ESTEEMED": {
+    "Definition": "highly respected"
+  },
+  "SEWERS": {
+    "Definition": "large underground tubes that carry away dirty water and waste"
+  },
+  "PIPED": {
+    "Definition": "carried through tubes"
+  },
+  "MOGULS": {
+    "Definition": "rich and powerful business people"
+  },
+  "SEWAGE": {
+    "Definition": "waste from toilets and dirty water"
+  },
+  "BITTER": {
+    "Definition": "angry and unpleasant"
+  },
+  "LITIGATION": {
+    "Definition": "the process of taking a case to a court of law"
+  },
+  "PRESS CHARGES": {
+    "Definition": "take legal action"
+  },
+  "AMOUNTED TO": {
+    "Definition": "added up to a total of"
+  },
+  "NUTRIENTS": {
+    "Definition": "substances that living things need to grow"
+  },
+  "AWARD": {
+    "Definition": "the amount of money he was to be paid"
+  },
+  "TESTIFIED": {
+    "Definition": "given evidence in a court of law"
+  },
+  "COMPENSATION": {
+    "Definition": "money paid to someone for a loss or damage"
+  },
+  "CLUBBED TOGETHER": {
+    "Definition": "each gave some money to pay for something together"
+  },
+  "INSCRIBED": {
+    "Definition": "carved on its surface"
+  },
+  "DODGY": {
+    "Definition": "bad or unsafe"
+  },
+  "STOCKS": {
+    "Definition": "the numbers of oysters living in the sea"
+  },
+  "DEPLETED": {
+    "Definition": "reduced a lot in number"
+  },
+  "BOLSTERED": {
+    "Definition": "supported and made stronger"
+  },
+  "ON THE OFF CHANCE": {
+    "Definition": "in the unlikely situation"
+  },
+  "NEXT IN STORE": {
+    "Definition": "going to happen next"
+  },
+  "CUNNING": {
+    "Definition": "clever, in a slightly tricky way"
+  },
+  "ALBEIT": {
+    "Definition": "although"
+  },
+  "CULT": {
+    "Definition": "loved by a large group of devoted fans"
+  },
+  "ALLIES": {
+    "Definition": "the countries, including Britain and the USA, that fought against Germany"
   }
 }
