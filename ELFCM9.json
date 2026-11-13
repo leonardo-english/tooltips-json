@@ -1,95 +1,95 @@
 {
-  "BAN": {
-    "Definition": "prohibit, not allow"
+  "CUSTOMARY": {
+    "Definition": "usual; done regularly as a habit"
   },
   "CAPTIVATED": {
-    "Definition": "attract and hold the interest and attention of; charm"
-  },
-  "CATCHY": {
-    "Definition": "easy to remember"
-  },
-  "CONGESTED": {
-    "Definition": "busy, full of traffic"
-  },
-  "CUSTOMARY": {
-    "Definition": "usual, normal"
-  },
-  "DEMARCATION": {
-    "Definition": "a dividing line"
-  },
-  "FIGURATIVE": {
-    "Definition": "without real meaning"
-  },
-  "FRAMEWORK": {
-    "Definition": "a basic structure underlying a system, concept, or text."
-  },
-  "GRAB YOURSELF": {
-    "Definition": "buy, get"
-  },
-  "HOLDING UP": {
-    "Definition": "be considered legally binding"
-  },
-  "IMPLAUSIBLE": {
-    "Definition": "unbelievable"
-  },
-  "IMPLIED": {
-    "Definition": "suggested but not directly expressed; implicit"
-  },
-  "INTERPRETED": {
-    "Definition": "understood"
-  },
-  "INTO ORBIT": {
-    "Definition": "sent into space"
-  },
-  "LOGICAL": {
-    "Definition": "something that makes sense"
-  },
-  "LOOSE": {
-    "Definition": "unclear"
-  },
-  "LUNAR": {
-    "Definition": "relating to the moon"
-  },
-  "MINE": {
-    "Definition": "dig in (the earth) for coal or other minerals"
-  },
-  "PLOUGH": {
-    "Definition": "invest, put all your money"
-  },
-  "PROLIFERATION": {
-    "Definition": "rapid increase in the number or amount of something"
-  },
-  "PROVISION": {
-    "Definition": "a condition or requirement in a legal document"
+    "Definition": "strongly attracted and held the interest of"
   },
   "REALM": {
-    "Definition": "a field or domain of activity or interest"
-  },
-  "REALMS OF POSSIBILITY": {
-    "Definition": "what people think is possible"
-  },
-  "SET UP": {
-    "Definition": "prepared, ready"
-  },
-  "SIDE NOTE": {
-    "Definition": "something that's not relevant to the main argument or subject"
-  },
-  "SOVEREIGN TERRITORY": {
-    "Definition": "land owned by a nation state‍"
+    "Definition": "the world or area that belongs to or is ruled by someone"
   },
   "SUPERNATURAL": {
-    "Definition": "(of a manifestation or event) attributed to some force beyond scientific understanding or the laws of nature."
+    "Definition": "magical; impossible to explain by science"
   },
-  "THORNY": {
-    "Definition": "difficult to manage"
+  "IMPLAUSIBLE": {
+    "Definition": "very hard to believe; unlikely to be true or possible"
   },
-  "TYCOON": {
-    "Definition": "a wealthy, powerful person in business or industry"
+  "INTO ORBIT": {
+    "Definition": "onto a curved path that goes round and round the Earth"
   },
-  "UNTAPPED": {
-    "Definition": "(of a resource) not yet exploited or used"
+  "REALMS OF POSSIBILITY": {
+    "Definition": "the range of things that could happen"
+  },
+  "LOGICAL": {
+    "Definition": "sensible and expected, following on from what came before"
+  },
+  "IMPLIED": {
+    "Definition": "suggested without saying directly"
+  },
+  "FIGURATIVE": {
+    "Definition": "symbolic; not meant to be taken as real"
+  },
+  "CATCHY": {
+    "Definition": "easy to remember and pleasant to hear"
+  },
+  "SIDE NOTE": {
+    "Definition": "an extra comment that is not about the main subject"
+  },
+  "BAN": {
+    "Definition": "officially forbid"
   },
   "VICE-VERSA": {
-    "Definition": "also the opposite way around"
+    "Definition": "the other way round"
+  },
+  "LOOSE": {
+    "Definition": "not exact or clear"
+  },
+  "DEMARCATION": {
+    "Definition": "the official boundary marking where something begins"
+  },
+  "PROVISION": {
+    "Definition": "planning or rules made in advance"
+  },
+  "MINE": {
+    "Definition": "dig out of the ground and collect"
+  },
+  "PROLIFERATION": {
+    "Definition": "a large and fast-growing number"
+  },
+  "FRAMEWORK": {
+    "Definition": "a set of rules and ideas that guide how something is done"
+  },
+  "UNTAPPED": {
+    "Definition": "not yet used"
+  },
+  "SOVEREIGN TERRITORY": {
+    "Definition": "land or an area under the full control and laws of a country"
+  },
+  "INTERPRETED": {
+    "Definition": "understood or explained"
+  },
+  "SET UP": {
+    "Definition": "arranged or prepared"
+  },
+  "GRAB YOURSELF": {
+    "Definition": "quickly buy or get for your own use"
+  },
+  "HOLDING UP": {
+    "Definition": "being accepted as valid or true"
+  },
+  "PLOUGH": {
+    "Definition": "invest or put"
+  },
+  "LUNAR": {
+    "Definition": "on or relating to the moon"
+  },
+  "TYCOON": {
+    "Definition": "a very rich and powerful businessperson"
+  },
+  "CONGESTED": {
+    "Definition": "crowded; too full of things"
+  },
+  "THORNY": {
+    "Definition": "difficult and complicated"
   }
 }
