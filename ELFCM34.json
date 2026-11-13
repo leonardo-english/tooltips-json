@@ -1,161 +1,164 @@
 {
-  "AFFORDABILITY": {
-    "Definition": "the state of being cheap enough for people to be able to buy"
+  "HUMBLE": {
+    "Definition": "simple and ordinary; not grand or important"
   },
-  "ANCESTOR": {
-    "Definition": "someone or something related to you who lived a long time ago"
+  "ROOTS": {
+    "Definition": "the places where they first came from"
   },
-  "ANTIBIOTICS": {
-    "Definition": "a medicine or chemical that can destroy harmful bacteria in the body or limit their growth"
+  "OUTNUMBERING": {
+    "Definition": "being greater in number than"
   },
-  "ARTIFICIAL": {
-    "Definition": "made by people, often as a copy of something natural"
+  "OBSCURE": {
+    "Definition": "not well known"
+  },
+  "WANDERING": {
+    "Definition": "walking slowly without a fixed direction"
+  },
+  "SHOVELED": {
+    "Definition": "pushed quickly and in large amounts"
+  },
+  "INDUSTRIALISATION": {
+    "Definition": "the change to making things in large amounts using factories and machines"
   },
   "ASSERTED": {
-    "Definition": "to behave in a way that expresses your confidence, importance, or power and earns you respect from others"
+    "Definition": "stated firmly"
   },
-  "BLAND": {
-    "Definition": "not having a strong taste or character or not showing any interest or energy"
+  "ANCESTOR": {
+    "Definition": "an animal from which a later kind of animal developed"
+  },
+  "FORAGING": {
+    "Definition": "searching for food in the wild"
+  },
+  "PREDATORS": {
+    "Definition": "animals that hunt and kill other animals for food"
   },
   "BRANCHES": {
-    "Definition": "one of the parts of a tree that grows out from the main trunk and has leaves, flowers, or fruit on it"
+    "Definition": "the parts of a tree that grow out from the main stem"
   },
   "BRED": {
-    "Definition": "(of animals) reproduce"
+    "Definition": "mated and produced young"
   },
-  "CONFINED": {
-    "Definition": "to keep someone or something closed in a place, often by force"
+  "REMAINS": {
+    "Definition": "parts of dead bodies, such as bones, that are left behind"
   },
-  "CONSUMPTION": {
-    "Definition": "the amount used or eaten"
+  "GRAIN": {
+    "Definition": "the small seeds of plants such as wheat or rice, used as food"
   },
-  "DELICACY": {
-    "Definition": "something especially rare or expensive that is good to eat"
-  },
-  "DRAWS IN": {
-    "Definition": "if days, evenings, or nights draw in, it becomes darker earlier because autumn or winter is coming"
-  },
-  "ERA": {
-    "Definition": "a period of time of which particular events or stages of development are typical"
-  },
-  "ERASED": {
-    "Definition": "to remove or destroy something, especially something that shows that that person or thing ever existed or happened"
-  },
-  "ERODED": {
-    "Definition": "to slowly reduce or destroy something"
+  "LAY": {
+    "Definition": "produce from their bodies"
   },
   "FATE": {
-    "Definition": "what happens to a particular person or thing, especially something final or negative, such as death or defeat"
+    "Definition": "the future that was decided for it in advance"
+  },
+  "SEALED": {
+    "Definition": "decided in a way that could not be changed"
+  },
+  "ARTIFICIAL": {
+    "Definition": "made or done by people rather than happening naturally"
+  },
+  "INCUBATION": {
+    "Definition": "keeping eggs warm so that the young birds inside develop"
+  },
+  "HATCH": {
+    "Definition": "(of an egg) break open so the baby bird comes out; make eggs do this"
+  },
+  "DELICACY": {
+    "Definition": "a rare or expensive food that people enjoy very much"
+  },
+  "INDUSTRIALISE": {
+    "Definition": "organise on a large scale, like a factory"
   },
   "FATTEN UP": {
-    "Definition": "to give an animal or a thin person a lot of food so that they become fatter"
+    "Definition": "make heavier by feeding a lot"
   },
   "FATTENING UP": {
-    "Definition": "to give an animal or a thin person a lot of food so that they become fatter"
+    "Definition": "making heavier by feeding a lot"
+  },
+  "WHEAT": {
+    "Definition": "a type of grain used to make flour and bread"
   },
   "FELL OUT OF FAVOUR": {
     "Definition": "became less popular"
   },
-  "FORAGE": {
-    "Definition": "to go from place to place searching for things that you can eat or use"
-  },
-  "FORAGING": {
-    "Definition": "to go from place to place searching for things that you can eat or use"
-  },
-  "GRAIN": {
-    "Definition": "a seed or seeds from a plant, especially a plant like a grass such as rice or wheat"
+  "TENDED": {
+    "Definition": "were generally likely"
   },
   "GUINEA FOWL": {
-    "Definition": "a large grey and white African bird, kept for its eggs and meat"
+    "Definition": "birds from Africa with spotted grey feathers, kept for meat"
   },
-  "HABITAT": {
-    "Definition": "the natural environment in which an animal or plant usually lives"
+  "ERA": {
+    "Definition": "a long period of history"
   },
-  "HATCH": {
-    "Definition": "to (cause an egg to) break in order to allow a young animal to come out"
-  },
-  "HUMBLE": {
-    "Definition": "not proud or not believing that you are important"
-  },
-  "INDUSTRIALISATION": {
-    "Definition": "the process of developing industries in a country"
-  },
-  "INDUSTRIALISE": {
-    "Definition": "the process of developing industries in a country"
-  },
-  "LAY": {
-    "Definition": "(of an animal or bird) to produce eggs from out of the body"
-  },
-  "MORAL": {
-    "Definition": "relating to the standards of good or bad behaviour, fairness, honesty, etc. that each person believes in, rather than to laws"
-  },
-  "OBSCURE": {
-    "Definition": "not known to many people"
-  },
-  "OUTNUMBERING": {
-    "Definition": "to be greater in number than someone or something"
-  },
-  "PATCH": {
-    "Definition": "a small area that is different in some way from the area that surrounds it"
-  },
-  "PREDATORS": {
-    "Definition": "an animal that hunts, kills, and eats other animals"
-  },
-  "PROTEIN": {
-    "Definition": "one of the many substances found in food such as meat, cheese, fish, or eggs, that is necessary for the body to grow and be strong"
-  },
-  "PUZZLED": {
-    "Definition": "a situation that is difficult to understand"
-  },
-  "RAISE": {
-    "Definition": "to take care of a person, or an animal or plant, until they are completely grown"
+  "ANTIBIOTICS": {
+    "Definition": "medicines that kill bacteria and help stop disease"
   },
   "RAISED": {
-    "Definition": "to take care of a person, or an animal or plant, until they are completely grown"
+    "Definition": "looked after and fed until fully grown"
   },
-  "REFLECTIVE": {
-    "Definition": "if something reflects something else, it shows that it is affected by it and is adjusted accordingly"
+  "HABITAT": {
+    "Definition": "the place where an animal normally lives"
   },
-  "REMAINS": {
-    "Definition": "a person's or animal’s remains are what is left of their dead body"
-  },
-  "RETREAT": {
-    "Definition": "to go away from a place or person in order to escape from fighting or danger"
-  },
-  "ROOTS": {
-    "Definition": "family origins, or the particular place you come from and the experiences you have had living there"
-  },
-  "SEALED": {
-    "Definition": "if an action, event, or situation seals your fate, nothing can stop some unpleasant thing happening to you"
-  },
-  "SHEER": {
-    "Definition": "used to emphasize how very great, important, or powerful a quality or feeling is; nothing except"
-  },
-  "SHOVELED": {
-    "Definition": "to put large quantities of food into your mouth very quickly"
+  "CONFINED": {
+    "Definition": "small and closed in, with little room to move"
   },
   "SLAUGHTERED": {
     "Definition": "killed for meat"
   },
-  "TENDED": {
-    "Definition": "to be likely to behave in a particular way or have a particular characteristic"
+  "CONSUMPTION": {
+    "Definition": "how much people eat or use of something"
   },
-  "TWIST OF FATE": {
-    "Definition": "if something happens by a twist of fate, it happens by chance, and it is strange, interesting, or unfortunate in some way"
+  "MORAL": {
+    "Definition": "about what is right and wrong"
+  },
+  "PROTEIN": {
+    "Definition": "a substance in foods like meat and eggs that the body needs to grow"
+  },
+  "REFLECTIVE": {
+    "Definition": "showing the effect"
+  },
+  "AFFORDABILITY": {
+    "Definition": "being cheap enough for people to buy"
   },
   "UBIQUITOUS": {
-    "Definition": "seeming to be everywhere"
+    "Definition": "found everywhere"
   },
-  "WANDER": {
-    "Definition": "to walk around slowly in a relaxed way or without any clear purpose or direction"
+  "RAISE": {
+    "Definition": "look after and feed until fully grown"
   },
-  "WANDERING": {
-    "Definition": "to walk around slowly in a relaxed way or without any clear purpose or direction"
+  "BLAND": {
+    "Definition": "without a strong taste"
   },
-  "WHEAT": {
-    "Definition": "a plant whose yellowish-brown grain is used for making flour, or the grain itself"
+  "SHEER": {
+    "Definition": "very great; used to stress how large something is"
   },
   "WIPED OUT": {
-    "Definition": "to destroy something completely or cause something to be completely lost"
+    "Definition": "completely destroyed"
+  },
+  "ERASED": {
+    "Definition": "removed completely so that nothing is left"
+  },
+  "PUZZLED": {
+    "Definition": "confused and unable to understand"
+  },
+  "FORAGE": {
+    "Definition": "search for food in the wild"
+  },
+  "WANDER": {
+    "Definition": "walk slowly without a fixed direction"
+  },
+  "RETREAT": {
+    "Definition": "move back to a safer place"
+  },
+  "DRAWS IN": {
+    "Definition": "arrives, as it gets dark"
+  },
+  "TWIST OF FATE": {
+    "Definition": "an unexpected and often unlucky change in events"
+  },
+  "ERODED": {
+    "Definition": "slowly destroyed or made smaller"
+  },
+  "PATCH": {
+    "Definition": "a small area of ground"
   }
 }
