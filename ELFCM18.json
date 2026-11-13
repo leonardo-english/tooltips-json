@@ -1,167 +1,173 @@
 {
-  "ACCESSIBLE": {
-    "Definition": "able to be reached or easily got"
-  },
-  "AGE-OLD": {
-    "Definition": "very old, or having existed for a long time"
-  },
-  "ALE": {
-    "Definition": "any of various types of beer, usually one that is dark and bitter"
-  },
-  "ASPIRE": {
-    "Definition": "to want something very much or hope to achieve something or be successful"
-  },
-  "ASPIRING": {
-    "Definition": "see aspire"
-  },
-  "BANQUETS": {
-    "Definition": "large formal meals for many people, often followed by speeches in honour of someone"
-  },
-  "BED AND BREAKFASTS": {
-    "Definition": "rooms to sleep in for the night and a morning meal, or private houses or small hotels offering this"
-  },
-  "BESIDES": {
-    "Definition": "in addition to; also"
-  },
-  "BETTER OFF": {
-    "Definition": "to have more money than you had in the past or more money than most other people"
-  },
-  "BLACK PUDDING": {
-    "Definition": "a type of sausage, usually very dark in colour, that is made from pig's blood, fat, and grain"
-  },
-  "BRIDE": {
-    "Definition": "a woman who is about to get married or has just got married"
-  },
-  "BURSTING AT THE SEAMS": {
-    "Definition": "to be completely full"
-  },
-  "COMFORT FOODS": {
-    "Definition": "the type of food that people eat when they are sad or worried, often sweet food or food that people ate as children"
-  },
-  "COMMUNION": {
-    "Definition": "a Christian ceremony based on Jesus' last meal with his disciples (= the twelve men who first believed in him)"
-  },
-  "COPIOUS": {
-    "Definition": "in large amounts, or more than enough"
-  },
-  "CORNISH": {
-    "Definition": "relating to Cornwall, a county in the south west of England"
-  },
-  "CURED": {
-    "Definition": "to treat plant or animal products by drying, smoking, salting, etc., to preserve it from decay"
-  },
-  "DECLINE": {
-    "Definition": "when something becomes less in amount, importance, quality, or strength"
-  },
-  "DEVIATIONS": {
-    "Definition": "the action of doing something that is different from the usual or common way of behaving"
-  },
-  "DODGY": {
-    "Definition": "likely to be dishonest or illegal; bad"
-  },
-  "DRIPPING": {
-    "Definition": "the fat that has come out of meat during cooking"
-  },
-  "EMERGE": {
-    "Definition": "to become known, especially as a result of examining something or asking questions about it"
-  },
-  "ENTHUSIASTICALLY": {
-    "Definition": "with a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it"
-  },
-  "FASTED": {
-    "Definition": "to eat no food for a period of time"
-  },
-  "FLAUNT": {
-    "Definition": "to show or make obvious something you are proud of in order to get admiration"
+  "PENULTIMATE": {
+    "Definition": "second to last"
   },
   "FUELED": {
-    "Definition": "to provide power to something"
+    "Definition": "fed and kept going"
   },
-  "GO TO HUGE LENGTHS": {
-    "Definition": "make large efforts to do something"
+  "DODGY": {
+    "Definition": "bad and unsafe to eat"
   },
-  "GROOM": {
-    "Definition": "a man who is about to get married or has just got married"
-  },
-  "HIPSTER": {
-    "Definition": "someone who is very influenced by the most recent ideas and fashions"
-  },
-  "INHERITING": {
-    "Definition": "to receive money, a house, etc. from someone after they have died"
+  "BATCH": {
+    "Definition": "a group of things produced or delivered at the same time"
   },
   "INSTITUTION": {
-    "Definition": "a custom or tradition that has existed for a long time and is accepted as an important part of a particular society"
+    "Definition": "a well-known custom that has existed for a long time"
   },
-  "LAVISH": {
-    "Definition": "large in quantity and expensive or impressive"
+  "DEVIATIONS": {
+    "Definition": "differences from the usual version"
   },
-  "LONGEVITY": {
-    "Definition": "a long life"
+  "CORNISH": {
+    "Definition": "from Cornwall, a county in the south-west of England"
+  },
+  "ULSTER": {
+    "Definition": "from the northern part of the island of Ireland"
+  },
+  "BURSTING AT THE SEAMS": {
+    "Definition": "so full that it can hardly hold any more"
   },
   "MORTIFIED": {
-    "Definition": "cause (someone) to feel very embarrassed or ashamed"
+    "Definition": "very shocked and upset"
   },
-  "NATURAL SELECTION": {
-    "Definition": "the process that results in the continued existence of only the types of animals and plants that are best able to produce young or new plants in the conditions in which they live"
+  "STUFFING THEIR FACES": {
+    "Definition": "eating large amounts of food greedily"
   },
-  "NOBLES": {
-    "Definition": "the highest rank in society"
+  "RESERVED": {
+    "Definition": "set aside; kept"
   },
-  "NOTION": {
-    "Definition": "a belief or idea"
-  },
-  "OFFAL": {
-    "Definition": "the organs inside an animal, such as the brain, the heart, and the liver, eaten as food"
+  "PREVALENT": {
+    "Definition": "widespread; common"
   },
   "PAUPER": {
     "Definition": "a very poor person"
   },
-  "PEAK": {
-    "Definition": "the highest, strongest, or best point, value, or level of skill"
+  "NOBLES": {
+    "Definition": "people from the highest social class"
   },
-  "PENULTIMATE": {
-    "Definition": "second from the last"
+  "LAVISH": {
+    "Definition": "large, expensive and impressive"
   },
-  "PRE-REFORMATION": {
-    "Definition": "before the split of the Catholic Church in Europe"
+  "ALE": {
+    "Definition": "a type of beer"
   },
-  "PRECIOUS": {
-    "Definition": "very"
-  },
-  "PREVALENT": {
-    "Definition": "existing very commonly or happening often"
-  },
-  "RESERVED": {
-    "Definition": "to keep something for a particular purpose or group of people"
-  },
-  "SECURE": {
-    "Definition": "obtain, get"
-  },
-  "SEEKING": {
-    "Definition": "to try to find or get something, especially something that is not a physical object"
-  },
-  "STAPLE": {
-    "Definition": "a basic food, or a main product or material"
-  },
-  "STOMACH": {
-    "Definition": "to be able to eat"
+  "BETTER OFF": {
+    "Definition": "richer; having more money"
   },
   "STRETCH TO": {
-    "Definition": "to manage to give or pay a particular amount, often a larger amount than you might expect"
+    "Definition": "manage to afford"
   },
-  "STUFFING THEIR FACES": {
-    "Definition": "to eat a lot of food in a short period of time"
-  },
-  "SUMPTUOUS": {
-    "Definition": "impressive in a way that seems expensive"
-  },
-  "TAKE FOR GRANTED": {
-    "Definition": "If you take situations or people for granted, you do not realize or show that you are grateful for how much you get from them"
+  "DRIPPING": {
+    "Definition": "fat that has come out of meat while it was cooking"
   },
   "TOILING": {
-    "Definition": "hard work, especially work that makes you feel physically tired"
+    "Definition": "working very hard, usually with their bodies"
   },
-  "ULSTER": {
-    "Definition": "a province of Ireland, part of which is now in Northern Ireland and part in the Republic of Ireland"
+  "BESIDES": {
+    "Definition": "also; in addition"
+  },
+  "INHERITING": {
+    "Definition": "receiving from family members, usually when they die"
+  },
+  "ASPIRE": {
+    "Definition": "want very much to reach or copy"
+  },
+  "SEEKING": {
+    "Definition": "trying"
+  },
+  "ENTHUSIASTICALLY": {
+    "Definition": "with great excitement and interest"
+  },
+  "NOTION": {
+    "Definition": "idea"
+  },
+  "FLAUNT": {
+    "Definition": "show off proudly so that others notice"
+  },
+  "GO TO HUGE LENGTHS": {
+    "Definition": "make a very great effort"
+  },
+  "SECURE": {
+    "Definition": "get, often with some difficulty"
+  },
+  "CURED": {
+    "Definition": "preserved with salt or smoke"
+  },
+  "OFFAL": {
+    "Definition": "the inside parts of an animal, such as the kidneys or liver, eaten as food"
+  },
+  "SUMPTUOUS": {
+    "Definition": "rich and impressive, with lots of fine food"
+  },
+  "BANQUETS": {
+    "Definition": "large, formal meals for many people"
+  },
+  "PRECIOUS LITTLE": {
+    "Definition": "hardly anything"
+  },
+  "COPIOUS": {
+    "Definition": "very large"
+  },
+  "ACCESSIBLE": {
+    "Definition": "available; possible to get"
+  },
+  "TAKE FOR GRANTED": {
+    "Definition": "accept without thinking about it, as if it will always be true"
+  },
+  "EMERGE": {
+    "Definition": "appear; start to exist"
+  },
+  "BED AND BREAKFASTS": {
+    "Definition": "small, often family-run places where you pay to sleep and get a morning meal"
+  },
+  "BLACK PUDDING": {
+    "Definition": "a dark sausage made from pig's blood, fat and oats"
+  },
+  "PEAK": {
+    "Definition": "highest point; time of greatest popularity"
+  },
+  "ASPIRING": {
+    "Definition": "wanting to rise to a higher social position"
+  },
+  "STAPLE": {
+    "Definition": "a basic food that is eaten regularly"
+  },
+  "DECLINE": {
+    "Definition": "a weaker, less successful state"
+  },
+  "HIPSTER": {
+    "Definition": "trendy and fashionable, aimed at young people"
+  },
+  "NATURAL SELECTION": {
+    "Definition": "the process by which those best suited to survive live longer and have more children"
+  },
+  "LONGEVITY": {
+    "Definition": "how long you live"
+  },
+  "AGE-OLD": {
+    "Definition": "very old; used for a very long time"
+  },
+  "HANGOVER": {
+    "Definition": "the headache and sick feeling after drinking too much alcohol"
+  },
+  "PRE-REFORMATION": {
+    "Definition": "before England broke away from the Catholic Church in the 1500s"
+  },
+  "BRIDE": {
+    "Definition": "a woman who is getting married"
+  },
+  "GROOM": {
+    "Definition": "a man who is getting married"
+  },
+  "FASTED": {
+    "Definition": "gone without food, for religious reasons"
+  },
+  "COMMUNION": {
+    "Definition": "the holy bread and wine eaten and drunk in a Christian church service"
+  },
+  "STOMACH": {
+    "Definition": "manage to eat"
+  },
+  "COMFORT FOODS": {
+    "Definition": "dishes that make you feel warm, happy and relaxed"
   }
 }
