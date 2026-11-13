@@ -1,119 +1,122 @@
 {
-  "ABUNDANTLY": {
-    "Definition": "in large quantities"
-  },
-  "ADMITTEDLY": {
-    "Definition": "used when you are agreeing that something is true, especially unwillingly"
-  },
-  "BAILIWICK": {
-    "Definition": "the area that a person or an organization is interested in, is responsible for, or controls"
-  },
-  "BET": {
-    "Definition": "choice"
-  },
-  "BRANDING": {
-    "Definition": "the activity of connecting a product with a particular name, symbol, etc. or with particular features or ideas, in order to make people recognize and want to buy it"
-  },
-  "CATCHY": {
-    "Definition": "easy to remember"
-  },
-  "COMPETE": {
-    "Definition": "to take part in a race or competition"
-  },
-  "COMPRISED": {
-    "Definition": "made up of"
-  },
-  "CONFLICTING": {
-    "Definition": "different and opposing"
-  },
-  "COUNTIES": {
-    "Definition": "a political division of the UK or Ireland, forming the largest unit of local government, or the largest political division of a state in the US"
-  },
-  "DISTINGUISH": {
-    "Definition": "to notice or understand the difference between two things, or to make one person or thing seem different from another‍"
-  },
-  "EFFECTIVELY": {
-    "Definition": "in a way that is successful and achieves what you want"
-  },
-  "EGO": {
-    "Definition": "your idea or opinion of yourself, especially your feeling of your own importance and ability"
-  },
-  "FIERCELY": {
-    "Definition": "in a frightening, violent, or powerful way"
-  },
-  "GENERALISE": {
-    "Definition": "to say or write that something is true all of the time, when it is only true some of the time"
-  },
-  "HERITAGE": {
-    "Definition": "features belonging to the culture of a particular society, such as traditions, languages, or buildings, that were created in the past and still have historical importance"
-  },
-  "I WOULDN'T BLAME YOU": {
-    "Definition": "I would understand"
-  },
-  "IN LIGHT OF": {
-    "Definition": "because of"
-  },
-  "INEVITABLY": {
-    "Definition": "certain to happen and unable to be avoided or prevented"
-  },
-  "INTERCHANGEABLY": {
-    "Definition": "in a way that can be exchanged without making any difference or without being noticed"
-  },
-  "KEY": {
-    "Definition": "important"
-  },
   "LISTING OUT": {
-    "Definition": "making a list of"
-  },
-  "LONG STORY SHORT": {
-    "Definition": "used when you do not tell all the details"
-  },
-  "MISUSING": {
-    "Definition": "not using in the correct way"
-  },
-  "OFFENDED": {
-    "Definition": "upset"
-  },
-  "PARLIAMENT": {
-    "Definition": "in some countries, the group of (usually) elected politicians or other people who make the laws for their country"
-  },
-  "PHENOMENALLY": {
-    "Definition": "extremely, very"
-  },
-  "PLAUSIBLE": {
-    "Definition": "seeming likely to be true, or able to be believed"
-  },
-  "RECAP": {
-    "Definition": "to repeat the main points of an explanation or description"
-  },
-  "REFERENDUM": {
-    "Definition": "a vote in which all the people in a country or an area are asked to give their opinion about or decide an important political or social question"
-  },
-  "SOVEREIGN STATE": {
-    "Definition": "a state with a defined territory that administers its own government and is not subject to or dependent on another power"
-  },
-  "SOVEREIGN STATES": {
-    "Definition": "a state with a defined territory that administers its own government and is not subject to or dependent on another power"
-  },
-  "STEREOTYPE": {
-    "Definition": "a set idea that people have about what someone or something is like, especially an idea that is wrong"
-  },
-  "SYNONYMS": {
-    "Definition": "a word or phrase that has the same or nearly the same meaning as another word or phrase in the same language"
-  },
-  "TRIBES": {
-    "Definition": "group of people, often of related families, who live together, sharing the same language, culture, and history, especially those who do not live in towns or cities"
+    "Definition": "naming one after another"
   },
   "TRICKY": {
-    "Definition": "if a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill"
+    "Definition": "difficult to understand or explain"
+  },
+  "INTERCHANGEABLY": {
+    "Definition": "in place of each other, as if they meant the same"
+  },
+  "GENERALISE": {
+    "Definition": "say that something is true of a whole group when it is only true of some"
+  },
+  "STEREOTYPE": {
+    "Definition": "a fixed and often unfair idea of what a type of person is like"
+  },
+  "IN LIGHT OF": {
+    "Definition": "because of; considering"
+  },
+  "ADMITTEDLY": {
+    "Definition": "as I must accept"
+  },
+  "SYNONYMS": {
+    "Definition": "words or names that have the same meaning"
+  },
+  "SOVEREIGN STATE": {
+    "Definition": "a fully independent country that governs itself"
+  },
+  "COUNTIES": {
+    "Definition": "areas that a country is divided into for local government"
+  },
+  "I WOULDN'T BLAME YOU": {
+    "Definition": "I would not think it was your fault"
+  },
+  "PARLIAMENT": {
+    "Definition": "an elected group of people who make the laws"
   },
   "ULTIMATELY": {
-    "Definition": "finally, after a series of things have happened, at the end of the day"
+    "Definition": "in the end; at the highest level"
+  },
+  "KEY": {
+    "Definition": "very important"
   },
   "UNIFICATION": {
-    "Definition": "the act or process of bringing together or combining things or people"
+    "Definition": "the joining of separate parts into one"
+  },
+  "TRIBES": {
+    "Definition": "groups of people who share the same family line, language and way of life"
+  },
+  "EFFECTIVELY": {
+    "Definition": "in practice, even if not officially"
   },
   "WITHDREW": {
-    "Definition": "removed themself from"
+    "Definition": "broke away; left"
+  },
+  "RECAP": {
+    "Definition": "repeat the main points briefly"
+  },
+  "COMPRISED": {
+    "Definition": "made up"
+  },
+  "BAILIWICK": {
+    "Definition": "a self-governing area that belongs to the British Crown"
+  },
+  "CONFLICTING": {
+    "Definition": "opposing; that disagree with each other"
+  },
+  "DISTINGUISH": {
+    "Definition": "mark as different; separate"
+  },
+  "EGO": {
+    "Definition": "sense of his own importance"
+  },
+  "ABUNDANTLY": {
+    "Definition": "extremely; very"
+  },
+  "SOVEREIGN STATES": {
+    "Definition": "fully independent countries that govern themselves"
+  },
+  "COMPETE": {
+    "Definition": "take part in a contest or sporting event"
+  },
+  "CATCHY": {
+    "Definition": "easy to remember and pleasant to say"
+  },
+  "BRANDING": {
+    "Definition": "marketing and public image"
+  },
+  "FIERCELY": {
+    "Definition": "very strongly; intensely"
+  },
+  "HERITAGE": {
+    "Definition": "history, traditions and culture passed down from the past"
+  },
+  "OFFENDED": {
+    "Definition": "upset or insulted"
+  },
+  "BET": {
+    "Definition": "choice or option"
+  },
+  "LONG STORY SHORT": {
+    "Definition": "to put it briefly; in summary"
+  },
+  "PHENOMENALLY": {
+    "Definition": "extremely; unusually"
+  },
+  "PLAUSIBLE": {
+    "Definition": "possible and reasonable to believe"
+  },
+  "REFERENDUM": {
+    "Definition": "a vote by all the people of a place on a single question"
+  },
+  "INEVITABLY": {
+    "Definition": "as is certain to happen"
+  },
+  "MISUSES": {
+    "Definition": "gets wrong"
+  },
+  "MISUSING": {
+    "Definition": "getting wrong"
   }
 }
