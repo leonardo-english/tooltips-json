@@ -1,149 +1,158 @@
 {
-  "AIRTIME": {
-    "Definition": "(the amount of) broadcasting time that someone or something has on television or radio"
-  },
-  "AN INSIDE JOB": {
-    "Definition": "a crime, especially stealing, committed by someone in the organisation in which they work"
-  },
-  "ASSUME": {
-    "Definition": "to accept something to be true without question or proof"
-  },
-  "ATTRIBUTE": {
-    "Definition": "a quality or characteristic that someone or something has"
-  },
-  "BADDIES": {
-    "Definition": "people, especially in a film or story, who are bad"
-  },
-  "BADDY": {
-    "Definition": "see baddies"
-  },
-  "BLOCKS": {
-    "Definition": "a solid, straight-sided piece of hard material"
-  },
-  "CHILD SEX RING": {
-    "Definition": "a group relating to the abuse of children"
-  },
-  "CRYOGENICALLY": {
-    "Definition": "‍if you are cryogenically frozen, you are frozen after death, with a view to being brought back to life"
-  },
-  "DEBUNKED": {
-    "Definition": "proved to be false or incorrect"
-  },
-  "DEEP STATE": {
-    "Definition": "organizations such as military, police, or political groups that are said to work secretly in order to protect particular interests and to rule a country without being elected"
-  },
-  "DISTRACT": {
-    "Definition": "to make someone stop giving their attention to something"
-  },
-  "DOMESTICATED": {
-    "Definition": "see tamed"
-  },
-  "EASE": {
-    "Definition": "the state of experiencing no difficulty, effort, pain, etc"
-  },
-  "ENGAGED IN": {
-    "Definition": "taking part in something"
-  },
-  "ESTIMATED": {
-    "Definition": "thought to be"
-  },
-  "EXTINCT": {
-    "Definition": "not now existing"
+  "SEDUCTIVE": {
+    "Definition": "very attractive and hard to resist"
   },
   "FAKED": {
-    "Definition": "not real, but made to look or seem real"
+    "Definition": "set up to look real when it never really happened"
   },
-  "FANNING THE FLAMES": {
-    "Definition": "to make a dangerous or unpleasant mood or situation worse"
+  "AN INSIDE JOB": {
+    "Definition": "an attack secretly planned by people within the government itself"
+  },
+  "DEEP STATE": {
+    "Definition": "a secret group of officials thought to control the government"
   },
   "FICTIONAL": {
-    "Definition": "imaginary, not true"
+    "Definition": "made up; not based on real events"
   },
-  "FRANCHISE": {
-    "Definition": "a series of films that have the same or similar titles and are about the same characters"
-  },
-  "GIVEN THE LIGHT OF DAY": {
-    "Definition": "when something sees the light of day, it appears for the first time"
+  "NARRATIVES": {
+    "Definition": "stories or ways of explaining events"
   },
   "GOODIES": {
-    "Definition": "people, especially in a film or story, who are good"
+    "Definition": "the good characters in a story"
   },
-  "HARASSED": {
-    "Definition": "annoyed or troubled repeatedly"
+  "BADDIES": {
+    "Definition": "the bad characters in a story"
   },
   "INSTITUTION": {
-    "Definition": "a large and important organization, such as a university or bank"
+    "Definition": "a large, important organisation, such as a bank or a court"
   },
-  "INTENTIONALLY": {
-    "Definition": "in a planned or intended way"
-  },
-  "LAUGHABLE": {
-    "Definition": "silly and not deserving to be seriously considered"
-  },
-  "LEGITIMISES": {
-    "Definition": "to make something legal or acceptable"
-  },
-  "MAINSTREAM": {
-    "Definition": "considered normal, and having or using ideas, beliefs, etc. that are accepted by most people"
-  },
-  "NARRATIVE": {
-    "Definition": "see 'narratives'"
-  },
-  "NICHE": {
-    "Definition": "interesting to, aimed at, or affecting only a small number of people"
+  "BADDY": {
+    "Definition": "the bad character in a story"
   },
   "OVERPLAY": {
-    "Definition": "to make something seem more important than it really is"
+    "Definition": "give too much importance to"
   },
-  "PILED UP": {
-    "Definition": "objects positioned one on top of another"
+  "ASSUME": {
+    "Definition": "think or accept without proof"
   },
-  "POLICY LINE": {
-    "Definition": "the official view"
-  },
-  "PREHISTORIC": {
-    "Definition": "describing the period before there were written records"
-  },
-  "QUITE A STRETCH": {
-    "Definition": "if something is a stretch, usually means that it is not very believable or that something doesn't fit"
-  },
-  "RABBIT WARREN": {
-    "Definition": "a series of connecting underground passages and holes in which rabbits live, used figuratively to describe the fact that one link would lead to another"
-  },
-  "RECESSES": {
-    "Definition": "a secret or hidden place"
-  },
-  "SEDUCTIVE": {
-    "Definition": "making you want to do, have, or believe something, because of seeming attractive"
-  },
-  "SERIAL": {
-    "Definition": "used to describe a person who repeatedly commits a similar crime or carries out a similar bad act, or the crime or act itself"
-  },
-  "SLIPPERY SLOPE": {
-    "Definition": "a bad situation or habit that, after it has started, is likely to get very much worse"
-  },
-  "SPREAD": {
-    "Definition": "to move from one place to another, or to cause something to move or be communicated"
-  },
-  "SUPPOSEDLY": {
-    "Definition": "used to show that you do not believe that something you have been told is true"
-  },
-  "SURFACED": {
-    "Definition": "if a feeling or information surfaces, it becomes known"
-  },
-  "TAMED": {
-    "Definition": "(especially of animals) not wild or dangerous, either naturally or because of training or long involvement with humans"
-  },
-  "TENUOUS": {
-    "Definition": "a tenuous connection, idea, or situation is weak and possibly does not exist"
+  "NARRATIVE": {
+    "Definition": "a story or way of explaining events"
   },
   "UNDERLYING": {
-    "Definition": "real but not immediately obvious"
+    "Definition": "real but not obvious"
+  },
+  "INTENTIONALLY": {
+    "Definition": "on purpose"
+  },
+  "DECEIVED": {
+    "Definition": "made to believe something false"
+  },
+  "NICHE": {
+    "Definition": "limited to a small group of people"
+  },
+  "RECESSES": {
+    "Definition": "hidden, hard-to-reach parts"
+  },
+  "MAINSTREAM": {
+    "Definition": "known and accepted by most ordinary people"
+  },
+  "ATTRIBUTE": {
+    "Definition": "say that something is caused by"
+  },
+  "EASE": {
+    "Definition": "lack of difficulty"
+  },
+  "ENGAGED IN": {
+    "Definition": "carrying out; taking part in"
+  },
+  "FANNING THE FLAMES": {
+    "Definition": "making a bad situation worse by encouraging strong feelings"
+  },
+  "SERIAL": {
+    "Definition": "repeated; doing the same thing many times"
+  },
+  "LEGITIMISES": {
+    "Definition": "makes something seem acceptable or reasonable"
+  },
+  "GIVEN THE LIGHT OF DAY": {
+    "Definition": "made public or taken seriously"
+  },
+  "LAUGHABLE": {
+    "Definition": "silly and not to be taken seriously"
+  },
+  "CHILD SEX RING": {
+    "Definition": "an organised group of criminals who sexually abuse children"
+  },
+  "SPREAD": {
+    "Definition": "passed on to many people"
+  },
+  "SURFACED": {
+    "Definition": "first appeared"
+  },
+  "HARASSED": {
+    "Definition": "repeatedly annoyed, threatened or attacked"
+  },
+  "DEBUNKED": {
+    "Definition": "shown to be false"
+  },
+  "AIRTIME": {
+    "Definition": "attention, or time spent talking about it publicly"
   },
   "WACKIEST": {
-    "Definition": "most strange, unusual in a pleasing and exciting or silly way"
+    "Definition": "craziest; most strange and silly"
   },
   "WITHOUT FURTHER ADO": {
-    "Definition": "without wasting more time"
+    "Definition": "without any more delay"
+  },
+  "EXTINCT": {
+    "Definition": "no longer existing, with every one of them dead"
+  },
+  "TAMED": {
+    "Definition": "trained to be calm and to obey humans"
+  },
+  "DOMESTICATED": {
+    "Definition": "kept and trained by humans to live or work with them"
+  },
+  "SUPPOSEDLY": {
+    "Definition": "according to what people say, though it may not be true"
+  },
+  "TENUOUS": {
+    "Definition": "very weak; not convincing"
+  },
+  "POLICY LINE": {
+    "Definition": "official view or position"
+  },
+  "DISTRACT": {
+    "Definition": "draw away"
+  },
+  "CRYOGENICALLY": {
+    "Definition": "by a special method that keeps a dead body at extremely low temperatures"
+  },
+  "FROZEN": {
+    "Definition": "made so cold that it turned hard like ice"
+  },
+  "FRANCHISE": {
+    "Definition": "a series of films, products and other things based on the same story"
+  },
+  "PREHISTORIC": {
+    "Definition": "from a time before history was written down"
+  },
+  "PILED UP": {
+    "Definition": "lifted and placed"
+  },
+  "ESTIMATED": {
+    "Definition": "roughly calculated or guessed"
+  },
+  "BLOCKS": {
+    "Definition": "large solid pieces with flat sides"
+  },
+  "QUITE A STRETCH": {
+    "Definition": "very hard to believe; an exaggeration"
+  },
+  "RABBIT WARREN": {
+    "Definition": "a confusing network of connected places where it is easy to get lost"
+  },
+  "SLIPPERY SLOPE": {
+    "Definition": "something that, once started, is hard to stop and leads somewhere worse"
   }
 }
