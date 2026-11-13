@@ -1,80 +1,80 @@
 {
-  "BARBED WIRE": {
-    "Definition": "wire with clusters of short, sharp spikes, used to make fences or in warfare as an obstruction"
-  },
-  "BRIBE": {
-    "Definition": "dishonestly persuade (someone) to act in one's favour by a gift of money or other inducement"
-  },
-  "BRUTE": {
-    "Definition": "merely physical - 'brute' is typically used before 'force' to emphasis the physicality of the force"
-  },
-  "CARVED": {
-    "Definition": "cut into a shape"
-  },
-  "CULT": {
-    "Definition": "a person or thing that is popular or fashionable among a particular group or section of society"
-  },
-  "DUMMIES": {
-    "Definition": "a model or replica of a human being"
-  },
-  "EVADE": {
-    "Definition": "escape, avoid"
-  },
-  "EXTRADITED": {
-    "Definition": "hand over (a person accused or convicted of a crime) to a foreign state in which the crime was committed"
-  },
-  "FEAT": {
-    "Definition": "an achievement that requires great courage, skill, or strength"
-  },
-  "IMMORTALIZED": {
-    "Definition": "become famous forever"
-  },
-  "IMPLICATED": {
-    "Definition": "show (someone) to be involved in a crime"
+  "PROTAGONISTS": {
+    "Definition": "the main people in a story or event"
   },
   "INGENIOUS": {
-    "Definition": "(of a machine or idea) cleverly and originally devised and well suited to its purpose"
+    "Definition": "very clever, original and inventive"
   },
-  "INTRIGUING": {
-    "Definition": "arousing one's curiosity or interest; fascinating"
-  },
-  "LURED": {
-    "Definition": "tricked into coming into a place"
-  },
-  "NOTORIOUS": {
-    "Definition": "famous or well known, typically for some bad quality or deed"
-  },
-  "PERISHED": {
-    "Definition": "died"
-  },
-  "PROTAGONISTS": {
-    "Definition": "the leading character or one of the major characters in a play, film, novel, etc"
-  },
-  "RAFT": {
-    "Definition": "a small inflatable rubber or plastic boat, especially one for use in emergencies"
-  },
-  "RINGING A BELL": {
-    "Definition": "sound familiar"
-  },
-  "SHARK-INFESTED": {
-    "Definition": "full of sharks"
-  },
-  "SHEER": {
-    "Definition": "nothing other than; unmitigated (used for emphasis)"
-  },
-  "SHOOTOUT": {
-    "Definition": "fight with guns"
-  },
-  "SQUADRON": {
-    "Definition": "an operational unit in an air force consisting of two or more flights of aircraft and the personnel required to fly them"
-  },
-  "TIDES": {
-    "Definition": "the alternate rising and falling of the sea, usually twice in each lunar day at a particular place, due to the attraction of the moon and sun"
+  "DUMMIES": {
+    "Definition": "models made to look like real people"
   },
   "WITHOUT FURTHER ADO": {
-    "Definition": "immediately"
+    "Definition": "without wasting any more time"
+  },
+  "RINGING A BELL": {
+    "Definition": "seeming familiar"
+  },
+  "NOTORIOUS": {
+    "Definition": "famous for something bad"
+  },
+  "CARVED": {
+    "Definition": "cut and shaped"
+  },
+  "LURED": {
+    "Definition": "used a trick to bring"
+  },
+  "SHOOTOUT": {
+    "Definition": "a fight in which people fire guns at each other"
+  },
+  "BRUTE FORCE": {
+    "Definition": "physical strength used roughly, without skill"
   },
   "WRIGGLE": {
-    "Definition": "twist and turn with quick writhing movements, in this case to get out of something"
+    "Definition": "twist and turn his body to squeeze"
+  },
+  "PERISHED": {
+    "Definition": "died, especially in an accident or disaster"
+  },
+  "CULT": {
+    "Definition": "loved by a particular group of devoted fans"
+  },
+  "SHARK-INFESTED": {
+    "Definition": "full of large, dangerous fish that can attack people"
+  },
+  "TIDES": {
+    "Definition": "movements of the sea as its level rises and falls"
+  },
+  "FEAT": {
+    "Definition": "an achievement that needs great skill or courage"
+  },
+  "RAFT": {
+    "Definition": "a flat floating structure used as a simple boat"
+  },
+  "INTRIGUING": {
+    "Definition": "interesting because it is unusual or mysterious"
+  },
+  "IMMORTALIZED": {
+    "Definition": "kept alive in people's memory"
+  },
+  "SQUADRON": {
+    "Definition": "a unit of military aircraft and their crews"
+  },
+  "SHEER": {
+    "Definition": "very large; used for emphasis"
+  },
+  "BARBED WIRE": {
+    "Definition": "twisted metal fencing with sharp points along it"
+  },
+  "IMPLICATED": {
+    "Definition": "suspected or shown to be involved"
+  },
+  "EVADE": {
+    "Definition": "avoid being stopped or caught by"
+  },
+  "EXTRADITED": {
+    "Definition": "officially sent to another country to face trial"
+  },
+  "BRIBE": {
+    "Definition": "secretly pay to get dishonest help from"
   }
 }
