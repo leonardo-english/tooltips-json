@@ -1,179 +1,179 @@
 {
-  "ARMED": {
-    "Definition": "if you arm yourself, you get weapons"
+  "NIGHT-VISION GOGGLES": {
+    "Definition": "special glasses that let you see in the dark"
   },
-  "ARMED TO THE TEETH": {
-    "Definition": "armed heavily"
+  "RE-EMERGED": {
+    "Definition": "appeared again"
   },
-  "BARGAIN": {
-    "Definition": "good deal, low price"
+  "TREASURE": {
+    "Definition": "valuable things such as gold, jewels or money"
   },
-  "CARGO": {
-    "Definition": "goods carried by a ship, aeroplane or vehicle"
+  "HOTSPOT": {
+    "Definition": "a place where a lot of a particular activity happens"
   },
-  "CARGO SHIP": {
-    "Definition": "a ship that carries goods"
-  },
-  "CORE": {
-    "Definition": "most important"
-  },
-  "CREW": {
-    "Definition": "the people on the ship"
+  "PLUNGED": {
+    "Definition": "suddenly thrown"
   },
   "DISARRAY": {
-    "Definition": "chaos, no organisation"
+    "Definition": "a state of confusion and lack of order"
+  },
+  "NAVY": {
+    "Definition": "the part of a country's armed forces that fights at sea"
   },
   "DISBANDED": {
-    "Definition": "stop existing as a single organisation"
+    "Definition": "broken up so that it no longer existed as a group"
+  },
+  "TRESPASSING": {
+    "Definition": "going without permission"
+  },
+  "FERTILE": {
+    "Definition": "productive; producing a lot"
   },
   "DUMP": {
-    "Definition": "put something in a careless way"
+    "Definition": "get rid of something by leaving it somewhere carelessly"
   },
-  "DUMPED": {
-    "Definition": "see 'dump'"
+  "TOXIC": {
+    "Definition": "poisonous"
   },
-  "DUMPING": {
-    "Definition": "see 'dump'"
+  "OVERBOARD": {
+    "Definition": "over the side of the ship into the water"
   },
-  "ECO-WARRIORS": {
-    "Definition": "people who care strongly about the environment"
+  "STRIKE": {
+    "Definition": "make or agree"
   },
-  "ELSEWHERE": {
-    "Definition": "in other places"
+  "WARLORDS": {
+    "Definition": "military leaders who control an area by force"
+  },
+  "RESPIRATORY": {
+    "Definition": "affecting the lungs and breathing"
+  },
+  "ULCERS": {
+    "Definition": "painful open sores"
   },
   "EXACERBATED": {
     "Definition": "made worse"
   },
-  "EXPEDITIONS": {
-    "Definition": "journeys"
+  "STIRRED UP": {
+    "Definition": "moved around and brought up from the bottom"
   },
-  "FEASIBLY": {
-    "Definition": "able to be done"
+  "CORE": {
+    "Definition": "main and most important"
   },
-  "FERTILE": {
-    "Definition": "producing a large amount of resources (fish, crops, etc.)"
+  "DUMPING": {
+    "Definition": "getting rid of something by leaving it somewhere carelessly"
   },
-  "FISH STOCKS": {
-    "Definition": "the amount of fish"
-  },
-  "FISHING STOCK": {
-    "Definition": "see 'fish stocks'"
-  },
-  "FULLY-FLEDGED": {
-    "Definition": "completely developed, full"
-  },
-  "GOLDEN AGE": {
-    "Definition": "the best time (for a particular activity, people)"
-  },
-  "GRENADES": {
-    "Definition": "small bombs thrown by hand"
-  },
-  "HOTSPOT": {
-    "Definition": "a place where something happens frequently"
-  },
-  "HOTSPOTS": {
-    "Definition": "places where something happens frequently"
-  },
-  "LOAN": {
-    "Definition": "an amount of money that is borrowed"
-  },
-  "LONG SHOT": {
-    "Definition": "something with a little chance of success"
-  },
-  "LUCRATIVE": {
-    "Definition": "producing a lot of money"
-  },
-  "MONUMENTAL": {
-    "Definition": "very large"
-  },
-  "MOUNT": {
-    "Definition": "launch"
-  },
-  "NAVY": {
-    "Definition": "the country's armed forces that fight at sea"
-  },
-  "NIGHT-VISION GOGGLES": {
-    "Definition": "a pair of glasses to allow you to see in the night"
-  },
-  "OIL TANKER": {
-    "Definition": "a large ship that transports oil"
-  },
-  "ON SHORE": {
-    "Definition": "on the land"
-  },
-  "OUTBID": {
-    "Definition": "to offer to pay a higher price"
-  },
-  "OVERBOARD": {
-    "Definition": "over the side of a boat"
+  "RIPE": {
+    "Definition": "in the right conditions"
   },
   "PLENTIFUL": {
-    "Definition": "full of good things"
+    "Definition": "full of fish, with more than enough for everyone"
   },
-  "PLUNGED": {
-    "Definition": "quickly fallen into a state (usually a negative state)"
+  "FISH STOCKS": {
+    "Definition": "the amounts of sea creatures available to be caught"
   },
-  "POPPING UP": {
-    "Definition": "emerging"
+  "DUMPED": {
+    "Definition": "left or thrown away carelessly"
+  },
+  "ARMED": {
+    "Definition": "got weapons for"
+  },
+  "LUCRATIVE": {
+    "Definition": "making a lot of money"
   },
   "POVERTY-STRICKEN": {
     "Definition": "extremely poor"
   },
-  "PREY": {
-    "Definition": "something to be attacked"
-  },
   "RAID": {
-    "Definition": "a short and sudden attack"
-  },
-  "RAIDS": {
-    "Definition": "short and sudden attacks"
-  },
-  "RANSOM": {
-    "Definition": "money that is demanded in exchange for a person or object"
+    "Definition": "sudden attack"
   },
   "RANSOMS": {
-    "Definition": "money that is demanded in exchange for a person or object"
+    "Definition": "payments demanded to free people or things that have been captured"
   },
-  "RE-EMERGED": {
-    "Definition": "come back"
+  "FISHING STOCK": {
+    "Definition": "supply of sea creatures they could catch"
   },
-  "RESPIRATORY": {
-    "Definition": "relating to breathing"
+  "FULLY-FLEDGED": {
+    "Definition": "real and complete"
   },
-  "RIPE": {
-    "Definition": "ready"
+  "PREY": {
+    "Definition": "ships to attack"
   },
-  "SHORE": {
-    "Definition": "the land along the sea or river"
+  "ARMED TO THE TEETH": {
+    "Definition": "carrying a lot of weapons"
   },
-  "STIRRED UP": {
-    "Definition": "caused to come to the surface"
+  "RANSOM": {
+    "Definition": "a payment demanded to free people or things that have been captured"
   },
-  "STOCK MARKET": {
-    "Definition": "a place where shares in companies are bought"
+  "CREW": {
+    "Definition": "the people who work on a ship"
   },
-  "STRIKE": {
-    "Definition": "arrange"
+  "CARGO": {
+    "Definition": "the goods carried by a ship"
   },
   "SUM": {
     "Definition": "amount of money"
   },
+  "OIL TANKER": {
+    "Definition": "a ship that carries large amounts of oil"
+  },
+  "BARGAIN": {
+    "Definition": "a low price for something of much greater value"
+  },
+  "FEASIBLY": {
+    "Definition": "realistically; possibly"
+  },
+  "CARGO SHIP": {
+    "Definition": "a large ship that carries goods"
+  },
+  "GRENADES": {
+    "Definition": "small bombs thrown by hand"
+  },
+  "MOUNT": {
+    "Definition": "organise and carry out"
+  },
+  "LOAN": {
+    "Definition": "lend"
+  },
+  "STOCK MARKET": {
+    "Definition": "a system where people put money into businesses and receive a share of the profits"
+  },
+  "EXPEDITIONS": {
+    "Definition": "organised trips or missions with a particular purpose"
+  },
+  "MONUMENTAL": {
+    "Definition": "extremely large"
+  },
+  "ON SHORE": {
+    "Definition": "on land"
+  },
+  "OUTBID": {
+    "Definition": "offer more money than"
+  },
+  "ECO-WARRIORS": {
+    "Definition": "people who fight to protect the natural environment"
+  },
   "TARNISHING": {
     "Definition": "damaging"
   },
-  "TOXIC": {
-    "Definition": "full of chemicals"
+  "GOLDEN AGE": {
+    "Definition": "the most successful period"
   },
-  "TREASURE": {
-    "Definition": "valuable things"
+  "SHORE": {
+    "Definition": "the land along the edge of the sea"
   },
-  "TRESPASSING": {
-    "Definition": "go onto someone's territory illegally"
+  "RAIDS": {
+    "Definition": "sudden attacks"
   },
-  "ULCERS": {
-    "Definition": "breaks in the skin"
+  "ELSEWHERE": {
+    "Definition": "in other places"
   },
-  "WARLORDS": {
-    "Definition": "military leaders that control a region"
+  "HOTSPOTS": {
+    "Definition": "places where a lot of a particular activity happens"
+  },
+  "POPPING UP": {
+    "Definition": "appearing suddenly"
+  },
+  "LONG SHOT": {
+    "Definition": "a very small chance"
   }
 }
