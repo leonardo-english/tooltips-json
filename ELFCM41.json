@@ -1,233 +1,239 @@
 {
-  "A MATTER OF": {
-    "Definition": "only"
-  },
-  "ABNORMAL": {
-    "Definition": "different from what is usual or average, especially in a way that is bad"
-  },
-  "ACCOMPLICES": {
-    "Definition": "a person who helps someone else to commit a crime or to do something morally wrong"
-  },
-  "ALERTED": {
-    "Definition": "warned, told"
-  },
-  "ASSOCIATES": {
-    "Definition": "people who are closely connected to another person as a companion, friend, or business partner"
-  },
-  "CAIPIRINHAS": {
-    "Definition": "a Brazilian alcoholic drink made with Brazilian rum, lime juice, sugar, and ice"
-  },
-  "CARRIAGE": {
-    "Definition": "any of the separate parts of a train in which the passengers sit"
-  },
-  "CARRIAGES": {
-    "Definition": "any of the separate parts of a train in which the passengers sit"
-  },
-  "CASH": {
-    "Definition": "money in the form of notes and coins, rather than cheques or credit cards"
-  },
-  "CIRCULATION": {
-    "Definition": "the process in which something such as information, money, or goods passes from one person to another"
-  },
-  "CLUES": {
-    "Definition": "a sign or some information that helps you to find the answer to a problem, question, or mystery"
-  },
-  "COMING AND GOING": {
-    "Definition": "frequent movement"
-  },
-  "COMMITTED": {
-    "Definition": "done something illegal"
-  },
-  "COMPASSIONATE": {
-    "Definition": "showing compassion (a strong feeling of sympathy and sadness for the suffering or bad luck of others and a wish to help them)"
-  },
-  "CONSISTED": {
-    "Definition": "to be comprised of, made up of"
-  },
-  "DEPORT": {
-    "Definition": "to force someone to leave a country, especially someone who has no legal right to be there or who has broken the law"
-  },
-  "DESERTED": {
-    "Definition": "If a place is deserted, there are no people in it"
-  },
-  "DETACHED": {
-    "Definition": "taken off, removed"
-  },
-  "DETERIORATED": {
-    "Definition": "to become worse"
-  },
-  "ECLIPSED": {
-    "Definition": "become more successful or important than something else"
-  },
-  "EMBANKMENT": {
-    "Definition": "an artificial slope made of earth and/or stones"
+  "ROBBERY": {
+    "Definition": "a crime of stealing money or goods, often using force"
   },
   "EQUIVALENT": {
-    "Definition": "having the same amount, value, purpose, qualities, etc."
+    "Definition": "an amount with the same value"
   },
-  "ESCAPEE": {
-    "Definition": "someone who escapes"
-  },
-  "EXTRADITION": {
-    "Definition": "the act of making someone return for trial to another country or state where they have been accused of doing something illegal"
-  },
-  "FANTASTIC": {
-    "Definition": "normally this means 'very good', but it can also be used to mean very unusual, strange, or unexpected"
-  },
-  "FELLOW": {
-    "Definition": "used of people or a person with whom you share something, esp. the same kind of job, interest, or experience"
-  },
-  "FINGERPRINTS": {
-    "Definition": "the pattern of curved lines on the end of a finger or thumb that is different in every person, or a mark left by this pattern"
-  },
-  "FLED": {
-    "Definition": "past simple and past participle of flee (to escape from)"
-  },
-  "GANG": {
-    "Definition": "a group of criminals who work together"
-  },
-  "GET AWAY": {
-    "Definition": "to succeed in doing, especially something bad"
-  },
-  "GETAWAY": {
-    "Definition": "an occasion when someone leaves a place quickly, usually after committing a crime"
-  },
-  "GRABBED": {
-    "Definition": "taken hold of something or someone suddenly and roughly"
-  },
-  "HARSH": {
-    "Definition": "unpleasant, unkind, cruel, or more severe than is necessary"
-  },
-  "INFAMOUS": {
-    "Definition": "famous for something considered bad"
-  },
-  "INSPIRED": {
-    "Definition": "to make someone feel that they want to do something and can do it"
-  },
-  "IRON BAR": {
-    "Definition": "a large piece of hard metal"
-  },
-  "LONGED TO": {
-    "Definition": "wanted very much"
-  },
-  "LYRICS": {
-    "Definition": "the words of a song"
-  },
-  "MAN INSIDE": {
-    "Definition": "if you are a 'person inside', you have information about something that you could only get through being involved with that organisation"
-  },
-  "MANHUNT": {
-    "Definition": "an organised search for a person, especially a criminal"
+  "THEFTS": {
+    "Definition": "crimes of stealing"
   },
   "MISSING A TRICK": {
-    "Definition": "missing out, not taking advantage of an opportunity or situation to gain some benefit for oneself"
+    "Definition": "not taking a useful chance to gain an advantage"
+  },
+  "FANTASTIC": {
+    "Definition": "amazing and hard to believe"
+  },
+  "ROYAL MAIL": {
+    "Definition": "the British national postal service"
+  },
+  "CASH": {
+    "Definition": "money in the form of paper notes and coins"
+  },
+  "WHOLE LOAD": {
+    "Definition": "a very large amount"
+  },
+  "CIRCULATION": {
+    "Definition": "use by the public as money"
+  },
+  "GRABBED": {
+    "Definition": "taken hold of suddenly and roughly"
+  },
+  "HARSH": {
+    "Definition": "rough and unpleasant"
+  },
+  "TIED UP": {
+    "Definition": "fastened with rope so that they could not move"
+  },
+  "CARRIAGES": {
+    "Definition": "the separate parts of a train that carry people or goods"
+  },
+  "DETACHED": {
+    "Definition": "unfastened and separated"
+  },
+  "TRACK": {
+    "Definition": "the metal rails that a train runs on"
+  },
+  "REAR": {
+    "Definition": "back"
+  },
+  "ROUTINE": {
+    "Definition": "ordinary and expected"
+  },
+  "GANG": {
+    "Definition": "a group of criminals working together"
+  },
+  "ROBBERS": {
+    "Definition": "criminals who steal, often using force"
+  },
+  "CARRIAGE": {
+    "Definition": "one of the separate parts of a train that carry people or goods"
+  },
+  "OVERPOWERED": {
+    "Definition": "defeated using greater strength"
+  },
+  "EMBANKMENT": {
+    "Definition": "a steep slope of earth beside a railway"
+  },
+  "ACCOMPLICES": {
+    "Definition": "people who help someone to carry out a crime"
+  },
+  "FELLOW": {
+    "Definition": "belonging to the same group as them"
+  },
+  "GETAWAY": {
+    "Definition": "used for escaping after a crime"
+  },
+  "A MATTER OF": {
+    "Definition": "only about"
+  },
+  "THIEVES": {
+    "Definition": "people who steal"
+  },
+  "ALERTED": {
+    "Definition": "warned or told about a problem"
+  },
+  "ON THE HUNT FOR": {
+    "Definition": "searching hard for"
+  },
+  "SQUAD": {
+    "Definition": "a small team of police officers with a special task"
+  },
+  "UNDERGROUND": {
+    "Definition": "secret world of people who live outside the law"
+  },
+  "ASSOCIATES": {
+    "Definition": "people someone knows or works with"
+  },
+  "INFAMOUS": {
+    "Definition": "well known for something bad"
+  },
+  "TIP-OFF": {
+    "Definition": "a secret piece of information given to the police"
+  },
+  "COMING AND GOING": {
+    "Definition": "arriving and leaving"
+  },
+  "ABNORMAL": {
+    "Definition": "unusual in a worrying way"
+  },
+  "DESERTED": {
+    "Definition": "empty, with nobody there"
+  },
+  "ONTO SOMETHING": {
+    "Definition": "about to discover something important"
+  },
+  "WIPED EVERYTHING DOWN": {
+    "Definition": "cleaned every surface with a cloth"
+  },
+  "FINGERPRINTS": {
+    "Definition": "unique marks left on objects when people touch them"
+  },
+  "CLUES": {
+    "Definition": "pieces of information that help to solve a crime"
+  },
+  "TRACK DOWN": {
+    "Definition": "find after a long search"
+  },
+  "TIP-OFFS": {
+    "Definition": "secret pieces of information given to the police"
+  },
+  "TRACKING": {
+    "Definition": "following and searching for"
+  },
+  "CONSISTED": {
+    "Definition": "was made up"
+  },
+  "MOTLEY CREW": {
+    "Definition": "a mixed group of very different people"
+  },
+  "THREATEN": {
+    "Definition": "say that they would hurt"
+  },
+  "THE MUSCLE": {
+    "Definition": "the strong men who used force or threats"
+  },
+  "MAN INSIDE": {
+    "Definition": "a person with secret knowledge of the organisation who helped the criminals"
+  },
+  "GET AWAY WITH": {
+    "Definition": "escape being caught for"
+  },
+  "PASSED AWAY": {
+    "Definition": "died"
+  },
+  "SENTENCED": {
+    "Definition": "given an official punishment by a court"
   },
   "MOST CERTAINLY": {
     "Definition": "definitely"
   },
-  "MOTLEY CREW": {
-    "Definition": "a diverse and often poorly organised group"
+  "ESCAPEE": {
+    "Definition": "a person who has got out of prison"
   },
-  "ON THE HUNT FOR": {
-    "Definition": "looking for"
-  },
-  "ONTO SOMETHING": {
-    "Definition": "To be onto something or someone is to be aware of other information relating to the situation, esp. when someone is trying to deceive you"
-  },
-  "OVERPOWERED": {
-    "Definition": "to defeat someone by having greater strength or power"
-  },
-  "PASSED AWAY": {
-    "Definition": "polite expression for die"
+  "FLED": {
+    "Definition": "ran away quickly to avoid danger"
   },
   "PLASTIC SURGERY": {
-    "Definition": "a medical operation to bring a damaged area of skin, and sometimes bone, back to its usual appearance, or to improve a person's appearance"
+    "Definition": "medical operations to change how a person looks"
   },
-  "POP CULTURE": {
-    "Definition": "music, TV, cinema, books, etc. that are popular and enjoyed by ordinary people, rather than experts or very educated people"
+  "EXTRADITION": {
+    "Definition": "the official sending of a person to another country to face trial"
   },
-  "REAR": {
-    "Definition": "at the back of something"
+  "TREATY": {
+    "Definition": "a formal agreement between countries"
   },
-  "ROBBERS": {
-    "Definition": "people who steal from others"
-  },
-  "ROBBERY": {
-    "Definition": "the crime of stealing from somewhere or someone"
-  },
-  "ROBBING": {
-    "Definition": "stealing"
-  },
-  "ROMANTICISED": {
-    "Definition": "to talk about something in a way that makes it sound better than it really is, or to believe that something is better than it really is"
-  },
-  "ROUTINE": {
-    "Definition": "done as part of what usually happens, and not for any special reason"
-  },
-  "ROYAL MAIL": {
-    "Definition": "the postal service in the UK"
-  },
-  "SENTENCED": {
-    "Definition": "given as a punishment"
-  },
-  "SERVE": {
-    "Definition": "to spend a period of time in a job or activity"
-  },
-  "SERVED": {
-    "Definition": "to spend a period of time in a job or activity"
-  },
-  "SEVERE": {
-    "Definition": "causing very great pain, difficulty, worry, damage, etc.; very serious"
-  },
-  "THE MUSCLE": {
-    "Definition": "(informal) the strong people"
-  },
-  "THEFT": {
-    "Definition": "(the act of) dishonestly taking something that belongs to someone else and keeping it"
-  },
-  "THEFTS": {
-    "Definition": "(the act of) dishonestly taking something that belongs to someone else and keeping it"
-  },
-  "THIEVES": {
-    "Definition": "people who steal from others"
-  },
-  "THREATEN": {
-    "Definition": "to tell someone that you will kill or hurt them or cause problems if they do not do what you want"
-  },
-  "TIED UP": {
-    "Definition": "to make a person unable to move by tying a rope or something similar around their body or part of their body"
-  },
-  "TIP-OFF": {
-    "Definition": "a secret warning or piece of secret information"
-  },
-  "TIP-OFFS": {
-    "Definition": "a secret warning or piece of secret information"
-  },
-  "TRACK": {
-    "Definition": "the pair of long metal bars fixed on the ground at an equal distance from each other, along which trains travel"
-  },
-  "TRACK DOWN": {
-    "Definition": "to find"
-  },
-  "TRACKING": {
-    "Definition": "locating"
+  "DEPORT": {
+    "Definition": "officially send out of the country"
   },
   "TRIED": {
-    "Definition": "past of 'try' to examine a person accused of committing a crime in a law court by asking them questions and considering known facts, and then decide if they are guilty"
+    "Definition": "judged in a court of law"
   },
-  "UNDERGROUND": {
-    "Definition": "below the surface of the earth; below ground, similar to 'underworld'"
+  "CAIPIRINHAS": {
+    "Definition": "Brazilian cocktails made with a sugar cane spirit, lime and sugar"
+  },
+  "DETERIORATED": {
+    "Definition": "became worse"
+  },
+  "LONGED TO": {
+    "Definition": "wanted very much to"
+  },
+  "COMMITTED": {
+    "Definition": "carried out"
+  },
+  "SERVE": {
+    "Definition": "spend in prison"
+  },
+  "SERVED": {
+    "Definition": "spent in prison"
+  },
+  "COMPASSIONATE GROUNDS": {
+    "Definition": "reasons of kindness and sympathy, such as serious illness"
+  },
+  "ROMANTICISED": {
+    "Definition": "made to seem more exciting and attractive than it really was"
   },
   "VICTIM": {
-    "Definition": "someone or something that has been hurt, damaged, or killed or has suffered, either because of the actions of someone or something else, or because of illness or chance"
+    "Definition": "a person harmed by a crime"
+  },
+  "IRON BAR": {
+    "Definition": "a long, heavy metal rod"
+  },
+  "SEVERE": {
+    "Definition": "very serious"
   },
   "VICTIMLESS": {
-    "Definition": "In a victimless crime no one suffers directly, sometimes because the people affected by the crime have agreed to take part in it"
+    "Definition": "causing no harm to anyone"
   },
-  "WHOLE LOAD": {
-    "Definition": "a large amount"
+  "THEFT": {
+    "Definition": "the crime of stealing"
   },
-  "WIPED EVERYTHING DOWN": {
-    "Definition": "cleaned everything"
+  "ECLIPSED": {
+    "Definition": "beaten in size"
+  },
+  "POP CULTURE": {
+    "Definition": "the music, films, TV and books enjoyed by most ordinary people"
+  },
+  "LYRICS": {
+    "Definition": "the words of songs"
+  },
+  "MANHUNT": {
+    "Definition": "a large, organised search for a person"
+  },
+  "INSPIRED": {
+    "Definition": "encouraged or persuaded"
+  },
+  "ROBBING": {
+    "Definition": "stealing from, often using force"
   }
 }
