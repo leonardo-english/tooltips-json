@@ -1,134 +1,134 @@
 {
-  "ALGORITHM": {
-    "Definition": "the code in a computer programme"
-  },
-  "ALGORITHMS": {
-    "Definition": "the code in a computer programme"
-  },
-  "AMBIGUOUS": {
-    "Definition": "having multiple possible meanings"
-  },
-  "ARMED TO THE TEETH": {
-    "Definition": "carrying a lot of weapons"
-  },
-  "AWAKENING": {
-    "Definition": "when you suddenly realise the truth"
-  },
-  "CATCHPHRASES": {
-    "Definition": "phrases that are often used by someone or something"
-  },
-  "COMMANDMENTS": {
-    "Definition": "orders"
-  },
-  "COMPOSED": {
-    "Definition": "calm"
-  },
-  "CONGRESSIONAL": {
-    "Definition": "relating to the US Congress"
-  },
-  "CRYPTIC": {
-    "Definition": "mysterious, difficult to understand"
-  },
   "DEEP STATE": {
-    "Definition": "people within government or the military who are believed to control and manipulate government policy"
-  },
-  "DEVOTED": {
-    "Definition": "very loyal"
-  },
-  "ELITE": {
-    "Definition": "the richest and most powerful people in society"
-  },
-  "EMPOWER": {
-    "Definition": "to give someone power (to do something)"
-  },
-  "ENABLED": {
-    "Definition": "provided with the opportunity or tools to do something"
-  },
-  "ENCOUNTERED": {
-    "Definition": "met"
-  },
-  "ENCRYPTED": {
-    "Definition": "put into a special code so that it is hard to understand"
-  },
-  "FACTION": {
-    "Definition": "a group within a larger group"
+    "Definition": "a secret group inside the government that is believed to control it"
   },
   "FRINGE": {
-    "Definition": "on the edge of something"
-  },
-  "GESTICULATING": {
-    "Definition": "moving hands or arms, usually to express meaning"
-  },
-  "GOINGS ON": {
-    "Definition": "events or activities, often strange or unusual ones"
-  },
-  "HOOKED IN": {
-    "Definition": "introduce someone to something so that they become dependent on it"
-  },
-  "INTERPRET": {
-    "Definition": "explain the meaning of something"
-  },
-  "LEGITIMISE": {
-    "Definition": "make something acceptable"
-  },
-  "LEVEL HEADED": {
-    "Definition": "calm and not erratic"
-  },
-  "MAINSTREAM": {
-    "Definition": "considered normal, or believed and used by many"
-  },
-  "MEMO": {
-    "Definition": "a message or document"
+    "Definition": "held by only a small, unusual group of people"
   },
   "NICHE": {
-    "Definition": "only appealing to a small amount of people"
-  },
-  "PLEDGED": {
-    "Definition": "promised"
-  },
-  "PRECISE": {
-    "Definition": "clear and accurate"
-  },
-  "PRIOR": {
-    "Definition": "before"
+    "Definition": "interesting to only a small, specific group"
   },
   "PROCLAIMING": {
-    "Definition": "announcing publicly"
+    "Definition": "saying publicly and proudly"
   },
-  "PROPHECY": {
-    "Definition": "a statement that something will happen"
+  "MAINSTREAM": {
+    "Definition": "widely followed and accepted as normal"
   },
   "RALLIES": {
-    "Definition": "large public meetings"
+    "Definition": "large public meetings held to support a politician"
   },
-  "RIDDLES": {
-    "Definition": "a question or clue that is deliberately confusing"
+  "CRYPTIC": {
+    "Definition": "mysterious and hard to understand"
   },
-  "RIGHTED": {
-    "Definition": "corrected"
+  "ARMED TO THE TEETH": {
+    "Definition": "carrying many dangerous weapons"
   },
-  "RUNNING MATE": {
-    "Definition": "a political partner"
+  "ELITE": {
+    "Definition": "a small group of very rich and powerful people"
   },
-  "SCAVENGER HUNT": {
-    "Definition": "a game in which you collect different items"
+  "ENABLED": {
+    "Definition": "helped and allowed to act freely"
   },
-  "SCEPTICAL": {
-    "Definition": "doubting or not believing"
+  "PROPHECY": {
+    "Definition": "a statement saying what will happen in the future"
+  },
+  "DEVOTED": {
+    "Definition": "very loyal and enthusiastic"
   },
   "SECURITY CLEARANCE": {
-    "Definition": "an official permission to see security or state secrets"
+    "Definition": "official permission to see secret government information"
   },
-  "STICKING AROUND": {
-    "Definition": "stay in one place, remaining"
+  "PRECISE": {
+    "Definition": "exact and clear"
   },
-  "THE ESTABLISHMENT": {
-    "Definition": "the group of people in a society that have all of the power and influence"
+  "RIDDLES": {
+    "Definition": "puzzling questions or statements that you have to work out"
+  },
+  "AMBIGUOUS": {
+    "Definition": "able to be understood in more than one way"
   },
   "TIRELESSLY": {
-    "Definition": "in a very hard or determined way"
+    "Definition": "with great energy and without stopping"
+  },
+  "THE ESTABLISHMENT": {
+    "Definition": "the powerful people and organisations that control a country"
+  },
+  "INTERPRET": {
+    "Definition": "understand or explain"
+  },
+  "FACTION": {
+    "Definition": "a smaller group within a larger group or movement"
+  },
+  "RUNNING MATE": {
+    "Definition": "the person chosen to be vice president if a candidate wins"
+  },
+  "ENCRYPTED": {
+    "Definition": "written in a secret code"
   },
   "UNDENIABLY": {
-    "Definition": "definitely true"
+    "Definition": "clearly and certainly, in a way no one can argue with"
+  },
+  "ENCOUNTERED": {
+    "Definition": "come across or discovered"
+  },
+  "ALGORITHMS": {
+    "Definition": "sets of computer rules that decide what users are shown"
+  },
+  "ALGORITHM": {
+    "Definition": "the set of computer rules that decides what each user is shown"
+  },
+  "PRIOR": {
+    "Definition": "earlier; existing before"
+  },
+  "STICKING AROUND": {
+    "Definition": "staying for a longer time"
+  },
+  "HOOKED IN": {
+    "Definition": "pulled in and made very interested"
+  },
+  "GOINGS ON": {
+    "Definition": "things that are happening, especially secret or strange ones"
+  },
+  "EMPOWER": {
+    "Definition": "give the confidence and ability to act"
+  },
+  "COMMANDMENTS": {
+    "Definition": "rules that must be obeyed"
+  },
+  "SCEPTICAL": {
+    "Definition": "doubtful; not ready to believe"
+  },
+  "SCAVENGER HUNT": {
+    "Definition": "a game in which players search for hidden things using clues"
+  },
+  "LEVEL HEADED": {
+    "Definition": "sensible and clear-thinking"
+  },
+  "GESTICULATING": {
+    "Definition": "moving his hands and arms while speaking"
+  },
+  "COMPOSED": {
+    "Definition": "calm and in control of his feelings"
+  },
+  "LEGITIMISE": {
+    "Definition": "make seem acceptable and reasonable"
+  },
+  "CONGRESSIONAL": {
+    "Definition": "running for seats in the US national parliament"
+  },
+  "PLEDGED": {
+    "Definition": "promised publicly to give"
+  },
+  "MEMO": {
+    "Definition": "a short written message sent within an organisation"
+  },
+  "AWAKENING": {
+    "Definition": "a moment when people suddenly realise the truth"
+  },
+  "RIGHTED": {
+    "Definition": "made fair and correct again"
+  },
+  "CATCHPHRASES": {
+    "Definition": "well-known sayings often repeated by a particular person"
   }
 }
