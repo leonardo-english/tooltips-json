@@ -1,176 +1,182 @@
 {
-  "ABUNDANCE": {
-    "Definition": "large quantities"
-  },
-  "ADDICTS": {
-    "Definition": "people who cannot stop using something"
-  },
-  "AMBITIONS": {
-    "Definition": "wishes to do or achieve something"
-  },
-  "ASSURANCES": {
-    "Definition": "promises"
-  },
-  "BARBARIANS": {
-    "Definition": "members of a group from a different country"
-  },
-  "BASIS": {
-    "Definition": "facts or ideas from which something can be developed"
-  },
-  "CAMPAIGN": {
-    "Definition": "planned military activity"
-  },
-  "CAMPAIGNS": {
-    "Definition": "planned military activities"
-  },
-  "CELESTIAL": {
-    "Definition": "relating to the skies or gods"
-  },
-  "CHESTS": {
-    "Definition": "large containers"
-  },
-  "CHINA": {
-    "Definition": "see 'porcelain'"
-  },
-  "COMPENSATED": {
-    "Definition": "given money in exchange for something that has been lost or damaged"
-  },
-  "COMPENSATION": {
-    "Definition": "money that is given in exchange for something that's been lost"
-  },
-  "COMPENSATION PAYOUT": {
-    "Definition": "see 'compensation'"
-  },
-  "CONCEDE": {
-    "Definition": "admit, given in"
-  },
-  "CONCESSIONS": {
-    "Definition": "things that are given up"
-  },
-  "CULMINATING": {
-    "Definition": "finishing, ending up"
-  },
-  "DIGRESS": {
-    "Definition": "move away from the main point"
-  },
-  "DRAINING": {
-    "Definition": "using up, using all of"
-  },
-  "DRUG ADDICTS": {
-    "Definition": "people who cannot stop using drugs"
-  },
-  "EXPATS": {
-    "Definition": "people who do not live in their own country"
-  },
-  "EXPLOITING": {
-    "Definition": "using something in a way that helps you"
-  },
-  "EXTRATERRITORIALITY": {
-    "Definition": "the right of foreign citizens to be under the laws of their own country, not the laws of the country they are in"
-  },
-  "FERTILE": {
-    "Definition": "easy for something new to develop"
-  },
-  "FLOOD": {
-    "Definition": "fill"
-  },
-  "FLOURISHING": {
-    "Definition": "growing and succeeding"
-  },
-  "FLOWING OUT": {
-    "Definition": "going out"
-  },
-  "FOOTHOLD": {
-    "Definition": "a position from which you can make progress"
-  },
-  "IMBALANCE": {
-    "Definition": "a situation where two things are unequal"
-  },
-  "IN ABUNDANCE": {
-    "Definition": "in large quantities"
-  },
-  "LOGISTICAL": {
-    "Definition": "related to how something is practically done"
-  },
-  "MANUFACTURES": {
-    "Definition": "products"
+  "OPIUM": {
+    "Definition": "a strong drug made from a type of flower and often smoked"
   },
   "MENTALITY": {
-    "Definition": "a way of thinking about things"
-  },
-  "MISSIONARIES": {
-    "Definition": "people who have been sent to live in a foreign country to teach their religion"
-  },
-  "MISSIONARY": {
-    "Definition": "someone who has been sent to live in a foreign country to teach their religion"
-  },
-  "ON THE HOOK": {
-    "Definition": "if you are on the hook for something, it means you need to do it. It's usually used for paying a debt."
-  },
-  "OPIOID": {
-    "Definition": "a class of drugs that includes heroin, fentanyl, and OxyContin"
-  },
-  "OPIUM": {
-    "Definition": "a powerful drug made from poppy seeds"
-  },
-  "PAYBACK TIME": {
-    "Definition": "time for revenge"
-  },
-  "POPPIES": {
-    "Definition": "a plant with brightly coloured, usually red flowers"
-  },
-  "PORCELAIN": {
-    "Definition": "a hard but delicate white substance, often used for plates and cups"
-  },
-  "PROLIFIC": {
-    "Definition": "very large"
-  },
-  "PUSHED AROUND": {
-    "Definition": "tell someone to do something in an impolite or bullying way"
-  },
-  "PUSHED OTHER PEOPLE AROUND": {
-    "Definition": "tell someone to do something in an impolite or bullying way"
-  },
-  "PUT-DOWN": {
-    "Definition": "something said intended to make someone feel stupid or small"
-  },
-  "SHEER": {
-    "Definition": "used to emphasis how great or important something is"
-  },
-  "SILK": {
-    "Definition": "a delicate, soft cloth made from a thread produced by silkworms"
-  },
-  "SMUGGLE": {
-    "Definition": "to take things from one place to another secretly (and often illegally)"
-  },
-  "SPARKED IT ALL OFF": {
-    "Definition": "caused it to happen"
-  },
-  "SUPERIOR PLAYER": {
-    "Definition": "the more powerful of two or more people"
-  },
-  "SYNTHETIC": {
-    "Definition": "made of artificial substances"
-  },
-  "TENSE": {
-    "Definition": "worrying, making you anxious"
-  },
-  "TRIBUTE": {
-    "Definition": "gifts"
-  },
-  "TRIBUTE SYSTEM": {
-    "Definition": "a system where gifts are presented to a leader"
-  },
-  "USERS": {
-    "Definition": "people who use something, e.g. drugs"
-  },
-  "VICTORS": {
-    "Definition": "winners"
+    "Definition": "way of thinking and seeing the world"
   },
   "WIND THE CLOCKS BACK": {
-    "Definition": "to go back in time"
+    "Definition": "go back in time"
+  },
+  "FLOURISHING": {
+    "Definition": "growing and doing very well"
+  },
+  "EXPLOITING": {
+    "Definition": "using for their own profit, often unfairly"
   },
   "WORLD STANDING": {
-    "Definition": "how a country is viewed in the world"
+    "Definition": "position and importance compared with other countries"
+  },
+  "AMBITIONS": {
+    "Definition": "plans or strong wishes to achieve something"
+  },
+  "ABUNDANCE": {
+    "Definition": "a very large amount; more than enough"
+  },
+  "IN ABUNDANCE": {
+    "Definition": "in large amounts; more than enough"
+  },
+  "SILK": {
+    "Definition": "a soft, smooth, shiny cloth made from threads produced by insects"
+  },
+  "PORCELAIN": {
+    "Definition": "a fine, hard, white material made from baked clay, used for cups and plates"
+  },
+  "CHINA": {
+    "Definition": "cups, plates and ornaments made of fine white baked clay"
+  },
+  "IMBALANCE": {
+    "Definition": "a situation where two sides are not equal"
+  },
+  "FLOWING OUT": {
+    "Definition": "leaving steadily in large amounts"
+  },
+  "PER SE": {
+    "Definition": "by itself; in itself"
+  },
+  "DRAINING": {
+    "Definition": "slowly using up"
+  },
+  "LOGISTICAL": {
+    "Definition": "practical, to do with organising how things are done"
+  },
+  "BASIS": {
+    "Definition": "an agreed arrangement or starting point"
+  },
+  "TRIBUTE SYSTEM": {
+    "Definition": "an arrangement where others brought gifts to show that the emperor was more powerful"
+  },
+  "TRIBUTE": {
+    "Definition": "gifts given to a ruler to show respect and loyalty"
+  },
+  "SUPERIOR PLAYER": {
+    "Definition": "the more powerful and important one"
+  },
+  "CELESTIAL": {
+    "Definition": "heavenly; connected to heaven"
+  },
+  "PROLIFIC": {
+    "Definition": "very great"
+  },
+  "MANUFACTURES": {
+    "Definition": "goods produced in factories or by hand"
+  },
+  "BARBARIANS": {
+    "Definition": "people seen as rough, wild and without culture"
+  },
+  "PUT-DOWN": {
+    "Definition": "an insulting remark that makes someone seem unimportant"
+  },
+  "POPPIES": {
+    "Definition": "plants with large, brightly coloured flowers"
+  },
+  "SWUNG": {
+    "Definition": "changed direction"
+  },
+  "SMUGGLE": {
+    "Definition": "bring secretly and illegally"
+  },
+  "ADDICTS": {
+    "Definition": "people who cannot stop taking a drug"
+  },
+  "SHEER": {
+    "Definition": "very great, used to stress the size"
+  },
+  "CHESTS": {
+    "Definition": "large, strong wooden boxes for storing or carrying goods"
+  },
+  "USERS": {
+    "Definition": "people who take drugs"
+  },
+  "DRUG ADDICTS": {
+    "Definition": "people who cannot stop taking harmful substances"
+  },
+  "TENSE": {
+    "Definition": "nervous and full of worry"
+  },
+  "ASSURANCES": {
+    "Definition": "promises meant to make people feel confident"
+  },
+  "COMPENSATED": {
+    "Definition": "paid money for what they had lost"
+  },
+  "ON THE HOOK": {
+    "Definition": "responsible for paying"
+  },
+  "PUSHED AROUND": {
+    "Definition": "treated without respect by stronger people"
+  },
+  "PUSHED OTHER PEOPLE AROUND": {
+    "Definition": "treated weaker countries badly and told them what to do"
+  },
+  "CAMPAIGNS": {
+    "Definition": "planned series of military attacks"
+  },
+  "CAMPAIGN": {
+    "Definition": "a planned series of military attacks"
+  },
+  "PAYBACK TIME": {
+    "Definition": "the moment to get revenge and demand money for its losses"
+  },
+  "COMPENSATION": {
+    "Definition": "money given to make up for something lost or damaged"
+  },
+  "COMPENSATION PAYOUT": {
+    "Definition": "a large sum of money given to make up for losses"
+  },
+  "EXTRATERRITORIALITY": {
+    "Definition": "the right of foreigners to live under their own country's laws, not local laws"
+  },
+  "EXPATS": {
+    "Definition": "people living in a foreign country"
+  },
+  "CONCEDE": {
+    "Definition": "give or agree to, usually unwillingly"
+  },
+  "FOOTHOLD": {
+    "Definition": "a first secure position from which to grow stronger"
+  },
+  "FLOOD": {
+    "Definition": "fill completely"
+  },
+  "MISSIONARY": {
+    "Definition": "a person sent to another country to spread their religion"
+  },
+  "CONCESSIONS": {
+    "Definition": "rights or advantages given unwillingly"
+  },
+  "CULMINATING": {
+    "Definition": "reaching its final and most dramatic point"
+  },
+  "DIGRESS": {
+    "Definition": "move away from the main subject while talking"
+  },
+  "MISSIONARIES": {
+    "Definition": "people sent to another country to spread their religion"
+  },
+  "VICTORS": {
+    "Definition": "people or sides that win"
+  },
+  "FERTILE": {
+    "Definition": "very suitable for new ideas to grow and spread"
+  },
+  "OPIOID": {
+    "Definition": "a type of strong painkilling drug that people can become dependent on"
+  },
+  "SYNTHETIC": {
+    "Definition": "made by people in a laboratory, not found in nature"
+  },
+  "SPARKED IT ALL OFF": {
+    "Definition": "caused everything to begin"
   }
 }
