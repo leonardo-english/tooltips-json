@@ -1,86 +1,86 @@
 {
-  "ADVANCE": {
-    "Definition": "to go or move something forward, or to develop or improve something"
-  },
-  "ARTICULATE": {
-    "Definition": "able to express thoughts and feelings easily and clearly, or showing this quality"
-  },
-  "BARBAROUS": {
-    "Definition": "extremely cruel or unpleasant, or failing to reach acceptable social standards"
-  },
-  "BIZARRE": {
-    "Definition": "very strange and unusual"
-  },
-  "CONCISE": {
-    "Definition": "short and clear, expressing what needs to be said without unnecessary words"
-  },
-  "EVALUATED": {
-    "Definition": "to judge or calculate the quality, importance, amount, or value of something"
-  },
-  "EXTENSIVE": {
-    "Definition": "covering a large area ; having a great range"
-  },
-  "FORCEFUL": {
-    "Definition": "expressing opinions strongly and demanding attention or action"
-  },
-  "IMPLIES": {
-    "Definition": "to communicate an idea or feeling without saying it directly"
-  },
-  "IN PRINT": {
-    "Definition": "in writing"
-  },
-  "JARGON": {
-    "Definition": "special words and phrases that are used by particular groups of people, especially in their work"
-  },
-  "MERITS": {
-    "Definition": "the quality of being good and deserving praise"
-  },
-  "MESSY": {
-    "Definition": "untidy"
-  },
-  "METAPHOR": {
-    "Definition": "an expression, often found in literature, that describes a person or object by referring to something that is considered to have similar characteristics to that person or object"
-  },
-  "METAPHORS": {
-    "Definition": "an expression, often found in literature, that describes a person or object by referring to something that is considered to have similar characteristics to that person or object"
-  },
-  "OUTRIGHT": {
-    "Definition": "completely or immediately"
-  },
-  "PENULTIMATE": {
-    "Definition": "second from the last"
+  "RHETORIC": {
+    "Definition": "the skill of using language to persuade or influence people"
   },
   "PROPAGANDA": {
-    "Definition": "information, ideas, opinions, or images, often only giving one part of an argument, that are broadcast, published, or in some other way spread with the intention of influencing people's opinions"
-  },
-  "RECAP": {
-    "Definition": "to repeat the main points of an explanation or description"
-  },
-  "RHETORIC": {
-    "Definition": "speech or writing intended to be effective and influence people"
-  },
-  "RUBBISHED": {
-    "Definition": "criticised, not considered worthy"
-  },
-  "SET OUT": {
-    "Definition": "to give the details of or explain something, esp. in writing"
-  },
-  "SHOW OFF": {
-    "Definition": "to behave in a way that is intended to attract attention or admiration, and that other people often find annoying"
-  },
-  "SIMILE": {
-    "Definition": "(the use of) an expression comparing one thing with another, always including the words 'as' or 'like'"
-  },
-  "SMILING DOWN ON YOU": {
-    "Definition": "this implies that someone who is dead will be happy or glad with your actions"
-  },
-  "STARTING FROM SCRATCH": {
-    "Definition": "starting from the beginning"
-  },
-  "TEMPTATION": {
-    "Definition": "something that makes you want to do or have something that you know you should not"
+    "Definition": "one-sided or false information spread to make people support a political group"
   },
   "TWISTED": {
-    "Definition": "changed from its original meaning"
+    "Definition": "changed so that the meaning becomes false or misleading"
+  },
+  "ADVANCE": {
+    "Definition": "help to achieve; push forward"
+  },
+  "SET OUT": {
+    "Definition": "presented or explained clearly"
+  },
+  "BIZARRE": {
+    "Definition": "very strange or unusual"
+  },
+  "CONCISE": {
+    "Definition": "clear and using no more words than are needed"
+  },
+  "ARTICULATE": {
+    "Definition": "able to express ideas clearly and well"
+  },
+  "METAPHOR": {
+    "Definition": "a phrase that describes something by calling it something else"
+  },
+  "SIMILE": {
+    "Definition": "a phrase that compares one thing to another using \"like\" or \"as\""
+  },
+  "IN PRINT": {
+    "Definition": "in books, newspapers or other printed writing"
+  },
+  "PENULTIMATE": {
+    "Definition": "second from the end; next to last"
+  },
+  "JARGON": {
+    "Definition": "special words used by a particular group that others find hard to understand"
+  },
+  "OUTRIGHT": {
+    "Definition": "completely; clearly"
+  },
+  "BARBAROUS": {
+    "Definition": "very ugly, clumsy or ridiculous"
+  },
+  "MESSY": {
+    "Definition": "dirty and untidy"
+  },
+  "METAPHORS": {
+    "Definition": "phrases that describe something by calling it something else"
+  },
+  "SHOW OFF": {
+    "Definition": "try to impress people with what you know or can do"
+  },
+  "EXTENSIVE": {
+    "Definition": "large and wide-ranging"
+  },
+  "EVALUATED": {
+    "Definition": "judged carefully to decide how good they are"
+  },
+  "MERITS": {
+    "Definition": "good qualities"
+  },
+  "RUBBISHED": {
+    "Definition": "criticised as having no value"
+  },
+  "IMPLIES": {
+    "Definition": "suggests without saying directly"
+  },
+  "FORCEFUL": {
+    "Definition": "strong and powerful in effect"
+  },
+  "TEMPTATION": {
+    "Definition": "a strong wish to do something, often something you should not do"
+  },
+  "RECAP": {
+    "Definition": "go over the main points again briefly"
+  },
+  "STARTING FROM SCRATCH": {
+    "Definition": "beginning from nothing, with no earlier knowledge or work"
+  },
+  "SMILING DOWN ON YOU": {
+    "Definition": "looking at you with approval, as if from heaven"
   }
 }
