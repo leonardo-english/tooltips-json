@@ -1,116 +1,116 @@
 {
-  "ABOLISHED": {
-    "Definition": "getting rid of, stopping doing"
-  },
-  "ACCORDINGLY": {
-    "Definition": "as a result of something"
-  },
-  "ACUTE": {
-    "Definition": "severe, bad"
+  "LABELS": {
+    "Definition": "names or words given to describe something"
   },
   "AGRARIAN": {
-    "Definition": "relating to farming"
+    "Definition": "relating to farming and the land"
   },
-  "ANNOYANCE": {
-    "Definition": "something that makes you angry"
+  "TIMEKEEPING": {
+    "Definition": "measuring and recording the correct time"
   },
-  "ANNOYING": {
-    "Definition": "see 'annoyance'"
+  "ACCORDINGLY": {
+    "Definition": "so that they matched it"
   },
-  "ASSAULTS": {
-    "Definition": "violent attacks"
-  },
-  "BENEFICIARIES": {
-    "Definition": "people or groups who benefit from something happening"
-  },
-  "CATCH ON": {
-    "Definition": "become popular"
-  },
-  "CONTROVERSY": {
-    "Definition": "a large amount of disagreement about something"
-  },
-  "COUNTED YOUR LUCKY STARS": {
-    "Definition": "be grateful for being lucky"
-  },
-  "DIRECTIVE": {
-    "Definition": "an official instruction"
-  },
-  "DITCHED": {
-    "Definition": "stopped using"
+  "SLICE": {
+    "Definition": "a section or part cut from something larger"
   },
   "EXCEPTIONS": {
-    "Definition": "something that isn't included in a rule"
-  },
-  "FACTOR": {
-    "Definition": "an important point, a reason"
-  },
-  "FAST": {
-    "Definition": "a fast is a period where you do not eat"
-  },
-  "KEEN": {
-    "Definition": "very interested, wanting to do something a lot"
-  },
-  "LABELS": {
-    "Definition": "a word or phrase used to describe something"
-  },
-  "LEISURE": {
-    "Definition": "time when you aren't working"
+    "Definition": "cases that did not follow the general rule"
   },
   "OFFSET": {
-    "Definition": "the difference from the main time zone"
+    "Definition": "a difference from the usual whole-hour time"
   },
-  "ONE-SIZE-FITS-ALL": {
-    "Definition": "suitable for everyone"
+  "LEISURE": {
+    "Definition": "free time spent relaxing or doing things you enjoy"
   },
-  "OUTBREAK": {
-    "Definition": "a time when something starts happening"
-  },
-  "OUTWEIGHED": {
-    "Definition": "to be more important (than something else)"
-  },
-  "PHENOMENON": {
-    "Definition": "something that exists can be felt, especially something that's unusual"
-  },
-  "PRODUCTIVITY": {
-    "Definition": "the rate at which workers produce goods"
-  },
-  "PROPONENTS": {
-    "Definition": "people who want to do something"
-  },
-  "PROPOSALS": {
-    "Definition": "suggestions"
-  },
-  "RECREATIONAL": {
-    "Definition": "related to recreation, an activity done for pleasure"
-  },
-  "REVERTING": {
-    "Definition": "going back"
-  },
-  "RHYTHMS": {
-    "Definition": "regular movements"
+  "KEEN": {
+    "Definition": "very interested and enthusiastic"
   },
   "SHIFTING": {
     "Definition": "moving"
   },
-  "SLICE": {
-    "Definition": "a thin piece"
+  "MAKE THE MOST OF": {
+    "Definition": "get as much benefit as possible from"
   },
-  "SPIKE": {
-    "Definition": "sharp increase"
+  "PHENOMENON": {
+    "Definition": "an event or situation that people notice or live through"
   },
-  "STALLED": {
-    "Definition": "stopped using"
+  "CATCH ON": {
+    "Definition": "become popular"
   },
-  "THEORETICAL": {
-    "Definition": "based on ideas, not reality"
+  "OUTBREAK": {
+    "Definition": "the sudden start of something such as a war"
   },
-  "TIMEKEEPING": {
-    "Definition": "the system of keeping the time"
+  "DITCHED": {
+    "Definition": "stopped using; got rid of"
   },
-  "TO MAKE THE MOST": {
-    "Definition": "to get the greatest advantage from something"
+  "REVERTING": {
+    "Definition": "going back to an earlier system"
+  },
+  "ABOLISHED": {
+    "Definition": "officially ended"
+  },
+  "CONTROVERSY": {
+    "Definition": "strong public disagreement and argument"
+  },
+  "PROPONENTS": {
+    "Definition": "people who support an idea or plan"
+  },
+  "RECREATIONAL": {
+    "Definition": "done for fun and relaxation in free time"
+  },
+  "ASSAULTS": {
+    "Definition": "violent attacks on people"
+  },
+  "FACTOR": {
+    "Definition": "something that affects a decision or result"
+  },
+  "OUTWEIGHED": {
+    "Definition": "more than cancelled out because something else is bigger"
   },
   "VEHEMENTLY": {
-    "Definition": "very strongly"
+    "Definition": "very strongly and with great feeling"
+  },
+  "ANNOYANCE": {
+    "Definition": "a thing that makes people feel irritated or a little angry"
+  },
+  "ANNOYING": {
+    "Definition": "making people feel irritated or a little angry"
+  },
+  "PRODUCTIVITY": {
+    "Definition": "how much work people get done"
+  },
+  "SPIKE": {
+    "Definition": "a sudden, sharp rise"
+  },
+  "BENEFICIARIES": {
+    "Definition": "groups that gain advantages from something"
+  },
+  "RHYTHMS": {
+    "Definition": "regular patterns of sleeping, waking and activity"
+  },
+  "ACUTE": {
+    "Definition": "serious and difficult to deal with"
+  },
+  "PROPOSALS": {
+    "Definition": "suggestions or plans put forward for others to consider"
+  },
+  "ONE-SIZE-FITS-ALL": {
+    "Definition": "designed to be the same for everyone, whatever their needs"
+  },
+  "THEORETICAL": {
+    "Definition": "existing only as an idea, not tried in real life"
+  },
+  "FAST": {
+    "Definition": "a period without food or drink, done for religious reasons"
+  },
+  "DIRECTIVE": {
+    "Definition": "an official order or instruction"
+  },
+  "STALLED": {
+    "Definition": "stopped making progress"
+  },
+  "COUNTED YOUR LUCKY STARS": {
+    "Definition": "felt very grateful for your good luck"
   }
 }
