@@ -1,296 +1,293 @@
 {
   "CHARACTER": {
-    "Definition": "the combination of qualities that form your personality"
+    "Definition": "the qualities and ways of behaving that make a person who they are"
   },
   "CATEGORISED": {
-    "Definition": "put into categories"
+    "Definition": "put into groups according to type"
   },
   "CATEGORISING": {
-    "Definition": "putting into categories"
+    "Definition": "putting into groups according to type"
   },
   "APEX": {
-    "Definition": "highest point"
+    "Definition": "the highest or most successful point"
   },
   "MASS": {
-    "Definition": "in large amounts"
+    "Definition": "very large-scale; happening among very many people"
   },
   "ADOPTION": {
-    "Definition": "the act of starting to use something"
+    "Definition": "acceptance and use"
   },
   "SUMMARY": {
-    "Definition": "a short, clear description"
+    "Definition": "a short description giving only the main points"
   },
   "HUMOURS": {
-    "Definition": "categories of detailing the makeup of the human body"
+    "Definition": "four liquids in the body once believed to control health and personality"
   },
   "SANGUINE": {
-    "Definition": "happy and hopeful about the future"
+    "Definition": "cheerful, hopeful and sociable"
   },
   "CHOLERIC": {
-    "Definition": "angry"
+    "Definition": "bad-tempered and easily made angry"
   },
   "MELANCHOLIC": {
-    "Definition": "very sad"
+    "Definition": "sad, serious and often gloomy"
   },
   "PHLEGMATIC": {
-    "Definition": "calm"
+    "Definition": "calm and not easily upset or excited"
   },
   "IMBALANCES": {
-    "Definition": "a situation when two or more things are unequal"
+    "Definition": "situations where there is too much or too little of something"
   },
   "PERSISTED": {
-    "Definition": "continued"
+    "Definition": "continued to exist"
   },
   "EMERGED": {
-    "Definition": "came out"
+    "Definition": "appeared and became known"
   },
   "PSYCHOANALYSIS": {
-    "Definition": "the treatment of talking to someone about their feelings in order to find out the cause of their problems"
+    "Definition": "a way of treating mental problems by exploring a person's hidden thoughts and feelings"
   },
   "EXTROVERTS": {
-    "Definition": "energetic people who enjoy being with other people"
+    "Definition": "lively people who enjoy being with others"
   },
   "INTROVERTS": {
-    "Definition": "people who are shy and do not enjoy being with other people"
+    "Definition": "quiet people who prefer being alone or with a few people"
   },
   "OPENNESS": {
-    "Definition": "being open to new experiences"
+    "Definition": "being willing to accept new ideas and share your feelings"
   },
   "CLOSENESS": {
-    "Definition": "not being open to new experiences"
+    "Definition": "being unwilling to accept new ideas or share your feelings"
   },
   "CATEGORISE": {
-    "Definition": "put into categories"
+    "Definition": "put into groups according to type"
   },
   "EMPIRICAL": {
-    "Definition": "based on scientific experience and proof"
+    "Definition": "based on scientific experiments and measured evidence"
   },
   "KEEN": {
-    "Definition": "very interested"
+    "Definition": "enthusiastic and very interested"
   },
   "DEVOURED": {
-    "Definition": "ate or consumed something quickly and in large amounts"
+    "Definition": "read eagerly and completely"
   },
   "CATEGORIES": {
-    "Definition": "systems for dividing things"
+    "Definition": "groups of people or things of the same type"
   },
   "RANG A BELL": {
-    "Definition": "sounded familiar"
+    "Definition": "seemed familiar"
   },
   "MAINSTREAM": {
-    "Definition": "accepted or used by a large number of people"
+    "Definition": "widely accepted and used by most people"
   },
   "EXACERBATED": {
-    "Definition": "made greater"
+    "Definition": "made stronger or more serious"
   },
   "AWARE": {
-    "Definition": "if you are aware of something, you notice that it exists"
+    "Definition": "knowing about and understanding"
   },
   "GET ALONG": {
-    "Definition": "if you get along with someone, you have a friendly relationship"
+    "Definition": "live or work together in a friendly way"
   },
   "QUICK BUCK": {
-    "Definition": "(colloquial) quick money"
+    "Definition": "money earned fast and easily"
   },
   "ENTERPRISE": {
-    "Definition": "business"
+    "Definition": "a business or company"
   },
   "GENUINELY": {
-    "Definition": "truly"
+    "Definition": "truly; really"
   },
   "AVID": {
-    "Definition": "very keen and enthusiastic"
+    "Definition": "very enthusiastic"
   },
   "HONED": {
-    "Definition": "practised"
+    "Definition": "improved carefully over time"
   },
   "EXTRAVERSION": {
-    "Definition": "the quality of being an extrovert (enjoying the company of other people)"
+    "Definition": "being lively and enjoying the company of others"
   },
   "INTROVERSION": {
-    "Definition": "the quality of being an introvert (not enjoying the company of other people)"
+    "Definition": "being quiet and preferring to spend time alone"
   },
   "OUTGOING": {
-    "Definition": "enjoying meeting new people and having new experiences"
+    "Definition": "friendly and enjoying meeting people"
   },
   "SENSING": {
-    "Definition": "the ability to understand something"
+    "Definition": "relying on facts and what you can see or experience directly"
   },
   "INTUITIVE": {
-    "Definition": "understanding something immediately"
+    "Definition": "focusing on patterns, ideas and possibilities rather than just facts"
   },
   "LOGICAL": {
-    "Definition": "using reason and logic"
+    "Definition": "thinking in a clear, reasoned way based on facts"
   },
   "SENSITIVE": {
-    "Definition": "easily upset"
+    "Definition": "strongly affected by feelings, your own and other people's"
   },
   "JUDGING": {
-    "Definition": "wanting something to be neat and organised"
+    "Definition": "preferring to plan and make decisions quickly"
   },
   "PERCEIVING": {
-    "Definition": "wants things to be flexible and spontaneous"
+    "Definition": "preferring to stay flexible and keep your options open"
   },
   "TA-DA": {
-    "Definition": "used to suggest that something has just arrived"
+    "Definition": "a word said when proudly showing a result, as if by magic"
   },
   "CAUGHT THE EYE": {
-    "Definition": "attracted the attention of"
+    "Definition": "got the attention"
   },
   "HUMAN RESOURCES": {
-    "Definition": "the department of a company that manages the employees"
+    "Definition": "the work of managing a company's employees"
   },
   "STANDALONE": {
-    "Definition": "unique, single"
+    "Definition": "separate and independent"
   },
   "DISCIPLINE": {
-    "Definition": "subject area"
+    "Definition": "an area of study or work"
   },
   "INTERACTING": {
-    "Definition": "dealing with"
+    "Definition": "communicating and working"
   },
   "GET ON WITH": {
-    "Definition": "if you get along with someone, you have a friendly relationship"
+    "Definition": "have a friendly relationship with"
   },
   "GETTING ON WITH": {
-    "Definition": "if you get along with someone, you have a friendly relationship"
+    "Definition": "having a friendly relationship with"
   },
   "NEAT": {
-    "Definition": "tidy and clear"
+    "Definition": "simple, tidy and convenient"
   },
   "CORPORATE": {
-    "Definition": "relating to a large company"
+    "Definition": "relating to large companies"
   },
   "HUMAN RESOURCE": {
-    "Definition": "the department of a company that manages the employees"
+    "Definition": "relating to managing a company's employees"
   },
   "RIGHTS": {
-    "Definition": "the license to distribute and use something"
+    "Definition": "the legal permission to use and sell something"
   },
   "EFFECTIVE": {
-    "Definition": "successful and good at achieving what you want it to"
+    "Definition": "successful in producing the intended result"
   },
   "EXTROVERT": {
-    "Definition": "energetic people who enjoy being with other people"
+    "Definition": "a lively person who enjoys being with others"
   },
   "INTROVERT": {
-    "Definition": "people who are shy and do not enjoy being with other people"
+    "Definition": "a quiet person who prefers being alone"
   },
   "DUVET COVER": {
-    "Definition": "a cover under which you sleep"
+    "Definition": "a cloth case for the thick, warm covering on a bed"
   },
   "GROSS": {
-    "Definition": "very large"
+    "Definition": "very great and obvious"
   },
   "OVERSIMPLIFICATION": {
-    "Definition": "when something is more complicated than it has been presented as being"
+    "Definition": "a description that makes something seem much less complicated than it really is"
   },
   "VARIED": {
-    "Definition": "different"
+    "Definition": "ranged"
   },
   "SELF-REPORTED": {
-    "Definition": "reported by an individual"
+    "Definition": "based only on what people say about themselves"
   },
   "RECRUITING": {
-    "Definition": "hiring of staff, finding new employees"
+    "Definition": "finding and hiring new staff"
   },
   "SUITABLE": {
-    "Definition": "acceptable or correct for the purpose"
+    "Definition": "right or good enough"
   },
   "PROMOTIONS": {
-    "Definition": "moving to a more important job in a company"
+    "Definition": "moves to higher, better-paid jobs in the same company"
   },
   "FAKE": {
-    "Definition": "if you fake something, you pretend to be something that you are not"
+    "Definition": "cheat on by giving false answers"
   },
   "FURTHERMORE": {
-    "Definition": "in addition"
+    "Definition": "in addition; also"
   },
   "SELF-REINFORCING": {
-    "Definition": "if something is self-reinforcing, it makes you believe what you already think is true"
+    "Definition": "tending to strengthen the very beliefs they create"
   },
   "CONFRONTATION": {
-    "Definition": "fights and aggressive situations"
+    "Definition": "open disagreement or conflict with other people"
   },
   "STRUGGLES": {
-    "Definition": "has difficulty with"
+    "Definition": "finds it hard"
   },
   "CONFRONTATIONAL": {
-    "Definition": "behaving in an angry and unfriendly way"
+    "Definition": "likely to argue or start a conflict"
   },
   "SALARY": {
-    "Definition": "the amount of money you are paid by a company"
+    "Definition": "the fixed amount of money you are paid for your job, usually each month"
   },
   "PHENOMENON": {
-    "Definition": "something that exists and can be seen"
+    "Definition": "something that happens or exists and can be observed"
   },
   "TAILORED": {
-    "Definition": "made specific and unique to you"
+    "Definition": "made specially"
   },
   "GENERIC": {
-    "Definition": "shared by many people, or typical of many"
+    "Definition": "general and not specific to any one person"
   },
   "FORTUNE COOKIES": {
-    "Definition": "biscuits often provided after a Chinese meal in Western restaurants, which provide a prediction of your future"
+    "Definition": "small crisp biscuits with a message about your future inside"
   },
   "FORTUNE TELLERS": {
-    "Definition": "someone who tells your fortune"
+    "Definition": "people who claim to be able to see your future"
   },
   "ASTROLOGY": {
-    "Definition": "the study of the movements of the sun"
+    "Definition": "the belief that the positions of the stars and planets affect people's lives and personalities"
   },
   "TENDENCY": {
-    "Definition": "a likelihood to do something"
+    "Definition": "a habit of behaving in a certain way"
   },
   "UNUSED": {
-    "Definition": "not used"
+    "Definition": "not yet put to work"
   },
   "CAPACITY": {
-    "Definition": "ability to do something"
+    "Definition": "ability or potential"
   },
   "COMPENSATE": {
-    "Definition": "make up for"
+    "Definition": "make up; balance out the bad effects"
   },
   "SUMMARISING": {
-    "Definition": "describing (in a short space of time)"
+    "Definition": "describing the main points of"
   },
   "STATEMENTS": {
-    "Definition": "facts"
+    "Definition": "things said or written as facts"
   },
   "SETTING": {
-    "Definition": "environment"
+    "Definition": "environment or situation"
   },
   "FORTUNE COOKIE": {
-    "Definition": "a biscuit often provided after a Chinese meal in Western restaurants, which provide a prediction of your future"
+    "Definition": "a small crisp biscuit with a message about your future inside"
   },
   "DISREGARDED": {
-    "Definition": "not considered important"
+    "Definition": "rejected or treated as unimportant"
   },
   "THE VAST MAJORITY": {
-    "Definition": "most people"
+    "Definition": "almost all; a very large part"
   },
   "SIMPLIFICATION": {
-    "Definition": "the act of making something too simple"
+    "Definition": "a description that makes something seem less complicated than it really is"
   },
   "SPAT OUT": {
-    "Definition": "said, provided"
+    "Definition": "produced quickly and automatically"
   },
   "BELITTLE": {
-    "Definition": "say something is unimportant"
+    "Definition": "make seem unimportant or less impressive"
   },
   "ERA": {
-    "Definition": "period of time"
+    "Definition": "a period of time in history"
   },
   "ACHIEVEMENT": {
-    "Definition": "something that is good and worthy of praise"
+    "Definition": "something successful done through effort and skill"
   },
   "CROPPED UP": {
-    "Definition": "appeared"
+    "Definition": "appeared, often unexpectedly"
   },
   "COMPLEX": {
-    "Definition": "complicated"
-  },
-  "": {
-    "Definition": null
+    "Definition": "complicated, with many different parts"
   }
 }
