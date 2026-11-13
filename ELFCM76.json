@@ -1,89 +1,92 @@
 {
-  "‍INSTITUTION": {
-    "Definition": "large organisation"
+  "INSTITUTION": {
+    "Definition": "a large, important organisation"
   },
   "LIFT THE CURTAIN": {
-    "Definition": "reveal the truth"
+    "Definition": "reveal what is hidden and show how it really works"
   },
   "RAVAGED": {
-    "Definition": "badly damaged"
+    "Definition": "badly damaged or destroyed"
   },
   "AFTERMATH": {
-    "Definition": "the period after something tragic, such as a war, storm, or accident"
+    "Definition": "the period after a bad event and the problems it caused"
   },
   "PROSPER": {
-    "Definition": "become successful"
+    "Definition": "become successful and rich"
   },
   "BINDING": {
-    "Definition": "a difficult and tight"
+    "Definition": "restrictive and hard to escape from"
   },
   "HYPERINFLATION": {
-    "Definition": "a period where prices rise very fast"
+    "Definition": "extremely fast rises in prices"
   },
   "JUMP-START": {
-    "Definition": "to quickly start something"
+    "Definition": "quickly start or speed up"
   },
   "WAR-RAVAGED": {
-    "Definition": "badly damaged by war"
+    "Definition": "badly damaged by fighting"
+  },
+  "INSTITUTIONS": {
+    "Definition": "large, important organisations"
   },
   "REGULATORY": {
-    "Definition": "relating to rules or controls"
+    "Definition": "responsible for making sure rules are followed"
   },
   "TICK OVER": {
-    "Definition": "continue working"
+    "Definition": "keep working steadily without problems"
   },
   "GET MY DRIFT": {
-    "Definition": "understand me"
+    "Definition": "understand the general meaning of what I am saying"
   },
   "STATED": {
-    "Definition": "said, declared"
+    "Definition": "officially announced"
   },
   "PROSPERITY": {
-    "Definition": "the state of being successful and happy"
+    "Definition": "wealth and success"
   },
   "FOSTERING": {
-    "Definition": "encouraging the growth of"
+    "Definition": "encouraging and helping to develop"
   },
   "WAR-TORN": {
-    "Definition": "badly damaged by war"
+    "Definition": "badly harmed by years of fighting"
   },
   "ANTICIPATED": {
-    "Definition": "predicted, thought would happen"
+    "Definition": "expected"
   },
   "CONSORTIUM": {
-    "Definition": "large group of businesses or organisations that join together"
+    "Definition": "a group of companies working together on a project"
   },
   "RECOUP": {
-    "Definition": "get back money that has been spent or invested"
+    "Definition": "get back"
   },
   "GRAVITY": {
     "Definition": "seriousness"
   },
   "EXTORTING": {
-    "Definition": "getting something by force"
+    "Definition": "taking, using unfair pressure or threats"
   },
   "ENABLED": {
-    "Definition": "allowed to happen"
+    "Definition": "made possible"
   },
   "NUMEROUS": {
-    "Definition": "large in number"
+    "Definition": "many"
   },
   "INCIDENTS": {
-    "Definition": "events, things that happen"
+    "Definition": "events, especially bad or unusual ones"
   },
   "PLEDGING": {
     "Definition": "promising"
   },
   "FINANCED": {
-    "Definition": "provided money by"
+    "Definition": "paid for"
   },
   "OUTLOOK": {
-    "Definition": "what is expected to happen in the future"
+    "Definition": "likely future situation"
   },
   "GLOBAL SOUTH": {
-    "Definition": "countries that tend to be in the south of the globe, and are less developed than those in the north"
+    "Definition": "the poorer, developing part of the world, mostly in Africa, Asia and Latin America"
   },
   "SCRATCHED THE SURFACE": {
-    "Definition": "dealt with a very small part of a larger topic"
+    "Definition": "dealt with a small part of the subject"
   }
 }
