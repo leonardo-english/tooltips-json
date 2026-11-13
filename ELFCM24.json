@@ -1,179 +1,182 @@
 {
-  "AMBITIOUS": {
-    "Definition": "having a strong wish to be successful, powerful, or rich"
-  },
-  "ANNOTATE": {
-    "Definition": "to add notes or remarks on a piece of writing"
-  },
-  "ASSUMING": {
-    "Definition": "believing without thinking or understanding"
-  },
-  "BASE": {
-    "Definition": "the main part of something"
-  },
-  "BONUS": {
-    "Definition": "extraGenders: masculine, feminine, or neutral (with respect to language)"
-  },
-  "BY ALL MEANS": {
-    "Definition": "used to give permission"
-  },
-  "CHORE": {
-    "Definition": "a job or piece of work that is often boring or unpleasant but needs to be done regularly"
-  },
-  "CLASSIFY": {
-    "Definition": "to divide things or people into groups according to their type, or to say which group or type something or someone belongs to"
-  },
-  "CLOSE TO MY HEART": {
-    "Definition": "important to me"
-  },
-  "COMBAT": {
-    "Definition": "fight‍"
-  },
-  "CONJUGATED": {
-    "Definition": "If a verb conjugates, it has different forms that show different tenses, the number of people it refers to, etc., and if you conjugate a verb, you list its different forms"
-  },
-  "CONJUGATIONS": {
-    "Definition": "the complete set of grammatical forms of a verb"
-  },
-  "CORE": {
-    "Definition": "the basic and most important part of something"
-  },
-  "DEDICATE": {
-    "Definition": "to give all of your energy, time, etc."
-  },
-  "DISCOURAGED": {
-    "Definition": "having lost your confidence or enthusiasm for something"
-  },
-  "DISHEARTENED": {
-    "Definition": "having lost confidence, hope, and energy"
-  },
-  "ELABORATE": {
-    "Definition": "to add more information to or explain something that you have said"
-  },
-  "EMBRACE": {
-    "Definition": "to accept something enthusiastically"
-  },
-  "ENROLL": {
-    "Definition": "to put yourself or someone else on an official list for an activity or for membership in a group, or to accept someone in such a list"
-  },
-  "FLOWING": {
-    "Definition": "produced in a smooth, continuous, or relaxed style"
-  },
-  "GENDERS": {
-    "Definition": "masculine, feminine, or neutral (with respect to language)"
-  },
-  "GIST": {
-    "Definition": "the most important pieces of information about something, or general information without details"
-  },
   "HACKS": {
-    "Definition": "shortcuts or quick solutions"
-  },
-  "HATE ON": {
-    "Definition": "to criticize someone or say bad things about them, in an unpleasant and public way"
-  },
-  "HATS OFF": {
-    "Definition": "said to praise and thank someone for doing something helpful"
-  },
-  "HATS OFF TO YOU": {
-    "Definition": "said to praise and thank someone for doing something helpful"
-  },
-  "HEADS DOWN": {
-    "Definition": "concentrating, usually so heavily and for so long that everything outside the focus area is missed"
-  },
-  "IMMERSIVE": {
-    "Definition": "surrounded by something, e.g. a language"
-  },
-  "INTERACTION": {
-    "Definition": "a situation where two or more people or things communicate with each other or react to each other"
-  },
-  "INTERLUDE": {
-    "Definition": "a short period when a situation or activity is different from what comes before and after it"
-  },
-  "KUDOS": {
-    "Definition": "the public admiration that a person receives as a result of a particular achievement or position in society"
-  },
-  "MASOCHIST": {
-    "Definition": "a person who gets (sexual) pleasure from being hurt or controlled by another person"
-  },
-  "MOTIVATE": {
-    "Definition": "to make someone want to do something well"
-  },
-  "MOTIVATION": {
-    "Definition": "enthusiasm for doing something"
-  },
-  "OVERUSED": {
-    "Definition": "used too frequently"
-  },
-  "PACK EVERYTHING IN": {
-    "Definition": "stop doing"
-  },
-  "PENULTIMATE": {
-    "Definition": "second from the last"
-  },
-  "PET PEEVE": {
-    "Definition": "something that especially annoys you"
-  },
-  "POINTLESS": {
-    "Definition": "something that is pointless has no purpose, and it is a waste of time doing it"
-  },
-  "POSTPONE": {
-    "Definition": "to delay an event and plan or decide that it should happen at a later date or time"
-  },
-  "PURELY": {
-    "Definition": "only"
-  },
-  "QUIRKINESS": {
-    "Definition": "strangeness, strange quality"
+    "Definition": "clever tricks that are said to make something quicker or easier"
   },
   "RID": {
-    "Definition": "to remove or throw away something unwanted"
+    "Definition": "free (yourself of something you do not want)"
   },
   "RIGHT UP YOUR STREET": {
-    "Definition": "to be the type of thing that you are interested in or that you enjoy doing"
-  },
-  "ROLLER COASTER": {
-    "Definition": "a situation which changes from one extreme to another, or in which a person's feelings change from one extreme to another"
-  },
-  "ROUTINE": {
-    "Definition": "a usual or fixed way of doing things"
-  },
-  "SETTING FOOT": {
-    "Definition": "go to"
-  },
-  "SHINIER": {
-    "Definition": "brighter and more exciting"
-  },
-  "SKIP": {
-    "Definition": "to not do or not have something that you usually do or that you should do; to avoid"
-  },
-  "SKIPPING IT": {
-    "Definition": "to not do or not have something that you usually do or that you should do; to avoid"
-  },
-  "SLOT": {
-    "Definition": "an amount of time that is officially allowed for a single event in a planned order of activities or events"
+    "Definition": "exactly the kind of thing you like or are interested in"
   },
   "STANDALONE": {
-    "Definition": "single, complete by itself"
+    "Definition": "separate; not connected to anything else"
+  },
+  "DISCIPLINE": {
+    "Definition": "a subject or area of study"
+  },
+  "TRICKY": {
+    "Definition": "difficult and needing care"
+  },
+  "BONUS": {
+    "Definition": "an extra advantage"
+  },
+  "GENDERS": {
+    "Definition": "grammatical groups, such as masculine and feminine, that nouns belong to"
+  },
+  "CONJUGATIONS": {
+    "Definition": "the different forms a verb takes for different people and tenses"
+  },
+  "DISCOURAGED": {
+    "Definition": "less confident and less keen to continue"
+  },
+  "MOTIVATION": {
+    "Definition": "the desire and energy to do something"
+  },
+  "HEADS DOWN": {
+    "Definition": "concentrating completely, with your attention fixed only on something"
+  },
+  "MASOCHIST": {
+    "Definition": "someone who seems to enjoy things that are painful or unpleasant"
+  },
+  "CLASSIFY": {
+    "Definition": "describe or put into a particular group"
+  },
+  "BASE": {
+    "Definition": "simple but necessary; covering the main points"
+  },
+  "CONJUGATED": {
+    "Definition": "changed into different forms for different people and tenses"
+  },
+  "BY ALL MEANS": {
+    "Definition": "certainly; you are welcome to"
+  },
+  "EMBRACE": {
+    "Definition": "accept happily and willingly"
+  },
+  "QUIRKINESS": {
+    "Definition": "the quality of being unusual or strange in an interesting way"
+  },
+  "PET PEEVE": {
+    "Definition": "something that particularly annoys a person"
+  },
+  "COMBAT": {
+    "Definition": "fight against; try to stop"
+  },
+  "GIST": {
+    "Definition": "the main or general meaning"
+  },
+  "CORE": {
+    "Definition": "most important; central"
   },
   "STARTING OUT": {
-    "Definition": "to begin doing something"
+    "Definition": "beginning something, such as learning a new skill"
+  },
+  "PURELY": {
+    "Definition": "only; just"
+  },
+  "TURN OF PHRASE": {
+    "Definition": "a particular way of saying something; an expression"
   },
   "SWITCH": {
     "Definition": "change"
   },
-  "TRICKY": {
-    "Definition": "if a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill"
+  "INTERACTION": {
+    "Definition": "an occasion when you communicate with someone"
   },
-  "TURN OF PHRASE": {
-    "Definition": "a way of saying something"
+  "CLOSE TO MY HEART": {
+    "Definition": "important to me and something I care about a lot"
   },
-  "UPHILL": {
-    "Definition": "needing a large amount of effort"
+  "HATS OFF TO YOU": {
+    "Definition": "well done; I admire you for it"
   },
-  "UPLIFTING": {
-    "Definition": "making someone feel better"
+  "ASSUMING": {
+    "Definition": "thinking something is true without checking or having proof"
+  },
+  "IMMERSIVE": {
+    "Definition": "surrounding you completely, so that you are fully involved"
+  },
+  "ENROLL": {
+    "Definition": "officially sign up as a student"
+  },
+  "HATE ON": {
+    "Definition": "criticise strongly or say bad things about"
+  },
+  "SETTING FOOT": {
+    "Definition": "going to or entering a place"
+  },
+  "KUDOS": {
+    "Definition": "praise and respect for what someone has done"
+  },
+  "HATS OFF": {
+    "Definition": "my praise and admiration"
+  },
+  "DEDICATE": {
+    "Definition": "give completely"
+  },
+  "POSTPONE": {
+    "Definition": "move to a later time; delay"
+  },
+  "SKIP": {
+    "Definition": "not do something you would normally do; miss"
+  },
+  "OVERUSED": {
+    "Definition": "repeated so often that it has become boring and less effective"
+  },
+  "SKIPPING": {
+    "Definition": "missing; not doing something you would normally do"
+  },
+  "SHINIER": {
+    "Definition": "more exciting and appealing"
+  },
+  "CHORE": {
+    "Definition": "a boring task that you have to do"
   },
   "VICIOUS CIRCLE": {
-    "Definition": "a continuing unpleasant situation, created when one problem causes another problem that then makes the first problem worse"
+    "Definition": "a situation where one problem causes another, which makes the first one worse"
+  },
+  "SLOT": {
+    "Definition": "a short period of time set aside for something"
+  },
+  "ROUTINE": {
+    "Definition": "the usual things you do regularly, often in the same order"
+  },
+  "AMBITIOUS": {
+    "Definition": "needing a great deal of effort and skill to achieve"
+  },
+  "PENULTIMATE": {
+    "Definition": "second to last"
+  },
+  "MOTIVATE": {
+    "Definition": "encourage; make (someone) want to do something"
+  },
+  "ANNOTATE": {
+    "Definition": "add notes or comments to"
+  },
+  "FLOWING": {
+    "Definition": "smooth and continuous, without stopping"
+  },
+  "ELABORATE": {
+    "Definition": "give more detail or explain more fully"
+  },
+  "DISHEARTENED": {
+    "Definition": "less hopeful and confident"
+  },
+  "ROLLER COASTER": {
+    "Definition": "full of sudden ups and downs, like a fast fairground ride"
+  },
+  "UPHILL": {
+    "Definition": "very difficult and needing a lot of effort"
+  },
+  "PACK EVERYTHING IN": {
+    "Definition": "stop doing it completely; give up"
+  },
+  "UPLIFTING": {
+    "Definition": "making you feel happier and more hopeful"
+  },
+  "INTERLUDE": {
+    "Definition": "a short break or different activity between other things"
+  },
+  "POINTLESS": {
+    "Definition": "having no purpose or use"
   }
 }
