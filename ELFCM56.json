@@ -1,101 +1,101 @@
 {
-  "ALL WELL AND GOOD": {
-    "Definition": "You say that something is all very well/fine/good if it seems good by itself but you think that there are problems connected with it"
-  },
-  "ALLEGEDLY": {
-    "Definition": "to say that someone has done something illegal or wrong without giving proof"
-  },
-  "AN IRON FIST": {
-    "Definition": "to control a group of people very firmly, having complete power over everything they do"
-  },
   "AUTHORITARIAN": {
-    "Definition": "demanding that people obey completely and refusing to allow them freedom to act as they wish"
-  },
-  "BANISHED": {
-    "Definition": "to send someone away, especially from their country, and not allow them to come back"
-  },
-  "BREED": {
-    "Definition": "a particular type of animal or plant"
-  },
-  "BREEDER": {
-    "Definition": "someone who keeps animals for the purpose of producing young animals in a controlled way"
-  },
-  "CONSTITUTION": {
-    "Definition": "the set of political principles by which a state or organisation is governed, especially in relation to the rights of the people it governs"
-  },
-  "CULT OF PERSONALITY": {
-    "Definition": "a situation in which a public figure (such as a political leader) is deliberately presented to the people of a country as a great person who should be admired and loved"
-  },
-  "DESIGNATED": {
-    "Definition": "to choose someone officially to do a particular job"
-  },
-  "DOTING": {
-    "Definition": "showing that you love someone very much"
-  },
-  "DOWNRIGHT": {
-    "Definition": "(especially of something bad) extremely or very great"
-  },
-  "DRASTIC": {
-    "Definition": "(especially of actions) severe and sudden or having very noticeable effects"
+    "Definition": "controlled by leaders who have total power and allow people little freedom"
   },
   "ECCENTRIC": {
-    "Definition": "strange or unusual, sometimes in a humorous way"
+    "Definition": "strange and unusual in behaviour"
   },
-  "HANDFUL": {
-    "Definition": "a small number of people or things"
+  "CONSTITUTION": {
+    "Definition": "the set of basic laws that say how a country must be governed"
   },
-  "KNOCK-ON EFFECT": {
-    "Definition": "When an event or situation has a knock-on effect, it causes other events or situations, but not directly"
+  "OPPRESSIVELY": {
+    "Definition": "in a cruel and unfair way that takes away people's freedom"
+  },
+  "CULT OF PERSONALITY": {
+    "Definition": "a situation in which a leader is shown as a hero and almost worshipped by the people"
+  },
+  "SUPREME": {
+    "Definition": "highest and greatest; total"
+  },
+  "DOWNRIGHT": {
+    "Definition": "completely; totally"
+  },
+  "OUTLAWED": {
+    "Definition": "made illegal"
   },
   "LIP-SYNCHING": {
-    "Definition": "to move your lips at the same time as a recording is being played, in order to pretend that you are singing or saying the words"
+    "Definition": "moving your lips as if singing or speaking while a recording plays"
   },
-  "NEUTRAL": {
-    "Definition": "not saying or doing anything that would encourage or help any of the groups involved in an argument or war"
+  "BANISHED": {
+    "Definition": "officially sent away and kept out"
+  },
+  "UNAPPEALING": {
+    "Definition": "unpleasant; not attractive"
+  },
+  "DOTING": {
+    "Definition": "showing great love and care, sometimes too much"
+  },
+  "ALLEGEDLY": {
+    "Definition": "according to what people say, although it has not been proved"
+  },
+  "AN IRON FIST": {
+    "Definition": "a very strict, harsh and controlling way"
+  },
+  "SCRAMBLE": {
+    "Definition": "a hurried, disorganised struggle between people to get something"
+  },
+  "DESIGNATED": {
+    "Definition": "officially chosen or named"
+  },
+  "BREED": {
+    "Definition": "a particular type of animal, developed by people over time"
   },
   "NICKNAME": {
-    "Definition": "an informal name for someone or something, especially a name that you are called by your friends or family, usually based on your real name or your character"
+    "Definition": "an informal name used instead of someone's real name"
+  },
+  "BREEDER": {
+    "Definition": "a person who keeps animals in order to produce young ones"
+  },
+  "PREDECESSOR": {
+    "Definition": "the person who had the job before him"
+  },
+  "RUMOURS": {
+    "Definition": "stories passed from person to person that may not be true"
+  },
+  "RALLY CAR": {
+    "Definition": "a fast car built for racing on roads and rough tracks"
+  },
+  "ALL WELL AND GOOD": {
+    "Definition": "fine, but not the whole story"
+  },
+  "PROSPERITY": {
+    "Definition": "money, success and a good standard of living"
+  },
+  "PARADOX": {
+    "Definition": "a situation that seems impossible because it contains two opposite facts"
   },
   "NO EXCEPTION": {
-    "Definition": "not different"
+    "Definition": "not different from the others"
+  },
+  "WEALTH": {
+    "Definition": "a large amount"
+  },
+  "KNOCK-ON EFFECT": {
+    "Definition": "an indirect result caused by something that happened first"
+  },
+  "DRASTIC": {
+    "Definition": "extreme and having a strong, sudden effect"
   },
   "NOTE": {
     "Definition": "pay attention to"
   },
-  "OPPRESSIVELY": {
-    "Definition": "in a cruel and unfair way that does not allow people the freedom they should have"
-  },
-  "OUTLAWED": {
-    "Definition": "not allowed"
-  },
-  "PARADOX": {
-    "Definition": "a situation or statement that seems impossible or is difficult to understand because it contains two opposite facts or characteristics"
-  },
-  "PREDECESSOR": {
-    "Definition": "someone who had a job or a position before someone else, or something that comes before another thing in time or in a series"
-  },
-  "PROSPERITY": {
-    "Definition": "the state of being successful and having a lot of money"
-  },
-  "RALLY CAR": {
-    "Definition": "a car that has been specially designed or modified to be used in motor rallies"
-  },
-  "RUMOURS": {
-    "Definition": "an unofficial interesting story or piece of news that might be true or invented, and quickly spreads from person to person"
-  },
-  "SCRAMBLE": {
-    "Definition": "to compete with other people for something there is very little of"
-  },
-  "SUPREME": {
-    "Definition": "having the highest rank, level, or importance"
-  },
   "TOPICAL": {
-    "Definition": "of interest at the present time; relating to things that are happening at present"
+    "Definition": "connected with something in the news at the moment"
   },
-  "UNAPPEALING": {
-    "Definition": "not attractive or interesting"
+  "HANDFUL": {
+    "Definition": "a small number"
   },
-  "WEALTH": {
-    "Definition": "a large amount of money or valuable possessions that someone has"
+  "NEUTRAL": {
+    "Definition": "not taking sides in conflicts between other countries"
   }
 }
