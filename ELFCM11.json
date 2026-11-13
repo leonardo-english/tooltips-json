@@ -1,128 +1,134 @@
 {
-  "A SHOT": {
-    "Definition": "try, attempt"
+  "DARE SAY": {
+    "Definition": "think it is likely; suppose"
   },
-  "ALTER": {
-    "Definition": "change"
+  "TABLES MAY BE TURNED": {
+    "Definition": "situation may be the other way round"
+  },
+  "INSTRUMENTAL": {
+    "Definition": "very important in helping to cause something"
+  },
+  "ENDURING": {
+    "Definition": "lasting for a long time"
+  },
+  "FURTHER AFIELD": {
+    "Definition": "in other, more distant places"
+  },
+  "CONSENSUS": {
+    "Definition": "general agreement among people"
+  },
+  "PURITANICAL": {
+    "Definition": "very strict about religion and morals, and against pleasure"
+  },
+  "SABBATH": {
+    "Definition": "the day of the week kept for rest and worship, Sunday for Christians"
+  },
+  "HEADED OFF": {
+    "Definition": "went away; set out on a journey"
+  },
+  "INHERENTLY": {
+    "Definition": "by its basic nature"
+  },
+  "SINFUL": {
+    "Definition": "wrong because it breaks religious or moral rules"
+  },
+  "DEGENERATE": {
+    "Definition": "having low moral standards; immoral"
+  },
+  "RELUCTANT": {
+    "Definition": "unwilling and slow"
+  },
+  "WHOLEHEARTEDLY": {
+    "Definition": "completely and with enthusiasm"
+  },
+  "UNDERLYING": {
+    "Definition": "basic; existing beneath the surface"
+  },
+  "VIVID": {
+    "Definition": "very clear, colourful and full of detail"
+  },
+  "SEIZED UPON": {
+    "Definition": "quickly and eagerly taken up and used"
+  },
+  "RECAP": {
+    "Definition": "briefly go over the main points"
+  },
+  "SQUEEZING": {
+    "Definition": "forcing as much money as possible out of people"
+  },
+  "WRENCHING": {
+    "Definition": "taking things from others by force"
+  },
+  "GRASPING": {
+    "Definition": "eager to get as much money as possible; greedy"
+  },
+  "SCRAPING": {
+    "Definition": "saving every tiny amount of money in a mean way"
+  },
+  "CLUTCHING": {
+    "Definition": "holding tightly on to everything he has"
+  },
+  "COVETOUS": {
+    "Definition": "wanting very much to have what others have"
+  },
+  "SELF-SERVING": {
+    "Definition": "focused only on his own interests"
+  },
+  "FATE": {
+    "Definition": "what happens or will happen to a person in their life"
   },
   "BEFALLEN": {
     "Definition": "happened to"
   },
-  "CAUGHT ON": {
-    "Definition": "become fashionable"
-  },
-  "CIVIL SERVANT": {
-    "Definition": "government employee, bureaucrat"
-  },
-  "CLUTCHING": {
-    "Definition": "trying to grab or take (something)"
-  },
-  "CONSENSUS": {
-    "Definition": "a general agreement"
-  },
-  "COVETOUS": {
-    "Definition": "jealous, wanting to possess something that belongs to someone else"
-  },
-  "CRIPPLED": {
-    "Definition": "disabled, crippled"
-  },
-  "DARE SAY": {
-    "Definition": "used to indicate that one believes something is probable"
-  },
-  "DEED": {
-    "Definition": "act or action"
-  },
-  "DEGENERATE": {
-    "Definition": "having lost the physical, mental, or moral qualities considered normal and desirable; showing evidence of decline"
-  },
-  "ENDURING": {
-    "Definition": "long lasting"
-  },
-  "FATE": {
-    "Definition": "destiny"
-  },
-  "FRANTICALLY": {
-    "Definition": "in a distraught way owing to fear, anxiety, or other emotion"
-  },
-  "FURTHER AFIELD": {
-    "Definition": "in places or areas other than the nearest or most obvious one"
-  },
-  "GRASPING": {
-    "Definition": "avaricious; greedy"
-  },
-  "HEADED OFF": {
-    "Definition": "Left, set sail"
-  },
-  "INEXORABLY": {
-    "Definition": "in a way that is impossible to stop or prevent"
+  "PARALYSED": {
+    "Definition": "unable to move part or all of his body"
   },
   "INFAMOUS": {
-    "Definition": "well known for some bad quality or deed"
+    "Definition": "well known for a bad reason"
   },
-  "INHERENTLY": {
-    "Definition": "in a permanent, essential, or characteristic way"
-  },
-  "INSTRUMENTAL": {
-    "Definition": "very important"
-  },
-  "PARALYSED": {
-    "Definition": "(of a person or part of the body) partly or wholly incapable of movement; disabled"
-  },
-  "PURITANICAL": {
-    "Definition": "having or displaying a very strict moral attitude towards self-indulgence or sex"
-  },
-  "RALLYING CALL": {
-    "Definition": "something such as a word, phrase, event, or belief that encourages people to unite and to act in support of a particular group or idea"
-  },
-  "RECAP": {
-    "Definition": "remind, go over again"
-  },
-  "RELUCTANT": {
-    "Definition": "not willing, not wanting to do"
+  "ALTER": {
+    "Definition": "change"
   },
   "RESONATED": {
-    "Definition": "(of an idea or action) meet with agreement"
-  },
-  "SABBATH": {
-    "Definition": "(in Christian traditions) Sunday"
-  },
-  "SCRAPING": {
-    "Definition": "dragging or pulling"
-  },
-  "SEIZED UPON": {
-    "Definition": "taken up by, adopted quickly"
-  },
-  "SELF-SERVING": {
-    "Definition": "only caring about themselves"
-  },
-  "SMASH HIT": {
-    "Definition": "an overnight success"
-  },
-  "SQUEEZING": {
-    "Definition": "pressing with your fingers"
-  },
-  "STAMPED": {
-    "Definition": "imprinted, marked on"
-  },
-  "TABLES MAY BE TURNED": {
-    "Definition": "things may be different"
-  },
-  "UNDERLYING": {
-    "Definition": "fundamental, core"
+    "Definition": "connected strongly and emotionally"
   },
   "UTTERLY": {
-    "Definition": "very"
+    "Definition": "completely; totally"
   },
-  "VIVID": {
-    "Definition": "very powerful or strong"
+  "HORRIFIC": {
+    "Definition": "extremely bad and shocking"
+  },
+  "RALLYING CALL": {
+    "Definition": "a strong public call for people to act together"
+  },
+  "STAMPED": {
+    "Definition": "fixed firmly"
+  },
+  "CRIPPLED": {
+    "Definition": "disabled and unable to walk properly (a word now considered offensive)"
   },
   "VULNERABLE": {
-    "Definition": "(of a person) in need of special care, support, or protection because of age, disability, or risk of abuse or neglect"
+    "Definition": "easily hurt or harmed"
   },
-  "WHOLEHEARTEDLY": {
-    "Definition": "showing or characterized by complete sincerity and commitment"
+  "SMASH HIT": {
+    "Definition": "a very great success"
   },
-  "WRENCHING": {
-    "Definition": "pulling or twisting suddenly"
+  "INEXORABLY": {
+    "Definition": "in a way that nothing could stop"
+  },
+  "FRANTICALLY": {
+    "Definition": "extremely, in a hurried and anxious way"
+  },
+  "CIVIL SERVANT": {
+    "Definition": "a person who works for the government"
+  },
+  "CAUGHT ON": {
+    "Definition": "became popular"
+  },
+  "A SHOT": {
+    "Definition": "a try"
+  },
+  "DEED": {
+    "Definition": "an action, something that someone does"
   }
 }
