@@ -1,125 +1,125 @@
 {
-  "ARTIFICIALLY": {
-    "Definition": "in a non-natural way"
-  },
-  "CONCERTED": {
-    "Definition": "done for a shared purpose"
-  },
-  "CONSCIOUS": {
-    "Definition": "purposeful, deliberate"
-  },
-  "CONVEY": {
-    "Definition": "to express a thought or meaning"
-  },
-  "CRUSH": {
-    "Definition": "destroy, get rid of"
-  },
-  "DANGER ZONE": {
-    "Definition": "in a dangerous place"
-  },
-  "DECLINE": {
-    "Definition": "to decrease, to become worse and worse"
-  },
-  "DISDAIN": {
-    "Definition": "hatred, normally shown through a lack of respect"
-  },
-  "DIVERSE": {
-    "Definition": "including many different types of people or things:"
-  },
-  "DOMINANT": {
-    "Definition": "most important or strong than similar things"
-  },
-  "DOMINATE": {
-    "Definition": "see dominant"
-  },
-  "ENDANGER": {
-    "Definition": "to put someone or something at risk of being hurt or harmed"
-  },
-  "ENDANGERED": {
-    "Definition": "put at risk of being hurt of harmed"
-  },
-  "FLOURISH": {
-    "Definition": "to develop and become successful"
-  },
-  "FOR THE SAKE OF": {
-    "Definition": "in order to allow something to happen"
-  },
-  "FRESCO": {
-    "Definition": "a painting on a wall, painted when the paint is still fresh"
-  },
-  "GOES TO THE GRAVE": {
-    "Definition": "dies"
-  },
-  "HANDFUL": {
-    "Definition": "a small amount of something"
-  },
-  "INTERFERE": {
-    "Definition": "get in the way of"
+  "SETS US APART": {
+    "Definition": "makes us different"
   },
   "LIMITING": {
-    "Definition": "preventing, stopping"
+    "Definition": "restricting what you can do"
   },
-  "MADE-UP": {
-    "Definition": "invented, fake"
+  "OVER AND ABOVE": {
+    "Definition": "in addition to; beyond"
   },
   "MEANS": {
-    "Definition": "way, a method to do something"
+    "Definition": "a way or method"
+  },
+  "THEORETICAL": {
+    "Definition": "only about ideas, not about real life"
+  },
+  "WIPED AWAY": {
+    "Definition": "completely removed or destroyed"
+  },
+  "DOMINANT": {
+    "Definition": "powerful and important"
+  },
+  "DOMINATE": {
+    "Definition": "become the most powerful and widely used"
+  },
+  "ENDANGER": {
+    "Definition": "put at risk of disappearing"
+  },
+  "PROSPERED": {
+    "Definition": "grown strong and successful"
+  },
+  "CRUSH": {
+    "Definition": "destroy completely by using force"
+  },
+  "OUTLAWING": {
+    "Definition": "making illegal"
   },
   "NON-CORE": {
-    "Definition": "not the main, not the normal"
+    "Definition": "less important, not main"
+  },
+  "PERSECUTING": {
+    "Definition": "treating cruelly and unfairly"
+  },
+  "ENDANGERED": {
+    "Definition": "at risk of disappearing completely"
+  },
+  "DECLINE": {
+    "Definition": "a gradual fall in numbers"
+  },
+  "SANDS OF TIME": {
+    "Definition": "the slow passing of time"
+  },
+  "TENDS": {
+    "Definition": "gradually moves closer"
+  },
+  "DISDAIN": {
+    "Definition": "a strong feeling that someone is not worth respect"
+  },
+  "FOR THE SAKE OF": {
+    "Definition": "for the purpose of"
+  },
+  "MADE-UP": {
+    "Definition": "invented; not true"
+  },
+  "GOES TO THE GRAVE": {
+    "Definition": "dies and disappears"
+  },
+  "CONSCIOUS": {
+    "Definition": "deliberate and planned"
+  },
+  "REVIVAL": {
+    "Definition": "a return to strength and popularity after a weak period"
+  },
+  "CONCERTED": {
+    "Definition": "planned and done together by many people"
+  },
+  "DANGER ZONE": {
+    "Definition": "a situation where something is at serious risk"
+  },
+  "THRIVING": {
+    "Definition": "doing very well and growing strongly"
+  },
+  "PRESERVED": {
+    "Definition": "kept safe and in existence"
+  },
+  "REVIVE": {
+    "Definition": "bring back into use"
+  },
+  "REVIVED": {
+    "Definition": "brought back into use"
+  },
+  "WILL": {
+    "Definition": "determination and desire to do something"
+  },
+  "FLOURISH": {
+    "Definition": "grow and do very well"
+  },
+  "PLETHORA": {
+    "Definition": "a very large number"
   },
   "OCCURRENCE": {
     "Definition": "something that happens"
   },
-  "OUTLAWING": {
-    "Definition": "completely stop something by making it illegal"
-  },
-  "OVER AND ABOVE": {
-    "Definition": "in addition to"
-  },
-  "PERSECUTING": {
-    "Definition": "treating someone or something unfairly"
-  },
-  "PLETHORA": {
-    "Definition": "a very large amount"
-  },
-  "PRESERVED": {
-    "Definition": "saved from being destroyed or harmed"
-  },
-  "PROSPERED": {
-    "Definition": "became successful"
-  },
-  "REVIVAL": {
-    "Definition": "becoming more popular and in use again"
-  },
-  "REVIVE": {
-    "Definition": "become more popular again"
-  },
-  "REVIVED": {
-    "Definition": "became more popular again"
-  },
-  "SANDS OF TIME": {
-    "Definition": "the passing of time"
-  },
-  "SETS US APART": {
-    "Definition": "makes us different from or better than other people or things"
-  },
-  "TENDS": {
-    "Definition": "naturally goes towards"
-  },
-  "THEORETICAL": {
-    "Definition": "based on an idea, not the practical use (of something)"
-  },
-  "THRIVING": {
-    "Definition": "successful and growing"
+  "INTERFERE": {
+    "Definition": "get involved and try to change things"
   },
   "UTILITARIAN": {
-    "Definition": "not caring for anything other than usefulness or practicality"
+    "Definition": "focused only on what is practical and useful"
   },
-  "WILL": {
-    "Definition": "desire to do something"
+  "FRESCO": {
+    "Definition": "a painting made on a wall while the plaster is still wet"
   },
-  "WIPED AWAY": {
-    "Definition": "destroyed"
+  "CONVEY": {
+    "Definition": "communicate or express"
+  },
+  "HANDFUL": {
+    "Definition": "a small number"
+  },
+  "DIVERSE": {
+    "Definition": "varied; having many different types"
+  },
+  "ARTIFICIALLY": {
+    "Definition": "deliberately by people, not naturally"
   }
 }
