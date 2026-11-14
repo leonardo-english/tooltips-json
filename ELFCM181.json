@@ -1,404 +1,401 @@
 {
   "VERNACULAR": {
-    "Definition": "the English spoken by normal English people"
+    "Definition": "everyday language of ordinary people"
   },
   "ASTRONOMER": {
-    "Definition": "a person who studies space objects"
+    "Definition": "a scientist who studies the stars and planets"
   },
   "COURTIER": {
-    "Definition": "a person who is a part of the king's environment"
+    "Definition": "a person who attended and served the king or queen at the royal palace"
   },
   "BUREAUCRAT": {
-    "Definition": "an official in a government department"
+    "Definition": "an official who works in a government office, dealing with rules and paperwork"
   },
   "PROLIFIC": {
-    "Definition": "doing a lot of something"
+    "Definition": "very active and frequent"
   },
   "LINGUIST": {
-    "Definition": "someone who studies languages"
+    "Definition": "a person who speaks several languages well"
   },
   "AMUSED": {
-    "Definition": "entertained"
+    "Definition": "entertained and pleased"
   },
   "INTRIGUED": {
-    "Definition": "made someone very interested in something"
+    "Definition": "interested and fascinated"
   },
   "SPECTRUM": {
-    "Definition": "range"
+    "Definition": "range from one extreme to the other"
   },
   "LOWLY": {
-    "Definition": "low in position"
+    "Definition": "low in rank and unimportant"
   },
   "RECOGNISABLE": {
-    "Definition": "able to be understood"
+    "Definition": "familiar and able to be identified"
   },
   "IN SPITE OF": {
-    "Definition": "not stopped by"
+    "Definition": "despite; without being stopped by"
   },
   "RIVAL": {
-    "Definition": "are comparable to"
+    "Definition": "match or compete with in size and quality"
   },
   "UNDISPUTED": {
-    "Definition": "not doubted, accepted"
+    "Definition": "accepted by everyone; not questioned by anyone"
   },
   "STATUS": {
-    "Definition": "an accepted position"
+    "Definition": "position and the respect he receives"
   },
   "LITERARY": {
-    "Definition": "related to literature, the art of writing"
+    "Definition": "relating to written works such as poems and novels"
   },
   "MERIT": {
-    "Definition": "the quality of being good"
+    "Definition": "quality or value that deserves praise"
   },
   "DIPLOMAT": {
-    "Definition": "an official whose job is to represent their country in another country"
+    "Definition": "someone whose job is to represent their country in other countries"
   },
   "COURT": {
-    "Definition": "the governing body around a king"
+    "Definition": "the king and the people who lived and worked around him"
   },
   "INSIGHT": {
-    "Definition": "deeper understanding"
+    "Definition": "a chance to see and understand something clearly"
   },
   "AMBITIOUS": {
-    "Definition": "having a strong wish to achieve something"
+    "Definition": "aiming high; wanting to achieve great things"
   },
   "OUTLINE": {
-    "Definition": "general description"
+    "Definition": "a short description of the main points"
   },
   "PROSPEROUS": {
-    "Definition": "successful financially"
+    "Definition": "rich and successful"
   },
-  "THE BUBONIC PLAGUE": {
-    "Definition": "a dangerous infection in The Middle Ages"
+  "BUBONIC PLAGUE": {
+    "Definition": "a deadly disease, spread by fleas on rats, that killed huge numbers of people"
   },
   "PAGE": {
-    "Definition": "a boy who works in as an attendant to a nobleman"
+    "Definition": "a boy who worked as a servant for a noble family"
   },
   "HOUSEHOLD": {
-    "Definition": "a group of people who live together"
+    "Definition": "the family and all the people who live and work in their home"
   },
   "SERVANT": {
-    "Definition": "a person who works in another person's house, for example as a cleaner"
+    "Definition": "a person who works in someone's home, doing jobs such as cooking and cleaning"
   },
   "ARISTOCRATIC": {
-    "Definition": "belonging to the high social class"
+    "Definition": "belonging to the highest social class"
   },
   "THRONE": {
-    "Definition": "the chair occupied by a king"
+    "Definition": "the position of being king or queen"
   },
   "ANALOGY": {
-    "Definition": "a comparison between things that have similarities"
+    "Definition": "a comparison that helps to explain something"
   },
   "SCANDAL": {
-    "Definition": "an action that is wrong and causes public feelings of disapproval"
+    "Definition": "public stories about shocking or bad behaviour"
   },
   "ULTRA-FASHIONABLE": {
-    "Definition": "very fashionable, according to the latest popular style"
+    "Definition": "extremely stylish and modern"
   },
   "PROVOCATIVELY": {
-    "Definition": "in a way that causes sexual desire"
+    "Definition": "in a way meant to attract attention or shock people"
   },
   "STOCKINGS": {
-    "Definition": "a type of long tight socks"
+    "Definition": "tight pieces of clothing that cover the feet and legs"
   },
   "TUNICS": {
-    "Definition": "a loose type of clothing covering the upper body"
+    "Definition": "loose pieces of clothing that cover the body down to the hips or knees"
   },
   "HAZARD A GUESS": {
-    "Definition": "make a guess"
+    "Definition": "suggest an answer without being sure"
   },
   "SIEGE": {
-    "Definition": "the surrounding of an enemy place by an armed force"
+    "Definition": "an attack in which an army surrounds a town to force it to surrender"
   },
   "RANSOMED": {
-    "Definition": "taken prisoner to be released after money is paid"
+    "Definition": "freed after someone paid money for him"
   },
   "HELD": {
-    "Definition": "kept"
+    "Definition": "kept by force"
   },
   "HOSTAGE": {
-    "Definition": "a person who is kept and not released without some kind of payment"
+    "Definition": "a prisoner kept until money is paid or demands are met"
   },
   "EQUIVALENT": {
-    "Definition": "having the same amount"
+    "Definition": "equal in value"
   },
   "ENCOUNTERED": {
-    "Definition": "met"
+    "Definition": "met or come into contact with"
   },
   "ARISTOCRATS": {
-    "Definition": "people belonging to the high social class"
+    "Definition": "people from the highest social class"
   },
   "INFLUENTIAL": {
-    "Definition": "having influence or a big effect on something"
+    "Definition": "having a lot of power to affect what happens"
   },
   "CLERK": {
-    "Definition": "a person who works in an office"
+    "Definition": "an official responsible for running and organising work"
   },
-  "UPWARD": {
-    "Definition": "rising up"
+  "UPWARD MOBILITY": {
+    "Definition": "moving to a higher position in society"
   },
   "LADY-IN-WAITING": {
-    "Definition": "a woman in the service of a queen or high-ranking woman"
+    "Definition": "a noblewoman who serves and keeps company with a queen or princess"
   },
   "ATTENDANT": {
-    "Definition": "an assistant to an important person"
+    "Definition": "a person who stays with someone important to help and serve them"
   },
   "ALLY": {
-    "Definition": "someone who cooperates with and supports another"
+    "Definition": "someone who supports and helps another person"
   },
   "MODEST": {
-    "Definition": "not high-class, ordinary"
+    "Definition": "ordinary; not rich or grand"
   },
   "UPBRINGING": {
-    "Definition": "his care and training as a child"
+    "Definition": "childhood and the way he was raised"
   },
   "MEMORABLE": {
-    "Definition": "worth remembering"
+    "Definition": "striking and easy to recall"
   },
   "GALLON": {
-    "Definition": "a unit measuring the capacity of a container"
+    "Definition": "a measure of liquid of just under five litres"
   },
   "MONARCHY": {
-    "Definition": "king or queen"
+    "Definition": "the king or queen and the royal family"
   },
   "BARREL": {
-    "Definition": "a large, curved container usually made of wood"
+    "Definition": "a large round wooden container for storing drinks such as wine"
   },
   "SHERRY": {
-    "Definition": "a type of strong wine"
+    "Definition": "a strong wine from southern Spain"
   },
   "ASPIRING": {
-    "Definition": "someone who wants to become successful in something"
+    "Definition": "hoping to become successful"
   },
   "SOPHISTICATED": {
-    "Definition": "of high quality, cultured"
+    "Definition": "refined, elegant and linked with educated people"
   },
   "FINE": {
-    "Definition": "of high quality"
+    "Definition": "of very high quality"
   },
   "CONVEY": {
-    "Definition": "express"
+    "Definition": "communicate or deliver"
   },
   "AGAINST THE GRAIN": {
-    "Definition": "against what would have been expected"
+    "Definition": "against what was normal or expected"
   },
   "EVER MORE SO": {
-    "Definition": "even more so, very much so"
+    "Definition": "even more true than before"
   },
   "LITERATE": {
-    "Definition": "knowing how to read and write"
+    "Definition": "able to read and write"
   },
   "FUSION": {
-    "Definition": "combination"
+    "Definition": "a mixing of different things to make something new"
   },
   "INDIGENOUS": {
-    "Definition": "naturally existing in a country, native"
+    "Definition": "originally from that place; local"
   },
   "APPARENT": {
-    "Definition": "able to be seen"
+    "Definition": "clear; easy to see"
   },
   "FLOODED": {
-    "Definition": "full of"
+    "Definition": "filled with a very large number of"
   },
   "SYNONYMS": {
-    "Definition": "words that have similar meaning"
+    "Definition": "words with the same or a similar meaning"
   },
   "NUANCES": {
     "Definition": "small differences in meaning"
   },
   "COMPLEMENTED": {
-    "Definition": "completed, made better"
+    "Definition": "added to and improved"
   },
   "CHIVALRY": {
-    "Definition": "the combination of qualities required by a knight, honesty, honour, justice etc."
+    "Definition": "the polite, honourable and brave behaviour expected of knights"
   },
   "COURTESY": {
-    "Definition": "polite behaviour"
+    "Definition": "polite and kind behaviour"
   },
   "READILY": {
-    "Definition": "willingly and easily"
+    "Definition": "freely and easily"
   },
   "QUESTS": {
-    "Definition": "long searches for something difficult to find"
+    "Definition": "long searches for something, often full of adventure"
   },
   "JOURNEYS": {
-    "Definition": "travels"
+    "Definition": "trips from one place to another, often long ones"
   },
   "PENCHANT": {
-    "Definition": "liking for something"
+    "Definition": "strong liking or natural tendency"
   },
   "DESERTED": {
-    "Definition": "left, abandoned"
+    "Definition": "left and abandoned"
   },
   "TREACHEROUSLY": {
-    "Definition": "characterised by betrayal"
+    "Definition": "in a disloyal way, betraying his own people"
   },
   "FORBIDDEN": {
     "Definition": "not allowed"
   },
   "VULNERABLE": {
-    "Definition": "defenseless, unprotected"
+    "Definition": "easily hurt or harmed"
   },
   "POIGNANT": {
-    "Definition": "causing sadness"
+    "Definition": "making people feel sadness and sympathy"
   },
   "WRAPPED": {
-    "Definition": "covered, surrounded by"
+    "Definition": "held tightly"
   },
   "DOOMED": {
-    "Definition": "certain to have an end"
+    "Definition": "certain to fail or end badly"
   },
   "IN ITS OWN RIGHT": {
-    "Definition": "by reason of his own ability and not of something else"
+    "Definition": "for its own qualities, not just because of where it came from"
   },
   "PILGRIMAGE": {
-    "Definition": "a journey to a holy place"
+    "Definition": "a journey to a holy place for religious reasons"
   },
   "SHRINE": {
-    "Definition": "an important religious place dedicated to a holy person"
+    "Definition": "a holy place built to honour a saint"
   },
   "DOMESTIC": {
-    "Definition": "relating to family or household"
+    "Definition": "from his own country, not foreign"
   },
   "PILGRIMS": {
-    "Definition": "people who make a journey to a religious place to pray"
+    "Definition": "people who travel to a holy place for religious reasons"
   },
   "FULFIL": {
-    "Definition": "complete"
+    "Definition": "complete; carry out fully"
   },
   "MASSIVE": {
-    "Definition": "very large in scale or size"
+    "Definition": "very large"
   },
   "TASK": {
-    "Definition": "a piece of work"
+    "Definition": "a piece of work that needs to be done"
   },
   "BRILLIANTLY": {
-    "Definition": "wonderfully"
+    "Definition": "very cleverly and impressively"
   },
   "SPAN": {
-    "Definition": "extent, stretch"
+    "Definition": "stretch from top to bottom"
   },
   "HUMBLE": {
-    "Definition": "low in social rank"
+    "Definition": "low in social rank; ordinary and poor"
   },
   "PLOUGHMAN": {
-    "Definition": "a man whose job is to dig the land in order to plant something"
+    "Definition": "a farm worker who guides a tool pulled by animals to turn over the soil"
   },
   "PLOUGHS": {
-    "Definition": "digs the land in order to plant something"
+    "Definition": "turns over the soil of, using a tool pulled by animals"
   },
   "PILGRIM": {
-    "Definition": "someone who makes a journey to a religious place to pray"
+    "Definition": "a person who travels to a holy place for religious reasons"
   },
   "MOTIVES": {
     "Definition": "reasons for doing something"
   },
   "VIRTUES": {
-    "Definition": "the good qualities of a person"
+    "Definition": "good qualities of character"
   },
   "DREADFUL": {
-    "Definition": "causing fear and suffering"
+    "Definition": "terrible; very bad"
   },
   "MASSACRES": {
-    "Definition": "acts of killing a lot of people"
+    "Definition": "killings of large numbers of people"
   },
   "CIVILIANS": {
-    "Definition": "people who are not members of the military or police"
+    "Definition": "people who are not soldiers"
   },
   "DRAMATISES": {
-    "Definition": "presents in a form of writing"
+    "Definition": "presents in an exciting way, like a play"
   },
   "RIVALRY": {
-    "Definition": "a situation in which people compete with each other for the same thing"
+    "Definition": "competition and dislike between two people"
   },
   "MILLER": {
-    "Definition": "someone who works in a mill"
+    "Definition": "a person whose job is grinding grain into flour"
   },
   "MILL": {
-    "Definition": "a building with a machine for making flour out of grain"
+    "Definition": "a building where grain is crushed to make flour"
   },
   "POOR LIGHT": {
-    "Definition": "bad way"
+    "Definition": "unfavourable way that makes them look bad"
   },
   "PORTRAYS": {
-    "Definition": "describes, represents as"
+    "Definition": "shows or describes"
   },
   "SATIRE": {
-    "Definition": "a way of criticising people in a funny way"
+    "Definition": "humour that makes fun of people's faults to criticise them"
   },
   "THEREBY": {
-    "Definition": "as a result"
+    "Definition": "in this way; as a result"
   },
   "IRONY": {
-    "Definition": "a funny use of words to say the opposite of what you mean"
+    "Definition": "a contrast between what seems to be true and what really is"
   },
   "NASTIEST": {
-    "Definition": "worst"
+    "Definition": "most unpleasant and unkind"
   },
   "PARDONER": {
-    "Definition": "someone who sells documents that forgive someone of their sins"
+    "Definition": "a church official who sold people forgiveness for their sins"
   },
   "PARDONS": {
-    "Definition": "documents that forgive their buyer of their sins"
+    "Definition": "documents from the Church saying that someone's sins are forgiven"
   },
   "RELICS": {
-    "Definition": "objects of religious importance"
+    "Definition": "objects said to have belonged to a holy person, kept for religious reasons"
   },
   "PARDONER’S": {
-    "Definition": "of the person who sells documents that forgive the buyer of their sins"
+    "Definition": "belonging to the church official who sold forgiveness for sins"
   },
   "TRICK": {
-    "Definition": "fool, deceive"
+    "Definition": "deceive; fool"
   },
   "MORAL": {
-    "Definition": "a lesson that can be learnt"
+    "Definition": "a lesson about right and wrong that a story teaches"
   },
   "CHEAT": {
-    "Definition": "a person who behaves dishonestly in order to gain something"
+    "Definition": "a dishonest person who deceives others"
   },
   "FRAUD": {
-    "Definition": "the crime of getting money by fooling people"
+    "Definition": "a person who pretends to be something they are not in order to deceive others"
   },
   "TRICKING": {
-    "Definition": "fooling, deceiving"
+    "Definition": "deceiving; fooling"
   },
   "THOUGHT-PROVOKING": {
-    "Definition": "causing someone to think"
+    "Definition": "making people reflect deeply"
   },
   "IRONIC": {
-    "Definition": "strange and funny because it shows the opposite of what he meant"
+    "Definition": "showing a clever contrast between what seems true and what really is"
   },
   "PORTRAYAL": {
-    "Definition": "representation or description"
+    "Definition": "the way of showing or describing someone"
   },
   "COLOUR": {
-    "Definition": "interest and clearness"
+    "Definition": "liveliness and interesting detail"
   },
   "OPENNESS": {
-    "Definition": "honesty"
+    "Definition": "honesty and willingness to speak freely"
   },
   "TREATMENT": {
-    "Definition": "the manner in which she behaves towards"
+    "Definition": "way of behaving towards someone"
   },
   "COMPELLING": {
-    "Definition": "causing interest and attention"
+    "Definition": "very interesting; holding your attention"
   },
   "PROMINENCE": {
-    "Definition": "importance or attention given to someone"
+    "Definition": "importance and the fact of being easily noticed"
   },
   "TIMELESS": {
-    "Definition": "not affected by the passage of time, classic"
+    "Definition": "never going out of date; always relevant"
   },
   "GLUTTONY": {
-    "Definition": "eating without a limit"
+    "Definition": "eating far too much; greed for food"
   },
   "DRUNKENNESS": {
-    "Definition": "the state of being drunk"
+    "Definition": "the state of having had too much alcohol"
   },
   "AWARE": {
-    "Definition": "having knowledge of something"
-  },
-  "": {
-    "Definition": null
+    "Definition": "informed; having some knowledge"
   }
 }
