@@ -1,263 +1,257 @@
 {
   "ETHICAL": {
-    "Definition": "relating to beliefs about what is right or wrong"
+    "Definition": "relating to principles of right and wrong"
   },
   "SACRIFICE": {
-    "Definition": "give up something in order to gain something else"
+    "Definition": "give up, or allow to be killed, in order to help others"
   },
   "ETHICS": {
-    "Definition": "a set of beliefs about what is right or wrong"
+    "Definition": "principles about what is right and wrong"
   },
   "THEORETICAL": {
-    "Definition": "based on ideas and thoughts and not the practical use of the subject"
+    "Definition": "based on ideas rather than on real situations"
   },
   "AUTONOMOUS": {
-    "Definition": "having the power to be driven without human presence"
+    "Definition": "able to operate without a human controlling them"
   },
   "SELF-DRIVING": {
-    "Definition": "that drives itself, without human presence"
+    "Definition": "operated by computers, without a human in control"
   },
   "TROLLEY": {
-    "Definition": "an electric vehicle that transports people"
+    "Definition": "a vehicle like a small train that runs on rails along streets"
   },
   "TRAM": {
-    "Definition": "an electric vehicle that transports people"
+    "Definition": "a vehicle that runs on rails along city streets"
   },
   "VARIANTS": {
-    "Definition": "slightly different forms or versions of the same thing"
+    "Definition": "different versions"
   },
   "TRACKS": {
-    "Definition": "a pair of long metal bars fixed on the ground, on which trains, trolleys etc. travel"
+    "Definition": "the metal rails that trains run on"
   },
   "OPERATING ROOM": {
-    "Definition": "a special room in which people control the trolley operations"
+    "Definition": "the room from which the trains and their routes are controlled"
   },
   "LEVER": {
-    "Definition": "a bar or handle that controls the direction a trolley is taking"
+    "Definition": "a handle that you pull to control a machine"
   },
   "TRACK": {
-    "Definition": "a pair of long metal bars fixed on the ground, on which trains, trolleys etc. travel"
+    "Definition": "a set of metal rails that a train runs on"
   },
   "DIVERTING": {
-    "Definition": "changing direction of something"
+    "Definition": "making something change direction"
   },
   "ETHICALLY": {
-    "Definition": "in a way that relates to a set of moral values or standards"
+    "Definition": "judged by principles of right and wrong"
   },
   "JUDGE": {
-    "Definition": "a person in charge of a trial who decides if a person is guilty or not"
+    "Definition": "a person in charge of a court who decides legal cases"
   },
   "HYPOTHETICAL": {
-    "Definition": "imagined or suggested, not necessarily true"
+    "Definition": "imagined rather than real"
   },
   "TRIAL": {
-    "Definition": "the examination of a legal case in the court of law"
+    "Definition": "a process in a court where it is decided if someone committed a crime"
   },
   "GUILTY": {
-    "Definition": "responsible for a crime"
+    "Definition": "responsible for committing a crime"
   },
   "RIOTERS": {
-    "Definition": "people who meet in public and protest usually in a violent way"
+    "Definition": "people taking part in a violent public protest"
   },
   "REVENGE": {
-    "Definition": "the action of harming someone in a return for harm they have done to someone else"
+    "Definition": "harm done to people in return for a wrong done to you"
   },
   "SENTENCING": {
-    "Definition": "deciding the punishment for someone who has been found guilty by a court"
+    "Definition": "officially ordering a punishment for, in a court"
   },
   "INHABITED": {
-    "Definition": "occupied, lived in by people"
+    "Definition": "having people living there"
   },
   "FLIP": {
-    "Definition": "turn"
+    "Definition": "quickly move or press"
   },
   "SWITCH": {
-    "Definition": "a small handle that turns on or off a device or a electric circuit"
+    "Definition": "a small control that changes the direction of a train or turns something on or off; (as a verb) move onto a different track"
   },
   "CIRCUMSTANCES": {
-    "Definition": "facts or conditions relevant to an action or event"
+    "Definition": "the conditions and facts of a situation"
   },
   "SURGEON": {
-    "Definition": "a doctor who performs medical operations"
+    "Definition": "a doctor who performs operations"
   },
   "PATIENTS": {
-    "Definition": "the people who receive medical care"
+    "Definition": "people receiving medical treatment"
   },
   "ORGAN": {
-    "Definition": "a part of the body"
+    "Definition": "a part of the body with a particular job, such as the heart"
   },
   "LIVER": {
-    "Definition": "a large organ in the body that cleans the blood"
+    "Definition": "a large part of the body that cleans the blood"
   },
   "KIDNEYS": {
-    "Definition": "small organs in the body that clean the body by producing urine"
+    "Definition": "two parts of the body that remove waste from the blood"
   },
   "SUITABLE": {
-    "Definition": "right for the occasion, proper"
+    "Definition": "right for the purpose"
   },
   "TRANSPLANT": {
-    "Definition": "an organ which is taken from one body to be put into another"
+    "Definition": "in which a body part is moved from one person into another"
   },
   "ROUTINE": {
-    "Definition": "a usual, regular way to do things"
-  },
-  "#REF!": {
-    "Definition": "#REF!"
+    "Definition": "regular and done as normal, not because of a problem"
   },
   "CHECKUP": {
-    "Definition": "a medical examination to test your general health"
+    "Definition": "a general medical examination to make sure someone is healthy"
   },
   "ORGANS": {
-    "Definition": "parts of the human body"
+    "Definition": "parts of the body with particular jobs, such as the heart"
   },
   "COMPATIBLE": {
-    "Definition": "able to exist successfully with something"
+    "Definition": "a good enough match to work safely"
   },
   "SUPPOSE": {
-    "Definition": "imagine"
+    "Definition": "imagine; let's say"
   },
   "SUSPECT": {
-    "Definition": "think that he is responsible for the action"
+    "Definition": "believe to be responsible for a crime"
   },
   "MORALITY": {
-    "Definition": "the values related to deciding what is right or wrong"
+    "Definition": "the idea that it is right or acceptable"
   },
   "EMOTION": {
-    "Definition": "strong feelings"
+    "Definition": "strong feeling, such as love or anger"
   },
   "MORAL": {
-    "Definition": "relating to the standards of good or bad behaviour and general values"
+    "Definition": "about right and wrong behaviour"
   },
   "OVERALL": {
-    "Definition": "in general"
+    "Definition": "in total, when everything is considered"
   },
   "MORALLY": {
-    "Definition": "referring to the standards of right or wrong behaviour"
+    "Definition": "in terms of what is right and wrong"
   },
   "MERELY": {
-    "Definition": "just, simply"
+    "Definition": "only; simply"
   },
   "FLIPPED": {
-    "Definition": "turned over with a sudden quick movement"
+    "Definition": "quickly moved or pressed"
   },
   "A SPANNER IN THE WORKS": {
-    "Definition": "a person who causes something not to go as planned"
+    "Definition": "something that causes problems for a plan or idea"
   },
   "COURSE OF ACTION": {
-    "Definition": "next thing to do"
+    "Definition": "way of acting; plan of what to do"
   },
   "COURSE": {
-    "Definition": "the direction something is following"
+    "Definition": "the direction or way in which events develop"
   },
   "SCRUTINY": {
-    "Definition": "careful and detailed examination"
+    "Definition": "careful and critical examination"
   },
   "UNREALISTIC": {
-    "Definition": "Something that cannot be true"
+    "Definition": "not matching what actually happens in life"
   },
   "DEFLECTS": {
-    "Definition": "turns something away from where it should be"
+    "Definition": "pulls or turns"
   },
   "ARITHMETIC": {
-    "Definition": "the method where you find the answer of a problem using numbers"
+    "Definition": "simple calculations with numbers"
   },
   "ALGORITHMIC": {
-    "Definition": "solving a problem using a set of mathematical rules"
+    "Definition": "following a fixed set of computer-style rules or steps"
   },
   "STATISTIC": {
-    "Definition": "an information that we know by studying how many times something happened to a group of people"
+    "Definition": "just a number in a set of data"
   },
   "RELEVANT": {
-    "Definition": "connected with what is being discussed"
+    "Definition": "important and connected to the present situation"
   },
   "ALGORITHMS": {
-    "Definition": "a set of mathematical rules to be followed in calculations, especially by a computer"
+    "Definition": "sets of rules or steps that a computer follows to solve problems"
   },
   "PEDESTRIAN": {
-    "Definition": "someone that walks on foot"
+    "Definition": "a person walking, not in a vehicle"
   },
   "SWERVE": {
-    "Definition": "suddenly change direction"
+    "Definition": "turn suddenly to one side"
   },
   "SWERVING": {
-    "Definition": "suddenly changing direction"
+    "Definition": "turning suddenly to one side"
   },
   "COMPLEX": {
-    "Definition": "complicated, not simple"
+    "Definition": "very detailed and complicated"
   },
   "FORESEE": {
-    "Definition": "know about something before it happens"
+    "Definition": "know about before it happens"
   },
   "FRAMEWORK": {
-    "Definition": "a structure acting a basis for a system"
+    "Definition": "a basic set of rules or ideas to guide decisions"
   },
   "IMPLICATIONS": {
-    "Definition": "likely consequences"
+    "Definition": "possible effects or results"
   },
   "PEDESTRIANS": {
-    "Definition": "people that walk on foot"
+    "Definition": "people walking, not in vehicles"
   },
   "BRAKE": {
-    "Definition": "slow down"
+    "Definition": "slow down quickly"
   },
   "THEREBY": {
-    "Definition": "as a result of that"
+    "Definition": "by doing this; as a result of this"
   },
   "SINGLE-LANE": {
-    "Definition": "having a single lane for traffic, a narrow road"
+    "Definition": "only wide enough for one line of traffic"
   },
   "SACRIFICING": {
-    "Definition": "giving up something in order to gain something else"
+    "Definition": "giving up, or allowing to be lost, in order to help others"
   },
   "MORALS": {
-    "Definition": "the standards of good or bad behaviour and general values"
+    "Definition": "personal standards of right and wrong behaviour"
   },
   "SELFLESS": {
-    "Definition": "caring more about other people than yourself"
+    "Definition": "putting other people's needs and lives first"
   },
   "SELFISH": {
-    "Definition": "caring only about yourself"
+    "Definition": "caring mainly about its own interests, not other people's"
   },
   "PENSIONERS": {
-    "Definition": "people who receive money from the state after they retire from working"
+    "Definition": "older people who no longer work and get regular money from the state"
   },
   "EXAGGERATION": {
-    "Definition": "making a situation seem more obvious or more important than it really is"
+    "Definition": "a statement that makes something seem bigger or more extreme than it is"
   },
   "MACHINE-LEARNING": {
-    "Definition": "something that makes machines \"learn\" new things and improve"
+    "Definition": "using data to improve themselves automatically"
   },
   "SMARTER": {
-    "Definition": "programmed to be more capable of independent action"
+    "Definition": "more intelligent; better at doing things"
   },
   "PROBABILITY": {
-    "Definition": "the extent to which an event is likely to happen"
+    "Definition": "the chance or likelihood"
   },
   "COLLISION": {
-    "Definition": "an accident that happens when two vehicles hit each other"
+    "Definition": "a crash in which a vehicle hits something"
   },
   "INFINITELY": {
-    "Definition": "very much"
+    "Definition": "extremely; very much"
   },
   "ADJUSTED": {
-    "Definition": "changed slightly in order to make it better"
+    "Definition": "changed slightly"
   },
   "TELLING": {
-    "Definition": "having a great effect, important"
+    "Definition": "revealing something important"
   },
   "BATTLING WITH": {
-    "Definition": "trying hard to find answers"
+    "Definition": "trying hard to deal with or solve"
   },
   "INDICATION": {
-    "Definition": "sign, something that points to a fact"
+    "Definition": "a sign that shows something"
   },
   "RELEVANCE": {
-    "Definition": "relation to the matter discussed"
+    "Definition": "importance and connection to a situation"
   },
   "MORALIST": {
-    "Definition": "a person who teaches the standards of good or bad behaviour and general values"
-  },
-  "": {
-    "Definition": null
+    "Definition": "someone who teaches or judges what is right and wrong"
   }
 }
