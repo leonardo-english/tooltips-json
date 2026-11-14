@@ -1,293 +1,284 @@
 {
   "PRESERVING": {
-    "Definition": "keeping it as it was"
+    "Definition": "keeping in the same condition, without damage or change"
   },
   "INLAND": {
-    "Definition": "in the middle of the country, away from the sea"
+    "Definition": "a short way from the sea, towards the centre of the country"
   },
   "SLOPES": {
-    "Definition": "the sides of a mountain"
+    "Definition": "the sides of a hill or mountain that go up or down"
   },
   "CRUCIAL": {
     "Definition": "extremely important"
   },
   "ALBEIT": {
-    "Definition": "although"
+    "Definition": "although; even though it was"
   },
   "CATASTROPHIC": {
-    "Definition": "causing sudden and great damage"
+    "Definition": "causing terrible damage and suffering"
   },
   "SPECIFICS": {
     "Definition": "exact details"
   },
   "TROUBLING": {
-    "Definition": "worrying"
+    "Definition": "causing worry or concern"
   },
   "PLUMES": {
-    "Definition": "long clouds of smoke that look like feathers"
+    "Definition": "tall, thin clouds that rise into the air"
   },
   "ABNORMAL": {
-    "Definition": "not normal"
+    "Definition": "unusual or different from what is expected"
   },
   "HARMLESS": {
-    "Definition": "not able or likely to cause harm"
+    "Definition": "not dangerous; unlikely to cause any damage"
   },
   "ASH": {
-    "Definition": "the soft grey powder that is left after something has burned"
+    "Definition": "the soft grey powder that a volcano throws out"
   },
   "LAYER": {
-    "Definition": "a level of material covering a surface"
+    "Definition": "a flat covering of something lying over a surface"
   },
   "FLEE": {
-    "Definition": "escape from danger by running away"
+    "Definition": "escape quickly from danger"
   },
   "PRESUMABLY": {
-    "Definition": "by reasonable thinking, but not certainly"
+    "Definition": "probably; it seems likely that"
   },
   "LUNGS": {
-    "Definition": "the two organs in the body with which people breathe"
+    "Definition": "the two organs in the chest that you use for breathing"
   },
   "SPEWED": {
-    "Definition": "threw out a large quantity of"
+    "Definition": "threw, with great force and in large amounts"
   },
-  "PYROCLASTIC": {
-    "Definition": "consisting of burning rock material"
-  },
-  "FLOW": {
-    "Definition": "continuous movement in one direction"
+  "PYROCLASTIC FLOW": {
+    "Definition": "a very fast cloud of extremely hot gas, ash and rock from a volcano"
   },
   "SHELTERED": {
-    "Definition": "found protection"
+    "Definition": "stayed somewhere to be protected from danger"
   },
   "TO NO AVAIL": {
-    "Definition": "without success"
+    "Definition": "without success; of no use"
   },
   "VAPORISED": {
-    "Definition": "turned into gas or vapor"
+    "Definition": "turned into gas because of the extreme heat"
   },
   "MELTED": {
-    "Definition": "became liquid due to the heat"
+    "Definition": "turned from a solid into a liquid because of heat"
   },
   "CONSISTENCY": {
-    "Definition": "the physical state of a substance"
+    "Definition": "texture; how thick, firm or smooth something is"
   },
   "THERMAL": {
-    "Definition": "produced by heat"
+    "Definition": "relating to heat"
   },
   "PEAK": {
-    "Definition": "highest level or point"
+    "Definition": "its highest or strongest point"
   },
   "HORRIFYING": {
-    "Definition": "causing horror, extremely shocking"
+    "Definition": "extremely shocking and upsetting"
   },
   "TERRIFYING": {
-    "Definition": "causing extreme fear"
+    "Definition": "making you feel extremely afraid"
   },
   "PRESERVED": {
-    "Definition": "kept as it were"
+    "Definition": "kept in the same condition, without being damaged or destroyed"
   },
   "DISREPAIR": {
-    "Definition": "broken and in need of repairs"
+    "Definition": "bad condition because nobody has looked after or fixed it"
   },
   "SUBSEQUENT": {
-    "Definition": "following"
+    "Definition": "coming later; following"
   },
   "THRIVING": {
-    "Definition": "developing and being successful"
+    "Definition": "busy and successful"
   },
   "REFLECT": {
     "Definition": "think carefully about"
   },
   "FATEFUL": {
-    "Definition": "having an important and disastrous effect"
+    "Definition": "when something terrible and important happened"
   },
   "BLAST": {
-    "Definition": "explosion"
+    "Definition": "the explosion and its powerful force"
   },
   "VIVID": {
-    "Definition": "very clear and lively"
+    "Definition": "very clear and detailed, creating strong pictures in the mind"
   },
   "AUTHORITATIVE": {
-    "Definition": "confident and reliable"
+    "Definition": "reliable and respected as a source of information"
   },
   "BROADLY": {
-    "Definition": "in a general and clear way"
+    "Definition": "generally; in most ways"
   },
   "RECALLING": {
-    "Definition": "bringing the memory of something in mind"
+    "Definition": "remembering"
   },
   "BEFOREHAND": {
-    "Definition": "earlier"
+    "Definition": "earlier; before that time"
   },
   "CONSISTENT": {
-    "Definition": "in agreement"
+    "Definition": "in agreement; matching"
   },
   "EXCAVATING": {
-    "Definition": "removing earth in order to discover old buried objects"
+    "Definition": "digging carefully to find old buildings and objects in"
   },
   "SUBMERGED": {
-    "Definition": "below the ground"
+    "Definition": "completely covered and hidden underneath something"
   },
   "THIEVES": {
-    "Definition": "people who steal other persons' property"
+    "Definition": "people who take things that belong to others"
   },
   "PRECIOUS": {
-    "Definition": "of great value"
+    "Definition": "valuable and important"
   },
   "PROPERLY": {
-    "Definition": "in a right and complete way"
-  },
-  "#REF!": {
-    "Definition": "#REF!"
+    "Definition": "really; fully and correctly"
   },
   "PROMPTED": {
-    "Definition": "caused"
+    "Definition": "caused or encouraged"
   },
   "RENEWED": {
-    "Definition": "resumed, revived"
+    "Definition": "starting again after a period of time"
   },
   "STARTLING": {
-    "Definition": "surprising"
+    "Definition": "very surprising and shocking"
   },
   "HANG ON": {
-    "Definition": "wait a minute"
+    "Definition": "wait a moment (said when something seems wrong or confusing)"
   },
   "DISINTEGRATED": {
-    "Definition": "turned into pieces, completely destroyed"
+    "Definition": "broke into small pieces and slowly disappeared"
   },
   "BIODEGRADED": {
-    "Definition": "destroyed and eaten by microorganisms"
+    "Definition": "were broken down naturally by bacteria and other living things"
   },
   "PILE": {
-    "Definition": "things positioned on top of one another"
+    "Definition": "a group of things lying on top of each other"
   },
   "CAVITY": {
-    "Definition": "hole"
+    "Definition": "an empty space inside something solid"
   },
   "POUR": {
-    "Definition": "drop a liquid into something"
+    "Definition": "make a liquid flow"
   },
   "PLASTER": {
-    "Definition": "a mixture of sand and cement that becomes hard as it dries"
+    "Definition": "a mixture of white powder and water that becomes hard when it dries"
   },
   "DECAYING": {
-    "Definition": "becoming gradually rotten"
+    "Definition": "slowly rotting and breaking down"
   },
   "CORPSE": {
     "Definition": "a dead body"
   },
   "MOULDS": {
-    "Definition": "hollow containers"
+    "Definition": "shapes made by filling an empty space with a liquid that then becomes hard"
   },
   "TOMBS": {
-    "Definition": "large stone structures used as burial places"
+    "Definition": "stone buildings or rooms where dead people are buried"
   },
   "UNCOVERED": {
-    "Definition": "discovered after removing something else"
+    "Definition": "found and brought into view by digging"
   },
   "BUSTLING": {
-    "Definition": "full of activity"
+    "Definition": "full of people moving around and lots of activity"
   },
   "BROTHELS": {
-    "Definition": "places where people go to have paid sex"
+    "Definition": "buildings where people paid for sex"
   },
   "FRESCOES": {
-    "Definition": "a kind of paintings"
+    "Definition": "pictures painted directly onto walls"
   },
   "GARUM": {
-    "Definition": "a kind of fish sauce"
+    "Definition": "a fish sauce eaten by the ancient Romans"
   },
   "VALID": {
-    "Definition": "reasonable"
+    "Definition": "reasonable and sensible"
   },
   "FERMENTING": {
-    "Definition": "changing the chemical composition of something organic"
+    "Definition": "letting bacteria slowly change"
   },
   "GUTS": {
-    "Definition": "the inner parts of the belly"
+    "Definition": "the inside parts of an animal's body, such as the stomach"
   },
   "ENTICING": {
-    "Definition": "attractive"
+    "Definition": "attractive; making you want to try it"
   },
   "FERMENTED": {
-    "Definition": "gone through a chemical change"
+    "Definition": "changed slowly by bacteria over time"
   },
   "INTESTINES": {
-    "Definition": "inner parts of the belly"
+    "Definition": "the long tubes inside the body that carry food away from the stomach"
   },
   "FERMENT": {
-    "Definition": "be changed in their chemical composition"
+    "Definition": "change slowly through the action of bacteria"
   },
   "PERCEIVED": {
-    "Definition": "seen, regarded"
+    "Definition": "seen or understood"
   },
   "REMARKED": {
-    "Definition": "commented, mentioned"
+    "Definition": "said or commented"
   },
   "CHAOTIC": {
-    "Definition": "confusing and not in order"
+    "Definition": "completely disorganised and confused"
   },
   "MESSY": {
     "Definition": "untidy and dirty"
   },
   "AMPHITHEATRE": {
-    "Definition": "a circular open building for watching sports or plays"
+    "Definition": "a large open-air building with rows of seats around a central space, used for shows and games"
   },
   "BROTHEL": {
-    "Definition": "a place where people go to have paid sex"
+    "Definition": "a building where people paid for sex"
   },
   "OUTSTANDING": {
-    "Definition": "unanswered"
+    "Definition": "still not answered or settled"
   },
   "SEISMOLOGISTS": {
-    "Definition": "people who study earthquakes"
+    "Definition": "scientists who study earthquakes and movements of the earth"
   },
   "RESOUNDING": {
-    "Definition": "loud"
+    "Definition": "very clear and strong"
   },
   "DORMANT": {
-    "Definition": "not active, sleeping"
+    "Definition": "not active at the moment, but able to become active again"
   },
   "UNPLEASANT": {
-    "Definition": "not enjoyable or pleasant"
+    "Definition": "nasty; not nice at all"
   },
   "MONITORING": {
-    "Definition": "observation"
+    "Definition": "careful watching and checking over time"
   },
   "IN A HURRY": {
-    "Definition": "as fast as possible"
+    "Definition": "quickly"
   },
   "UNEXPECTED": {
-    "Definition": "not expected, seeming not likely to happen"
+    "Definition": "surprising"
   },
   "ACQUAINTED": {
-    "Definition": "familiar with"
+    "Definition": "familiar"
   },
   "DUST": {
-    "Definition": "dry dirt in a form of powder"
+    "Definition": "very small dry pieces of dirt or other material in the air"
   },
   "ASSOCIATE": {
-    "Definition": "connect"
+    "Definition": "connect in your mind"
   },
   "GRAFFITI": {
-    "Definition": "drawings in public places"
+    "Definition": "words or drawings written on walls in public places"
   },
   "INSULTS": {
-    "Definition": "disrespectful phrases"
+    "Definition": "rude words meant to offend people"
   },
   "HYPOTHESIS": {
-    "Definition": "an explanation that is based on known facts but has not yet been proved"
+    "Definition": "an idea that tries to explain something but has not yet been proved"
   },
   "RELATIVELY": {
-    "Definition": "in comparison to other similar situations"
+    "Definition": "almost, compared with other diets"
   },
   "VOIDS": {
-    "Definition": "empty spaces"
+    "Definition": "empty spaces where something used to be"
   },
   "GLOOMY": {
-    "Definition": "unhappy and hopeless"
-  },
-  "": {
-    "Definition": null
+    "Definition": "sad and without hope"
   }
 }
