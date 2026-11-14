@@ -1,209 +1,206 @@
 {
   "FORTUNES": {
-    "Definition": "large amounts of money"
+    "Definition": "very large amounts of money"
   },
   "OASIS": {
-    "Definition": "a place in a desert where there is water and plants"
+    "Definition": "a place in a desert where there is water and plants grow"
   },
   "SIN": {
-    "Definition": "an act of breaking a religious or moral law"
+    "Definition": "behaviour that is seen as morally wrong"
   },
   "ARID": {
-    "Definition": "very dry"
+    "Definition": "very dry, with almost no rain"
   },
   "MEADOWS": {
-    "Definition": "fields with grass and flowers"
+    "Definition": "fields covered in grass, often with wild flowers"
   },
   "MEADOW": {
-    "Definition": "field with grass and flower"
+    "Definition": "a field covered in grass, often with wild flowers"
   },
   "SCALDING": {
-    "Definition": "burning"
+    "Definition": "extremely, as if burning"
   },
   "TREACHEROUS": {
-    "Definition": "extremely dangerous, especially due to bad weather conditions"
+    "Definition": "very dangerous and difficult to cross"
   },
   "LUSH": {
-    "Definition": "an area with a lot of green plants, grass and trees"
+    "Definition": "full of healthy green plants"
   },
   "PATCH": {
-    "Definition": "a small piece of ground"
+    "Definition": "a small area"
   },
   "RAILWAY TRACKS": {
-    "Definition": "the rails of a railroad"
+    "Definition": "the metal rails that trains run on"
   },
   "FOUNDING": {
-    "Definition": "establishment, beginning"
+    "Definition": "the start or creation"
   },
   "DAM": {
-    "Definition": "a wall built across a river to stop the water, creating an artificial lake"
+    "Definition": "a wall built across a river to hold back the water"
   },
   "HYDROELECTRIC": {
-    "Definition": "producing electricity using the force of running water"
+    "Definition": "made using the force of moving water"
   },
   "IRRIGATION": {
-    "Definition": "supplying the land with water in order to grow plants"
+    "Definition": "the supply of water to land so that crops can grow"
   },
   "GAMBLING": {
-    "Definition": "playing games of chance in order to win money"
+    "Definition": "playing games of chance for money"
   },
   "OUTLAWED": {
-    "Definition": "illegal"
+    "Definition": "made illegal"
   },
   "PROHIBITION": {
-    "Definition": "officially not allowing something"
+    "Definition": "the period when making and selling alcohol was banned"
   },
   "SPRUNG UP": {
-    "Definition": "appeared suddenly"
+    "Definition": "appeared suddenly in large numbers"
   },
   "UNATTACHED": {
-    "Definition": "not married"
+    "Definition": "not married or in a relationship"
   },
   "WORKFORCE": {
-    "Definition": "a group of people who work in a company, industry etc."
+    "Definition": "all the people working in a place"
   },
   "SWELLED": {
-    "Definition": "grew large"
+    "Definition": "grew quickly in size"
   },
   "RESORTS": {
-    "Definition": "places where people go for vacation"
+    "Definition": "places where people go on holiday, with hotels and entertainment"
   },
   "GAMBLE": {
-    "Definition": "play games of chance in order to win money"
+    "Definition": "play games of chance to try to win money"
   },
   "GANG": {
-    "Definition": "a group of people behaving bad and usually involving in criminal activities"
+    "Definition": "a group of criminals who work together"
   },
   "CART": {
-    "Definition": "a vehicle pulled by a horse and used for carrying goods"
+    "Definition": "a small vehicle with wheels, pushed by hand"
   },
   "MERELY": {
-    "Definition": "just, simply"
+    "Definition": "only; just"
   },
   "KEROSENE": {
-    "Definition": "a type of fuel used in jet engines"
+    "Definition": "a type of oil used as fuel"
   },
   "FLAMMABLE": {
-    "Definition": "very easy to start burning"
+    "Definition": "easily set on fire"
   },
   "POUR": {
-    "Definition": "make a liquid fall on something"
+    "Definition": "make a liquid flow out of a container"
   },
   "CARTS": {
-    "Definition": "vehicles pulled by a horse and used for carrying goods"
+    "Definition": "small vehicles with wheels, pushed by hand"
   },
   "HITMAN": {
-    "Definition": "a professional killer"
+    "Definition": "a man who is paid to kill people"
   },
   "CAPITALISE": {
-    "Definition": "take the chance to get advantage from something"
+    "Definition": "make a profit or gain an advantage"
   },
   "THE MASSES": {
-    "Definition": "a large number of people"
+    "Definition": "ordinary people in general"
   },
   "BACKERS": {
-    "Definition": "financial supporters"
+    "Definition": "people who give money to support a project"
   },
   "UPCOMING": {
-    "Definition": "developing"
+    "Definition": "becoming more popular and successful"
   },
   "DIVERSIFY": {
-    "Definition": "expand"
+    "Definition": "make more varied"
   },
   "FOOT IN THE DOOR": {
-    "Definition": "his first step in the organisation"
+    "Definition": "a first small chance to be involved, which could lead to more"
   },
   "STAKE": {
-    "Definition": "financial involvement in the business"
+    "Definition": "share of ownership"
   },
   "CULT": {
-    "Definition": "popular among a particular group"
+    "Definition": "very popular with a particular group of fans"
   },
   "SPIRALLING OUT OF CONTROL": {
-    "Definition": "getting extremely high and out of control"
+    "Definition": "rising fast in a way that could not be stopped"
   },
   "INJECT": {
     "Definition": "put"
   },
   "FLOP": {
-    "Definition": "a total failure"
+    "Definition": "a failure; something that was not successful"
   },
   "CASH OUT": {
-    "Definition": "convert the earnings from the casino into money"
+    "Definition": "exchange for money"
   },
   "CHIPS": {
-    "Definition": "a counter used in gambling games to represent money"
+    "Definition": "small plastic discs used instead of money in a casino"
   },
   "VAST": {
-    "Definition": "extremely big"
+    "Definition": "very large"
   },
   "RADIATION": {
-    "Definition": "a form of dangerous energy that comes from an atomic reaction"
+    "Definition": "dangerous energy given off by nuclear material"
   },
   "DRAW": {
-    "Definition": "attraction"
+    "Definition": "something that attracts people"
   },
   "DETONATED": {
-    "Definition": "exploded"
+    "Definition": "made to explode"
   },
   "MUSHROOM CLOUDS": {
-    "Definition": "clouds shaped as a mushroom and caused by an atomic bomb explosion"
+    "Definition": "tall clouds of smoke and dust with a round top, made by a nuclear explosion"
   },
   "SUITE": {
-    "Definition": "a set of expensive, connected hotel rooms"
+    "Definition": "a set of connected rooms in a hotel"
   },
   "TREATY": {
-    "Definition": "a written agreement between two countries"
+    "Definition": "a formal agreement between countries"
   },
   "SIPPING": {
-    "Definition": "drinking something by taking small amounts"
+    "Definition": "drinking slowly in small amounts"
   },
   "LANDMARK": {
-    "Definition": "an important and easily recognised place"
+    "Definition": "an important event or stage"
   },
   "ECCENTRIC": {
-    "Definition": "strange or unusual"
+    "Definition": "strange or unusual in behaviour"
   },
   "NEON": {
-    "Definition": "a type of gas used for lighting"
+    "Definition": "lit by glowing tubes of gas"
   },
   "SLIPPER": {
-    "Definition": "a soft, comfortable shoe that is worn indoors"
+    "Definition": "a soft shoe worn indoors"
   },
   "ILLUMINATED": {
-    "Definition": "lit with bright lights"
+    "Definition": "lit up"
   },
   "FLASHING": {
-    "Definition": "shining brightly and suddenly"
+    "Definition": "light going on and off quickly"
   },
   "THE MOB": {
-    "Definition": "the Mafia"
+    "Definition": "the Mafia; organised criminals"
   },
   "GLAMOUR": {
-    "Definition": "an exciting and charming attractiveness"
+    "Definition": "excitement, beauty and style"
   },
   "HEDONISM": {
-    "Definition": "the search for pleasure"
+    "Definition": "the search for pleasure above everything else"
   },
   "ADORING": {
-    "Definition": "showing extreme love"
+    "Definition": "loving and admiring"
   },
   "PLOUGHED": {
-    "Definition": "invested a very large amount of"
+    "Definition": "put a lot of"
   },
   "VICE": {
-    "Definition": "criminal activity"
+    "Definition": "immoral or criminal behaviour"
   },
   "RE-EMERGED": {
-    "Definition": "appeared, risen again"
+    "Definition": "appeared again"
   },
   "MYRIAD": {
     "Definition": "a very large number"
   },
   "PHASES": {
-    "Definition": "stages in a series of events"
-  },
-  "": {
-    "Definition": null
+    "Definition": "stages of development"
   }
 }
