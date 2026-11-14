@@ -1,146 +1,140 @@
 {
   "SLANG": {
-    "Definition": "a type of everyday language that is spoken by a certain group of people"
+    "Definition": "very informal words and phrases, often used only by a particular group"
   },
   "DIALECT": {
-    "Definition": "a form of a language which is spoken only in one area by a certain group of people"
+    "Definition": "a form of a language spoken in one area or by one group"
   },
   "CONSTRUCT": {
-    "Definition": "create"
+    "Definition": "build or create"
   },
   "TROUBLE": {
-    "Definition": "problems, difficulties"
+    "Definition": "difficulty or problems"
   },
   "STRIFE": {
-    "Definition": "intense disagreement, fighting"
+    "Definition": "angry disagreement or fighting"
   },
   "CURRY": {
-    "Definition": "a spicy Asian dish"
+    "Definition": "a spicy dish of meat or vegetables in a sauce, from South Asian cooking"
   },
   "RHYMES": {
-    "Definition": "ends with the same sound"
+    "Definition": "has the same final sound"
   },
   "POKES FUN": {
-    "Definition": "makes fun of someone or something"
+    "Definition": "makes playful jokes"
   },
   "CONFLICT": {
-    "Definition": "a serious, intense disagreement"
+    "Definition": "serious disagreement between people"
   },
   "STEREOTYPICAL": {
-    "Definition": "a general opinion that people have about something without having confirmed if it is true"
+    "Definition": "based on a fixed and too simple idea of what a type of person is like"
   },
   "DROPPED": {
-    "Definition": "thrown away, got rid of"
+    "Definition": "left out"
   },
   "CRUISER": {
-    "Definition": "a large, fast war ship"
+    "Definition": "a large, fast ship used in war"
   },
   "NAVY": {
-    "Definition": "military forces operating at sea"
+    "Definition": "belonging to a country's military force at sea"
   },
   "RHYME": {
-    "Definition": "end with the same sounds"
+    "Definition": "have the same final sound"
   },
   "LINGUISTIC": {
-    "Definition": "related to language"
+    "Definition": "to do with language"
   },
   "EXISTENCE": {
-    "Definition": "the fact of living, of being real"
+    "Definition": "being there at all"
   },
   "ENGAGING IN": {
     "Definition": "taking part in"
   },
   "UNINTELLIGIBLE": {
-    "Definition": "not able to be understood"
+    "Definition": "impossible to understand"
   },
   "STAND UP TO": {
-    "Definition": "hold a strong position against something"
+    "Definition": "stay convincing when tested by"
   },
   "SCRUTINY": {
-    "Definition": "very careful examination of something"
+    "Definition": "careful and detailed examination"
   },
   "DOCKWORKERS": {
-    "Definition": "people working in a port"
+    "Definition": "people who load and unload ships at a port"
   },
   "DOCKS": {
-    "Definition": "an area of water in a port, used to transfer goods or repair ships"
+    "Definition": "the areas of a port where ships are loaded and unloaded"
   },
   "BOTHER": {
-    "Definition": "try, make an effort"
+    "Definition": "make the effort of"
   },
   "PLAUSIBLE": {
-    "Definition": "likely to be true, convincing"
+    "Definition": "reasonable and likely to be true"
   },
   "TOWN CRIERS": {
-    "Definition": "people whose job is to make public announcements in the streets"
+    "Definition": "people whose job was to shout out news in public places"
   },
   "RECITE": {
-    "Definition": "say something aloud"
+    "Definition": "say aloud to listeners"
   },
   "UTILITY": {
-    "Definition": "the state of being useful"
+    "Definition": "practical usefulness"
   },
   "WITTY": {
-    "Definition": "smart"
+    "Definition": "funny in a quick, smart way"
   },
   "POP CULTURE": {
-    "Definition": "music, films and other products that are popular with most people of a society"
+    "Definition": "the films, music, TV and media enjoyed by most ordinary people"
   },
   "EMERGE": {
-    "Definition": "appear"
+    "Definition": "appear and develop"
   },
   "AWFUL": {
-    "Definition": "very bad and unpleasant"
+    "Definition": "extremely large"
   },
   "DOMINANT": {
-    "Definition": "with stronger presence"
+    "Definition": "powerful and widely used"
   },
   "CONVEY": {
-    "Definition": "carry, express"
+    "Definition": "express or communicate"
   },
   "INVERT": {
-    "Definition": "turn upside down"
+    "Definition": "turn around; reverse the order of"
   },
   "EXCLUSIVE": {
-    "Definition": "limited to a group of people"
+    "Definition": "only open to a particular group of people"
   },
   "DIALECTS": {
-    "Definition": "forms of a language which are spoken only in one area by a certain group of people"
+    "Definition": "forms of a language spoken in one area or by one group"
   },
-  "CLOSE": {
-    "Definition": "being very near to someone"
-  },
-  "KNIT": {
-    "Definition": "joined together"
+  "CLOSE KNIT": {
+    "Definition": "closely connected, with members who know and support each other"
   },
   "EXCLUDED": {
-    "Definition": "left outside, not included"
+    "Definition": "left out; not allowed to be part of the group"
   },
   "GANG": {
-    "Definition": "an organised group of people who usually behave badly"
+    "Definition": "a group of people who spend time together"
   },
   "FEAR NOT": {
-    "Definition": "do not worry"
+    "Definition": "don't worry"
   },
   "STRANGE": {
-    "Definition": "unusual"
+    "Definition": "odd or unusual"
   },
   "VERITABLE": {
-    "Definition": "true, convincing"
+    "Definition": "real; true (used for emphasis)"
   },
   "RABBIT HOLE": {
-    "Definition": "so interesting that you cannot stop trying to find out more about it"
+    "Definition": "a subject so interesting that you keep exploring it for longer than you meant to"
   },
   "WASTE": {
-    "Definition": "unnecessary use of something"
+    "Definition": "spend carelessly, often more than you meant to"
   },
   "CAUGHT UP": {
-    "Definition": "involved, mixed"
+    "Definition": "so involved that you forget everything else"
   },
   "UNORTHODOX": {
-    "Definition": "different from what is usually expected"
-  },
-  "": {
-    "Definition": null
+    "Definition": "unusual; not done in the normal way"
   }
 }
