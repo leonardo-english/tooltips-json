@@ -1,137 +1,134 @@
 {
   "CONTRADICTION": {
-    "Definition": "when two things are the complete opposite to one another"
+    "Definition": "opposition; a state where one thing goes against another"
   },
   "PROPOSED": {
-    "Definition": "suggested as something to consider"
+    "Definition": "put forward or suggested"
   },
   "OVERCOME": {
-    "Definition": "get over, control"
+    "Definition": "successfully deal with or get past"
   },
   "CONTRADICTIONS": {
-    "Definition": "when two things are the complete opposite to one another"
+    "Definition": "conflicts between two things that cannot both be true or right"
   },
   "INCONSISTENCY": {
-    "Definition": "when two things contain ideas or arguments that do not agree with each other"
+    "Definition": "a lack of agreement or match"
   },
   "INFINITELY": {
-    "Definition": "very much"
+    "Definition": "very, very much; to an extremely large degree"
   },
   "STUCK WITH ME": {
-    "Definition": "if something sticks with you, you remember it vividly"
+    "Definition": "stayed in my memory; I never forgot it"
   },
   "NEURONS": {
-    "Definition": "the nerve cells that carry information in the brain"
+    "Definition": "nerve cells that carry messages in the brain"
   },
   "REASONED": {
-    "Definition": "carefully thought and considered"
+    "Definition": "based on careful, logical thinking"
   },
   "IRRATIONAL": {
-    "Definition": "not using clear thinking"
+    "Definition": "not sensible or logical"
   },
   "SUBCONSCIOUS": {
-    "Definition": "the part of your mind that remembers and processes information without you thinking"
+    "Definition": "happening without you being aware of it"
   },
   "JETS OFF": {
-    "Definition": "travels on an aeroplane"
+    "Definition": "travels by plane, often for pleasure"
   },
   "TREAT THEMSELVES": {
-    "Definition": "rewards themselves (with something)"
+    "Definition": "allow themselves something special that they enjoy"
   },
   "TREAT": {
-    "Definition": "reward, something you give yourself because you have done something else"
+    "Definition": "a special thing you enjoy that you do not usually have"
   },
   "CONTRADICTORY": {
-    "Definition": "if two things are contradictory, they cannot both be true"
+    "Definition": "opposed or in conflict with something else"
   },
   "LABEL": {
-    "Definition": "word, term"
+    "Definition": "a name or description given to something"
   },
   "CONSISTENT": {
-    "Definition": "always behaving in a similar way"
+    "Definition": "in agreement with their own beliefs"
   },
   "DISCOMFORT": {
-    "Definition": "feeling of not being comfortable"
+    "Definition": "an unpleasant or uneasy feeling"
   },
   "SPEWS": {
-    "Definition": "if something spews out X, X comes out in large quantities"
+    "Definition": "sends out large amounts of something with force"
   },
   "FACTORS": {
-    "Definition": "the things that influence a result/outcome"
+    "Definition": "things that affect or influence a result"
   },
   "FACTOR": {
-    "Definition": "one of several things that influence a result"
+    "Definition": "a thing that affects or influences a result"
   },
   "VARYING": {
-    "Definition": "different"
+    "Definition": "different from one case to another"
   },
   "JUSTIFY": {
-    "Definition": "say that something is acceptable"
+    "Definition": "give reasons to show that something is right or acceptable"
   },
   "VICE": {
     "Definition": "a bad habit"
   },
   "COMPENSATES": {
-    "Definition": "balance the negative impact of"
+    "Definition": "makes up for something bad by balancing it with something good"
   },
   "DENY": {
-    "Definition": "say is not true"
+    "Definition": "say that something is not true"
   },
   "CONCLUSIVE": {
-    "Definition": "proving that something is true"
+    "Definition": "proving something without any doubt"
   },
-  "LEADS": {
-    "Definition": "causes something to happen"
+  "LEADS TO": {
+    "Definition": "causes; results in"
   },
   "APPROACHING": {
-    "Definition": "thinking about"
+    "Definition": "dealing with or thinking about"
   },
   "TEMPTING": {
-    "Definition": "if something is tempting, you want to do it"
+    "Definition": "attractive or appealing, even if it may not be wise"
   },
   "APPROACH": {
-    "Definition": "think about something in a particular way"
+    "Definition": "deal with or think about"
   },
   "REINFORCING": {
-    "Definition": "making something stronger"
+    "Definition": "making stronger"
   },
   "INCONSISTENT": {
-    "Definition": "if two things are inconsistent, they cannot both be true"
+    "Definition": "not in agreement; not matching"
   },
   "INHERENTLY": {
-    "Definition": "naturally and deep down"
+    "Definition": "by its basic nature; naturally"
   },
   "FLAW": {
-    "Definition": "mistake or weakness"
+    "Definition": "a fault or weakness"
   },
   "BY DEFAULT": {
-    "Definition": "in itself"
+    "Definition": "automatically; in every case"
   },
   "INCONSISTENCIES": {
-    "Definition": "if two things are inconsistent, they cannot both be true"
+    "Definition": "conflicts between beliefs and actions"
   },
   "KEY": {
-    "Definition": "very important"
+    "Definition": "the most important part; the thing that matters most"
   },
   "OVERCOMING": {
-    "Definition": "get over, control"
+    "Definition": "successfully dealing with or getting past"
   },
   "SEEK": {
-    "Definition": "look for"
+    "Definition": "try to find or get"
   },
   "FLAWS": {
-    "Definition": "mistakes or weaknesses"
+    "Definition": "faults or weaknesses"
   },
   "INBUILT": {
-    "Definition": "if something is inbuilt, it's the original part of it"
+    "Definition": "existing naturally as part of something from the start"
   },
   "BIASES": {
-    "Definition": "allowing personal opinions to affect rational judgment"
+    "Definition": "unfair tendencies to favour one idea or view over others"
   },
   "EVALUATE": {
-    "Definition": "consider, judge the importance of something"
-  },
-  "": {
-    "Definition": null
+    "Definition": "judge or consider carefully"
   }
 }
