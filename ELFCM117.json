@@ -1,302 +1,299 @@
 {
   "GET CRACKING": {
-    "Definition": "get started"
+    "Definition": "start doing something quickly, without delay"
   },
   "DISEASE": {
-    "Definition": "an illness"
+    "Definition": "illness of the body, often caused by infection"
   },
   "EXCEPTION": {
-    "Definition": "something that is is not included in a rule, group, or list"
+    "Definition": "a case that does not follow the general rule"
   },
   "DISEASES": {
-    "Definition": "illnesses"
+    "Definition": "illnesses of the body, often caused by infection"
   },
   "PREMATURE": {
-    "Definition": "happening too soon"
+    "Definition": "happening too early"
   },
   "TAKE THIS FOR GRANTED": {
-    "Definition": "to not properly appreciate something because it has always been there"
+    "Definition": "not value this because you are so used to it"
   },
   "SMALLPOX": {
-    "Definition": "an extremely infectious disease that causes a fever, spots on the skin, and often death"
+    "Definition": "a very serious infectious illness that caused fever and spots on the skin and often killed people"
   },
   "MUMPS": {
-    "Definition": "an infectious disease that causes painful swelling in the neck and slight fever"
+    "Definition": "an infectious illness that makes the face and neck swell"
   },
   "POLIO": {
-    "Definition": "a serious disease that can paralyse your arms and legs"
+    "Definition": "a serious infectious illness that can leave people unable to move parts of their body"
   },
   "TETANUS": {
-    "Definition": "a serious disease caused by bacteria entering the body"
+    "Definition": "a serious illness caused by germs getting into a wound, which makes the muscles stiff"
   },
   "GERM": {
-    "Definition": "a small organism that causes disease"
+    "Definition": "a very small living thing that causes illness"
   },
   "INJECTIONS": {
-    "Definition": "the act of putting something into someone's body using a small needle"
+    "Definition": "doses of medicine put into the body with a needle"
   },
   "SWALLOW": {
-    "Definition": "to make something go down your throat and towards your stomach"
+    "Definition": "make go down your throat into your stomach"
   },
   "IMMUNE SYSTEM": {
-    "Definition": "your body's system that makes it able to protect itself"
+    "Definition": "the parts of the body that fight infection and illness"
   },
   "VIRUS": {
-    "Definition": "a very small piece of material that causes disease"
+    "Definition": "a very small thing that gets inside living cells and causes illness"
   },
   "BACTERIA": {
-    "Definition": "very small living things that cause disease"
+    "Definition": "very small living things, some of which cause illness"
   },
   "ANTIBODIES": {
-    "Definition": "proteins produced in the blood that fight disease"
+    "Definition": "substances the body makes in the blood to fight germs"
   },
   "ENCOUNTERS": {
-    "Definition": "meets"
+    "Definition": "meets or comes into contact with"
   },
   "IMMUNITY": {
-    "Definition": "the state of being protected against a disease"
+    "Definition": "protection against catching a particular illness"
   },
   "DEVASTATING": {
-    "Definition": "causing a lot of damage"
+    "Definition": "causing great damage and suffering"
   },
   "SPREAD": {
-    "Definition": "move quickly"
+    "Definition": "moved to more people or places"
   },
   "CONTAGIOUS": {
-    "Definition": "a contagious disease is easy to catch from other people"
+    "Definition": "easily passed from one person to another"
   },
   "SCABS": {
-    "Definition": "a rough surface made of dried bloody"
+    "Definition": "hard, dry crusts that form over damaged skin"
   },
   "VOMITING": {
-    "Definition": "emptying your stomach through your mouth"
+    "Definition": "bringing food up from the stomach and out through the mouth"
   },
   "VARIOLATION": {
-    "Definition": "a primitive way of protecting against smallpox"
+    "Definition": "an early way of protecting people from smallpox using material from smallpox sores"
   },
   "RUBBING": {
-    "Definition": "pressing something against a surface and moving it"
+    "Definition": "pressing and moving something back and forth"
   },
   "MILD": {
-    "Definition": "not violent"
+    "Definition": "not serious or strong"
   },
   "FULL BLOWN": {
-    "Definition": "completely developed"
+    "Definition": "complete and fully developed"
   },
   "PRIMITIVE": {
-    "Definition": "not developed"
+    "Definition": "early and simple; not well developed"
   },
   "ODDS": {
-    "Definition": "probability"
+    "Definition": "chances of something happening"
   },
   "ARISTOCRATIC": {
-    "Definition": "relating to the highest class in society"
+    "Definition": "belonging to the highest social class"
   },
   "SCARS": {
-    "Definition": "marks left on the body after an injury has healed"
+    "Definition": "marks left on the skin after an injury or illness has healed"
   },
   "ENCOURAGING": {
-    "Definition": "promising, giving you hope"
+    "Definition": "promising; giving hope of success"
   },
   "ROADBLOCK": {
-    "Definition": "something that stops the progress of a plan"
+    "Definition": "a problem that stopped progress"
   },
   "WENT FROM STRENGTH TO STRENGTH": {
-    "Definition": "improved consistently"
+    "Definition": "became more and more successful"
   },
   "INNOVATIVE": {
-    "Definition": "using new methods"
+    "Definition": "clever and original"
   },
   "WIDESPREAD": {
-    "Definition": "happening in many places"
+    "Definition": "found or happening in many places"
   },
   "LETHAL": {
-    "Definition": "able to cause death"
+    "Definition": "deadly; able to cause death"
   },
   "HYPOTHESISED": {
-    "Definition": "thought was possible"
+    "Definition": "suggested as an idea that still needed to be tested"
   },
   "IMMUNISING": {
-    "Definition": "protecting a person by putting a small substance into their body"
+    "Definition": "protecting from an illness, usually with a vaccine"
   },
   "SYMPTOMS": {
-    "Definition": "feelings or changes typical of a disease"
+    "Definition": "signs of illness, such as pain or fever"
   },
   "IMMUNE": {
-    "Definition": "protected against a disease"
+    "Definition": "protected from catching a particular illness"
   },
   "IMMUNOLOGY": {
-    "Definition": "the scientific study of disease prevention"
+    "Definition": "the science of how the body protects itself against illness"
   },
   "IMMUNISATION": {
-    "Definition": "the process of being made immune"
+    "Definition": "protecting people from illness, especially with vaccines"
   },
   "BANNED": {
-    "Definition": "not allowed"
+    "Definition": "officially not allowed"
   },
   "PHILANTHROPIC": {
-    "Definition": "relating to helping the poorest in society"
+    "Definition": "set up to help other people, not to make money"
   },
   "MISSIONS": {
-    "Definition": "important jobs, especially that involve going to another place"
+    "Definition": "groups of people sent somewhere to do a particular job"
   },
   "INOCULATING": {
-    "Definition": "treat with a vaccine"
+    "Definition": "protecting from illness by giving a vaccine"
   },
   "AWARDED": {
-    "Definition": "given as a reward"
+    "Definition": "officially gave as a prize or honour"
   },
   "MEDAL": {
-    "Definition": "a small metal disc, given as a reward"
+    "Definition": "a small metal disc given as an honour for an achievement"
   },
   "ERADICATED": {
-    "Definition": "got rid of completely"
+    "Definition": "destroyed completely so that it no longer exists"
   },
   "SPIRALLING OUT OF CONTROL": {
-    "Definition": "becoming less and less easy to control"
+    "Definition": "getting worse quickly in a way that could not be stopped"
   },
   "ERADICATE": {
-    "Definition": "get rid of completely"
+    "Definition": "destroy completely so that it no longer exists"
   },
   "BODY": {
-    "Definition": "a group of people within an organisation"
+    "Definition": "an official group of people with a particular job"
   },
   "RABIES": {
-    "Definition": "a serious disease of the nervous system"
+    "Definition": "a deadly illness passed to humans by the bite of an infected animal"
   },
   "ANTHRAX": {
-    "Definition": "a disease that causes fever and death"
+    "Definition": "a serious illness of farm animals that can also infect humans"
   },
   "SUBSIDISED": {
-    "Definition": "made cheaper"
+    "Definition": "partly paid for by the government to make it cheaper"
   },
   "OPPOSED": {
-    "Definition": "if you are opposed to something, you disagree with it"
+    "Definition": "against; not in favour of"
   },
   "SCEPTICAL": {
-    "Definition": "doubting"
+    "Definition": "doubtful; not easily convinced"
   },
   "SCEPTICISM": {
-    "Definition": "the state of doubting something"
+    "Definition": "doubt about whether something is true or useful"
   },
   "TRANSMITTED": {
-    "Definition": "passed (to someone else)"
+    "Definition": "passed from one person to another"
   },
   "HERD IMMUNITY": {
-    "Definition": "the state of enough people in a group being immune to a disease, so that others are protected"
+    "Definition": "protection for a whole group when enough of its people cannot catch a disease"
   },
   "RECAP": {
-    "Definition": "to repeat"
+    "Definition": "repeat the main points briefly"
   },
   "DEBUNKED": {
-    "Definition": "proved to not be true"
+    "Definition": "shown to be false"
   },
   "MEASLES": {
-    "Definition": "a disease that produces small, red spots"
+    "Definition": "an infectious illness that causes a fever and red spots on the skin"
   },
   "RUBELLA": {
-    "Definition": "a contagious disease often called German measles"
+    "Definition": "an infectious illness that causes a red rash and is dangerous to unborn babies"
   },
   "AUTISM": {
-    "Definition": "a mental disorder making it hard to communicate properly"
+    "Definition": "a condition that affects how a person communicates and relates to others"
   },
   "STRUCK OFF": {
-    "Definition": "removed from an official list"
+    "Definition": "officially removed from"
   },
   "THE MEDICAL REGISTER": {
-    "Definition": "the list of people who are allowed to practise medicine"
+    "Definition": "the official list of people allowed to work as doctors"
   },
   "JOURNAL": {
-    "Definition": "a serious magazine"
+    "Definition": "a serious magazine about a particular subject, such as medicine"
   },
   "THEN": {
     "Definition": "at that time"
   },
   "REPUTABLE": {
-    "Definition": "having a good reputation"
+    "Definition": "respected and trusted"
   },
   "FRAUD": {
-    "Definition": "if something is a fraud, it is not what it claims to be"
+    "Definition": "a dishonest trick intended to deceive people"
   },
   "HIGHEST PROFILE": {
-    "Definition": "most well known"
+    "Definition": "most famous and most talked about"
   },
   "FIGUREHEAD": {
-    "Definition": "someone who seems to be the leader of a movement or country, but has no real power"
+    "Definition": "a well-known person seen as the face or symbol of a group"
   },
   "MEANS": {
-    "Definition": "ability (to do something)"
+    "Definition": "enough money to do something"
   },
   "TRANSMISSION": {
-    "Definition": "passing from person to person"
+    "Definition": "passing of a disease from one person to another"
   },
   "CONSEQUENT": {
-    "Definition": "happening one after the other"
+    "Definition": "one after another without a break"
   },
   "DISTRUST": {
-    "Definition": "not believe"
+    "Definition": "doubt about whether people or organisations are honest"
   },
   "MISINFORMATION": {
-    "Definition": "false information"
+    "Definition": "false or wrong facts and news"
   },
   "SPREADS": {
-    "Definition": "moves quickly"
+    "Definition": "moves to more people or places"
   },
   "SCRATCHING THEIR HEADS": {
-    "Definition": "not sure about what to do"
+    "Definition": "confused and unsure what to do"
   },
   "CONDITIONED": {
-    "Definition": "if you are conditioned to do something, you have been taught to do it"
+    "Definition": "trained over time to think or behave in a certain way"
   },
   "BODIES": {
-    "Definition": "departments, groups"
+    "Definition": "official organisations or groups"
   },
   "REINFORCE": {
-    "Definition": "make something stronger"
+    "Definition": "make stronger"
   },
   "PRE-EXISTING": {
-    "Definition": "current"
+    "Definition": "already held; from before"
   },
   "AMPLIFYING": {
-    "Definition": "making louder"
+    "Definition": "making stronger or able to reach more people"
   },
   "SPREADING": {
-    "Definition": "causing to reach more people"
+    "Definition": "passing to more and more people"
   },
   "IDEOLOGICAL": {
-    "Definition": "relating to ideas and beliefs"
+    "Definition": "based on strong political or social beliefs"
   },
   "TROLL FARM": {
-    "Definition": "an organisation employing people to make deliberately offensive or provocative online posts in order to cause conflict or manipulate public opinion."
+    "Definition": "an organisation that pays people to post false or angry messages online"
   },
   "BOTS": {
-    "Definition": "computer programmes that work automatically"
+    "Definition": "computer programs that act automatically, for example by posting messages online"
   },
   "AMPLIFY": {
-    "Definition": "make louder"
+    "Definition": "make stronger or able to reach more people"
   },
   "PROMINENT": {
-    "Definition": "well known"
+    "Definition": "widely seen and noticed"
   },
   "FAN THE FLAMES": {
-    "Definition": "make feelings stronger"
+    "Definition": "make strong feelings or a harmful movement grow even stronger"
   },
   "ELEPHANT IN THE ROOM": {
-    "Definition": "an important subject that is not talked about"
+    "Definition": "an obvious subject that people avoid talking about"
   },
   "ONGOING": {
-    "Definition": "continuing to exist or develop"
+    "Definition": "still happening; not yet finished"
   },
   "DECLARED": {
-    "Definition": "officially said to be"
+    "Definition": "officially announced to be"
   },
   "AT THE LAST COUNT": {
-    "Definition": "according to the latest information"
+    "Definition": "when it was last counted or measured"
   },
   "HOT POTATO": {
-    "Definition": "a problem that divides opinion"
-  },
-  "": {
-    "Definition": null
+    "Definition": "a difficult subject that people disagree strongly about"
   }
 }
