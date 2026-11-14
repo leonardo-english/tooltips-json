@@ -1,30 +1,30 @@
 {
   "OVERALL": {
-    "Definition": "general"
+    "Definition": "general; taken as a whole"
   },
   "REPUTATION": {
-    "Definition": "the opinion that people have about something"
+    "Definition": "the opinion that people generally have of something"
   },
   "DULL": {
-    "Definition": "not interesting, boring"
+    "Definition": "not interesting or exciting"
   },
   "CUISINE": {
-    "Definition": "a style of cooking"
+    "Definition": "a style of cooking and the food it produces"
   },
   "OVERCOOKED": {
-    "Definition": "cooked for too long"
+    "Definition": "heated for too long so that it becomes too soft"
   },
   "ACCUSATIONS": {
-    "Definition": "statements or claims that something is wrong"
+    "Definition": "claims that someone or something has done wrong"
   },
   "RIGHTLY": {
-    "Definition": "correctly"
+    "Definition": "correctly; with good reason"
   },
   "DESERVING": {
-    "Definition": "worthy"
+    "Definition": "having earned; worthy of"
   },
   "UNDENIABLE": {
-    "Definition": "without doubt, certain"
+    "Definition": "certainly true; impossible to argue against"
   },
   "MYRIAD": {
     "Definition": "a very large number"
@@ -33,61 +33,61 @@
     "Definition": "defeated"
   },
   "BRUTAL": {
-    "Definition": "cruel and violent"
+    "Definition": "very cruel and violent"
   },
   "MUTTON": {
-    "Definition": "the meat of an adult sheep"
+    "Definition": "meat from an adult sheep"
   },
   "SOPHISTICATED": {
-    "Definition": "complicated, developed"
+    "Definition": "complex and refined, showing skill and good taste"
   },
   "ESTABLISHED": {
-    "Definition": "recognised and generally accepted"
+    "Definition": "created and made to last"
   },
   "CONTEMPLATIVE": {
-    "Definition": "thoughtful"
+    "Definition": "quiet and thoughtful, spending time thinking deeply"
   },
   "DEVOUT": {
-    "Definition": "having deep religious feelings"
+    "Definition": "deeply religious"
   },
   "INVENTIVENESS": {
-    "Definition": "the quality of making new things, creativity"
+    "Definition": "the ability to create new and original things"
   },
   "MONASTERIES": {
-    "Definition": "buildings in which people live under religious rules"
+    "Definition": "buildings where groups of religious men live together, apart from society"
   },
   "ARISTOCRATIC": {
     "Definition": "belonging to the highest social class"
   },
   "BANNING": {
-    "Definition": "the act of not allowing, prohibition"
+    "Definition": "officially forbidding; not allowing"
   },
   "MONKS": {
-    "Definition": "member of a group of religious men who live in a monastery"
+    "Definition": "men who live in a religious community and give their lives to God"
   },
   "DISSOLUTION": {
-    "Definition": "the act of ending an organisation"
+    "Definition": "the official closing down"
   },
   "DISTRIBUTED": {
-    "Definition": "gave out to several people"
+    "Definition": "gave out; shared among people"
   },
   "INCENTIVE": {
-    "Definition": "a thing that makes people do something"
+    "Definition": "a reason or encouragement to do something"
   },
   "PLUMMETED": {
-    "Definition": "fell very quickly"
+    "Definition": "fell very quickly and suddenly"
   },
   "PLAIN": {
-    "Definition": "simple, with nothing added"
+    "Definition": "simple, without strong flavours"
   },
   "SHORTAGE": {
-    "Definition": "a situation in which there is not enough of something"
+    "Definition": "a situation where there is not enough of something"
   },
   "FERTILE": {
-    "Definition": "able to produce a large number of quality crops"
+    "Definition": "rich and good for growing grass and crops"
   },
   "ROASTED": {
-    "Definition": "cooked over a fire"
+    "Definition": "cooked in an oven or over a fire"
   },
   "BOILED": {
     "Definition": "cooked in very hot water"
@@ -96,228 +96,225 @@
     "Definition": "connected with cooking"
   },
   "HECTARE": {
-    "Definition": "a unit of measuring an area of land, equal to 10,000 square metres"
+    "Definition": "a unit for measuring land, equal to 10,000 square metres"
   },
   "NITRATES": {
-    "Definition": "chemicals used as fertilizers"
+    "Definition": "chemicals containing nitrogen, used to help plants grow"
   },
   "CANNING": {
-    "Definition": "keeping food in its original condition in small metal containers"
+    "Definition": "the process of sealing food in metal containers to keep it for a long time"
   },
   "A MIXED BLESSING": {
-    "Definition": "something that has advantages and disadvantages"
+    "Definition": "something with both good and bad effects"
   },
   "CAN": {
-    "Definition": "a small metal container"
+    "Definition": "a closed metal container"
   },
   "PRESERVE": {
-    "Definition": "keep food in its original condition"
+    "Definition": "keep in good condition so it lasts a long time"
   },
   "CANS": {
-    "Definition": "small metal containers"
+    "Definition": "closed metal containers"
   },
   "DEVISED": {
-    "Definition": "made for the first time, invented"
+    "Definition": "invented; thought up"
   },
   "INITIALLY": {
-    "Definition": "at the beginning"
+    "Definition": "at first"
   },
   "VITAL": {
-    "Definition": "very important, necessary"
+    "Definition": "extremely important; necessary"
   },
   "SHORTAGES": {
-    "Definition": "situations in which there is not enough of something"
+    "Definition": "situations where there is not enough of something"
   },
   "TINNED": {
-    "Definition": "kept in metal containers or cans"
+    "Definition": "kept in a sealed metal container"
   },
   "CANNED": {
-    "Definition": "kept in small metal containers"
+    "Definition": "sold in sealed metal containers"
   },
   "ALBEIT": {
-    "Definition": "although"
+    "Definition": "although it was; even if it was"
   },
   "ARISTOCRACY": {
-    "Definition": "a high rank class of people"
+    "Definition": "the people of the highest social class"
   },
   "GUILLOTINE": {
-    "Definition": "a device used in the past for killing people by cutting off their heads"
+    "Definition": "a machine with a heavy falling blade, used for cutting off people's heads"
   },
   "FLED": {
-    "Definition": "ran away from danger"
+    "Definition": "escaped from; left quickly to get away from danger"
   },
   "ARISTOCRATS": {
-    "Definition": "people belonging to the highest social class"
+    "Definition": "people from the highest social class"
   },
   "INDUSTRIALISTS": {
-    "Definition": "people involved in industrial activities"
+    "Definition": "people who owned or ran large factories and businesses"
   },
   "BENEFICIARIES": {
-    "Definition": "people who receive money as a result of something"
+    "Definition": "people who gained or received something good"
   },
   "AFFLUENT": {
-    "Definition": "wealthy"
+    "Definition": "rich"
   },
   "LAVISH": {
-    "Definition": "expensive and plentiful"
+    "Definition": "large, expensive and impressive"
   },
   "EXTRAVAGANT": {
-    "Definition": "expensive and impressive"
+    "Definition": "costing much more money than necessary"
   },
   "SOPHISTICATION": {
-    "Definition": "the quality of knowing about culture, fashion and other matters that are considered important in a society"
+    "Definition": "refined style and good taste"
   },
   "ERA": {
-    "Definition": "a period of time"
+    "Definition": "a period of time in history"
   },
   "GRAND": {
     "Definition": "large and impressive"
   },
   "ELEGANT": {
-    "Definition": "attractive, showing a good taste"
+    "Definition": "stylish and beautiful"
   },
   "INDUSTRIALISED": {
-    "Definition": "made by a system of industries"
+    "Definition": "done by machines in factories"
   },
   "CUTLERY": {
-    "Definition": "equipment used for eating food, such as knives, forks, spoons etc."
+    "Definition": "knives, forks and spoons"
   },
   "THEATRICAL": {
-    "Definition": "prepared to create an impressive effect"
+    "Definition": "dramatic, as if on a stage, to impress people"
   },
   "OPULENCE": {
-    "Definition": "extreme wealth"
+    "Definition": "great wealth and luxury"
   },
   "PROFOUND": {
-    "Definition": "very deep, great"
+    "Definition": "very great; deep"
   },
   "IMPERIALISTS": {
-    "Definition": "people from powerful countries who control other countries"
+    "Definition": "people who supported their country taking control of other countries"
   },
   "FAR-FLUNG": {
-    "Definition": "places that are a great distance away"
+    "Definition": "very distant; remote"
   },
   "PALATE": {
-    "Definition": "flavour, taste"
+    "Definition": "sense of taste; the kinds of food people like"
   },
   "HALF-RIGHT": {
-    "Definition": "not entirely right"
+    "Definition": "partly correct"
   },
   "INCOMERS": {
-    "Definition": "people who had come to live there"
+    "Definition": "people who had arrived to live in a place"
   },
   "INFLUENTIAL": {
-    "Definition": "so important that had a great effect on people"
+    "Definition": "having a big effect on what people thought and did"
   },
   "ENTHUSIASTIC": {
-    "Definition": "showing great interest and excitement"
+    "Definition": "very keen and interested"
   },
   "INFLUENCE": {
-    "Definition": "the power to have an effect"
+    "Definition": "an effect on how people think or behave"
   },
   "UNIMAGINATIVE": {
-    "Definition": "not creative, boring"
+    "Definition": "lacking new or creative ideas"
   },
   "PATRIARCHAL": {
     "Definition": "controlled by men"
   },
   "STRICT": {
-    "Definition": "demanding and limiting people's freedom"
+    "Definition": "that must be followed exactly"
   },
   "STIGMA": {
-    "Definition": "a mark of shame"
+    "Definition": "shame or disapproval from other people"
   },
   "DECLINE": {
-    "Definition": "decrease"
+    "Definition": "a gradual fall in quality or amount"
   },
   "PURITANISM": {
-    "Definition": "the belief that people should live simply and avoid physical pleasures"
+    "Definition": "a very strict moral attitude that sees pleasure as wrong"
   },
   "EMPHASIS": {
-    "Definition": "the importance or attention given to something"
+    "Definition": "special importance or attention"
   },
   "DECORUM": {
-    "Definition": "correct, respectful and polite behaviour"
+    "Definition": "correct and polite behaviour, following social rules"
   },
   "RAW": {
     "Definition": "not cooked"
   },
   "OVER-EMPHASIS": {
-    "Definition": "the act of giving something too much importance"
+    "Definition": "too much importance or attention"
   },
   "SUSPICION": {
-    "Definition": "the feeling of not trusting something"
+    "Definition": "a feeling of not trusting something"
   },
   "AUSTERITY": {
-    "Definition": "difficult economic conditions"
+    "Definition": "difficult economic conditions in which people had to spend very little"
   },
   "RATIONING": {
-    "Definition": "limiting the availability of something"
+    "Definition": "a system that limited how much each person could buy"
   },
   "FRUGALITY": {
-    "Definition": "the habit of living simply and cheaply"
+    "Definition": "the habit of living simply and spending little"
   },
   "BANGER": {
-    "Definition": "sausage"
+    "Definition": "an informal British word for a sausage"
   },
   "AFFECTIONATE": {
-    "Definition": "showing feelings of liking"
+    "Definition": "showing love or fondness"
   },
   "BOOST": {
-    "Definition": "improvement"
+    "Definition": "help that increases or improves something"
   },
   "POPULARISE": {
-    "Definition": "make something popular"
+    "Definition": "make liked and known by many people"
   },
   "GLAMOUR": {
-    "Definition": "the attractive and exciting quality of something"
+    "Definition": "an exciting and attractive quality"
   },
   "THEREBY": {
-    "Definition": "as a result"
+    "Definition": "as a result of this; by doing this"
   },
   "DEHYDRATED": {
-    "Definition": "having the water removed in order to be preserved"
+    "Definition": "with the water removed to make it last longer"
   },
   "MARKEDLY": {
-    "Definition": "significantly"
+    "Definition": "clearly; noticeably"
   },
   "TAKEAWAYS": {
-    "Definition": "food bought from a shop to be eaten elsewhere"
+    "Definition": "meals bought ready-cooked from a shop or restaurant to eat somewhere else"
   },
   "TAKEAWAY": {
-    "Definition": "food bought from a shop to be eaten elsewhere"
+    "Definition": "bought ready-cooked from a shop or restaurant to eat somewhere else"
   },
   "INFLUX": {
     "Definition": "the arrival of a large number of people"
   },
   "DRAW": {
-    "Definition": "attraction"
+    "Definition": "attraction; pull"
   },
   "OVEN-READY": {
-    "Definition": "ready to be cooked"
+    "Definition": "already prepared and only needing to be heated up"
   },
   "ACCELERATED": {
-    "Definition": "increased"
+    "Definition": "made faster; sped up"
   },
   "TREND": {
-    "Definition": "a general direction in which something is developing"
+    "Definition": "a general change in the way people behave"
   },
   "MARKED": {
-    "Definition": "noticeable"
+    "Definition": "clear and easy to notice"
   },
   "ADAPTATIONS": {
-    "Definition": "changes in something in order to fit in different conditions"
+    "Definition": "versions that have been changed to suit new conditions"
   },
   "MISH-MASH": {
-    "Definition": "a confused mix"
+    "Definition": "a confused mixture of different things"
   },
   "OYSTERS": {
-    "Definition": "large flat sea creatures"
+    "Definition": "sea creatures with hard shells, eaten as food"
   },
   "PLEASANTLY": {
-    "Definition": "in an enjoyable way"
-  },
-  "": {
-    "Definition": null
+    "Definition": "in a nice, enjoyable way"
   }
 }
