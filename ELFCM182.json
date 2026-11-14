@@ -1,332 +1,329 @@
 {
   "THREATS": {
-    "Definition": "dangers"
+    "Definition": "possible dangers"
   },
   "UNREMARKABLE": {
-    "Definition": "not particularly interesting"
+    "Definition": "ordinary; not special or interesting in any way"
   },
   "FARTHER": {
-    "Definition": "at a greater distance"
+    "Definition": "more distant"
   },
   "GANGSTERS": {
-    "Definition": "members of organised groups of criminals"
+    "Definition": "members of violent criminal groups"
   },
   "CRYPTOCURRENCY": {
-    "Definition": "a form of currency or money that only exists digitally or electronically"
+    "Definition": "digital money, such as bitcoin, that exists only online"
   },
   "EVASION": {
-    "Definition": "the act of avoiding something"
+    "Definition": "illegal avoidance of paying"
   },
   "UNEVENTFUL": {
-    "Definition": "without interesting events happening"
+    "Definition": "with nothing exciting or important happening"
   },
   "AWAITING": {
-    "Definition": "waiting for"
+    "Definition": "expecting"
   },
   "EXTRADITION": {
-    "Definition": "return to the country where he had been accused of doing something illegal"
+    "Definition": "being officially sent to another country to face trial there"
   },
   "CHARGES": {
-    "Definition": "accusations of doing something illegal"
+    "Definition": "official accusations that someone has committed a crime"
   },
   "HUNG": {
-    "Definition": "killed by tying a rope around his neck and removing the support from beneath him"
+    "Definition": "killed with a rope tied around the neck"
   },
   "SURRENDERED": {
-    "Definition": "accepted defeat"
+    "Definition": "stopped fighting and accepted defeat"
   },
   "AIRMAN": {
-    "Definition": "a military pilot"
+    "Definition": "a member of the military who worked with planes"
   },
   "STATIONED": {
-    "Definition": "put to some specific place for a military purpose"
+    "Definition": "sent by the military to live and work"
   },
   "BEAT": {
-    "Definition": "hit, struck"
+    "Definition": "hit again and again"
   },
   "UNDERSTANDABLY": {
-    "Definition": "expected under the circumstances"
+    "Definition": "as you would expect"
   },
   "PERMANENT": {
     "Definition": "lasting forever"
   },
   "SCAR": {
-    "Definition": "a lasting effect of sadness and fear"
+    "Definition": "a mark of emotional damage"
   },
   "MISTRUST": {
-    "Definition": "lack of trust"
+    "Definition": "doubt that someone is honest or can be relied on"
   },
   "NEGOTIATOR": {
-    "Definition": "the thing that represents something"
+    "Definition": "the person who deals with and controls"
   },
   "VICE": {
-    "Definition": "bad habit or illegal activity"
+    "Definition": "a bad habit, especially one seen as immoral"
   },
   "CURTAIL": {
-    "Definition": "stop something before it is finished"
+    "Definition": "end early; cut short"
   },
   "UNDERGRADUATE": {
-    "Definition": "a university student who has not yet taken his degree"
+    "Definition": "studying for a first university degree"
   },
   "MENTORING": {
-    "Definition": "looking after and advising"
+    "Definition": "giving advice and support to as a more experienced person"
   },
   "KICKED OUT": {
     "Definition": "forced to leave"
   },
   "SEXUAL APPETITE": {
-    "Definition": "sexual desire"
+    "Definition": "strong desire for physical relationships with women"
   },
   "ECCENTRIC": {
-    "Definition": "strange or unusual"
+    "Definition": "strange and unusual in behaviour"
   },
   "HIGH-POWERED": {
-    "Definition": "involving a lot of responsibility"
+    "Definition": "important, with a lot of responsibility"
   },
   "ABNORMAL": {
-    "Definition": "different from what is usual"
+    "Definition": "unusual; not what you would expect"
   },
   "KEEN": {
-    "Definition": "interested in"
+    "Definition": "very interested and eager"
   },
   "ALTERING": {
     "Definition": "changing"
   },
   "HELLRAISER": {
-    "Definition": "a person who causes trouble and has bad habits"
+    "Definition": "wild and out of control"
   },
   "PARANOID": {
-    "Definition": "experiencing extreme anxiety because he thought that he couldn't trust anybody"
+    "Definition": "afraid that other people are trying to harm him"
   },
   "PARANOIA": {
-    "Definition": "an unreasonable feeling that other people didn't like him and wanted to harm him"
+    "Definition": "fear that other people are trying to harm you"
   },
   "PROFITABLE": {
-    "Definition": "successful financially"
+    "Definition": "making a lot of money"
   },
   "MYSTERIOUS": {
-    "Definition": "strange"
+    "Definition": "strange and hard to understand"
   },
   "INFECTED": {
-    "Definition": "containing a virus"
+    "Definition": "affected by a computer virus"
   },
   "STUNTS": {
-    "Definition": "tricks"
+    "Definition": "actions done to attract attention"
   },
   "WARN": {
-    "Definition": "make them realise the possible danger"
+    "Definition": "tell about a possible danger"
   },
   "THREAT": {
-    "Definition": "danger"
+    "Definition": "a possible danger"
   },
   "CAMPER TRUCK": {
-    "Definition": "a truck with space for living quarters (bed etc.)"
+    "Definition": "a large vehicle that people can live and sleep in"
   },
   "PARAMEDIC": {
-    "Definition": "something that gives medical assistance"
+    "Definition": "giving emergency medical help"
   },
   "INVADE": {
-    "Definition": "to enter by force"
+    "Definition": "enter and attack"
   },
   "MUST-HAVE": {
-    "Definition": "something that is very important to have"
+    "Definition": "something that everyone feels they need"
   },
   "PRE-LOADED": {
-    "Definition": "already loaded, loaded beforehand"
+    "Definition": "already installed when it was bought"
   },
   "EVIDENTLY": {
-    "Definition": "in a way that is easy to see"
+    "Definition": "clearly; as you can see"
   },
   "SHARES": {
-    "Definition": "equal parts into which a company's value is divided"
+    "Definition": "parts of the ownership of a company"
   },
   "FAME": {
-    "Definition": "the state of being known by a lot of people"
+    "Definition": "being well known by many people"
   },
   "TARGET": {
-    "Definition": "a person at whom an action is directed"
+    "Definition": "someone that people try to attack"
   },
   "HACKERS": {
-    "Definition": "people who use programming skills to get into other people's computer system"
+    "Definition": "people who break into computer systems without permission"
   },
   "BADGE OF HONOUR": {
-    "Definition": "something that shows you have a particular quality"
+    "Definition": "something that makes a person feel proud"
   },
   "HACKER": {
-    "Definition": "one who uses programming skills to get into other people's computer system"
+    "Definition": "a person who breaks into computer systems without permission"
   },
   "HACK": {
-    "Definition": "get into his computer system by using programming skills"
+    "Definition": "break into the computer systems of"
   },
   "SWAPPING": {
-    "Definition": "exchanging something for something else"
+    "Definition": "exchanging one for another; replacing"
   },
   "PLOT": {
-    "Definition": "an area of land"
+    "Definition": "a piece or area"
   },
   "EXTORTED": {
-    "Definition": "had his money taken from him by using illegal methods"
+    "Definition": "forced to pay money through threats"
   },
   "CARTEL": {
-    "Definition": "an illegal group of people who control the market of drugs"
+    "Definition": "an organised group of criminals"
   },
-  "BEVVY": {
-    "Definition": "a gathering, a group"
+  "BEVY": {
+    "Definition": "a large group"
   },
   "COMPOUND": {
-    "Definition": "an area with a group of buildings inside"
+    "Definition": "an area of land with a group of buildings on it"
   },
   "SEMI-WILD": {
-    "Definition": "not fully tamed, partly wild"
+    "Definition": "not fully trained or controlled by people"
   },
   "POISONED": {
-    "Definition": "killed with poison (a dangerous substance)"
+    "Definition": "killed by a harmful substance"
   },
   "EXECUTED": {
-    "Definition": "put to death"
+    "Definition": "killed deliberately, in a cold and planned way"
   },
   "SWOOPED IN": {
-    "Definition": "moved in quickly"
+    "Definition": "arrived suddenly and quickly"
   },
   "FLED": {
-    "Definition": "escaped from danger by running away"
+    "Definition": "ran away"
   },
   "CORRUPT": {
-    "Definition": "involved in dishonest practices"
+    "Definition": "dishonest, using power to get money or help friends"
   },
   "DENIES": {
-    "Definition": "refuses to recognise"
+    "Definition": "rejects the idea of"
   },
   "CHARGED": {
-    "Definition": "legally blamed"
+    "Definition": "officially accused of a crime"
   },
   "DEPORTATION": {
-    "Definition": "departure of someone from a country because they do not have the legal right to be there"
+    "Definition": "being officially sent out of the country"
   },
   "CONTEST": {
-    "Definition": "oppose something as being wrong"
+    "Definition": "formally argue against"
   },
   "STATE": {
-    "Definition": "said openly"
+    "Definition": "say publicly"
   },
   "FAKED": {
-    "Definition": "caused something to appear true while it wasn't"
+    "Definition": "made something seem real when it was not"
   },
   "CHASED": {
-    "Definition": "followed, hunted"
+    "Definition": "followed in order to be caught"
   },
   "MOTELS": {
-    "Definition": "hotels, especially for people travelling by car"
+    "Definition": "cheap hotels by the road for people travelling by car"
   },
   "SOLICITED": {
-    "Definition": "approached him with an offer of sex in exchange for money"
+    "Definition": "offered sex for money to"
   },
   "ATTACH": {
-    "Definition": "fasten, put on"
+    "Definition": "fix"
   },
   "SUPPOSEDLY": {
-    "Definition": "as expected"
+    "Definition": "according to what he said"
   },
   "PARODY": {
-    "Definition": "a video with the purpose of making fun of something"
+    "Definition": "copying something in a funny way to make fun of it"
   },
   "CAMPAIGNER": {
-    "Definition": "someone who takes a series of actions in order to achieve a certain goal"
+    "Definition": "a person who works hard to win support for a cause"
   },
   "COUNTLESS": {
-    "Definition": "too many to be counted"
+    "Definition": "very many"
   },
   "RISKS": {
-    "Definition": "dangers"
+    "Definition": "possible dangers or bad results"
   },
   "ADVOCATING": {
-    "Definition": "speaking in favour of"
+    "Definition": "publicly calling"
   },
   "BID": {
-    "Definition": "effort to become"
+    "Definition": "an attempt to win a position"
   },
   "CONTENT": {
-    "Definition": "pleased, satisfied"
+    "Definition": "happy and satisfied"
   },
   "VOCAL": {
-    "Definition": "expressing himself often"
+    "Definition": "speaking openly and strongly"
   },
   "PROPONENT": {
-    "Definition": "supporter"
+    "Definition": "a person who supports an idea"
   },
   "WIND UP": {
-    "Definition": "end up"
+    "Definition": "finally be, without planning it"
   },
   "ADVOCATE": {
-    "Definition": "someone who speaks in favour of something"
+    "Definition": "a person who publicly supports something"
   },
   "GRAVITATED": {
-    "Definition": "were attracted"
+    "Definition": "moved or were attracted"
   },
   "DECENTRALISED": {
-    "Definition": "being away from a control centre"
+    "Definition": "not controlled by one government, bank or organisation"
   },
   "ON THE RUN": {
-    "Definition": "trying to avoid being captured"
+    "Definition": "trying to escape and avoid being caught"
   },
   "SOUGHT": {
-    "Definition": "followed, hunted"
+    "Definition": "looked for"
   },
   "ORDER": {
-    "Definition": "a command or request made by an authority"
+    "Definition": "an official instruction from a court"
   },
   "HANG": {
-    "Definition": "kill by tying a rope around the neck and remove the support beneath the feet"
+    "Definition": "kill with a rope tied around the neck"
   },
   "FAULT": {
-    "Definition": "responsibility for something bad happening"
+    "Definition": "responsibility for something bad"
   },
   "SCHEDULED": {
-    "Definition": "it was planned for him to"
+    "Definition": "planned for a certain time"
   },
   "APPARENTLY": {
-    "Definition": "obviously, as it seems"
+    "Definition": "it seemed; as far as people could tell"
   },
   "VERDICT": {
-    "Definition": "judgement, conclusion"
+    "Definition": "official decision"
   },
   "DISPUTED": {
-    "Definition": "questioned"
+    "Definition": "argued to be untrue"
   },
   "SPECULATION": {
-    "Definition": "conclusions not based on certainty"
+    "Definition": "guessing about something without knowing the facts"
   },
   "TRICKING": {
-    "Definition": "deceiving, fooling"
+    "Definition": "fooling"
   },
   "TRICKS": {
-    "Definition": "acts intended to deceive or fool someone"
+    "Definition": "jokes or clever acts meant to fool someone"
   },
   "OUT OF CHARACTER": {
-    "Definition": "not according to his typical behaviour"
+    "Definition": "unusual for him; not how he normally behaved"
   },
   "PIONEER": {
-    "Definition": "one who opens new areas of development"
+    "Definition": "one of the first people to develop something new"
   },
   "WILDLY": {
-    "Definition": "in an extreme way"
-  },
-  "DEEPLY": {
     "Definition": "extremely"
   },
+  "DEEPLY": {
+    "Definition": "very; seriously"
+  },
   "SELF-DESTRUCTIVE": {
-    "Definition": "behaving in a way that was likely to bring harm upon himself"
+    "Definition": "likely to harm his own life and health"
   },
   "MARTYR": {
-    "Definition": "one who makes great sacrifices in order to support a cause"
+    "Definition": "a person who dies for their beliefs"
   },
   "UNSTABLE": {
-    "Definition": "likely to change behaviour, lacking stability"
+    "Definition": "likely to change mood or behaviour suddenly"
   },
   "UNFORTUNATE": {
     "Definition": "unlucky"
-  },
-  "": {
-    "Definition": null
   }
 }
