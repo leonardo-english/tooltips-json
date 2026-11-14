@@ -1,225 +1,222 @@
 {
   "COACH": {
-    "Definition": "a large four-wheel carriage usually pulled by a horse"
+    "Definition": "a large closed carriage pulled by horses"
   },
   "INFAMOUS": {
-    "Definition": "famous for something bad"
+    "Definition": "well known for a bad reason"
   },
   "CIRCUMSTANCES": {
-    "Definition": "conditions or events that affect a situation"
+    "Definition": "the conditions and facts at the time"
   },
   "RECAP": {
-    "Definition": "give the main points of a description or situation"
+    "Definition": "a short summary of what happened before"
   },
   "VITAL": {
-    "Definition": "very important"
+    "Definition": "extremely important; necessary"
   },
   "EXTENSIVE": {
-    "Definition": "a lot of"
+    "Definition": "large in amount or area; covering a lot"
   },
   "UNDERLYING": {
-    "Definition": "existing without being obvious"
+    "Definition": "hidden but still present beneath the surface"
   },
   "TENSION": {
-    "Definition": "a situation of nervousness and hate"
+    "Definition": "a feeling of anger and distrust"
   },
   "OVERNIGHT": {
-    "Definition": "happening as if in a single night, suddenly"
+    "Definition": "very quickly; suddenly"
   },
   "PACE": {
-    "Definition": "the speed at which something moves"
+    "Definition": "speed of moving"
   },
   "FLINTLOCK": {
-    "Definition": "an old type of gun using a very small piece of fire (a spark) to shoot"
+    "Definition": "fired by a stone striking metal to make a spark"
   },
   "PISTOL": {
-    "Definition": "a small gun that is fired from one hand"
+    "Definition": "a small gun held in one hand"
   },
   "HOLDER": {
-    "Definition": "the person who holds the gun"
+    "Definition": "the person carrying the gun"
   },
   "TRIGGER": {
-    "Definition": "a part of a gun that activates the firing mechanism when pressed"
+    "Definition": "the small part of a gun that you pull with your finger to fire it"
   },
   "FLINT": {
-    "Definition": "a piece of black stone used to produce small pieces of fire"
+    "Definition": "a very hard grey stone that makes sparks when it hits metal"
   },
   "SPARKS": {
-    "Definition": "very small pieces of fire"
+    "Definition": "tiny bits of fire"
   },
   "GUNPOWDER": {
-    "Definition": "a mixture of explosive materials in the form of a powder"
+    "Definition": "a black substance that explodes and is used to fire bullets"
   },
   "LIT": {
     "Definition": "burning"
   },
   "FUSE": {
-    "Definition": "a cord or string which is burned easily, made to carry flame from one end to the other"
+    "Definition": "a cord that burns slowly until it sets off an explosion"
   },
   "THREATEN": {
-    "Definition": "tell someone that they would kill them unless they did what they wanted"
+    "Definition": "show that you will hurt"
   },
   "NICKNAME": {
-    "Definition": "an informal name"
+    "Definition": "an informal title that people called him by"
   },
   "QUEST": {
-    "Definition": "long search or hunt"
+    "Definition": "long fight or mission to achieve something"
   },
   "TOOK TO": {
-    "Definition": "went to"
+    "Definition": "began to spend his time on"
   },
   "AMBUSHING": {
-    "Definition": "suddenly attacking after hiding and waiting"
+    "Definition": "hiding and then attacking people by surprise"
   },
   "CRUCIALLY": {
-    "Definition": "in a way that is very important"
+    "Definition": "most importantly"
   },
   "EXPLOITS": {
-    "Definition": "brave or daring acts"
+    "Definition": "brave or exciting actions"
   },
   "ON THE RUN": {
-    "Definition": "trying to avoid being captured"
+    "Definition": "trying to escape from the police"
   },
   "PURPOSE": {
-    "Definition": "reason"
+    "Definition": "aim or reason"
   },
   "PORTRAYED": {
-    "Definition": "represented or described"
+    "Definition": "described or shown"
   },
   "ATTRIBUTES": {
-    "Definition": "characteristics"
+    "Definition": "qualities or features"
   },
   "UTTER": {
-    "Definition": "say"
+    "Definition": "say out loud"
   },
   "THIEF": {
-    "Definition": "someone who steals"
+    "Definition": "a person who steals"
   },
   "FAME": {
-    "Definition": "the state of being widely known"
+    "Definition": "the state of being known by very many people"
   },
   "ATTEMPT": {
-    "Definition": "try"
+    "Definition": "effort to do something"
   },
   "REPORTED": {
-    "Definition": "presented"
+    "Definition": "described as news"
   },
   "EVENTUAL": {
-    "Definition": "happening at a future time"
+    "Definition": "final; happening at the end"
   },
   "FATE": {
-    "Definition": "the outcome of a situation for someone"
+    "Definition": "the way a person's life ended up, often badly"
   },
   "BOLD": {
-    "Definition": "not afraid of danger, brave"
+    "Definition": "brave and willing to take risks"
   },
   "TRAITOR": {
-    "Definition": "someone not loyal to his own country"
+    "Definition": "someone who acts against their own country or ruler"
   },
   "HUNG, DRAWN AND QUARTERED": {
-    "Definition": "hanged by the neck and had his body cut into pieces"
+    "Definition": "killed in a very cruel public way, with the body cut into four pieces"
   },
   "HUNG": {
-    "Definition": "killed by tying a rope around his head, attached from above and removing the support from beneath"
-  },
-  "#REF!": {
-    "Definition": "#REF!"
+    "Definition": "killed with a rope tied tightly around the neck"
   },
   "RESERVED": {
-    "Definition": "kept, intended"
+    "Definition": "kept or used only"
   },
   "TREASON": {
-    "Definition": "the crime of not being loyal to your own country"
+    "Definition": "acting against your own country or ruler"
   },
   "TRAITOR’S": {
-    "Definition": "of a person who is not loyal to his own country"
+    "Definition": "of someone who has acted against their own country or ruler"
   },
   "RESTORED": {
-    "Definition": "returned"
+    "Definition": "brought back"
   },
   "INSIGHT": {
-    "Definition": "deep understanding and knowledge"
+    "Definition": "deep understanding or knowledge"
   },
-  "THEY WERE IN IT": {
-    "Definition": "they participated in that activity"
+  "WERE IN IT FOR": {
+    "Definition": "did it to get"
   },
   "THRILL": {
-    "Definition": "excitement"
+    "Definition": "a feeling of great excitement"
   },
   "FOOTMAN": {
-    "Definition": "a foot soldier or guard"
+    "Definition": "a male servant who travelled with a rich person's carriage"
   },
   "FOOTMEN": {
-    "Definition": "foot soldiers or guards"
+    "Definition": "male servants who travelled with rich people's carriages"
   },
   "MUD": {
-    "Definition": "earth mixed with water"
+    "Definition": "wet, soft earth"
   },
   "HANDSOME": {
-    "Definition": "physically attractive"
+    "Definition": "good-looking"
   },
   "EXTENSION": {
-    "Definition": "someone who is representing someone"
+    "Definition": "an added part of something larger"
   },
   "REFLECTION": {
-    "Definition": "someone who expresses the characteristics of someone else"
+    "Definition": "something that shows what another thing is like"
   },
   "FASHIONABLE": {
-    "Definition": "dressing according to what was popular at the time"
+    "Definition": "stylish and well dressed"
   },
   "COURTEOUS": {
-    "Definition": "polite and having good manners"
+    "Definition": "showing good manners and respect"
   },
   "BEAR IN MIND": {
-    "Definition": "have in mind"
+    "Definition": "remember; consider"
   },
   "DEMANDING": {
-    "Definition": "asking for something without allowing refusal"
+    "Definition": "asking firmly for"
   },
   "GENEROUSLY": {
-    "Definition": "in a way that shows willingness to give money"
+    "Definition": "willingly and in a kind, giving way"
   },
   "EXHILARATING": {
-    "Definition": "very exciting"
+    "Definition": "very exciting and making you feel full of energy"
   },
   "CHARISMATIC": {
-    "Definition": "attractive and inspiring"
+    "Definition": "charming and attractive in a way that makes people admire them"
   },
   "HANGING": {
-    "Definition": "tying a rope around his head, attached from above and removing the support from beneath"
+    "Definition": "being killed with a rope tied tightly around the neck"
   },
   "TOMBSTONE": {
-    "Definition": "a stone used to mark a grave or the place where someone is buried"
+    "Definition": "a large flat piece of rock over a grave, with words about the dead person"
   },
   "REVEALING": {
-    "Definition": "making interesting information known"
+    "Definition": "giving a clear idea"
   },
   "PURSE": {
-    "Definition": "a small container or case for carrying money"
+    "Definition": "a small bag for carrying money"
   },
   "WALLET": {
-    "Definition": "a small container or case for carrying money"
+    "Definition": "a small flat case for carrying money and cards"
   },
   "RAPE": {
-    "Definition": "the act of forcing someone to have sex with them, using violence"
+    "Definition": "the crime of forcing someone to have sex"
   },
   "TERRORISED": {
-    "Definition": "made people feel extreme fear"
+    "Definition": "spread fear on, through violence and threats"
   },
   "ROMANTICISED": {
-    "Definition": "made them look better than they really were"
+    "Definition": "made seem more exciting and attractive than they really were"
   },
   "ALIBI": {
-    "Definition": "proof that he was not present at the place where the crime happened"
+    "Definition": "proof that he was somewhere else when a crime happened"
   },
   "DASHING": {
-    "Definition": "attractive, confident and stylish"
+    "Definition": "attractive, confident and exciting in a romantic way"
   },
   "RAPED": {
-    "Definition": "forced people to have sex with them, using violence"
+    "Definition": "forced someone to have sex"
   },
   "GLAMOROUS": {
-    "Definition": "attractive, beautiful in an exciting way"
+    "Definition": "exciting, attractive and full of style"
   },
   "SHRINK": {
     "Definition": "become smaller"
@@ -228,45 +225,42 @@
     "Definition": "producing a lot of money"
   },
   "NORMS": {
-    "Definition": "accepted standards of behaviour"
+    "Definition": "usual and accepted ways of behaving"
   },
   "ADHERE TO": {
-    "Definition": "obey or follow"
+    "Definition": "follow or obey"
   },
   "SLIP": {
-    "Definition": "move quietly and quickly"
+    "Definition": "go quietly without being noticed"
   },
   "MASK": {
-    "Definition": "a covering worn on the face to hide one's identity"
+    "Definition": "a covering for the face that hides who you are"
   },
   "COLD-BLOODED": {
-    "Definition": "without emotion or pity"
+    "Definition": "cruel and showing no feeling"
   },
   "WOUNDS": {
-    "Definition": "injuries made by a weapon"
+    "Definition": "injuries, especially cuts or holes in the body"
   },
   "MOUNTED": {
-    "Definition": "riding a horse"
+    "Definition": "riding on horses"
   },
   "PATROL": {
-    "Definition": "go around an area in order to secure it"
+    "Definition": "travel around regularly to keep safe"
   },
   "HORSEBACK": {
-    "Definition": "on a horse"
+    "Definition": "the top of an animal they rode"
   },
   "ISOLATED": {
-    "Definition": "far away from other places or people"
+    "Definition": "far from other places and people"
   },
   "DETERRENCE": {
-    "Definition": "something that made them afraid to do something"
+    "Definition": "a reason not to do something, because of fear of what will happen"
   },
   "ENDURED": {
-    "Definition": "lasted"
+    "Definition": "continued to exist for a long time"
   },
   "MISUNDERSTOOD": {
-    "Definition": "incorrectly understood"
-  },
-  "": {
-    "Definition": null
+    "Definition": "wrongly judged by others"
   }
 }
