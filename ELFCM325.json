@@ -1,113 +1,110 @@
 {
   "PARTIALLY": {
-    "Definition": "to a limited extent, not completely"
+    "Definition": "to some degree; not completely"
   },
   "SPECIFIC": {
-    "Definition": "particular, certain"
+    "Definition": "exact and clearly defined"
   },
   "TOPICS": {
-    "Definition": "subjects, themes"
+    "Definition": "subjects that people talk or write about"
   },
   "TOPIC": {
-    "Definition": "subject, theme"
+    "Definition": "subject for an episode"
   },
   "CRYPTIDS": {
-    "Definition": "animals that have been claimed to exist but never proven to exist"
+    "Definition": "creatures that some people believe in but science has never shown to be real"
   },
   "STOOD OUT": {
-    "Definition": "attracted my attention"
+    "Definition": "seemed more noticeable or interesting than the others"
   },
   "OUTLINE": {
-    "Definition": "general plan"
+    "Definition": "a basic plan showing the main points"
   },
   "ENCOURAGING": {
-    "Definition": "promising, positive"
+    "Definition": "positive and giving hope that things would go well"
   },
   "OUT LOUD": {
-    "Definition": "using the voice, not silently"
+    "Definition": "using the voice, so that people can hear it"
   },
   "TRIVIA": {
-    "Definition": "extra, not very important information"
+    "Definition": "small, unusual facts that are interesting but not important"
   },
   "COMPELLING": {
-    "Definition": "very interesting and attractive"
+    "Definition": "very interesting and hard to stop listening to"
   },
   "NARRATIVE": {
-    "Definition": "story, description"
+    "Definition": "a story or account of events"
   },
   "ON THIS COUNT": {
-    "Definition": "regarding this, as far as this is concerned"
+    "Definition": "in this respect; on this point"
   },
   "SECTION": {
-    "Definition": "part"
+    "Definition": "a separate part of the script"
   },
   "INCONSISTENCIES": {
-    "Definition": "instances or examples that did not agree with others"
+    "Definition": "details that did not fit together or match the facts"
   },
   "SCRIPTWRITERS": {
-    "Definition": "people who write stories for publishing"
+    "Definition": "people whose job is to produce the words spoken in shows, films or podcasts"
   },
   "ARCHIVES": {
-    "Definition": "collections of records"
+    "Definition": "stored collections of old records and documents"
   },
   "THOUGHT EXPERIMENT": {
-    "Definition": "an imagined situation that is used to show the result of a given matter"
+    "Definition": "an exercise in which you imagine a situation to explore an idea"
   },
   "HEART-BREAKING": {
-    "Definition": "making you feel sad and upset"
+    "Definition": "very sad; causing great emotional pain"
   },
   "DUPED": {
-    "Definition": "misled, deceived"
+    "Definition": "deceived or fooled"
   },
   "IN LARGE PART": {
-    "Definition": "mostly"
+    "Definition": "mostly; mainly"
   },
   "ETHICAL": {
-    "Definition": "involving consideration of what is right and what is wrong"
+    "Definition": "morally right and fair to people"
   },
   "HANDMADE": {
-    "Definition": "made using the hands"
+    "Definition": "produced by people, not by machines"
   },
   "INTRICATE": {
-    "Definition": "complicated, very detailed"
+    "Definition": "very detailed, with many small parts or steps"
   },
   "CRAFTING": {
-    "Definition": "making (by hand)"
+    "Definition": "carefully and skilfully making"
   },
   "FLOOD": {
-    "Definition": "very large amount of"
+    "Definition": "a very large number that appear at the same time"
   },
   "PROMPTS": {
-    "Definition": "information or messages given to a computer"
+    "Definition": "instructions or questions typed in to tell the AI what to produce"
   },
   "CLICHE": {
-    "Definition": "a saying that is very often used"
+    "Definition": "a phrase that has been used so often that it is no longer original"
   },
   "GAME CHANGER": {
-    "Definition": "something that changes the course of things"
+    "Definition": "something that completely changes the way things are done"
   },
   "SORROW": {
-    "Definition": "sadness"
+    "Definition": "sadness or regret"
   },
   "GENERIC": {
-    "Definition": "general, common"
+    "Definition": "ordinary and not special or original"
   },
   "SCORED": {
-    "Definition": "achieved a goal or point in a game"
+    "Definition": "got a goal or point in the game"
   },
   "AS OF YET": {
-    "Definition": "up to now"
+    "Definition": "so far; until now"
   },
   "THE PRESERVE OF": {
-    "Definition": "activity that is done only by them"
+    "Definition": "something that only belongs to or is done by"
   },
   "COLUMNIST": {
-    "Definition": "a journalist writing regularly for a newspaper or magazine"
+    "Definition": "a journalist who regularly writes an opinion article for a newspaper or magazine"
   },
   "CODED": {
-    "Definition": "expressed in an indirect way"
-  },
-  "": {
-    "Definition": null
+    "Definition": "secret, with a hidden meaning"
   }
 }
