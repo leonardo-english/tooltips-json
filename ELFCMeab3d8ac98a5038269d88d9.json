@@ -1,128 +1,128 @@
 {
-  "BACK": {
-    "Definition": "ago, in the past"
-  },
-  "BUILDING BLOCKS": {
-    "Definition": "the foundations, the pieces that something is built on"
-  },
-  "CEMENT": {
-    "Definition": "to make something such as an agreement or friendship stronger"
-  },
-  "CHUNK": {
-    "Definition": "large piece"
-  },
-  "DAY-TO-DAY": {
-    "Definition": "happening every day as a regular part of your job or life"
-  },
-  "DECEPTIVE": {
-    "Definition": "making you believe something that is not true"
-  },
-  "DON'T GET ME WRONG": {
-    "Definition": "said when you think someone might not understand what you say, or be upset by it"
-  },
-  "EITHER OR": {
-    "Definition": "used to refer to a situation in which there is a choice between two different plans of action, but both together are not possible"
-  },
-  "FALLS SHORT": {
-    "Definition": "doesn't meet expectations or requirements"
-  },
-  "FIRE AWAY": {
-    "Definition": "used to tell someone they may begin asking questions"
-  },
-  "FLOW": {
-    "Definition": "a situation in which something is continuously moving, a state of concentration"
-  },
-  "FOR THAT MATTER": {
-    "Definition": "used to show that a statement is true in another situation, e.g. Ming's never been to Spain, or to any European country for that matter"
-  },
-  "IMMERSION": {
-    "Definition": "to become completely involved in something"
-  },
-  "IN ONE": {
-    "Definition": "together, in a pair"
-  },
   "INAUGURAL": {
-    "Definition": "an inaugural event is the first in a series of planned events"
-  },
-  "IPA": {
-    "Definition": "abbreviation for the International Phonetic Alphabet: a system of symbols for showing how words are pronounced"
-  },
-  "JOT DOWN": {
-    "Definition": "to write something"
-  },
-  "LAST RESORT": {
-    "Definition": "used for talking about something that you only think of doing or using if all other methods fail"
-  },
-  "LEXICON": {
-    "Definition": "(a list of) all the words used in a particular language or subject, or a dictionary"
-  },
-  "LONG STORY SHORT": {
-    "Definition": "used when you do not tell all the details"
-  },
-  "LONG TERM": {
-    "Definition": "continuing a long time into the future"
-  },
-  "MEANINGFUL": {
-    "Definition": "useful, serious, or important"
-  },
-  "NET": {
-    "Definition": "overall, on balance"
-  },
-  "ON ONE LEVEL": {
-    "Definition": "something that you say when you are speaking about two opposite ways of thinking about or reacting to a situation"
-  },
-  "ON THAT FRONT": {
-    "Definition": "in that respect"
+    "Definition": "first in a new series"
   },
   "ONGOING": {
-    "Definition": "continuing to exist or develop, or happening at the present moment"
+    "Definition": "continuing; still happening now"
   },
-  "OUT AND ABOUT": {
-    "Definition": "away from your home"
-  },
-  "POLYGLOT": {
-    "Definition": "someone who can speak multiple languages"
-  },
-  "POLYGLOTS": {
-    "Definition": "someone who can speak multiple languages"
-  },
-  "RECALL": {
-    "Definition": "remember"
-  },
-  "SPELLED OUT": {
-    "Definition": "to explain the spelling letter by letter or to explain something in a very clear way with details"
-  },
-  "STANDALONE": {
-    "Definition": "unique, separate"
-  },
-  "STUCK IN THEIR WAYS": {
-    "Definition": "completely unwilling to change one's ways of doing or thinking about things"
-  },
-  "SUBSTITUTE": {
-    "Definition": "replacement"
-  },
-  "SUFFICIENTLY": {
-    "Definition": "enough"
-  },
-  "SYNONYMS": {
-    "Definition": "a word or phrase that has the same or nearly the same meaning as another word or phrase in the same language"
-  },
-  "TAKE IT WITH A PINCH OF SALT": {
-    "Definition": "to not completely believe something that you are told"
-  },
-  "TARGET": {
-    "Definition": "the target language is the language you are learning"
-  },
-  "THERE AND THEN": {
-    "Definition": "immediately"
-  },
-  "TIME-CONSUMING": {
-    "Definition": "something that takes a lot of time to do"
+  "FOR THAT MATTER": {
+    "Definition": "as well; the same is true of that too"
   },
   "TOOLKIT": {
-    "Definition": "a personal set of resources, abilities, or skills"
+    "Definition": "a set of methods and resources that you use for a purpose"
+  },
+  "ON THAT FRONT": {
+    "Definition": "about that subject"
+  },
+  "ON ONE LEVEL": {
+    "Definition": "looking at it in a simple way"
+  },
+  "OUT AND ABOUT": {
+    "Definition": "away from home, going to different places"
+  },
+  "STUCK IN THEIR WAYS": {
+    "Definition": "unwilling to change how they do or think about things"
+  },
+  "TARGET": {
+    "Definition": "that you are trying to learn"
+  },
+  "IMMERSION": {
+    "Definition": "being completely surrounded by a language and using it all the time"
+  },
+  "TIME-CONSUMING": {
+    "Definition": "taking a lot of time"
+  },
+  "FLOW": {
+    "Definition": "smooth and steady progress"
+  },
+  "POLYGLOT": {
+    "Definition": "a person who can speak many languages"
+  },
+  "MEANINGFUL": {
+    "Definition": "interesting and of real value to the person"
+  },
+  "NET": {
+    "Definition": "overall, after good and bad points are added together"
+  },
+  "EITHER OR": {
+    "Definition": "where you must choose only one of two options"
+  },
+  "SUFFICIENTLY": {
+    "Definition": "enough; to the level that is needed"
+  },
+  "THERE AND THEN": {
+    "Definition": "immediately, at that exact moment"
+  },
+  "CEMENT": {
+    "Definition": "fix firmly"
+  },
+  "RECALL": {
+    "Definition": "bring back into the mind; remember"
+  },
+  "LONG TERM": {
+    "Definition": "planned for a long time into the future"
+  },
+  "BACK": {
+    "Definition": "ago; earlier"
+  },
+  "LAST RESORT": {
+    "Definition": "the final option, used only when nothing else has worked"
+  },
+  "STANDALONE": {
+    "Definition": "complete on its own; not part of something else"
+  },
+  "POLYGLOTS": {
+    "Definition": "people who can speak many languages"
+  },
+  "LEXICON": {
+    "Definition": "the range of words that you know"
+  },
+  "JOT DOWN": {
+    "Definition": "write quickly, in a short form"
+  },
+  "SPELLED OUT": {
+    "Definition": "said one letter at a time"
+  },
+  "IPA": {
+    "Definition": "a standard system of symbols that shows how words are pronounced"
+  },
+  "DAY-TO-DAY": {
+    "Definition": "ordinary and happening every day"
+  },
+  "DECEPTIVE": {
+    "Definition": "likely to give a wrong idea"
   },
   "TRICKY": {
-    "Definition": "If a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill"
+    "Definition": "difficult and needing care"
+  },
+  "DON'T GET ME WRONG": {
+    "Definition": "do not misunderstand what I mean"
+  },
+  "SUBSTITUTE": {
+    "Definition": "something that can take the place of something else"
+  },
+  "FALLS SHORT": {
+    "Definition": "fails to be good enough"
+  },
+  "LONG STORY SHORT": {
+    "Definition": "to say it briefly; in summary"
+  },
+  "IN ONE": {
+    "Definition": "together in a single thing"
+  },
+  "SYNONYMS": {
+    "Definition": "words with the same or nearly the same meaning as another word"
+  },
+  "TAKE IT WITH A PINCH OF SALT": {
+    "Definition": "be careful about believing it completely"
+  },
+  "BUILDING BLOCKS": {
+    "Definition": "the basic parts that something larger is made from"
+  },
+  "CHUNK": {
+    "Definition": "a fairly large amount"
+  },
+  "FIRE AWAY": {
+    "Definition": "go ahead and ask your questions"
   }
 }
