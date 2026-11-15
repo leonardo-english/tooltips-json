@@ -1,197 +1,194 @@
 {
   "FUNDAMENTALLY": {
-    "Definition": "basically"
+    "Definition": "in a basic and very important way"
   },
   "REJOICE": {
-    "Definition": "feel joy or happiness"
+    "Definition": "feel and show great happiness"
   },
   "ACCENT": {
-    "Definition": "the way in which people in a particular country pronounce words"
+    "Definition": "a way of pronouncing words that shows where someone is from"
   },
   "BIASED": {
-    "Definition": "showing an unreasonable like or dislike for something due to personal reasons"
+    "Definition": "favouring one side over another"
   },
   "UNFAIR": {
-    "Definition": "not right or just"
+    "Definition": "not treating all sides equally or honestly"
   },
   "OUTSIDER": {
-    "Definition": "a person who doesn't belong to a particular group"
+    "Definition": "a person who is not part of a particular group or country"
   },
   "LENS": {
-    "Definition": "point of view or filter"
+    "Definition": "a way of looking at or thinking about something"
   },
   "THEME": {
-    "Definition": "an idea that appears again and again"
+    "Definition": "an idea or pattern that appears again and again"
   },
   "EQUIVALENT": {
-    "Definition": "something that has the same meaning as something mentioned before"
+    "Definition": "a thing that has the same role or purpose in another place"
   },
   "GUIDING": {
-    "Definition": "showing the way"
+    "Definition": "showing others the right direction"
   },
   "TENDENCY": {
-    "Definition": "something that happens often"
+    "Definition": "a way of behaving that is common or likely"
   },
   "TENUOUS": {
-    "Definition": "weak"
+    "Definition": "weak and not very convincing"
   },
   "DEMOGRAPHIC": {
-    "Definition": "relating to the population"
+    "Definition": "relating to population groups such as age, race or income"
   },
   "ABSOLUTE": {
-    "Definition": "certain, undoubted"
+    "Definition": "complete and total, without any doubt"
   },
   "INVERSE": {
-    "Definition": "opposite in effect"
+    "Definition": "opposite, so that as one increases, the other decreases"
   },
   "UNDENIABLE": {
-    "Definition": "certainly true"
+    "Definition": "certainly true; impossible to argue against"
   },
   "PATRIOTIC": {
-    "Definition": "feeling and showing love and loyalty to their country"
+    "Definition": "showing great love for and pride in their country"
   },
   "CHECKS AND BALANCES": {
-    "Definition": "a political system that makes sure that the power is equally shared among different groups of the government"
+    "Definition": "rules that stop any one part of government from having too much power"
   },
   "EMBRACED": {
-    "Definition": "accepted and supported"
+    "Definition": "accepted and supported with enthusiasm"
   },
   "EMBRACING": {
-    "Definition": "accepting and supporting"
+    "Definition": "welcoming and accepting towards"
   },
   "UNUSUAL": {
-    "Definition": "not typical or ordinary"
+    "Definition": "not normal or common"
   },
   "FACTORS": {
-    "Definition": "facts that influence the result of something"
+    "Definition": "things that help to cause a particular result"
   },
   "SUPERIOR": {
-    "Definition": "better"
+    "Definition": "better than others"
   },
   "REITERATED": {
-    "Definition": "repeated"
+    "Definition": "said again several times"
   },
   "INDISPENSABLE": {
-    "Definition": "something that you cannot do without"
+    "Definition": "absolutely necessary; impossible to manage without"
   },
   "INTERVENING": {
-    "Definition": "being involved"
+    "Definition": "getting involved in a situation in order to change or influence it"
   },
   "QUINTESSENTIALLY": {
-    "Definition": "typically"
+    "Definition": "perfectly and typically"
   },
   "COINING": {
-    "Definition": "invention or creation"
+    "Definition": "first creating and using"
   },
   "REJECTED": {
     "Definition": "refused to accept"
   },
   "ARISTOCRATIC": {
-    "Definition": "relating to the high society class"
+    "Definition": "belonging to the highest social class, usually by birth"
   },
   "HIERARCHY": {
-    "Definition": "a system in which people are ranked according to their importance"
+    "Definition": "a system in which people are ranked by importance or power"
   },
   "NOVEL": {
-    "Definition": "new and not typical"
+    "Definition": "new and unusual"
   },
-  "PUBLICITY": {
-    "Definition": "made to attract public attention"
-  },
-  "STUNT": {
-    "Definition": "something exciting that is done to attract attention"
+  "PUBLICITY STUNT": {
+    "Definition": "an unusual action planned to get public attention"
   },
   "DOMESTIC": {
-    "Definition": "relating to a person's own country"
+    "Definition": "within the country; not from abroad"
   },
   "RIDICULE": {
-    "Definition": "the act of making fun of something or someone"
+    "Definition": "unkind laughing and jokes"
   },
   "HURLED": {
-    "Definition": "thrown in an intense way"
+    "Definition": "said angrily and forcefully"
   },
   "PATRIOT": {
-    "Definition": "a person who loves and is loyal to his country"
+    "Definition": "a person who loves their country and is proud of it"
   },
   "SCEPTICAL": {
-    "Definition": "having doubts"
+    "Definition": "doubtful and suspicious"
   },
   "EXTRAORDINARY": {
-    "Definition": "beyond what is usual, not regular"
+    "Definition": "very unusual and surprising"
   },
   "IDEALS": {
-    "Definition": "higher standards of living and behaving"
+    "Definition": "principles or standards of how things should be"
   },
   "PATRIOTISM": {
-    "Definition": "the quality of feeling and showing love and loyalty to their country"
+    "Definition": "love for and pride in one's country"
   },
   "BOTHERED": {
-    "Definition": "worried"
+    "Definition": "worried or upset"
   },
   "SUBSEQUENT": {
-    "Definition": "following"
+    "Definition": "coming after something else, as a result of it"
   },
-  "HEAD AND SHOULDERS": {
-    "Definition": "much, by far"
+  "HEAD AND SHOULDERS ABOVE": {
+    "Definition": "much better than"
   },
   "GO BANKRUPT": {
-    "Definition": "are unable to pay their debts"
+    "Definition": "lose all their money and become unable to pay their debts"
   },
   "MYTH": {
-    "Definition": "something that is believed by many but it's not true"
+    "Definition": "a widely believed idea or story that may not be true"
   },
   "RECITE": {
-    "Definition": "say from memory"
+    "Definition": "say aloud from memory"
   },
-  "PLEDGE": {
-    "Definition": "a formal promise"
+  "PLEDGE OF ALLEGIANCE": {
+    "Definition": "a formal promise of loyalty to the US flag and nation"
   },
-  "ALLEGIANCE": {
-    "Definition": "loyalty and support"
+  "PLEDGE ALLEGIANCE": {
+    "Definition": "formally promise to be loyal"
   },
   "INDIVISIBLE": {
-    "Definition": "not able to be divided or separated"
+    "Definition": "unable to be divided or separated"
+  },
+  "PLEDGE": {
+    "Definition": "the formal promise of loyalty that schoolchildren say every day"
   },
   "UPROAR": {
-    "Definition": "an angry, public expression of disapproval"
+    "Definition": "a lot of public anger and loud complaint"
   },
   "IN SOLIDARITY WITH": {
-    "Definition": "united behind a common goal"
+    "Definition": "to show support for and unity with"
   },
   "BANNED": {
-    "Definition": "not to be allowed to take part in the games"
+    "Definition": "officially not allowed to take part"
   },
   "KICKED OFF": {
-    "Definition": "sent away from"
+    "Definition": "forced to leave"
   },
   "DISRESPECTING": {
-    "Definition": "not showing respect"
+    "Definition": "rudely failing to honour"
   },
   "DIVINE": {
-    "Definition": "connected with or coming from God"
+    "Definition": "coming from God"
   },
   "PATRIOTS": {
-    "Definition": "people who feel and show love and loyalty to their country"
+    "Definition": "people who love their country and are proud of it"
   },
   "RENEWED": {
-    "Definition": "starting again"
+    "Definition": "restarted and made stronger"
   },
   "EMBRACE": {
-    "Definition": "accept and support"
+    "Definition": "accept and adopt with enthusiasm"
   },
   "ADMIRABLE": {
-    "Definition": "deserving respect"
+    "Definition": "deserving praise and approval"
   },
   "SUPERIORITY": {
-    "Definition": "the fact of being better"
+    "Definition": "the quality of being better than others"
   },
   "SELF-BELIEF": {
-    "Definition": "the fact of believing in themselves"
+    "Definition": "confidence in your own abilities"
   },
   "SCRATCHED THE SURFACE": {
-    "Definition": "dealt with only a small part of the subject"
-  },
-  "": {
-    "Definition": null
+    "Definition": "dealt with a small part of the subject"
   }
 }
