@@ -1,335 +1,332 @@
 {
   "ENGAGED": {
-    "Definition": "involved"
+    "Definition": "involved; taking part"
   },
   "LIFE-LONG": {
-    "Definition": "lasting for the whole of a person's life"
+    "Definition": "continuing until the very end of your days"
   },
   "BATTLE": {
-    "Definition": "fight, struggle"
+    "Definition": "a long, hard struggle"
   },
   "LOVE-HATE RELATIONSHIP": {
-    "Definition": "relationship that involves strong feelings of both love and hatred"
+    "Definition": "a mix of strong liking and strong dislike towards something"
   },
   "TONES": {
-    "Definition": "degrees of highness and lowness at which a syllable may be pronounced"
+    "Definition": "rises and falls in the voice that give a word a different meaning"
   },
   "ENCOUNTER": {
-    "Definition": "meet, come across"
+    "Definition": "come across or meet"
   },
   "LOGIC": {
-    "Definition": "way of thinking"
+    "Definition": "a sensible pattern or set of reasons"
   },
   "CHAOS": {
-    "Definition": "a state of confusion"
+    "Definition": "complete disorder and confusion"
   },
   "HOMOPHONES": {
-    "Definition": "words that are pronounced the same way but have different spelling and meaning"
+    "Definition": "words that sound the same but have different spellings and meanings"
   },
   "HOMONYMS": {
-    "Definition": "words that sound or are spelled the same way but have different meaning"
+    "Definition": "words that are spelt and pronounced the same but have different meanings"
   },
   "HOMOGRAPHS": {
-    "Definition": "words that are spelled the same way but have different pronunciation and meaning"
+    "Definition": "words written alike but with different sounds and meanings"
   },
   "LONELY NEGATIVES": {
-    "Definition": "words in English where there is only a negative word and the positive version either has never existed or has simply died or disappeared because people stopped using them"
+    "Definition": "words with a 'not' meaning that have no positive form in use"
   },
   "IDIOMS": {
-    "Definition": "expressions whose meaning is not predictable from the usual grammatical rules of a language or from the usual meanings of its elements"
+    "Definition": "fixed expressions whose meaning is different from the meanings of the separate words"
   },
   "PHRASAL VERBS": {
-    "Definition": "a verb-phrase that consists of a verb and one or two more elements whose meaning is tied to each particular combination"
+    "Definition": "word groups like 'give up' or 'take on' that act as one action word"
   },
   "TAKING ON": {
-    "Definition": "starting to do"
+    "Definition": "deciding to do and deal with"
   },
-  "WHISTLESTOP": {
-    "Definition": "quick trip with short stopovers"
+  "WHISTLESTOP TOUR": {
+    "Definition": "a very quick visit to many places or topics, stopping only briefly at each"
   },
   "HYBRID": {
-    "Definition": "involving different kinds of things or elements"
+    "Definition": "mixed; made from different parts"
   },
   "MONGREL": {
-    "Definition": "of mixed characteristics"
+    "Definition": "mixed from many different sources, like a dog of mixed breeds"
   },
   "UNDISCERNING": {
-    "Definition": "without judgement"
+    "Definition": "not able or not willing to judge what is good"
   },
   "UNDISCRIMINATING": {
-    "Definition": "without good judgement"
+    "Definition": "accepting everything without choosing carefully"
   },
   "APPETITE": {
-    "Definition": "desire to eat"
+    "Definition": "desire for food"
   },
   "CONSUMED": {
-    "Definition": "eaten"
+    "Definition": "eaten or used up"
   },
   "BORROW": {
-    "Definition": "take and use, take on"
+    "Definition": "take and use as its own"
   },
   "GOBBLES": {
-    "Definition": "eats it fast"
+    "Definition": "eats quickly and greedily"
   },
   "SWALLOWS": {
-    "Definition": "allows it to pass through the throat"
+    "Definition": "makes food go down its throat; takes in"
   },
   "ADOPTING": {
-    "Definition": "choosing to take and use"
+    "Definition": "taking and starting to use as its own"
   },
   "ABANDONING": {
-    "Definition": "leaving behind"
+    "Definition": "leaving behind; no longer using"
   },
   "VORACIOUS": {
-    "Definition": "very eager to eat food"
+    "Definition": "wanting or eating very large amounts"
   },
   "CENTRAL BODY": {
-    "Definition": "central authority"
+    "Definition": "a single official organisation in charge"
   },
   "RAMPAGING": {
-    "Definition": "moving through places in an uncontrollable manner"
+    "Definition": "running around wildly and causing damage"
   },
   "MUTATING": {
-    "Definition": "developing new characteristics, changing"
+    "Definition": "changing its form"
   },
   "BASIS": {
-    "Definition": "starting point, base"
+    "Definition": "the foundation; the starting point"
   },
   "TRIBES": {
-    "Definition": "groups of people with similar ethnic characteristics"
+    "Definition": "groups of people who share the same culture, language and leaders"
   },
   "SETTLING": {
-    "Definition": "making their home"
+    "Definition": "starting to live permanently"
   },
   "INFUSION": {
-    "Definition": "introduction"
+    "Definition": "a large amount of something new being added"
   },
   "FORMATIVE": {
-    "Definition": "relating to the time when it started to develop"
+    "Definition": "having a strong effect on how something develops"
   },
   "SCRIPTS": {
-    "Definition": "handwritings"
+    "Definition": "handwritten texts or documents"
   },
   "SCRIBES": {
-    "Definition": "people who copied out documents"
+    "Definition": "people whose job was to copy documents by hand"
   },
   "DOWNWARD": {
-    "Definition": "moving towards a lower position"
+    "Definition": "going from top to bottom"
   },
   "STROKE": {
-    "Definition": "a mark towards one direction across paper"
+    "Definition": "a single line made by one movement"
   },
   "STROKES": {
-    "Definition": "marks towards one direction across paper"
+    "Definition": "single lines, each made by one movement"
   },
   "SPELT": {
-    "Definition": "written"
+    "Definition": "written with its letters in a particular order"
   },
   "TYPESETTERS": {
-    "Definition": "people who set type or the letters which were used in printing, printers"
+    "Definition": "people who arranged the metal letters used for printing"
   },
   "IN KEEPING WITH": {
-    "Definition": "in accordance or harmony with"
+    "Definition": "matching; suitable for"
   },
   "HARSHER": {
-    "Definition": "rougher, less smooth"
+    "Definition": "rougher and less pleasant to hear"
   },
   "CONSONANTS": {
-    "Definition": "letters whose sound is produced by blocking the flow of the air from the lungs (B, C, D, F, G, J, K, L, M, N, P, Q, S, T, V, X, Z and often H, R, W, Y)"
+    "Definition": "speech sounds such as b, k or t that are not vowels"
   },
   "TYPE SETTERS": {
-    "Definition": "people who set type or the letters which were used in printing, printers"
+    "Definition": "people who arranged the metal letters used for printing"
   },
   "PICKLED": {
-    "Definition": "put in vinegar"
+    "Definition": "kept in vinegar or salt water so that it lasts longer"
   },
   "SLICED": {
-    "Definition": "cut"
+    "Definition": "cut into thin flat pieces"
   },
   "SNOBBERY": {
-    "Definition": "the act of not showing respect to people of lower social status"
+    "Definition": "the attitude of thinking you are better than other people"
   },
   "ARROGANCE": {
-    "Definition": "the state of feeling too proud and thinking you are more important than other people"
+    "Definition": "the feeling of being more important than other people"
   },
   "PLAYED A PART": {
-    "Definition": "were involved, had an effect on it"
+    "Definition": "was one of the causes; had an effect"
   },
   "ANCESTRY": {
-    "Definition": "origin or background"
+    "Definition": "origins; the history of where something comes from"
   },
   "PEDIGREE": {
-    "Definition": "history or origin"
+    "Definition": "a respected line of origin"
   },
   "HOMOPHONE": {
-    "Definition": "a word that is pronounced the same way as another one but has different spelling and meaning"
+    "Definition": "a word that sounds the same as another but has a different spelling and meaning"
   },
   "SHEER": {
-    "Definition": "very large"
+    "Definition": "very great; used to stress how large something is"
   },
   "FORK": {
-    "Definition": "a small object with pointed parts used for eating"
+    "Definition": "a tool with points, used for eating food"
   },
   "HANDLES": {
-    "Definition": "the parts of it that are designed for holding"
+    "Definition": "the parts of objects that you hold in your hand"
   },
   "FORKS": {
-    "Definition": "small objects with pointed parts used for eating"
+    "Definition": "tools with points, used for eating food"
   },
   "HOMOGRAPH": {
-    "Definition": "a word that is spelled the same way but have different pronunciation and meaning"
+    "Definition": "a word written like another but with a different sound and meaning"
   },
   "SEW": {
-    "Definition": "repair clothes by putting thread with a needle"
+    "Definition": "make or repair clothes using a needle and thread"
   },
   "TONNES": {
-    "Definition": "a great number of"
+    "Definition": "a very large number"
   },
   "DATING SITE": {
-    "Definition": "a site people use to find and introduce themselves to other people with the goal of developing some kind of romantic relationship"
+    "Definition": "a website where people look for a romantic partner"
   },
   "LACK OF USE": {
-    "Definition": "because people stopped using them"
+    "Definition": "people no longer saying or writing them"
   },
   "APPROVE": {
-    "Definition": "to have a positive opinion about something"
+    "Definition": "think something is good or right"
   },
   "DISAPPROVE": {
-    "Definition": "to have a negative opinion about something"
+    "Definition": "think something is bad or wrong"
   },
   "RESIDENT": {
-    "Definition": "a person who lives in a place"
+    "Definition": "a person who lives in a particular place"
   },
   "NONRESIDENT": {
-    "Definition": "a person who doesn't live in a place"
+    "Definition": "a person who does not live in a particular place"
   },
   "EQUAL": {
-    "Definition": "having the same quality or value"
+    "Definition": "the same in size, amount or value"
   },
   "UNEQUAL": {
-    "Definition": "having different quality or value"
+    "Definition": "not the same in size, amount or value"
   },
   "PLAUSIBLE": {
-    "Definition": "likely to be true"
+    "Definition": "seeming likely to be true"
   },
   "IMPLAUSIBLE": {
-    "Definition": "difficult to believe"
+    "Definition": "seeming unlikely to be true"
   },
   "USEFUL": {
-    "Definition": "effective, helpful"
+    "Definition": "helpful; good for doing something"
   },
   "USELESS": {
-    "Definition": "of no use, not working"
+    "Definition": "of no help or value at all"
   },
   "DISHEVELLED": {
-    "Definition": "untidy, messy"
+    "Definition": "untidy in appearance, especially hair and clothes"
   },
   "NONCHALANTLY": {
-    "Definition": "in a calm and relaxed manner"
+    "Definition": "in a calm, relaxed way, as if not worried"
   },
   "UNWIELDY": {
-    "Definition": "difficult to move because of its size or weight"
+    "Definition": "difficult to carry or control because it is large or heavy"
   },
   "UNKEMPT": {
-    "Definition": "not arranged in order, untidy, messy"
+    "Definition": "untidy and not well cared for, especially hair"
   },
   "DISGRUNTLED": {
-    "Definition": "unhappy and annoyed"
+    "Definition": "annoyed and unhappy"
   },
   "MANNERS": {
-    "Definition": "ways of behaving"
+    "Definition": "ways of behaving politely towards others"
   },
   "IMPECCABLE": {
-    "Definition": "perfect, flawless"
+    "Definition": "perfect; without any faults"
   },
   "WILL": {
-    "Definition": "desire"
+    "Definition": "strong desire and determination"
   },
   "RUTHLESS": {
-    "Definition": "not worrying about any pain caused to others"
+    "Definition": "hard and without pity for others"
   },
   "EQUIVALENT": {
-    "Definition": "equal in meaning"
+    "Definition": "matching; having the same value or meaning"
   },
   "NEAT": {
-    "Definition": "tidy, with everything in place"
+    "Definition": "tidy and in good order"
   },
   "WELL TURNED OUT": {
-    "Definition": "very well dressed"
+    "Definition": "dressed smartly and looking clean"
   },
   "UNTIDY": {
-    "Definition": "not arranged in order, messy"
+    "Definition": "disordered; not well arranged"
   },
   "MESSY": {
-    "Definition": "not arranged in order, untidy and dirty"
+    "Definition": "not tidy; dirty or disordered"
   },
   "WELL-COMBED": {
-    "Definition": "having been well arranged using a comb"
+    "Definition": "with hair carefully brushed into place"
   },
   "ANNOYANCE": {
-    "Definition": "the feeling of being a little bit angry, irritation"
+    "Definition": "something that bothers you"
   },
   "GRUNTLED": {
-    "Definition": "pleased, satisfied"
+    "Definition": "in a bad mood; easily made angry"
   },
   "BAD-TEMPERED": {
-    "Definition": "behaving in an angry way and annoyed easily"
+    "Definition": "easily made angry; in a bad mood"
   },
   "GRUMPY": {
-    "Definition": "a little bit angry and complaining"
+    "Definition": "in a bad mood and complaining"
   },
   "ANNOYED": {
-    "Definition": "a little bit angry, irritated"
+    "Definition": "slightly angry"
   },
   "EMBARRASSMENT": {
-    "Definition": "the shame someone feels about themselves when something bad they have done becomes known"
+    "Definition": "the feeling of being uncomfortable or ashamed in front of others"
   },
   "GETTING AROUND": {
-    "Definition": "ignoring"
+    "Definition": "avoiding; escaping"
   },
   "RELIANT": {
-    "Definition": "dependant"
+    "Definition": "dependent; needing something in order to manage"
   },
   "FRUSTRATED": {
-    "Definition": "annoyed and disappointed"
+    "Definition": "upset or annoyed because you cannot do or change something"
   },
   "TAKE HEART": {
-    "Definition": "gain courage and confidence"
+    "Definition": "feel encouraged"
   },
   "TAKE COMFORT": {
-    "Definition": "feel less worried"
+    "Definition": "feel less worried or sad"
   },
   "STRUGGLING": {
-    "Definition": "having difficulties"
+    "Definition": "trying hard to deal with something difficult"
   },
   "COUGH": {
-    "Definition": "to force air out of you through your throat with a short loud sound"
+    "Definition": "a sudden noisy push of air out of the throat"
   },
   "HICCOUGH": {
-    "Definition": "a loud repeated noise that one makes in the throat without wanting to"
+    "Definition": "a sudden sound from the throat that you cannot stop, often after eating quickly"
   },
   "ROUGH": {
-    "Definition": "not even or smooth"
+    "Definition": "not smooth; uneven"
   },
   "PLOUGH": {
-    "Definition": "a large farming tool used for planting seeds into the earth"
+    "Definition": "a farm tool for turning over soil before planting"
   },
   "LOUGH": {
-    "Definition": "a lake"
+    "Definition": "a lake or narrow arm of the sea in Ireland"
   },
   "THOUGH": {
-    "Definition": "despite the fact that"
+    "Definition": "despite this; however"
   },
   "THROUGH": {
-    "Definition": "from one side to the other"
+    "Definition": "from one side or end to the other"
   },
   "GETTING WORKED UP": {
-    "Definition": "getting upset"
+    "Definition": "becoming upset, angry or anxious"
   },
   "EMBRACE": {
-    "Definition": "accept something willingly or enthusiastically"
-  },
-  "": {
-    "Definition": null
+    "Definition": "accept happily"
   }
 }
