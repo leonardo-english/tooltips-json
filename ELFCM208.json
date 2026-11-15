@@ -1,344 +1,341 @@
 {
   "ICONIC": {
-    "Definition": "very famous and representative of its type"
+    "Definition": "very famous and seen as a symbol of something"
   },
   "FRANCHISE": {
-    "Definition": "a title used for marketing a series of films or tv shows"
+    "Definition": "a series of films, books and products based on the same characters"
   },
   "DEGREES": {
-    "Definition": "levels"
+    "Definition": "levels or amounts"
   },
   "CERTAIN": {
     "Definition": "particular"
   },
   "SMART": {
-    "Definition": "well-dressed but not too formal"
+    "Definition": "neat, stylish and well made"
   },
   "TUXEDO": {
-    "Definition": "a man's semi-formal jacket"
+    "Definition": "a formal black suit worn by men at evening events"
   },
   "SEDUCE": {
-    "Definition": "attract"
+    "Definition": "attract and persuade into a romantic or sexual relationship"
   },
   "UNDOUBTEDLY": {
-    "Definition": "without doubt, certainly"
+    "Definition": "certainly; without question"
   },
   "RUGGED": {
-    "Definition": "having attractively strong features"
+    "Definition": "strong and tough-looking in an attractive way"
   },
   "ROUGH": {
-    "Definition": "having strong and not smooth features"
+    "Definition": "hard and tough, not smooth or gentle"
   },
   "QUINTESSENTIAL": {
-    "Definition": "representing the most typical features of"
+    "Definition": "perfectly typical"
   },
   "UPPER-CLASS": {
-    "Definition": "belonging to the highest social class"
+    "Definition": "belonging to the highest social group"
   },
   "COUNTLESS": {
-    "Definition": "too many to count"
+    "Definition": "very many"
   },
   "LONGED": {
-    "Definition": "had a deep desire"
+    "Definition": "wanted very much"
   },
   "HIT": {
-    "Definition": "successful product"
+    "Definition": "a big success"
   },
   "PSEUDONYM": {
-    "Definition": "a name someone uses instead of their real name"
+    "Definition": "a false name used instead of his real one"
   },
   "PEN NAME": {
-    "Definition": "a name a writer uses instead of their real name when publishing books"
+    "Definition": "an invented identity that an author publishes under"
   },
   "AVOID": {
-    "Definition": "stay away from"
+    "Definition": "prevent; stop from happening"
   },
   "EMBARRASSMENT": {
-    "Definition": "a feeling of shame"
+    "Definition": "a feeling of shame or awkwardness in front of others"
   },
   "INTERVENTION": {
-    "Definition": "involvement, interference"
+    "Definition": "involvement in order to help or change a situation"
   },
   "PRINT RUNS": {
-    "Definition": "number of copies printed at one time"
+    "Definition": "batches of copies of a book produced at one time"
   },
   "EVIDENT": {
-    "Definition": "easily seen"
+    "Definition": "clear; obvious"
   },
   "WAS ON TO": {
-    "Definition": "was doing something important"
+    "Definition": "had found the beginnings of"
   },
   "PROTAGONIST": {
     "Definition": "the main character"
   },
   "EXOTIC": {
-    "Definition": "unusual and exciting"
+    "Definition": "unusual and exciting, often from faraway places"
   },
   "ANONYMOUS": {
-    "Definition": "having no name"
+    "Definition": "having no clear identity; not easily noticed"
   },
-  "BLUNT": {
-    "Definition": "straightforward and simple"
+  "BLUNT INSTRUMENT": {
+    "Definition": "a simple, crude tool used to get a job done"
   },
   "WIELDED": {
-    "Definition": "used"
+    "Definition": "held and used"
   },
   "BLANK CANVAS": {
-    "Definition": "a person with no content, such that can be easily filled with new things. (Refers to a painter's canvas that has yet to be painted on)"
+    "Definition": "something with no personality of its own, for others to fill in"
   },
   "PRECISELY": {
     "Definition": "exactly"
   },
   "BLEND": {
-    "Definition": "be one with"
+    "Definition": "mix in and disappear without being noticed"
   },
   "BACKDROP": {
-    "Definition": "the setting or background"
+    "Definition": "the setting or scene behind something"
   },
   "DULLEST": {
-    "Definition": "not interesting or exciting"
+    "Definition": "most boring"
   },
   "PLAINEST-SOUNDING": {
-    "Definition": "that sounded simple"
+    "Definition": "most ordinary and simple when said aloud"
   },
   "FAME": {
-    "Definition": "the state of being well known"
+    "Definition": "the state of being known by very many people"
   },
   "RAW DEAL": {
-    "Definition": "bad or unfair"
+    "Definition": "unfair treatment or a bad bargain"
   },
   "INFLATION-ADJUSTED": {
-    "Definition": "having its value adjusted according to the general and progressive increase in prices"
+    "Definition": "changed to take rising prices over time into account"
   },
   "PARAMEDICS": {
-    "Definition": "people who are trained to give emergency medical care"
+    "Definition": "trained people who give emergency medical care, usually in an ambulance"
   },
   "TROUBLE YOU": {
-    "Definition": "worry you, put you in trouble"
+    "Definition": "bother you; cause you extra work"
   },
   "CHAPS": {
-    "Definition": "fellows, guys"
+    "Definition": "men; an old-fashioned, friendly British word"
   },
   "GET ALONG": {
-    "Definition": "manage to do things"
+    "Definition": "travel; make progress"
   },
   "ADAPTATION": {
-    "Definition": "a story from a book that has been made suitable to use for a film"
+    "Definition": "a version of a story made for a different form, like film"
   },
   "CONVINCED": {
-    "Definition": "completely certain or sure"
+    "Definition": "certain that it was the right choice"
   },
   "FOR STARTERS": {
-    "Definition": "to begin with"
+    "Definition": "first of all; to begin with"
   },
   "DECIDEDLY": {
-    "Definition": "certainly"
+    "Definition": "clearly and definitely"
   },
   "CONCERNING": {
     "Definition": "worrying"
   },
   "CATAPULTED": {
-    "Definition": "fast and suddenly brought"
+    "Definition": "suddenly and quickly lifted"
   },
   "STARDOM": {
-    "Definition": "the quality of being famous"
+    "Definition": "the state of being a very famous performer"
   },
   "SOPHISTICATED": {
-    "Definition": "having cultured or refined tastes and habits"
+    "Definition": "having refined, cultured taste and manners"
   },
   "SUAVE": {
-    "Definition": "very polite and pleasant"
+    "Definition": "charming, confident and elegant"
   },
   "MUSCLY": {
-    "Definition": "muscular"
+    "Definition": "having a strong, powerful body"
   },
   "BODYBUILDER": {
-    "Definition": "someone who does special exercises to develop their muscles"
+    "Definition": "a person who trains to make their muscles large and strong"
   },
   "AUDITIONS": {
-    "Definition": "short performances that the actors gave to show their abilities for the role"
+    "Definition": "short performances that actors give to try to get a part"
   },
   "SEX APPEAL": {
-    "Definition": "the quality of being sexually attractive"
+    "Definition": "attractiveness that makes others desire someone physically"
   },
   "CONVINCE": {
-    "Definition": "make him believe"
+    "Definition": "persuade"
   },
   "PASS AS": {
-    "Definition": "be able to be accepted"
+    "Definition": "be accepted as; seem to be"
   },
   "QUIRKS": {
-    "Definition": "characteristics"
+    "Definition": "unusual habits or features"
   },
   "INTERPRETED": {
-    "Definition": "performed"
+    "Definition": "understood and showed in their own way"
   },
   "SLIGHTLY": {
-    "Definition": "to a small degree, a little"
+    "Definition": "a little"
   },
   "TONGUE-IN-CHEEK": {
-    "Definition": "one that was telling jokes while appearing to be serious"
+    "Definition": "playful and not meant seriously"
   },
   "CRACKED JOKES": {
-    "Definition": "was telling jokes"
+    "Definition": "said funny things to make people laugh"
   },
   "SLICK": {
-    "Definition": "confident, effective or persuasive"
+    "Definition": "smooth, stylish and confident"
   },
   "PRODUCT PLACEMENT": {
-    "Definition": "the placement of a product or a brand name into a movie as a method of advertising"
+    "Definition": "advertising by showing branded goods in a film"
   },
   "UNREALISTIC": {
-    "Definition": "not based on truth"
+    "Definition": "not believable or true to life"
   },
   "DEMONS": {
-    "Definition": "personal issues he had to deal with"
+    "Definition": "inner problems or fears that trouble a person"
   },
   "SEASONED": {
-    "Definition": "having lot of knowledge and experience"
+    "Definition": "experienced, long-time"
   },
   "INITIAL": {
-    "Definition": "first"
+    "Definition": "first; original"
   },
   "HARD-LIVING": {
-    "Definition": "acting without caring about his actions, reckless"
+    "Definition": "living a wild, unhealthy life with lots of drinking and smoking"
   },
   "MISOGYNISTIC": {
-    "Definition": "showing hate towards women"
+    "Definition": "showing dislike of, or prejudice against, women"
   },
   "BACKWARD": {
-    "Definition": "relating to the past, conservative"
+    "Definition": "old-fashioned and not modern in thinking"
   },
   "INEVITABLY": {
-    "Definition": "in a way that was certain to happen"
+    "Definition": "as you would expect; unavoidably"
   },
   "ONE-SIDED": {
-    "Definition": "benefitting his side much more than the other"
+    "Definition": "unequal, with only him getting what he wanted"
   },
   "ENCOUNTERED": {
     "Definition": "met"
   },
   "RACIST REMARKS": {
-    "Definition": "comments that would insult a certain group of people in an unfair way"
+    "Definition": "hurtful comments against people because of their ethnic background"
   },
   "FORCE HIMSELF UPON": {
-    "Definition": "rape, have forced sex with"
+    "Definition": "push unwanted sexual or physical contact on"
   },
   "CUT BACK ON": {
-    "Definition": "reduced"
+    "Definition": "reduced the amount of"
   },
   "CAPABLE": {
-    "Definition": "having the ability required for"
+    "Definition": "able to feel or show"
   },
   "TEAMED UP": {
-    "Definition": "formed a team with or joined"
+    "Definition": "joined forces"
   },
   "GOT TOGETHER": {
-    "Definition": "joined"
+    "Definition": "formed a partnership"
   },
   "STRUCTURED": {
-    "Definition": "organised, made"
+    "Definition": "organised and arranged"
   },
   "WHEREBY": {
-    "Definition": "by which way"
+    "Definition": "under which"
   },
   "ENDED UP": {
-    "Definition": "finally did it, became eventually"
+    "Definition": "finally found himself"
   },
   "TAKING HOME": {
-    "Definition": "taking as payment"
+    "Definition": "earning"
   },
   "GROSSED": {
-    "Definition": "earned in total"
+    "Definition": "earned in total before costs were taken off"
   },
   "CUSTODIANS": {
-    "Definition": "caretakers or keepers"
+    "Definition": "people who look after and protect something"
   },
   "EXPLOITED": {
-    "Definition": "used to their advantage"
+    "Definition": "used selfishly to make money from"
   },
   "MILKED IT": {
-    "Definition": "tried to obtain the greatest possible financial advantage from it"
+    "Definition": "taken every possible bit of money from it"
   },
   "SPIN-OFFS": {
-    "Definition": "products that develop as a consequence of a more important product"
+    "Definition": "new films or shows based on characters from an existing one"
   },
   "PERIPHERAL": {
-    "Definition": "less important"
+    "Definition": "minor; not central or important"
   },
   "DILUTING": {
-    "Definition": "making it less"
+    "Definition": "weakening by adding less valuable things"
   },
   "PURENESS": {
-    "Definition": "the fact of being unmixed with different and less important elements"
+    "Definition": "the quality of being unspoiled and unmixed"
   },
   "UNIQUE": {
-    "Definition": "being the only one of its kind, special"
+    "Definition": "special and different from any other"
   },
   "GRAVELLY": {
-    "Definition": "low, strong and not smooth"
+    "Definition": "low and rough in sound"
   },
   "TONES DOWN": {
-    "Definition": "makes it less evident"
+    "Definition": "makes less strong or noticeable"
   },
   "SPECTRUM": {
-    "Definition": "range, variety"
+    "Definition": "a wide range"
   },
   "POSH": {
-    "Definition": "high class"
+    "Definition": "typical of rich people from the highest social group"
   },
   "SIGNATURE": {
-    "Definition": "characteristic, typical"
+    "Definition": "special and typical of a particular person"
   },
   "THE HEIGHT OF": {
-    "Definition": "the most advanced point"
+    "Definition": "the most intense period of"
   },
   "POPULARISED": {
-    "Definition": "made it popular"
+    "Definition": "made widely known and liked"
   },
   "LONE": {
-    "Definition": "having no companions, alone"
+    "Definition": "single, working without others"
   },
   "DESPOT": {
-    "Definition": "someone who holds a lot of power and often uses it unfairly and cruelly"
+    "Definition": "a ruler with total power who uses it cruelly"
   },
   "COMMITTING": {
-    "Definition": "doing (for something illegal or bad)"
+    "Definition": "carrying out"
   },
   "AWFUL": {
-    "Definition": "extremely bad"
+    "Definition": "very bad; terrible"
   },
   "GENRE": {
-    "Definition": "style of movie"
+    "Definition": "a type or style of film or book"
   },
   "REVIVE": {
-    "Definition": "bring it back"
+    "Definition": "bring back to life; make successful again"
   },
   "COMPLEX": {
-    "Definition": "not simple, complicated"
+    "Definition": "complicated, with many sides"
   },
   "ANXIETIES": {
-    "Definition": "feelings of worry and nervousness"
+    "Definition": "worries; feelings of nervousness"
   },
   "NEUROSES": {
-    "Definition": "feelings of extreme worry or obsession"
+    "Definition": "mental troubles involving strong, unreasonable fears or worries"
   },
   "STANDALONE": {
-    "Definition": "without being part of a series"
+    "Definition": "separate and complete, not linked to others"
   },
   "DEMANDING": {
-    "Definition": "requiring much effort and attention"
+    "Definition": "expecting a lot; hard to please"
   },
   "COMPLEXITY": {
-    "Definition": "the state of being complicated, not simple"
+    "Definition": "the quality of having many different parts or sides"
   },
   "ADAPT": {
-    "Definition": "change according to a new situation"
+    "Definition": "change to suit new conditions"
   },
   "OUTING": {
-    "Definition": "appearance"
-  },
-  "": {
-    "Definition": null
+    "Definition": "appearance or performance"
   }
 }
