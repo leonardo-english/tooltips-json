@@ -1,269 +1,266 @@
 {
   "SCANDAL": {
-    "Definition": "an event that caused a public feeling of shock and anger"
+    "Definition": "an event that shocks people because it involves wrong or dishonest behaviour"
   },
   "PREJUDICE": {
-    "Definition": "a wrong and unfair opinion or feeling not based on reason or actual experience"
+    "Definition": "unfair feelings for or against people, formed without good reason"
   },
   "ALLEGATIONS": {
-    "Definition": "suggestions that someone had done something illegal or wrong without having proof"
+    "Definition": "claims that someone has done something wrong, made without proof"
   },
   "PLOT": {
-    "Definition": "secret plan"
+    "Definition": "a secret plan made by a group of people"
   },
   "ALL-POWERFUL": {
-    "Definition": "extremely powerful"
+    "Definition": "extremely strong and attention-grabbing"
   },
   "BREACH": {
-    "Definition": "a break, a hole that has been made in order to get in and access something"
+    "Definition": "a break into a system that lets people get information without permission"
   },
   "SWING": {
-    "Definition": "change from one opinion to another"
+    "Definition": "change the result of"
   },
   "SUBSEQUENT": {
-    "Definition": "following"
+    "Definition": "following; coming after that"
   },
   "WENT OUT OF BUSINESS": {
-    "Definition": "closed down, stopped operating"
+    "Definition": "closed because it could no longer continue as a company"
   },
   "TESTIFY": {
-    "Definition": "give information or evidence in a law court"
+    "Definition": "give formal evidence and answer questions, after promising to tell the truth"
   },
   "PRESTIGIOUS": {
-    "Definition": "showing respect and admiration"
+    "Definition": "highly respected and admired"
   },
   "OVERBLOWN": {
-    "Definition": "made to seem more impressive or important than it is"
+    "Definition": "made to seem more important or serious than it really is"
   },
   "EXCELLED": {
-    "Definition": "was very good"
+    "Definition": "did extremely well"
   },
   "REMARKABLE": {
-    "Definition": "worthy of attention, amazing"
+    "Definition": "unusual and impressive"
   },
   "NEWISH": {
-    "Definition": "somewhat new, recent"
+    "Definition": "fairly recent; only started a short time before"
   },
   "ROLE": {
-    "Definition": "part"
+    "Definition": "a part or position of importance"
   },
   "INTERACTING": {
-    "Definition": "reacting to"
+    "Definition": "taking part and responding"
   },
   "ENGAGE": {
-    "Definition": "occupy ourselves or are involved in"
+    "Definition": "take an interest and get involved"
   },
   "THIRD-PARTIES": {
-    "Definition": "groups outside facebook"
+    "Definition": "outside companies or people who are not Facebook or its users"
   },
   "LOAD": {
-    "Definition": "lot"
+    "Definition": "a large number"
   },
   "GRANTED": {
     "Definition": "gave"
   },
   "HARMLESS": {
-    "Definition": "not able to cause damage"
+    "Definition": "safe and not causing any problems"
   },
   "THIRD-PARTY": {
-    "Definition": "belonging to groups outside facebook"
+    "Definition": "made by outside companies, not by Facebook itself; also (noun): an outside company or person"
   },
   "THIEF": {
-    "Definition": "a person who steals, who takes something without permission"
+    "Definition": "a person who steals"
   },
   "AUTHORISED": {
-    "Definition": "gave permission to"
+    "Definition": "gave official permission to"
   },
   "INCENTIVISE": {
-    "Definition": "give them reasons"
+    "Definition": "encourage, by offering a reward"
   },
   "DISPUTE": {
-    "Definition": "disagreement, argument"
+    "Definition": "disagreement or argument"
   },
   "BLURRY": {
-    "Definition": "not clear"
+    "Definition": "unclear; difficult to understand exactly"
   },
   "DEFAULT": {
-    "Definition": "preset or pre-selected"
+    "Definition": "automatic, used unless the user changes them"
   },
   "CLARIFICATIONS": {
-    "Definition": "actions of making the situation less confusing"
+    "Definition": "explanations that remove confusion"
   },
   "CLOSET": {
-    "Definition": "secret"
+    "Definition": "secret; hidden from other people"
   },
   "WREAK HAVOC": {
-    "Definition": "cause great damage"
+    "Definition": "cause a lot of damage and confusion"
   },
   "UNDERMINE": {
-    "Definition": "weaken, harm"
+    "Definition": "weaken or damage, often secretly"
   },
   "UNAWARE": {
-    "Definition": "having no knowledge"
+    "Definition": "without any knowledge"
   },
   "PREDICT": {
-    "Definition": "know or tell in advance"
+    "Definition": "work out or tell in advance"
   },
   "RECEPTIVE": {
-    "Definition": "willing to consider or accept"
+    "Definition": "open and likely to respond well"
   },
   "ARMED": {
-    "Definition": "equipped, provided"
+    "Definition": "provided; equipped"
   },
   "TARGET": {
-    "Definition": "have as objects of attention"
+    "Definition": "aim messages or adverts at"
   },
   "FILL OUT": {
-    "Definition": "complete the form with the information asked"
+    "Definition": "complete by answering the questions in"
   },
   "ASSESSING": {
-    "Definition": "judging, evaluating"
+    "Definition": "judging"
   },
   "ALGORITHM": {
-    "Definition": "a set of rules that makes it possible for a computer to solve a problem or perform a task"
+    "Definition": "a set of computer instructions used to solve a problem or study information"
   },
   "PERSONALITY TRAITS": {
-    "Definition": "personality characteristics"
+    "Definition": "qualities that make up a person's character"
   },
   "EXTROVERT": {
-    "Definition": "an outgoing, sociable person"
+    "Definition": "a person who is lively and enjoys being with other people"
   },
   "INTROVERT": {
-    "Definition": "shy, not sociable"
+    "Definition": "a quiet person who prefers to spend time alone or with few people"
   },
   "CRUNCH TIME": {
-    "Definition": "a period of pressure, a critical situation"
+    "Definition": "the important moment when a result or decision is reached"
   },
   "ALGORITHMS": {
-    "Definition": "sets of rules that make it possible for a computer to solve a problem or perform a task"
+    "Definition": "sets of computer instructions used to solve a problem or study information"
   },
   "CUTTING ITS LOSSES": {
-    "Definition": "stopping the activity in order to not to lose more money"
+    "Definition": "stopping something that is failing, to avoid losing more money"
   },
   "JUNK": {
-    "Definition": "useless"
+    "Definition": "of no value; rubbish"
   },
   "UTTERLY": {
     "Definition": "completely"
   },
   "UNINTERESTED": {
-    "Definition": "not interested"
+    "Definition": "not caring or curious"
   },
   "DATASET": {
-    "Definition": "collection of information that can be used by a computer"
+    "Definition": "a collection of information, usually kept on a computer"
   },
   "TARGETING": {
-    "Definition": "the act of selecting something as an object of attention"
+    "Definition": "aiming messages at particular groups of people"
   },
   "HIGH PLACES": {
-    "Definition": "positions of power or authority"
+    "Definition": "important and powerful positions"
   },
   "DONOR": {
-    "Definition": "financial supporter"
+    "Definition": "a person who gives money to support a cause or political party"
   },
   "STRATEGIST": {
-    "Definition": "someone who planned his political matters"
+    "Definition": "a person who plans how to achieve a goal, such as winning an election"
   },
   "HEAD START": {
-    "Definition": "advantage"
+    "Definition": "an advantage at the beginning"
   },
   "ESTABLISHMENT": {
-    "Definition": "supported by the established or more powerful political group or regime"
+    "Definition": "favoured by the party's powerful, traditional leaders"
   },
   "CAPABILITIES": {
-    "Definition": "abilities or potential"
+    "Definition": "abilities; things it could do"
   },
   "BEATEN": {
     "Definition": "defeated"
   },
   "COMPENSATE": {
-    "Definition": "fix or correct the situation"
+    "Definition": "make up; balance out something bad"
   },
   "UNINSPIRING": {
-    "Definition": "not producing excitement or interest"
+    "Definition": "dull; not exciting or encouraging to people"
   },
   "VICTORIOUS": {
-    "Definition": "having won"
+    "Definition": "winning; successful"
   },
   "ANTI-ESTABLISHMENT": {
-    "Definition": "not supported by the established or most powerful political group or regime"
+    "Definition": "opposed to the powerful people who traditionally run politics"
   },
   "EMERGED": {
     "Definition": "became known"
   },
   "BOASTING": {
-    "Definition": "speaking too proudly"
+    "Definition": "talking too proudly"
   },
   "HARNESS": {
-    "Definition": "control"
+    "Definition": "control and make use of"
   },
   "BROKE": {
-    "Definition": "suddenly began"
+    "Definition": "became publicly known for the first time"
   },
   "THREAT": {
-    "Definition": "danger"
+    "Definition": "a danger"
   },
   "DRAGGED": {
-    "Definition": "caused to be involved in an unpleasant situation"
+    "Definition": "made to go, against his wishes"
   },
   "TRICKED": {
-    "Definition": "fooled, deceived"
+    "Definition": "fooled; deceived"
   },
   "POINT-BLANK": {
-    "Definition": "directly and openly"
+    "Definition": "very directly, without trying to be polite"
   },
   "A STORM IN A TEACUP": {
-    "Definition": "a situation in which people were very angry or upset about something that didn't really happen"
+    "Definition": "a big fuss about something unimportant"
   },
   "USELESS": {
-    "Definition": "of no use"
+    "Definition": "of no real value; not helpful"
   },
   "OUT OF DATE": {
-    "Definition": "no longer relevant or accurate"
+    "Definition": "old and no longer correct or helpful"
   },
   "SHELF-LIFE": {
-    "Definition": "the length of time for which it remains usable"
+    "Definition": "a length of time that something stays valuable"
   },
   "HYPER-TARGETED": {
-    "Definition": "aims (or directs its attention towards) advertising messages to a very specific group of people"
+    "Definition": "aimed very precisely at small groups or individuals"
   },
   "EXTENSIVE": {
-    "Definition": "large in scale, in-depth and detailed"
+    "Definition": "large and thorough, covering many things"
   },
   "RECAP": {
     "Definition": "repeat the main points"
   },
   "MISLEADING": {
-    "Definition": "giving the wrong idea or impression"
+    "Definition": "giving people a wrong idea"
   },
   "CLARIFIED": {
-    "Definition": "made them clear"
+    "Definition": "made easier to understand"
   },
   "AUTHORISE": {
-    "Definition": "give permission to"
+    "Definition": "give official permission to"
   },
   "TEND": {
-    "Definition": "usually do it"
+    "Definition": "usually do something; be likely"
   },
   "JUICIER": {
-    "Definition": "causing more curiosity and interest"
+    "Definition": "more exciting and shocking"
   },
   "NEAREST AND DEAREST": {
-    "Definition": "close friends and relatives"
+    "Definition": "closest friends and family"
   },
   "WORTHLESS": {
-    "Definition": "having value or worth"
+    "Definition": "having no value"
   },
   "UNUSABLE": {
-    "Definition": "cannot be used"
+    "Definition": "impossible to do anything with"
   },
   "THIRD PARTY": {
-    "Definition": "a group or organisation less directly involved"
+    "Definition": "an outside person or company"
   },
   "MANIPULATE": {
-    "Definition": "control in an unfair or dishonest way"
-  },
-  "": {
-    "Definition": null
+    "Definition": "control or influence in a clever or unfair way"
   }
 }
