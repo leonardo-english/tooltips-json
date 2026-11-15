@@ -1,404 +1,401 @@
 {
   "FUNDAMENTAL": {
-    "Definition": "basic, very important"
+    "Definition": "basic and very important"
   },
   "PECULIAR": {
-    "Definition": "strange, not common"
-  },
-  "PROVOCATIVE": {
-    "Definition": "causing thought or strong reactions"
-  },
-  "TRENDS": {
-    "Definition": "fashions"
-  },
-  "OVERNIGHT": {
-    "Definition": "very quickly"
-  },
-  "LIBERATE": {
-    "Definition": "set it free"
-  },
-  "UNUSUAL": {
-    "Definition": "not usual or common"
-  },
-  "TREAT": {
-    "Definition": "deal with, handle"
-  },
-  "BROAD BRUSH STROKES": {
-    "Definition": "showing only the main or general points"
-  },
-  "ACCUSE": {
-    "Definition": "blame, express your disapproval of"
-  },
-  "NATURIST": {
-    "Definition": "a person who likes being naked"
-  },
-  "TRUISM": {
-    "Definition": "something so obviously true that there’s no point in saying it"
-  },
-  "WIG": {
-    "Definition": "a covering of artificial or fake hair"
-  },
-  "TAKEN SOME PRIDE IN": {
-    "Definition": "been proud of"
-  },
-  "EMBROIDERED": {
-    "Definition": "made by using thread and needle, knitted"
-  },
-  "LABOURER": {
-    "Definition": "worker"
-  },
-  "TENDING HIS FLOCK": {
-    "Definition": "watching over his group of domestic animals"
-  },
-  "RESTRICTED": {
-    "Definition": "limited"
-  },
-  "DESIRABLE": {
-    "Definition": "worth having and wanted"
-  },
-  "SEISMIC": {
-    "Definition": "having a great effect"
-  },
-  "MONARCH": {
-    "Definition": "king or queen"
-  },
-  "PURITANS": {
-    "Definition": "a group of people who believed that pleasure is wrong and that it is only important to work hard and control yourself"
-  },
-  "AROSE": {
-    "Definition": "appeared, emerged"
-  },
-  "INHERENTLY": {
-    "Definition": "in a permanent, natural and characteristic way"
-  },
-  "SINFUL": {
-    "Definition": "against the rules of religion, bad"
-  },
-  "THEREFORE": {
-    "Definition": "for that reason"
-  },
-  "LOGICAL": {
-    "Definition": "using reason or thinking"
-  },
-  "EXTRAVAGANT": {
-    "Definition": "too impressive, showy"
-  },
-  "ORNAMENTS": {
-    "Definition": "objects used as decoration without practical purpose"
-  },
-  "SUPERFLUOUS": {
-    "Definition": "not necessary, extra"
-  },
-  "UTILITY": {
-    "Definition": "the state of being practically useful"
-  },
-  "BANISHED": {
-    "Definition": "driven away, excluded"
-  },
-  "MONOCHROME": {
-    "Definition": "black and white"
-  },
-  "DEPICTED": {
-    "Definition": "represented, shown"
-  },
-  "ELABORATE": {
-    "Definition": "detailed and complicated in design"
-  },
-  "WIGS": {
-    "Definition": "coverings of artificial or fake hair"
-  },
-  "CONFINED": {
-    "Definition": "limited"
-  },
-  "BEAUTY SPOTS": {
-    "Definition": "small artificial marks such as a mole on the face, considered to improve their appearance"
-  },
-  "LAVISH": {
-    "Definition": "impressive and expensive"
-  },
-  "DECORATED": {
-    "Definition": "made to look more attractive by adding extra items"
-  },
-  "LOOSE MORALS": {
-    "Definition": "not good or generally accepted behaviours"
-  },
-  "CAST OFF": {
-    "Definition": "removed, threw away"
-  },
-  "CONSTRAINTS": {
-    "Definition": "limitations, control"
-  },
-  "PURITAN": {
-    "Definition": "relating to the idea that pleasure is wrong and that it is only important to work hard and control yourself"
-  },
-  "FUN-LOVING": {
-    "Definition": "liking to enjoy himself and have fun rather than liking serious things"
-  },
-  "VOLCANIC": {
-    "Definition": "having a great effect"
-  },
-  "LAVISHLY": {
-    "Definition": "in an impressive and expensive way"
-  },
-  "WERE THE ORDER OF THE DAY": {
-    "Definition": "were very popular"
-  },
-  "DISTINCTIVE": {
-    "Definition": "very characteristic and different from the others"
-  },
-  "BASKETS": {
-    "Definition": "round containers used to hold or carry things"
-  },
-  "RIDICULOUSLY": {
-    "Definition": "in a way that is silly or unreasonable"
-  },
-  "WAIST": {
-    "Definition": "the middle part of the body between the hips and chest"
-  },
-  "BULKY": {
-    "Definition": "taking up much space, large"
-  },
-  "WHALEBONE": {
-    "Definition": "a strong, flexible material found in the upper part of the mouth of some types of whales"
-  },
-  "REEDS": {
-    "Definition": "tall and thin kind of grass that grows in wet areas"
-  },
-  "CAGE": {
-    "Definition": "a space surrounded on all sides by bars"
-  },
-  "MIGRATED": {
-    "Definition": "travelled, transferred"
-  },
-  "MOCKED": {
-    "Definition": "made fun of, ridiculed"
-  },
-  "FRUSTRATED": {
-    "Definition": "annoyed and disappointed"
-  },
-  "COACH": {
-    "Definition": "a carriage or vehicle of the past drawn by horses"
-  },
-  "SPACIOUS": {
-    "Definition": "having enough space"
-  },
-  "THROWING OFF": {
-    "Definition": "removal, rejection"
-  },
-  "EXCEPTION": {
-    "Definition": "something that was not included"
-  },
-  "DECADENT": {
-    "Definition": "showing low standards of behaviour"
-  },
-  "EMBLEMS": {
-    "Definition": "symbols"
-  },
-  "ARISTOCRACY": {
-    "Definition": "the high social class"
-  },
-  "TIGHT": {
-    "Definition": "close-fitting, narrow"
-  },
-  "BREECHES": {
-    "Definition": "trousers extending to the knee or just below"
-  },
-  "LOOSE-FITTING": {
-    "Definition": "big and do not fitting the body closely"
-  },
-  "NOTABLE": {
-    "Definition": "important and worthy of attention"
-  },
-  "SILHOUETTE": {
-    "Definition": "the shape or outline of the body"
-  },
-  "PREDOMINANT": {
-    "Definition": "more important or popular"
-  },
-  "LOOSE": {
-    "Definition": "big and not fitting the body closely"
-  },
-  "EGALITARIAN": {
-    "Definition": "believing that all people are equal and deserve equal opportunities"
-  },
-  "LUXURY": {
-    "Definition": "state of great comfort or elegance or richness"
-  },
-  "FROWNED UPON": {
-    "Definition": "considered worthy of disapproval or dislike"
-  },
-  "TIGHTER": {
-    "Definition": "worn more firmly or closely to the body"
-  },
-  "TIGHTLY": {
-    "Definition": "firmly or closely to the body"
-  },
-  "UNDERGARMENTS": {
-    "Definition": "a type of clothing worn under the outer clothes"
-  },
-  "CORSET": {
-    "Definition": "a type of clothing worn very closely to the body under the outer clothes and extending from below the chest to the hips"
-  },
-  "HEAVY DUTY": {
-    "Definition": "strong and designed to be used for a long time"
-  },
-  "BUSTLES": {
-    "Definition": "cushions or frames"
-  },
-  "TUCKED INTO": {
-    "Definition": "put behind it to make it firm and tidy"
-  },
-  "LEANING OVER": {
-    "Definition": "moving or bending the upper body forward"
-  },
-  "HOOPS": {
-    "Definition": "circular bands or rings"
-  },
-  "CONE": {
-    "Definition": "a shape with a round base that narrows to a point at the top"
-  },
-  "PARTIALLY": {
-    "Definition": "not completely, partly"
-  },
-  "SPREADING": {
-    "Definition": "becoming popular"
-  },
-  "GAINS": {
-    "Definition": "benefits, advantages"
-  },
-  "IMPRACTICAL": {
-    "Definition": "not suitable for use or action"
-  },
-  "PASTIMES": {
-    "Definition": "times in the past"
-  },
-  "SPORTSWEAR": {
-    "Definition": "comfortable clothes for casual use"
-  },
-  "TIGHT-FITTING": {
-    "Definition": "close-fitting, narrow"
-  },
-  "PAVED THE WAY": {
-    "Definition": "opened or prepared the way"
-  },
-  "BIZARRE": {
     "Definition": "strange and unusual"
   },
+  "PROVOCATIVE": {
+    "Definition": "meant to make people think hard or react strongly"
+  },
+  "TRENDS": {
+    "Definition": "new styles that become popular for a time"
+  },
+  "OVERNIGHT": {
+    "Definition": "very quickly; suddenly"
+  },
+  "LIBERATE": {
+    "Definition": "set free"
+  },
+  "UNUSUAL": {
+    "Definition": "strange; not often seen"
+  },
+  "TREAT": {
+    "Definition": "deal with or discuss"
+  },
+  "BROAD BRUSH STROKES": {
+    "Definition": "a general approach that covers the main points but not the details"
+  },
+  "ACCUSE": {
+    "Definition": "criticise by saying it is guilty"
+  },
+  "NATURIST": {
+    "Definition": "a person who prefers not to wear any clothes"
+  },
+  "TRUISM": {
+    "Definition": "a statement so clearly correct that it is not worth saying"
+  },
+  "WIG": {
+    "Definition": "a covering of false hair worn on the head"
+  },
+  "TAKEN SOME PRIDE IN": {
+    "Definition": "cared about and felt pleased with"
+  },
+  "EMBROIDERED": {
+    "Definition": "decorated with patterns sewn in coloured thread"
+  },
+  "LABOURER": {
+    "Definition": "a worker who does hard physical work"
+  },
+  "TENDING HIS FLOCK": {
+    "Definition": "looking after his group of sheep"
+  },
+  "RESTRICTED": {
+    "Definition": "limited; kept only"
+  },
+  "DESIRABLE": {
+    "Definition": "attractive and worth having"
+  },
+  "SEISMIC": {
+    "Definition": "very great and important, like an earthquake"
+  },
+  "MONARCH": {
+    "Definition": "a king or queen"
+  },
+  "PURITANS": {
+    "Definition": "people with very strict Protestant Christian beliefs"
+  },
+  "AROSE": {
+    "Definition": "began to exist; appeared"
+  },
+  "INHERENTLY": {
+    "Definition": "by its very nature; in itself"
+  },
+  "SINFUL": {
+    "Definition": "morally wrong and against God's laws"
+  },
+  "THEREFORE": {
+    "Definition": "for that reason; as a result"
+  },
+  "LOGICAL": {
+    "Definition": "sensible and following naturally from what came before"
+  },
+  "EXTRAVAGANT": {
+    "Definition": "very showy and expensive, more than is needed"
+  },
+  "ORNAMENTS": {
+    "Definition": "things worn or used only to make something look pretty"
+  },
+  "SUPERFLUOUS": {
+    "Definition": "more than is needed; not necessary"
+  },
+  "UTILITY": {
+    "Definition": "usefulness"
+  },
+  "BANISHED": {
+    "Definition": "forced out; no longer allowed"
+  },
+  "MONOCHROME": {
+    "Definition": "without colour, only black and white"
+  },
+  "DEPICTED": {
+    "Definition": "shown in a picture"
+  },
+  "ELABORATE": {
+    "Definition": "detailed, complicated and highly decorated"
+  },
+  "WIGS": {
+    "Definition": "coverings of false hair worn on the head"
+  },
+  "CONFINED": {
+    "Definition": "limited; kept only"
+  },
+  "BEAUTY SPOTS": {
+    "Definition": "small dark marks painted or stuck on the face to look attractive"
+  },
+  "LAVISH": {
+    "Definition": "rich, expensive and impressive"
+  },
+  "DECORATED": {
+    "Definition": "made more attractive by adding extra details"
+  },
+  "LOOSE MORALS": {
+    "Definition": "behaviour that did not follow strict rules, especially about sex"
+  },
+  "CAST OFF": {
+    "Definition": "got rid of; freed itself from"
+  },
+  "CONSTRAINTS": {
+    "Definition": "strict limits and rules"
+  },
+  "PURITAN": {
+    "Definition": "very strict, religious and against pleasure"
+  },
+  "FUN-LOVING": {
+    "Definition": "enjoying parties and having a good time"
+  },
+  "VOLCANIC": {
+    "Definition": "explosive and violent"
+  },
+  "LAVISHLY": {
+    "Definition": "richly and expensively"
+  },
+  "WERE THE ORDER OF THE DAY": {
+    "Definition": "were usual and very common at that time"
+  },
+  "DISTINCTIVE": {
+    "Definition": "unusual and easy to recognise"
+  },
+  "BASKETS": {
+    "Definition": "containers made by weaving thin strips of material together"
+  },
+  "RIDICULOUSLY": {
+    "Definition": "so much that it seemed silly"
+  },
+  "WAIST": {
+    "Definition": "the middle part of the body, just above the hips"
+  },
+  "BULKY": {
+    "Definition": "large and taking up a lot of space"
+  },
+  "WHALEBONE": {
+    "Definition": "a hard but bendable material taken from the mouths of some large sea animals"
+  },
+  "REEDS": {
+    "Definition": "tall, thin plants with hollow stems that grow near water"
+  },
+  "CAGE": {
+    "Definition": "a frame made of bars or wires"
+  },
+  "MIGRATED": {
+    "Definition": "travelled and spread"
+  },
+  "MOCKED": {
+    "Definition": "laughed at in an unkind way"
+  },
+  "FRUSTRATED": {
+    "Definition": "annoyed because she could not do what she wanted"
+  },
+  "COACH": {
+    "Definition": "a large carriage pulled by horses"
+  },
+  "SPACIOUS": {
+    "Definition": "big, with plenty of room"
+  },
+  "THROWING OFF": {
+    "Definition": "a complete rejection"
+  },
+  "EXCEPTION": {
+    "Definition": "a case that is not affected or included"
+  },
+  "DECADENT": {
+    "Definition": "showing too much love of luxury and pleasure, and low moral standards"
+  },
+  "EMBLEMS": {
+    "Definition": "symbols that represent a group or idea"
+  },
+  "ARISTOCRACY": {
+    "Definition": "the highest social class, usually with titles and land"
+  },
+  "TIGHT": {
+    "Definition": "fitting closely to the body"
+  },
+  "BREECHES": {
+    "Definition": "short trousers that end just below the knee"
+  },
+  "LOOSE-FITTING": {
+    "Definition": "wide and comfortable, not close to the body"
+  },
+  "NOTABLE": {
+    "Definition": "remarkable; worth mentioning"
+  },
+  "SILHOUETTE": {
+    "Definition": "the outline or shape of something, here the shape of a dress"
+  },
+  "PREDOMINANT": {
+    "Definition": "most common; main"
+  },
+  "LOOSE": {
+    "Definition": "not fitting closely; hanging freely"
+  },
+  "EGALITARIAN": {
+    "Definition": "believing that all people are equal and should have the same rights"
+  },
+  "LUXURY": {
+    "Definition": "something expensive and pleasant that is not really needed"
+  },
+  "FROWNED UPON": {
+    "Definition": "disapproved of"
+  },
+  "TIGHTER": {
+    "Definition": "fitting more closely to the body"
+  },
+  "TIGHTLY": {
+    "Definition": "closely, pressing hard on the body"
+  },
+  "UNDERGARMENTS": {
+    "Definition": "clothes worn under other clothes, next to the skin"
+  },
+  "CORSET": {
+    "Definition": "a stiff piece of underwear that pulls in the waist"
+  },
+  "HEAVY DUTY": {
+    "Definition": "made of thick, strong material that weighs a lot"
+  },
+  "BUSTLES": {
+    "Definition": "pads or frames worn under a skirt at the back to make it stick out"
+  },
+  "TUCKED INTO": {
+    "Definition": "pushed neatly inside"
+  },
+  "LEANING OVER": {
+    "Definition": "bending forwards"
+  },
+  "HOOPS": {
+    "Definition": "large rings of metal or other stiff material"
+  },
+  "CONE": {
+    "Definition": "a shape that is round at the bottom and narrows to a point at the top"
+  },
+  "PARTIALLY": {
+    "Definition": "partly; to some degree"
+  },
+  "SPREADING": {
+    "Definition": "moving out and becoming common over a large area"
+  },
+  "GAINS": {
+    "Definition": "improvements; benefits"
+  },
+  "IMPRACTICAL": {
+    "Definition": "not sensible or useful for everyday life"
+  },
+  "PASTIMES": {
+    "Definition": "activities done for enjoyment in free time"
+  },
+  "SPORTSWEAR": {
+    "Definition": "clothes designed for exercise and games"
+  },
+  "TIGHT-FITTING": {
+    "Definition": "very close against the body"
+  },
+  "PAVED THE WAY": {
+    "Definition": "made it possible or easier for something to happen later"
+  },
+  "BIZARRE": {
+    "Definition": "very strange and surprising"
+  },
   "ABSURDLY": {
-    "Definition": "extremely in a funny way"
+    "Definition": "extremely and in a silly way"
   },
   "ESTABLISHED": {
-    "Definition": "having existed for a long time and generally accepted"
+    "Definition": "powerful, accepted and existing for a long time"
   },
   "CONDEMNED": {
-    "Definition": "officially declared to be unfit for use"
+    "Definition": "strongly criticised as wrong"
   },
   "THEREBY": {
-    "Definition": "as a result"
+    "Definition": "in this way; as a result of this"
   },
   "UNNECESSARY": {
     "Definition": "not needed"
   },
   "SLEEVES": {
-    "Definition": "the parts of clothing that cover a person's arm"
+    "Definition": "the parts of a piece of clothing that cover the arms"
   },
   "ABSURD": {
-    "Definition": "extreme in a funny way"
+    "Definition": "silly and unreasonable"
   },
   "EXCESS": {
-    "Definition": "something that is more than necessary"
+    "Definition": "having far more than is needed"
   },
   "RIPPED": {
-    "Definition": "with holes in them"
+    "Definition": "torn"
   },
-  "DESCENDENTS": {
-    "Definition": "people belonging to future generations"
+  "DESCENDANTS": {
+    "Definition": "people in future generations who come from us"
   },
   "CODPIECE": {
-    "Definition": "hard piece of material worn over the male sexual organs"
+    "Definition": "a hard covering worn over a man's sexual organs"
   },
   "MONARCHS": {
-    "Definition": "kings"
+    "Definition": "kings and queens"
   },
   "GENITALIA": {
-    "Definition": "sexual organs or organs of reproduction"
+    "Definition": "sexual organs on the outside of the body"
   },
   "LEAVING VERY LITTLE TO THE IMAGINATION": {
-    "Definition": "showing almost all of the parts"
+    "Definition": "showing the shape of the body very clearly"
   },
   "AWKWARD": {
-    "Definition": "causing embarrassment, sensitive"
+    "Definition": "embarrassing and difficult to handle"
   },
   "GENITAL": {
     "Definition": "relating to the sexual organs"
   },
   "DEALT WITH": {
-    "Definition": "managed, handled"
+    "Definition": "handled; managed"
   },
   "CODPIECES": {
-    "Definition": "hard pieces of material worn over the male sexual organs"
+    "Definition": "hard coverings worn over men's sexual organs"
   },
   "INTENTION": {
-    "Definition": "plan"
+    "Definition": "aim or plan"
   },
   "HINDSIGHT": {
-    "Definition": "the ability to understand it only after it has happened"
+    "Definition": "understanding of a situation only after it has happened"
   },
   "DRAW ATTENTION": {
-    "Definition": "make people notice it"
+    "Definition": "make people notice or look"
   },
   "ODD": {
-    "Definition": "strange"
+    "Definition": "strange; unusual"
   },
   "OUTRAGEOUS": {
-    "Definition": "shockingly bad or extreme"
+    "Definition": "shocking and extreme"
   },
   "ARISTOCRAT": {
-    "Definition": "a person belonging to the high social rank"
+    "Definition": "a person from the highest social class"
   },
   "TOPPED WITH": {
-    "Definition": "having on top"
+    "Definition": "having on its top"
   },
   "ARISTOCRATS": {
-    "Definition": "people belonging to the high social rank"
+    "Definition": "people from the highest social class"
   },
   "LYRICS": {
-    "Definition": "the words of the song"
+    "Definition": "the words of a song"
   },
   "A-RIDING": {
-    "Definition": "sitting on and controlling (the sound -a- is used to help with the song's rhythm)"
+    "Definition": "travelling while sitting (an old-fashioned form used in songs)"
   },
   "CAP": {
-    "Definition": "a kind of hat with a part sticking out at the front"
+    "Definition": "a soft, flat hat"
   },
   "UNSTYLISH": {
-    "Definition": "not stylish or fashionable"
+    "Definition": "not fashionable or elegant"
   },
   "UNCULTURED": {
-    "Definition": "not characterised by good taste"
+    "Definition": "not knowing much about art, music and good manners"
   },
   "PATRIOTIC": {
-    "Definition": "showing loyalty to their country"
+    "Definition": "showing love and pride for your country"
   },
   "WEALTH": {
-    "Definition": "the state of being rich"
+    "Definition": "riches; how much money you have"
   },
   "ROTTEN": {
-    "Definition": "permanently damaged, decayed"
+    "Definition": "decayed and going bad"
   },
   "UTTERLY": {
     "Definition": "completely"
   },
   "IF HISTORY IS ANYTHING TO GO BY": {
-    "Definition": "if history can be taken as an example or evidence"
+    "Definition": "judging from what has happened in the past"
   },
   "GO IN AND OUT OF FASHION": {
-    "Definition": "be popular and then not be popular"
+    "Definition": "become popular and then unpopular again"
   },
   "AMUSEMENT": {
     "Definition": "the feeling of finding something funny"
-  },
-  "": {
-    "Definition": null
   }
 }
