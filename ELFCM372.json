@@ -1,212 +1,209 @@
 {
   "MAMMAL": {
-    "Definition": "animal that gives birth to babies and feeds its young with milk"
+    "Definition": "an animal that feeds its babies with milk from its own body"
   },
   "SIPPING": {
-    "Definition": "drinking slowly by taking in small amounts at a time"
+    "Definition": "drinking slowly, in small amounts"
   },
   "ENCOURAGED": {
-    "Definition": "recommended, advised"
+    "Definition": "tried to persuade"
   },
   "BOGEYMAN": {
-    "Definition": "something that is regarded as bad"
+    "Definition": "something that people fear or see as bad"
   },
   "OUTCAST": {
-    "Definition": "something that is not accepted or wanted"
+    "Definition": "something that everyone rejects and wants to avoid"
   },
   "POLARISING": {
-    "Definition": "dividing people into different groups"
+    "Definition": "causing people to have strongly opposite opinions"
   },
   "REINDEER": {
-    "Definition": "northern animal like deer"
+    "Definition": "large deer that live in very cold northern areas"
   },
   "NUTRITIOUS": {
-    "Definition": "containing substances needed for life and growth"
+    "Definition": "full of the things your body needs to stay healthy"
   },
   "DAIRY": {
-    "Definition": "containing or made from milk"
+    "Definition": "made from or relating to milk; also (noun): milk and foods made from milk"
   },
   "ODDS ARE": {
-    "Definition": "it's very likely"
+    "Definition": "it is likely"
   },
   "LACTOSE INTOLERANCE": {
-    "Definition": "a condition in which their bodies can't break down or digest lactose, the sugar in milk"
+    "Definition": "a condition where the body cannot deal with the natural sugar in milk"
   },
   "LACTOSE INTOLERANT": {
-    "Definition": "having a condition in which their bodies couldn't break down or digest lactose, the sugar in milk"
+    "Definition": "unable to deal with the natural sugar in milk without feeling ill"
   },
   "STAPLE": {
-    "Definition": "very important product"
+    "Definition": "a basic food that people eat or drink regularly"
   },
   "SQUEEZING": {
-    "Definition": "pressing"
+    "Definition": "pressing firmly with the hands"
   },
   "UDDERS": {
-    "Definition": "the organs or parts of the body that produce milk"
+    "Definition": "the bag-like parts under a cow's body that produce milk"
   },
   "TA-DA": {
-    "Definition": "used to suggest pleasure or surprise"
+    "Definition": "a word said to show that something has happened, as if by magic"
   },
   "NOURISHING": {
-    "Definition": "containing substances necessary for growth, health, and good condition"
+    "Definition": "giving your body what it needs to grow and stay healthy"
   },
   "SOMETHING IN THE REGION OF": {
-    "Definition": "close to, about"
+    "Definition": "approximately; about"
   },
   "HEADLINES": {
-    "Definition": "lines of words printed in large letters as titles in newspapers"
+    "Definition": "titles of newspaper or online articles, printed in large letters"
   },
-  "BREAK IT": {
-    "Definition": "tell you something unpleasant"
+  "BREAK IT TO YOU": {
+    "Definition": "tell you some bad news"
   },
   "BACKLASH": {
-    "Definition": "strong negative reaction"
+    "Definition": "a strong negative reaction from many people"
   },
   "SWORN": {
-    "Definition": "strong supporter of it"
+    "Definition": "completely and firmly committed"
   },
   "CHUG DOWN": {
-    "Definition": "drink quickly or greedily"
+    "Definition": "drink quickly, in large amounts"
   },
   "WE’RE ALL ON THE SAME PAGE": {
-    "Definition": "we have the same kind of understanding"
+    "Definition": "we all understand the situation in the same way"
   },
   "BURP": {
-    "Definition": "release air from the stomach through the mouth in a noisy way"
+    "Definition": "let air from the stomach out noisily through the mouth"
   },
   "FART": {
-    "Definition": "release gas through the bottom"
+    "Definition": "let gas out noisily from the bottom"
   },
   "GOING ON": {
-    "Definition": "producing"
+    "Definition": "almost; nearly"
   },
   "INSEMINATED": {
-    "Definition": "forced to become pregnant by putting sperm into them"
+    "Definition": "given male sperm in order to make them pregnant"
   },
   "CALF": {
-    "Definition": "young cow"
+    "Definition": "a young cow"
   },
   "ROAMING": {
-    "Definition": "moving around freely"
+    "Definition": "walking freely, without a fixed direction, over"
   },
   "PASTURES": {
-    "Definition": "lands covered with grass"
+    "Definition": "areas of land where farm animals feed"
   },
   "CRAMPED": {
-    "Definition": "not having enough space, crowded"
+    "Definition": "too small for the number of animals inside"
   },
   "SHEDS": {
-    "Definition": "small buildings"
+    "Definition": "simple buildings used for keeping animals or storing things"
   },
   "NOURISHMENT": {
-    "Definition": "food containing substances necessary for life"
+    "Definition": "the food needed to grow and stay healthy"
   },
   "ASHAMED": {
-    "Definition": "too embarrassed"
+    "Definition": "feeling embarrassed or guilty about something"
   },
   "HAMMERED ON PRICE": {
-    "Definition": "offered low prices"
+    "Definition": "forced to accept very low prices"
   },
   "CRITICS": {
-    "Definition": "people who don't approve of it"
+    "Definition": "people who say what is bad about something"
   },
   "CONSIGN": {
-    "Definition": "send"
+    "Definition": "send away to a place where it will be forgotten"
   },
   "SUSCEPTIBLE": {
-    "Definition": "affected, influenced"
+    "Definition": "likely to be harmed or affected"
   },
   "LEAFLET": {
-    "Definition": "piece of paper with information"
+    "Definition": "a printed sheet of paper giving information"
   },
   "BLEAK": {
-    "Definition": "miserable, hopeless"
+    "Definition": "without hope; very unlikely to get better"
   },
   "ON THE FLIP SIDE": {
-    "Definition": "on the other hand, looking at a different or opposite aspect"
+    "Definition": "looking at the other, opposite side of the situation"
   },
   "UDDER": {
-    "Definition": "an organ or part of the body that produces milk"
+    "Definition": "the bag-like part under a cow's body that produces milk"
   },
   "INTRIGUE": {
-    "Definition": "interesting or fascinating quality"
+    "Definition": "an interesting, mysterious quality"
   },
   "DRAWN": {
     "Definition": "attracted"
   },
   "UNADULTERATED": {
-    "Definition": "having no added substances"
+    "Definition": "pure, with nothing added or taken away"
   },
   "PROPONENTS": {
-    "Definition": "supporters"
+    "Definition": "people who support an idea and argue for it"
   },
   "PUMPED": {
-    "Definition": "inserted, ejected"
+    "Definition": "filled in large amounts"
   },
   "CALORIES": {
-    "Definition": "units of energy provided by food"
+    "Definition": "units used to measure the energy in food"
   },
   "CALORIE": {
-    "Definition": "a unit of energy provided by food"
+    "Definition": "a unit used to measure the energy in food"
   },
   "ARDENT": {
-    "Definition": "strong, enthusiastic"
+    "Definition": "very passionate and committed"
   },
   "ESPOUSE": {
-    "Definition": "welcome, support"
+    "Definition": "support and promote"
   },
   "DITCH": {
-    "Definition": "get rid of, give up"
+    "Definition": "stop using; get rid of"
   },
   "CHUGGING DOWN": {
-    "Definition": "drinking quickly or greedily"
+    "Definition": "drinking quickly, in large amounts"
   },
   "NICHE": {
-    "Definition": "small"
+    "Definition": "small and unusual, with interests that few people share"
   },
   "ENTHUSIASTS": {
-    "Definition": "strong supporters"
+    "Definition": "people who are very interested in and excited about something"
   },
   "ADVOCATES": {
-    "Definition": "people who publicly support it"
+    "Definition": "people who publicly support something"
   },
   "WAGING WAR": {
-    "Definition": "beginning a struggle or fight against it"
+    "Definition": "fighting a war or a strong campaign"
   },
   "SPECTRUM": {
-    "Definition": "range of possible opinions"
+    "Definition": "a range of opinions, from one extreme to the other"
   },
   "ENCOURAGE": {
-    "Definition": "recommend, advise"
+    "Definition": "try to persuade"
   },
   "SQUEEZED": {
-    "Definition": "pressed, put in a difficult position"
+    "Definition": "put under financial pressure"
   },
   "OBSOLETE": {
-    "Definition": "no longer in use"
+    "Definition": "no longer used or needed"
   },
   "EMITTING": {
-    "Definition": "releasing, sending out"
+    "Definition": "sending out a gas into the air"
   },
   "FRONT AND CENTRE": {
-    "Definition": "in the centre of attention"
+    "Definition": "in the most important position"
   },
   "PROHIBITIVELY": {
-    "Definition": "in a way that is too much"
+    "Definition": "so much that people cannot do it or afford it"
   },
   "HAIR-RAISING": {
-    "Definition": "very frightening"
+    "Definition": "frightening or shocking"
   },
   "COCKROACHES": {
-    "Definition": "large, brown or black insects"
+    "Definition": "large brown insects that often live in dirty buildings"
   },
   "MAMMALS": {
-    "Definition": "animals that give birth to babies and feed their young with milk"
+    "Definition": "animals that feed their babies with milk from their own bodies"
   },
   "THIRST": {
-    "Definition": "need to drink it"
-  },
-  "": {
-    "Definition": null
+    "Definition": "a strong desire"
   }
 }
