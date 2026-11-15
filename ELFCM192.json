@@ -1,245 +1,242 @@
 {
   "TURN TO": {
-    "Definition": "use"
+    "Definition": "go to for help or information"
   },
   "BET": {
-    "Definition": "an agreement between two people with different opinions about something that the one who is proved right will be the 'winner'"
+    "Definition": "an agreement with someone about who is right, where the loser usually pays something"
   },
   "AMBITION": {
-    "Definition": "a strong wish to do something worthy and difficult"
+    "Definition": "a strong wish to achieve something difficult"
   },
   "EVOLVING": {
-    "Definition": "developing, becoming better"
+    "Definition": "changing and developing gradually"
   },
   "ASTOUNDING": {
-    "Definition": "amazing"
+    "Definition": "extremely surprising"
   },
   "MANNED": {
-    "Definition": "run, operated"
+    "Definition": "run and operated"
   },
   "COMPREHENSIVE": {
-    "Definition": "complete"
+    "Definition": "complete and including everything"
   },
   "ACHIEVEMENT": {
-    "Definition": "something worthy and difficult to do"
+    "Definition": "something successful done through effort or skill"
   },
   "ADVERTS": {
-    "Definition": "advertisements or public announcements to make a product known"
+    "Definition": "short messages or pictures that try to sell products or services"
   },
   "ULTERIOR MOTIVE": {
-    "Definition": "a secret, usually selfish aim or plan"
+    "Definition": "a hidden reason for doing something"
   },
   "COLLATING": {
-    "Definition": "bringing together"
+    "Definition": "collecting and organising"
   },
   "ENCYCLOPEDIA": {
-    "Definition": "a book that contains information and knowledge about subjects, arranged in alphabetical order"
+    "Definition": "a large collection of facts and information about many subjects"
   },
   "ERUPTION": {
-    "Definition": "the explosion of a mountain"
+    "Definition": "a sudden explosion of fire, rock and ash from a volcano"
   },
   "LITERACY": {
     "Definition": "the ability to read and write"
   },
   "SUFFICIENTLY": {
-    "Definition": "as much as needed, enough"
+    "Definition": "enough; to the necessary amount"
   },
   "CONSULT": {
-    "Definition": "to get information from"
+    "Definition": "look at to get information or advice"
   },
   "ENCYCLOPEDIAS": {
-    "Definition": "books or sets of books that contain information and knowledge about subjects, arranged in alphabetical order"
+    "Definition": "large collections of facts and information about many subjects"
   },
   "VIVIDLY": {
-    "Definition": "clearly"
+    "Definition": "clearly and in great detail"
   },
   "DOT-COM-BOOM": {
-    "Definition": "a period of huge growth in the use of the internet"
+    "Definition": "the period in the late 1990s when internet companies grew very quickly"
   },
   "EROTIC": {
-    "Definition": "relating to sex"
+    "Definition": "intended to make people feel sexual desire"
   },
   "FINANCED": {
-    "Definition": "paid for"
+    "Definition": "paid for with money"
   },
   "SUBJECT MATTER": {
-    "Definition": "the subjects that are being talked about"
+    "Definition": "the topic or area of knowledge"
   },
   "ADHERED": {
-    "Definition": "followed closely"
+    "Definition": "followed or obeyed exactly"
+  },
+  "PUBLISHED": {
+    "Definition": "put out for the public to read"
   },
   "CROWD-SOURCED": {
-    "Definition": "relying on every expert to provide information"
+    "Definition": "created using information given by many different people"
   },
   "GUARANTEE": {
-    "Definition": "make something certain"
+    "Definition": "make certain of"
   },
   "WITH RETROSPECT": {
-    "Definition": "looking at a past event or situation"
-  },
-  "#REF!": {
-    "Definition": "#REF!"
+    "Definition": "looking back now, knowing what happened later"
   },
   "COLLATE": {
-    "Definition": "bring together"
+    "Definition": "collect and organise"
   },
   "FRUSTRATED": {
-    "Definition": "disappointed and annoyed"
+    "Definition": "annoyed and impatient because things were not going well"
   },
   "LAUNCHED": {
-    "Definition": "started"
+    "Definition": "started or introduced for the first time"
   },
   "WEB BROWSER": {
-    "Definition": "a computer program that provides access to the internet"
+    "Definition": "a computer program used to view pages on the internet"
   },
   "APPROVAL": {
-    "Definition": "the action of something being accepted"
+    "Definition": "official permission or agreement"
   },
   "CONCEPT": {
-    "Definition": "idea"
+    "Definition": "an idea or principle"
   },
   "OPEN SOURCE": {
-    "Definition": "free to use and able to be changed by anyone"
+    "Definition": "free for anyone to use, change and add to"
   },
   "SIGNIFICANTLY": {
-    "Definition": "by a large amount"
+    "Definition": "by a large amount; much"
   },
   "CONTRIBUTE": {
-    "Definition": "give something towards a common aim or desired result"
+    "Definition": "give or add something, such as work or information"
   },
   "SNOWBALL EFFECT": {
-    "Definition": "the process of something growing faster, the more it grows"
+    "Definition": "a situation where something grows faster and faster as it gets bigger"
   },
   "STAGNATING": {
-    "Definition": "staying the same, not getting any faster"
+    "Definition": "not growing or developing; staying the same"
   },
   "DEVOTED": {
-    "Definition": "given"
+    "Definition": "given or directed"
   },
   "INEVITABLY": {
-    "Definition": "in a way that it was certain to happen"
+    "Definition": "as was certain to happen"
   },
   "SPAM": {
-    "Definition": "unwanted or irrelevant information"
+    "Definition": "unwanted messages or content, often advertising, posted many times"
   },
   "ABUSE": {
-    "Definition": "the use of something for the wrong and bad purpose"
+    "Definition": "harmful, rude or dishonest use of something; (as a verb) use wrongly or dishonestly"
   },
   "MISINFORMATION": {
-    "Definition": "wrong information"
+    "Definition": "false or wrong information"
   },
   "PLAGUED": {
-    "Definition": "troubled, suffering from"
+    "Definition": "constantly troubled"
   },
   "TROLLS": {
-    "Definition": "people who post annoying, unwanted material on the internet"
+    "Definition": "people who post rude or annoying messages online to upset others"
   },
   "HONOURABLE": {
-    "Definition": "honest and fair"
+    "Definition": "good and honest; morally right"
   },
   "INTENTIONS": {
-    "Definition": "things someone wants and plans to do"
+    "Definition": "aims or plans"
   },
   "DISPIRITING": {
-    "Definition": "causing disappointment and loss of enthusiasm"
+    "Definition": "making people lose hope and enthusiasm"
   },
   "TEDIOUS": {
-    "Definition": "tiring and boring"
+    "Definition": "boring and taking too long"
   },
   "CONSTANTLY": {
-    "Definition": "all the time"
+    "Definition": "all the time; without stopping"
   },
   "FUNDED": {
     "Definition": "paid for"
   },
   "ETHOS": {
-    "Definition": "set of beliefs, ideas and standards"
+    "Definition": "a set of basic beliefs and values"
   },
   "WILLING": {
-    "Definition": "wanting"
+    "Definition": "happy or ready to do something"
   },
   "ATTEMPT": {
-    "Definition": "try"
+    "Definition": "a try or effort"
   },
   "PUTS IT INTO PERSPECTIVE": {
-    "Definition": "gives a clearer idea when compared to something similar"
+    "Definition": "shows how big or important something really is by comparing it with something else"
   },
   "TO A LESSER EXTENT": {
-    "Definition": "not so much"
+    "Definition": "not as much; in a smaller way"
   },
   "AUTOMATED": {
-    "Definition": "operated by a computer and not people"
+    "Definition": "working by itself without needing people"
   },
   "BOT": {
-    "Definition": "a computer program that works automatically, mechanically"
+    "Definition": "a computer program that does tasks by itself"
   },
   "DATABASES": {
-    "Definition": "large amounts of information kept in a computer system"
+    "Definition": "large organised collections of information stored on computers"
   },
   "CONTROVERSIAL": {
-    "Definition": "causing discussion and disagreement"
+    "Definition": "causing a lot of disagreement"
   },
   "CONTEMPLATE": {
-    "Definition": "spend time considering"
+    "Definition": "think about carefully"
   },
   "ENSURE": {
-    "Definition": "secure, make something certain"
+    "Definition": "make certain of"
   },
   "NEUTRAL": {
-    "Definition": "not supporting or favouring a side"
+    "Definition": "not supporting any side or opinion"
   },
   "PREDECESSOR": {
-    "Definition": "the website that has been followed by it"
+    "Definition": "something that came before something else and was replaced by it"
   },
   "OUTSPOKEN": {
-    "Definition": "speaking openly and strongly about something"
+    "Definition": "openly and strongly giving his opinions"
   },
   "RAN OUT OF": {
-    "Definition": "didn't have any"
+    "Definition": "used all of and had none left"
   },
   "CONTROVERSIES": {
-    "Definition": "public disagreements and arguments"
+    "Definition": "actions or events that cause a lot of public disagreement"
   },
   "NEUTRALITY": {
-    "Definition": "the state of not supporting or favouring a side"
+    "Definition": "the quality of not supporting any side or opinion"
   },
   "DEMOGRAPHICS": {
-    "Definition": "the number and characteristics of people"
+    "Definition": "facts about a group of people, such as their age, sex and background"
   },
   "COMPUTER-LITERATE": {
     "Definition": "able to use computers well"
   },
   "GOALS": {
-    "Definition": "aims or desired results"
+    "Definition": "aims; things someone wants to achieve"
   },
   "RESOLVING": {
-    "Definition": "giving a solution to a problem"
+    "Definition": "solving or dealing with"
   },
   "LACK": {
-    "Definition": "the fact that something is not available"
+    "Definition": "a shortage; not having enough"
   },
   "DIVERSITY": {
-    "Definition": "having different and various people"
+    "Definition": "a mix of people of different sexes, races and backgrounds"
   },
   "HIGHLIGHT": {
-    "Definition": "give more attention to"
+    "Definition": "give special attention to"
   },
   "REFLECTIVE": {
-    "Definition": "agreeing with the views of someone"
+    "Definition": "showing the views and character"
   },
   "REFLECTS": {
-    "Definition": "agrees with the views of someone"
+    "Definition": "shows the character and interests of"
   },
   "BATTLING": {
-    "Definition": "fighting"
+    "Definition": "fighting or struggling against"
   },
   "FREQUENT": {
-    "Definition": "regular, doing something often"
+    "Definition": "regular; doing something often"
   },
   "ESTIMATE": {
-    "Definition": "calculation or opinion about what something would be"
-  },
-  "": {
-    "Definition": null
+    "Definition": "a rough calculation or guess of an amount"
   }
 }
