@@ -1,359 +1,356 @@
 {
   "LUXURY": {
-    "Definition": "a pleasure enjoyed only rarely"
+    "Definition": "expensive comfort that most people cannot afford"
   },
   "EQUIVALENT": {
-    "Definition": "equal in value"
+    "Definition": "an amount with the same value; also (before a noun): of the same kind or quality"
   },
   "POTENTIAL": {
-    "Definition": "the ability of future success"
+    "Definition": "possible in the future, though not yet developed"
   },
   "GOODS": {
-    "Definition": "merchandise or possessions"
+    "Definition": "things that are made to be sold"
   },
   "PRESERVE": {
-    "Definition": "something considered as being exclusive to certain people"
+    "Definition": "something that only one particular group can have or do"
   },
   "PREMIUM": {
-    "Definition": "of high quality"
+    "Definition": "of higher quality and more expensive than usual"
   },
   "FANCY": {
-    "Definition": "expensive and impressive"
+    "Definition": "expensive and elegant"
   },
   "ALTITUDE": {
-    "Definition": "height above sea level"
+    "Definition": "height above the ground or the sea"
   },
   "TURBULENCE": {
-    "Definition": "unsteady or irregular movement"
+    "Definition": "sudden, rough movements of the air that shake a plane"
   },
   "HEYDAY": {
-    "Definition": "most successful period"
+    "Definition": "the time of greatest success or popularity"
   },
   "GLAMOROUS": {
-    "Definition": "attractive and exciting"
+    "Definition": "exciting and attractive, connected with style and wealth"
   },
   "TEND": {
-    "Definition": "to be likely to happen"
+    "Definition": "usually do something; be likely"
   },
   "REGULATED": {
-    "Definition": "controlled by means of rules"
+    "Definition": "controlled by official rules, especially from the government"
   },
   "PUBLIC GOOD": {
-    "Definition": "benefit of the public"
+    "Definition": "a service that benefits everyone and that the state should protect"
   },
   "FARES": {
-    "Definition": "money paid"
+    "Definition": "the prices that passengers pay for journeys"
   },
   "SCHEDULES": {
-    "Definition": "lists of planned flights including dates and times"
+    "Definition": "plans showing the times when flights leave and arrive"
   },
   "SEEK": {
-    "Definition": "try to get"
+    "Definition": "ask for; try to get"
   },
   "VIRTUALLY": {
-    "Definition": "almost, nearly"
+    "Definition": "almost completely"
   },
   "FIRST OFF": {
-    "Definition": "firstly"
+    "Definition": "to start with; firstly"
   },
   "INITIATIVE": {
-    "Definition": "new plan or action"
+    "Definition": "a new plan or set of actions to reach a goal"
   },
   "DEREGULATION": {
-    "Definition": "removal of government control or rules"
+    "Definition": "the removal of government controls from an industry"
   },
   "LEGISLATION": {
-    "Definition": "set of laws"
+    "Definition": "the laws made by a government"
   },
   "DO AWAY WITH": {
-    "Definition": "get rid of"
+    "Definition": "put an end to; remove"
   },
   "REGULATION": {
-    "Definition": "rules and control"
+    "Definition": "official control through rules"
   },
   "STIFLING": {
-    "Definition": "holding back, getting in the way of"
+    "Definition": "preventing from growing or developing"
   },
   "ALL OF A SUDDEN": {
-    "Definition": "very quickly, suddenly"
+    "Definition": "very quickly and without warning"
   },
   "WITHIN REASON": {
-    "Definition": "within reasonable or not extreme limits"
+    "Definition": "as long as it was sensible and acceptable"
   },
   "RECLINING": {
-    "Definition": "able to have the back moved into a nearly horizontal position"
+    "Definition": "with a back that can lean backwards"
   },
   "LOUNGE": {
-    "Definition": "space where people could relax"
+    "Definition": "a comfortable space for sitting and relaxing"
   },
   "DIFFERENTIATING": {
-    "Definition": "separating"
+    "Definition": "making clearly separate and unlike each other"
   },
   "PROFITABLE": {
-    "Definition": "making a profit"
+    "Definition": "making a lot of money after costs are paid"
   },
   "COMMIT": {
-    "Definition": "devote or dedicate themselves"
+    "Definition": "give full support, effort and money"
   },
   "PARADISES": {
-    "Definition": "places of great happiness"
+    "Definition": "places of perfect comfort and pleasure"
   },
   "SUPERSONIC": {
     "Definition": "faster than the speed of sound"
   },
   "SWITCH": {
-    "Definition": "change, shift"
+    "Definition": "change over"
   },
   "MONEY WERE NO OBJECT": {
-    "Definition": "money were not something to be worried about"
+    "Definition": "money were not a problem or limit"
   },
   "LEGACY": {
-    "Definition": "older, recognised and accepted"
+    "Definition": "older and traditional, from before the low-cost airlines"
   },
   "RETHINK": {
-    "Definition": "think again about"
+    "Definition": "consider again and change"
   },
   "DISRUPTED": {
-    "Definition": "prevented them from continuing as expected"
+    "Definition": "caused problems for, by changing the usual way things worked"
   },
   "ALTERNATIVE": {
-    "Definition": "another available option"
+    "Definition": "another possible choice"
   },
   "CATER": {
-    "Definition": "provide, attend to the needs of"
+    "Definition": "provide what is wanted or needed"
   },
   "TIME-POOR": {
-    "Definition": "having a little time to spare"
+    "Definition": "very busy, with few free hours"
   },
   "CASH-RICH": {
-    "Definition": "having a lot of money"
+    "Definition": "having plenty of money to spend"
   },
   "SPRUNG UP": {
-    "Definition": "came into existence"
+    "Definition": "appeared or started suddenly in large numbers"
   },
   "COMPETITIVE": {
-    "Definition": "as good as others when compared to them"
+    "Definition": "good or cheap enough to win customers from rivals"
   },
   "SO-CALLED": {
-    "Definition": "as they were called, without being necessarily true"
+    "Definition": "known by this name"
   },
   "OUTWEIGHED": {
-    "Definition": "was more than"
+    "Definition": "was greater than"
   },
   "ON BOARD": {
-    "Definition": "used aboard or on the plane"
+    "Definition": "on the plane"
   },
   "ONBOARD": {
-    "Definition": "aboard or on"
+    "Definition": "on or inside"
   },
   "COST-CUTTING": {
-    "Definition": "reducing of costs"
+    "Definition": "efforts to spend less money"
   },
   "EXTENSIVE": {
-    "Definition": "large in amount or scale"
+    "Definition": "large in amount and covering many areas"
   },
   "CUSTOMISED": {
-    "Definition": "changed or modified to suit a particular need"
+    "Definition": "changed or built to suit particular needs"
   },
   "BUDGET": {
-    "Definition": "cheap"
+    "Definition": "cheap, offering low prices"
   },
   "NEGOTIATE": {
-    "Definition": "have discussions with them in order to reach an agreement"
+    "Definition": "discuss in order to reach an agreement"
   },
   "FAVOURABLE": {
-    "Definition": "to their advantage"
+    "Definition": "good and to their advantage"
   },
   "FOUND OUT THE HARD WAY": {
-    "Definition": "learned from unpleasant experiences"
+    "Definition": "learnt something through an unpleasant experience"
   },
   "UNAWARE": {
-    "Definition": "not realising or knowing"
+    "Definition": "not knowing"
   },
   "TRANSIT": {
-    "Definition": "connecting, not direct"
+    "Definition": "connecting, where passengers change planes to continue a journey"
   },
   "INFRASTRUCTURE": {
-    "Definition": "systems and services"
+    "Definition": "the buildings, equipment and systems needed to operate"
   },
   "TURN AROUND": {
-    "Definition": "send towards a new direction"
+    "Definition": "prepare to fly again after landing"
   },
   "TARMAC": {
-    "Definition": "material used for making roads and runways for aeroplanes"
+    "Definition": "the hard surface of an airport where planes park and move"
   },
   "DELVE INTO": {
-    "Definition": "study it in detail"
+    "Definition": "look closely at; examine in detail"
   },
   "SPLITTING": {
-    "Definition": "separating"
+    "Definition": "dividing"
   },
   "ESTABLISHED": {
-    "Definition": "recognised and accepted"
+    "Definition": "having existed for a long time and being well known"
   },
   "NO FRILLS": {
-    "Definition": "basic, without extra details"
+    "Definition": "only basic, with nothing extra"
   },
   "ADDITION": {
-    "Definition": "the action of adding something to something else"
+    "Definition": "something new that was included"
   },
   "OPTING FOR": {
     "Definition": "choosing"
   },
   "SPLIT INTO": {
-    "Definition": "separated"
+    "Definition": "divided into"
   },
   "MAJORITY": {
-    "Definition": "greater number"
+    "Definition": "the larger part; most"
   },
   "MINORITY": {
-    "Definition": "smaller amount"
+    "Definition": "the smaller part; less than half"
   },
   "BREAKDOWNS": {
-    "Definition": "explanatory information or analyses"
+    "Definition": "detailed lists showing how a total is divided"
   },
   "ESTIMATES": {
-    "Definition": "guesses"
+    "Definition": "rough calculations"
   },
   "LONG-HAUL": {
-    "Definition": "lasting for a long time or going a long distance"
+    "Definition": "covering very great distances, often between continents"
   },
   "ALARMINGLY": {
-    "Definition": "in a worrying way"
+    "Definition": "surprisingly, almost worryingly"
   },
   "RACK UP": {
-    "Definition": "gradually get more"
+    "Definition": "build up quickly to a large total"
   },
   "MAKES UP": {
-    "Definition": "forms or constitutes"
+    "Definition": "forms; represents"
   },
   "FRACTIONS": {
-    "Definition": "small part"
+    "Definition": "very small parts"
   },
   "CUTTING COSTS": {
-    "Definition": "reducing costs"
+    "Definition": "reducing the money spent"
   },
   "CUT-PRICE": {
-    "Definition": "less expensive than the usual prices"
+    "Definition": "much cheaper than usual"
   },
   "THE LIE OF THE LAND": {
-    "Definition": "the way the situation is developing"
+    "Definition": "the current situation"
   },
   "COST-CONSCIOUS": {
-    "Definition": "careful about spending"
+    "Definition": "careful about how much they spend"
   },
   "HEFTY": {
-    "Definition": "large amount of"
+    "Definition": "large and costing a lot"
   },
   "THE LION’S SHARE": {
     "Definition": "the largest part"
   },
   "CAP": {
-    "Definition": "limit"
+    "Definition": "an upper limit"
   },
   "COMMODITY": {
-    "Definition": "a basic, interchangeable good"
+    "Definition": "a basic product where only the price matters"
   },
   "LONG-DISTANCE": {
-    "Definition": "relating to distant or far-away places"
+    "Definition": "going to places far away"
   },
   "TOUCH ON": {
-    "Definition": "mention quickly"
+    "Definition": "talk about briefly"
   },
   "EQUALISER": {
-    "Definition": "something that makes people equal"
+    "Definition": "something that gives everyone the same chances"
   },
   "VASTLY": {
-    "Definition": "to a great extent, a lot"
+    "Definition": "very greatly; hugely"
   },
   "ENVIRONMENTALLY FRIENDLY": {
-    "Definition": "that causes the least environmental problems, the least pollution possible"
+    "Definition": "not harmful to nature and the planet"
   },
   "FILLING": {
-    "Definition": "putting people into, using"
+    "Definition": "selling a ticket for"
   },
   "UPGRADE": {
-    "Definition": "raise to a higher standard"
+    "Definition": "move up to a better, more expensive class of seat"
   },
   "THUS": {
-    "Definition": "in this way"
+    "Definition": "in this way; as a result"
   },
   "UNCOMPETITIVE": {
-    "Definition": "not as good as others when compared to them"
+    "Definition": "too expensive to attract customers compared with rivals"
   },
   "SUFFICIENTLY": {
-    "Definition": "to a satisfying degree, enough"
+    "Definition": "enough; to the necessary degree"
   },
   "ASPIRATIONAL": {
-    "Definition": "giving hope to people who want to belong to a higher social class"
+    "Definition": "desirable, as something people wish they could have"
   },
   "LOYALTY POINTS": {
-    "Definition": "rewards for loyal customers"
+    "Definition": "rewards you build up by flying often with one airline"
   },
   "UPGRADED": {
-    "Definition": "raised to a higher standard"
+    "Definition": "moved up to a better, more expensive class of seat"
   },
   "ALIKE": {
-    "Definition": "in a similar way"
+    "Definition": "equally; in the same way"
   },
   "BLINDSIDED": {
-    "Definition": "taken by surprise"
+    "Definition": "surprised by something bad that they did not expect"
   },
   "HIT HARD": {
-    "Definition": "affected badly"
+    "Definition": "badly affected"
   },
   "GROUNDED": {
-    "Definition": "prevented, kept on the ground"
+    "Definition": "stopped from flying"
   },
   "BAILOUTS": {
-    "Definition": "financial assistance"
+    "Definition": "payments from the government to save them from failing"
   },
   "RELIANT": {
-    "Definition": "dependent on"
+    "Definition": "dependent"
   },
   "RELY": {
     "Definition": "depend"
   },
   "SEGMENT": {
-    "Definition": "group"
+    "Definition": "a group of customers within a market"
   },
   "NEGLIGENT": {
-    "Definition": "failing to give proper attention"
+    "Definition": "careless and wrong; failing to do what you should"
   },
   "CONTRIBUTORS": {
-    "Definition": "factors in the existence of"
+    "Definition": "causes; things that add to something"
   },
   "EMITTERS": {
-    "Definition": "things that spread or give out"
+    "Definition": "producers that release a gas into the air"
   },
   "MEAT-FREE": {
-    "Definition": "not containing meat"
+    "Definition": "vegetarian; with no animal flesh"
   },
   "ENTICING": {
-    "Definition": "attracting, tempting"
+    "Definition": "attracting by offering something good"
   },
   "BODES WELL": {
-    "Definition": "shows that the future will be better"
+    "Definition": "is a good sign"
   },
   "INITIATIVES": {
-    "Definition": "new plans or actions"
+    "Definition": "new plans or projects to achieve something"
   },
   "RETREAT": {
-    "Definition": "act of moving back"
+    "Definition": "a move back"
   },
   "SUSTAINABLE": {
-    "Definition": "able to continue or be maintained"
+    "Definition": "able to continue without harming the environment"
   },
   "DISRUPTION": {
-    "Definition": "problems or disturbance"
+    "Definition": "problems that stop something from working normally"
   },
   "EXOTIC": {
-    "Definition": "unusual, exciting because of being far away"
+    "Definition": "foreign, unusual and exciting"
   },
   "LOATHE": {
-    "Definition": "hate"
-  },
-  "": {
-    "Definition": null
+    "Definition": "hate very much"
   }
 }
