@@ -1,107 +1,110 @@
 {
-  "ACKNOWLEDGING": {
-    "Definition": "to accept, admit, or recognise something, or the truth or existence of something"
-  },
-  "ACTIONABLE": {
-    "Definition": "if advice is actionable, you can take action based on it"
-  },
-  "BOOST": {
-    "Definition": "to improve or increase something"
-  },
   "BUST": {
-    "Definition": "break, prove wrong"
-  },
-  "CLASSIFY": {
-    "Definition": "to divide things or people into groups according to their type, or to say which group or type something or someone belongs to"
-  },
-  "CLEAR UP": {
-    "Definition": "clarify"
-  },
-  "CLIP": {
-    "Definition": "a short part of a film or television programme"
-  },
-  "COMPONENT": {
-    "Definition": "a part that combines with other parts to form something bigger"
-  },
-  "DISTINCTIVE": {
-    "Definition": "something that is distinctive is easy to recognise because it is different from other things"
-  },
-  "DREADED": {
-    "Definition": "used to refer to something that you do not like or want"
-  },
-  "END OF": {
-    "Definition": "used to say that 'no more needs to be said'"
-  },
-  "FLUID": {
-    "Definition": "smooth and continuous"
-  },
-  "GIVE UP": {
-    "Definition": "to stop trying"
-  },
-  "IMITATING": {
-    "Definition": "to behave in a similar way to someone or something else, or to copy the speech or behaviour, etc. of someone or something"
-  },
-  "IN THE INTERESTS OF": {
-    "Definition": "in order to"
-  },
-  "LET YOU INTO": {
-    "Definition": "to tell you something (normally secret)"
-  },
-  "LIPS": {
-    "Definition": "one of the two soft, red edges of the mouth"
-  },
-  "MANAGEABLE": {
-    "Definition": "easy or possible to deal with"
-  },
-  "MIMICKING": {
-    "Definition": "copying the way in which a particular person usually speaks and moves, usually in order to make people laugh"
+    "Definition": "show to be false"
   },
   "MYTHS": {
-    "Definition": "a commonly believed but false idea"
+    "Definition": "ideas that many people believe but that are not true"
   },
-  "NECESSARILY": {
-    "Definition": "used in negatives to mean 'in every case' or 'therefore'"
+  "CLEAR UP": {
+    "Definition": "explain so that it is no longer confusing"
   },
-  "OUT LOUD": {
-    "Definition": "if you say or read something out loud, you say or read it so that other people can hear you"
-  },
-  "PAT ON THE BACK": {
-    "Definition": "(informal) praise"
-  },
-  "PINPOINT": {
-    "Definition": "to find out or say the exact position in space or time of something"
-  },
-  "REPRODUCE": {
-    "Definition": "to make again"
-  },
-  "SPEECH DEFECT": {
-    "Definition": "a difficulty in speaking clearly"
+  "DISTINCTIVE": {
+    "Definition": "special and easy to recognise"
   },
   "STRESS": {
-    "Definition": "the way that a word or syllable is pronounced with greater force than other words in the same sentence or other syllables in the same word"
+    "Definition": "the extra force put on one part of a word when saying it"
   },
-  "STRUGGLE": {
-    "Definition": "to experience difficulty and make a very great effort in order to do something"
+  "NECESSARILY": {
+    "Definition": "in every case; as an automatic result"
+  },
+  "TRUE SELF": {
+    "Definition": "the real person you are"
+  },
+  "SPEECH DEFECT": {
+    "Definition": "a physical or medical problem that makes it hard to speak clearly"
+  },
+  "GIVE UP": {
+    "Definition": "stop trying"
   },
   "SUBCONSCIOUS": {
-    "Definition": "the part of your mind that notices and remembers information when you are not actively trying to do so, and influences your behaviour even though you do not realise it"
+    "Definition": "happening in the mind without the person being aware of it"
+  },
+  "BIAS": {
+    "Definition": "an unfair tendency to favour or dislike some people"
+  },
+  "TRUSTWORTHY": {
+    "Definition": "able to be believed and relied on"
+  },
+  "TRUTHFULNESS": {
+    "Definition": "how true something is"
+  },
+  "SWITCHES OFF": {
+    "Definition": "stops paying attention"
   },
   "SWITCH OFF": {
     "Definition": "stop paying attention"
   },
-  "SWITCHES OFF": {
-    "Definition": "stop paying attention"
+  "FLUID": {
+    "Definition": "smooth and easy, without stopping"
+  },
+  "DREADED": {
+    "Definition": "greatly feared and unwelcome"
+  },
+  "STRUGGLE": {
+    "Definition": "have great difficulty"
+  },
+  "REPRODUCE": {
+    "Definition": "make again; copy"
+  },
+  "LET YOU INTO": {
+    "Definition": "tell you privately about"
+  },
+  "COMPONENT": {
+    "Definition": "separate, together making up the whole"
+  },
+  "LIPS": {
+    "Definition": "the two soft edges around the opening of your mouth"
+  },
+  "MIMICKING": {
+    "Definition": "copying the way someone speaks or behaves"
+  },
+  "IMITATING": {
+    "Definition": "copying closely; doing in the same way as"
+  },
+  "CLASSIFY": {
+    "Definition": "describe as belonging to a particular type"
+  },
+  "END OF": {
+    "Definition": "and there is nothing more to say about it"
   },
   "TONNES": {
-    "Definition": "many, a large number"
+    "Definition": "very large numbers; lots"
   },
-  "TRUE SELF": {
-    "Definition": "the real you"
+  "PINPOINT": {
+    "Definition": "find out exactly"
   },
-  "TRUSTWORTHY": {
-    "Definition": "able to be trusted"
+  "ACKNOWLEDGING": {
+    "Definition": "accepting or admitting that something is true"
   },
-  "TRUTHFULNESS": {
-    "Definition": "the quality of being honest and not containing or telling any lies"
+  "BOOST": {
+    "Definition": "increase; make stronger"
+  },
+  "OUT LOUD": {
+    "Definition": "using your voice, not silently"
+  },
+  "ACTIONABLE": {
+    "Definition": "practical, so that you can use it to make changes"
+  },
+  "PAT ON THE BACK": {
+    "Definition": "show of praise for doing something well"
+  },
+  "IN THE INTERESTS OF": {
+    "Definition": "in order to help achieve; for the purpose of"
+  },
+  "MANAGEABLE": {
+    "Definition": "reasonable; not too long or difficult to deal with"
+  },
+  "CLIP": {
+    "Definition": "a short recording"
   }
 }
