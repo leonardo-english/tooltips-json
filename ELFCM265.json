@@ -1,290 +1,284 @@
 {
   "SYNTHETIC": {
-    "Definition": "made artificially, not natural"
+    "Definition": "made artificially from chemicals, not from plants"
   },
   "OBSCURITY": {
-    "Definition": "the state of being unknown"
+    "Definition": "the state of not being well known"
   },
   "OVERTAKING": {
-    "Definition": "becoming more important than"
+    "Definition": "becoming bigger or more serious than"
   },
   "STANDALONE": {
-    "Definition": "without being connected to other episodes on the same subject"
+    "Definition": "complete on its own and not part of a series"
   },
   "RAVAGED": {
-    "Definition": "greatly damaged or harmed"
+    "Definition": "very badly damaged"
   },
   "DUO": {
-    "Definition": "pair"
+    "Definition": "a pair of things that go well together"
   },
   "RELIEVE": {
-    "Definition": "make it less strong"
+    "Definition": "reduce or take away"
   },
   "DOSE": {
-    "Definition": "measured amount"
+    "Definition": "an amount of a drug taken at one time"
   },
   "TERMINAL": {
-    "Definition": "leading to death, incurable"
+    "Definition": "that will cause death and cannot be cured"
   },
   "SETTING": {
-    "Definition": "environment, context"
+    "Definition": "a place or situation where something happens"
   },
   "COUNTLESS": {
-    "Definition": "too many to count"
+    "Definition": "very many"
   },
-  "RIPE": {
-    "Definition": "advanced"
+  "RIPE OLD AGE": {
+    "Definition": "an advanced age, after a long life"
   },
   "OBITUARY": {
-    "Definition": "public notice or announcement of his death"
+    "Definition": "a newspaper article about someone's life, written after their death"
   },
   "AFTERTHOUGHT": {
-    "Definition": "a later or secondary thought"
+    "Definition": "a small detail that seemed much less important than everything else"
   },
   "GLOWING": {
-    "Definition": "very successful"
+    "Definition": "very successful and highly praised"
   },
   "PATENTS": {
-    "Definition": "official licences to exclusively use his inventions for a period of time"
+    "Definition": "official rights to be the only one to make or sell new inventions"
   },
   "AUTHORING": {
-    "Definition": "being the writer or author of"
+    "Definition": "writing"
   },
-  "BURST ONTO": {
-    "Definition": "appeared suddenly and in a strong way"
-  },
-  "THE SCENE": {
-    "Definition": "the specific area of activity"
+  "BURST ONTO THE SCENE": {
+    "Definition": "suddenly appeared and quickly became widespread"
   },
   "HOUSEHOLD NAME": {
-    "Definition": "something very well known"
+    "Definition": "something that almost everyone has heard of"
   },
   "OVERDOSE": {
-    "Definition": "the action of taking too much of the drug"
+    "Definition": "too much of a drug taken at one time, which can cause death; also (verb): take too much of a drug"
   },
   "LEADING": {
-    "Definition": "most important or common"
+    "Definition": "main or most common"
   },
   "IN THE RIGHT HANDS": {
-    "Definition": "controlled by suitable or specialised medical personnel"
+    "Definition": "used by trained people who know what they are doing"
   },
   "CLINICAL": {
-    "Definition": "medical"
+    "Definition": "medical, as in a hospital"
   },
   "PATCH": {
-    "Definition": "a piece of material worn on the skin"
+    "Definition": "a small piece of material stuck on the skin that slowly releases a drug"
   },
   "NASAL SPRAY": {
-    "Definition": "liquid medication that can be inhaled or taken through the nose"
+    "Definition": "a liquid medicine pushed into the nose as a fine mist"
   },
   "BLOODSTREAM": {
-    "Definition": "the blood circulating or flowing through the body"
+    "Definition": "the blood moving around the body"
   },
-  "CLINICAL ENVIRONMENT, AND TAKEN RECREATIONALLY": {
-    "Definition": "a medical environment and taken for enjoyment and not for medical reasons"
+  "CLINICAL ENVIRONMENT": {
+    "Definition": "a hospital or other medical place"
   },
   "POTENCY": {
-    "Definition": "power, strength"
+    "Definition": "strength or power"
   },
   "GRAINS": {
-    "Definition": "very small pieces or particles"
+    "Definition": "very small, hard pieces"
   },
   "SNORTED": {
-    "Definition": "taken through the nose"
+    "Definition": "breathed in through the nose"
   },
   "RUSH": {
-    "Definition": "a sudden intense feeling of energy"
+    "Definition": "a sudden strong feeling of excitement and pleasure"
   },
   "HIGH": {
-    "Definition": "a sudden intense feeling of energy and happiness"
+    "Definition": "a strong feeling of pleasure and excitement caused by a drug; get high: feel this after taking a drug"
   },
   "EUPHORIA": {
-    "Definition": "extreme happiness"
+    "Definition": "a feeling of extreme happiness"
   },
   "BIND": {
-    "Definition": "stick, are attached or tied"
+    "Definition": "attach themselves firmly"
   },
   "RECEPTORS": {
-    "Definition": "organs or nerves that react to a change in the body"
+    "Definition": "parts of cells that react when certain chemicals attach to them"
   },
   "BLOCKS OUT": {
-    "Definition": "stops"
+    "Definition": "stops you from feeling"
   },
   "CONSUME": {
-    "Definition": "destroy"
+    "Definition": "take over"
   },
   "SCENE": {
-    "Definition": "specific area of activity"
+    "Definition": "the world of people and activities connected with something"
   },
   "TIGHTENING": {
-    "Definition": "the act of making them stricter or stronger"
+    "Definition": "an increase in how strict something is"
   },
   "SKYROCKETED": {
-    "Definition": "rose very quickly"
+    "Definition": "rose very quickly and by a large amount"
   },
   "STIGMA": {
-    "Definition": "strong feeling of disapproval or shame"
+    "Definition": "a feeling of shame or strong disapproval that society links to something"
   },
   "EPIDEMIC": {
-    "Definition": "the appearance of the disease in a large number of people at the same time"
+    "Definition": "a disease that spread quickly to very many people"
   },
   "HARVESTED": {
-    "Definition": "collected, gathered"
+    "Definition": "collected as a crop"
   },
   "POPPIES": {
-    "Definition": "plants with red flowers that are a source of drugs such as morphine"
+    "Definition": "plants with large, often red flowers, from which drugs such as heroin are made"
   },
   "SMUGGLED": {
-    "Definition": "illegally transferred"
+    "Definition": "taken secretly and illegally into a country"
   },
   "SHIPMENTS": {
-    "Definition": "amounts sent together"
+    "Definition": "amounts of goods sent together"
   },
   "CRACKDOWN": {
-    "Definition": "a series of stricter or stronger measures to limit illegal activity"
+    "Definition": "strong official action to stop an illegal activity"
   },
   "SUBSEQUENT": {
-    "Definition": "following"
+    "Definition": "following as a result"
   },
   "SMUGGLING": {
-    "Definition": "transferring it illegally"
+    "Definition": "taking secretly and illegally across borders"
   },
   "LOGISTICS": {
-    "Definition": "organisation"
+    "Definition": "the detailed planning and organisation needed to move goods"
   },
   "HIT": {
-    "Definition": "a single measured quantity or dose of the drug taken"
+    "Definition": "a single amount of a drug, taken in one go"
   },
   "ANTICIPATE": {
-    "Definition": "guess"
+    "Definition": "expect or predict"
   },
   "COMPARATIVELY": {
-    "Definition": "as compared to the others, relatively"
+    "Definition": "relatively; when measured against other things"
   },
   "CUTTING": {
-    "Definition": "mixing, combining"
+    "Definition": "mixing"
   },
   "KNOWINGLY": {
-    "Definition": "in a way that showed they knew about it"
+    "Definition": "while fully aware of what they are doing"
   },
   "UNKNOWINGLY": {
-    "Definition": "in a way that showed they didn't know about it"
+    "Definition": "without being aware of it"
   },
   "BATCH": {
-    "Definition": "quantity produced at one time"
+    "Definition": "an amount of something made at one time"
   },
   "LETHAL": {
-    "Definition": "able to cause death, fatal, deadly"
+    "Definition": "deadly; able to kill"
   },
   "FATALLY": {
-    "Definition": "with death as a result"
+    "Definition": "in a way that causes death"
   },
   "CUT": {
-    "Definition": "mixed, combined"
+    "Definition": "mixed"
   },
   "CADETS": {
-    "Definition": "students (in the armed forces)"
+    "Definition": "young people training to become officers in the armed forces"
   },
   "LACED": {
-    "Definition": "mixed, combined"
+    "Definition": "secretly mixed"
   },
   "MAINSTREAM": {
-    "Definition": "normal and accepted by most people"
+    "Definition": "ordinary, accepted by most people"
   },
   "TOLL": {
-    "Definition": "number of deaths"
+    "Definition": "total number"
   },
   "GRIPPING": {
-    "Definition": "hard to escape"
+    "Definition": "holding people so strongly that it is hard to get free"
   },
   "OVERWHELMINGLY": {
-    "Definition": "with a great majority, mostly"
+    "Definition": "very largely; mostly"
   },
   "MAKING UP": {
-    "Definition": "forming or constituting"
+    "Definition": "forming"
   },
   "MAKE UP": {
-    "Definition": "form or constitute"
+    "Definition": "form"
   },
   "PROPORTIONALLY": {
-    "Definition": "to the same extent"
+    "Definition": "to a degree that matches their share of the population"
   },
   "DISCRIMINATE": {
-    "Definition": "treat people in a different way"
+    "Definition": "treat some people differently from others"
   },
   "HIT ROCK BOTTOM": {
-    "Definition": "hit their lowest possible point"
+    "Definition": "reached the worst possible point in their lives"
   },
   "COMPOUNDED": {
     "Definition": "made worse"
   },
   "GRIP": {
-    "Definition": "tight hold, pressure"
+    "Definition": "strong, controlling hold"
   },
   "ANOMALY": {
-    "Definition": "unusual, not in agreement with the rest"
+    "Definition": "something that is different from what is usual"
   },
   "POLICIES": {
-    "Definition": "plans, strategies"
+    "Definition": "official plans of action"
   },
   "TAKING IT OFF": {
     "Definition": "removing it from"
   },
   "CRACKING DOWN": {
-    "Definition": "taking stronger or stricter measures against"
+    "Definition": "taking strong official action"
   },
   "PROSECUTING": {
-    "Definition": "taking them to court, bringing them to trial"
+    "Definition": "taking to court for a crime"
   },
   "IN LINE WITH": {
-    "Definition": "in agreement or accordance with"
+    "Definition": "following; matching"
   },
   "ADVOCATES": {
     "Definition": "publicly supports"
   },
   "OVERDOSES": {
-    "Definition": "actions of taking too much of the drug"
+    "Definition": "cases of taking too much of a drug at one time"
   },
   "REVERSAL": {
-    "Definition": "change to the opposite direction"
+    "Definition": "a change to the opposite direction"
   },
   "CUSTOMS OFFICIALS": {
-    "Definition": "people whose job is to check travellers' bags to make certain they are not taking illegal goods into the country"
+    "Definition": "officers who check goods coming into a country"
   },
   "THEREBY": {
-    "Definition": "as a result"
+    "Definition": "as a result of this"
   },
   "LUCRATIVE": {
-    "Definition": "producing a lot of money"
+    "Definition": "making a lot of money"
   },
   "SHORTAGE": {
-    "Definition": "a situation in which there are not enough of them"
+    "Definition": "lack"
   },
   "PUZZLE": {
-    "Definition": "problem"
+    "Definition": "a complicated problem with many parts"
   },
   "HOOKED ON": {
     "Definition": "addicted to"
   },
   "NIGH": {
-    "Definition": "near"
+    "Definition": "almost"
   },
   "ELIMINATE": {
-    "Definition": "remove"
+    "Definition": "get rid of"
   },
   "COHERENT": {
-    "Definition": "clear and carefully considered"
+    "Definition": "clear and well thought out"
   },
   "ON A HIGH NOTE": {
-    "Definition": "in a pleasant or enjoyable way"
+    "Definition": "in a positive, happy way"
   },
   "BLAME": {
-    "Definition": "be considered responsible for it"
+    "Definition": "be held responsible for something bad"
   },
   "STRUCTURAL": {
-    "Definition": "related to the way it is made or organised"
-  },
-  "": {
-    "Definition": null
+    "Definition": "relating to the basic way something is organised"
   }
 }
