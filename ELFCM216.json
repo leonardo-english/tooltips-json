@@ -1,242 +1,236 @@
 {
   "CONSUMPTION": {
-    "Definition": "the amount eaten"
+    "Definition": "the eating or using of something"
   },
   "STAPLE": {
-    "Definition": "important, main (for food)"
+    "Definition": "basic and eaten regularly"
   },
   "APPEAL TO": {
-    "Definition": "attract"
+    "Definition": "attract or interest"
   },
   "SPECTACULARLY": {
-    "Definition": "in an impressive way"
+    "Definition": "in a very dramatic and obvious way"
   },
   "CONVENIENTLY": {
-    "Definition": "in an easy way"
+    "Definition": "easily, without trouble or effort"
   },
   "MERCHANT": {
-    "Definition": "someone whose job is to sell products, a shopkeeper"
+    "Definition": "a trader who sold goods or food"
   },
   "OUT OF NECESSITY": {
-    "Definition": "because it was necessary"
+    "Definition": "because they had to"
   },
   "OUT OF CHOICE": {
-    "Definition": "because they chose to do it"
+    "Definition": "because they wanted to"
   },
   "TRACES": {
-    "Definition": "finds, tracks"
+    "Definition": "follows the history of"
   },
   "ROOTS": {
-    "Definition": "origins"
+    "Definition": "origins; the place or time where something began"
   },
   "TRACED": {
-    "Definition": "found, tracked"
+    "Definition": "followed through history"
   },
   "NOODLE": {
-    "Definition": "a narrow, long strip of food made from flour or rice"
+    "Definition": "a long, thin strip of food made from flour and water, usually boiled"
   },
   "ICONIC": {
-    "Definition": "typical and very popular"
+    "Definition": "very famous and seen as a symbol of something"
   },
   "COUNTLESS": {
-    "Definition": "too many to count"
+    "Definition": "very many"
   },
   "SMALL FRY": {
-    "Definition": "not important"
+    "Definition": "people or things of little importance"
   },
-  "PARDON": {
-    "Definition": "excuse"
-  },
-  "PUN": {
-    "Definition": "humorous use of a word that has several meanings"
+  "PARDON THE PUN": {
+    "Definition": "excuse my joke using a word with two meanings"
   },
   "MEATBALLS": {
-    "Definition": "small balls of meat"
+    "Definition": "small round pieces of finely chopped beef or pork, pressed together"
   },
   "SMASHED DOWN": {
-    "Definition": "hit hard, flattened"
+    "Definition": "pressed hard and flat"
   },
   "GRIDDLE": {
-    "Definition": "a round, flat piece of metal used for cooking"
+    "Definition": "a flat, heated metal plate used for cooking"
   },
   "FLIPPED": {
     "Definition": "turned over"
   },
   "WRAPPED": {
-    "Definition": "covered"
+    "Definition": "placed and held"
   },
   "SIGNATURE": {
-    "Definition": "characteristic, typical"
+    "Definition": "best-known and most typical"
   },
   "PATTIES": {
-    "Definition": "small flat pieces of meat"
+    "Definition": "flat, round pieces of finely chopped meat"
   },
   "EMPHASIS": {
-    "Definition": "importance or attention"
+    "Definition": "special importance or attention"
   },
   "CLEANLINESS": {
-    "Definition": "the state of being clean"
+    "Definition": "being free from dirt and germs"
   },
   "PORCELAIN": {
-    "Definition": "a hard, shiny, white substance used for making pottery and decorations"
+    "Definition": "a hard, white, shiny material made from baked clay"
   },
   "EFFICIENT": {
-    "Definition": "quick and effective"
+    "Definition": "working well and quickly without wasting time or money"
   },
   "ERA": {
-    "Definition": "period of time"
+    "Definition": "a period of time in history"
   },
   "NOVELTY": {
-    "Definition": "the quality of being new and unusual, innovation"
+    "Definition": "the quality of being new and unusual"
   },
   "CAPTIVATED": {
-    "Definition": "attracted and held their interest and attention"
+    "Definition": "attracted and held strongly"
   },
   "EQUIVALENT": {
-    "Definition": "equal in value"
+    "Definition": "the same amount in value"
   },
   "SEVERAL": {
-    "Definition": "some"
+    "Definition": "a few; more than two"
   },
   "AFFORDABLE": {
-    "Definition": "not expensive"
+    "Definition": "cheap enough for most people to pay for"
   },
   "UNFAMILIAR": {
     "Definition": "not known"
   },
   "INNOVATION": {
-    "Definition": "new idea or way of doing things"
+    "Definition": "a new idea or method"
   },
   "TAKE OFF": {
-    "Definition": "succeeded"
+    "Definition": "become successful or popular quickly"
   },
   "NATIONWIDE": {
-    "Definition": "existing in all parts of the country"
+    "Definition": "across the whole country"
   },
   "INFRASTRUCTURE": {
-    "Definition": "basic systems and organisation"
+    "Definition": "the basic systems, buildings and services needed"
   },
   "FURTHERMORE": {
-    "Definition": "in addition, what's more"
+    "Definition": "in addition; also"
   },
   "ESTABLISHED": {
-    "Definition": "accepted, settled"
+    "Definition": "long-existing and generally accepted"
   },
   "FOR THE MOST PART": {
-    "Definition": "most times"
+    "Definition": "mostly; usually"
   },
   "SHOOK": {
-    "Definition": "shocked, had a great effect on"
+    "Definition": "seriously disturbed and damaged"
   },
   "BOOM": {
-    "Definition": "growth, success"
+    "Definition": "a period of fast growth and success"
   },
   "ARRAY": {
-    "Definition": "range, variety"
+    "Definition": "range or selection"
   },
   "PROVE": {
-    "Definition": "be shown, turn out"
+    "Definition": "turn out"
   },
   "A STROKE OF GENIUS": {
-    "Definition": "a very clever and original idea"
+    "Definition": "a very clever idea or action"
   },
   "RENOVATED": {
-    "Definition": "improved"
+    "Definition": "repaired and improved"
   },
   "LAYOUT": {
-    "Definition": "the way it was arranged"
+    "Definition": "the way the parts of a place are arranged"
   },
   "ASSEMBLY LINE": {
-    "Definition": "a series or line of workers and machines"
+    "Definition": "a system where a product moves from worker to worker, each doing one task"
   },
   "COLLECT": {
-    "Definition": "get"
+    "Definition": "go and get; pick up"
   },
   "TRIMMED DOWN": {
-    "Definition": "cut down on, reduced"
+    "Definition": "reduced; made smaller"
   },
   "MERE": {
-    "Definition": "just, only"
+    "Definition": "only; as little as"
   },
   "OFFERING": {
-    "Definition": "something that was offered or presented"
+    "Definition": "a product or service for sale"
   },
   "BOOM TIME": {
-    "Definition": "a time of development and progress"
+    "Definition": "a period when the economy was growing fast and people had money"
   },
   "STOPPING OFF": {
-    "Definition": "paying a short visit while travelling"
+    "Definition": "pausing briefly during a journey"
   },
   "QUICK BITE": {
-    "Definition": "something to eat quickly"
+    "Definition": "a small, fast meal or snack"
   },
   "OUTSET": {
-    "Definition": "beginning"
+    "Definition": "the very beginning"
   },
   "COPYCATS": {
-    "Definition": "people who copied their ideas"
+    "Definition": "people or businesses who did the same as someone successful"
   },
   "DECIDEDLY": {
-    "Definition": "certainly"
+    "Definition": "clearly; definitely"
   },
   "FORMULA": {
-    "Definition": "way of doing something"
+    "Definition": "a method or plan that works well and can be repeated"
   },
   "PRINTING MONEY": {
-    "Definition": "making a lot of money"
+    "Definition": "earning huge profits very easily"
   },
   "SENSED": {
-    "Definition": "understood"
+    "Definition": "felt; realised"
   },
   "PERSUADED": {
-    "Definition": "made them do it by giving them good reasons"
+    "Definition": "convinced"
   },
   "FRANCHISING": {
-    "Definition": "that involves selling the right to sell their products to other businesses"
+    "Definition": "letting other people run local branches using the company's name, for a fee"
   },
   "SOURCING": {
-    "Definition": "finding, obtaining"
+    "Definition": "the finding and buying of supplies"
   },
   "NEGOTIATOR": {
-    "Definition": "one who arranges business by discussion"
+    "Definition": "someone who discusses deals to reach the best agreement"
   },
   "REGARDLESS": {
-    "Definition": "without being affected by, in spite"
+    "Definition": "no matter what the size"
   },
   "CREATURES OF HABIT": {
-    "Definition": "following routine, used to their own habits"
+    "Definition": "people who like to do the same things in the same way"
   },
   "NO EASY MATTER": {
-    "Definition": "not easy to do"
+    "Definition": "quite difficult; hard work"
   },
   "DRIVING OFF": {
-    "Definition": "leaving in their cars, driving away"
+    "Definition": "leaving by car"
   },
   "REVOLVES AROUND": {
-    "Definition": "has it as a main interest"
+    "Definition": "is centred on"
   },
   "SAVOURING": {
-    "Definition": "enjoying slowly"
+    "Definition": "enjoying slowly and fully"
   },
   "A MATCH MADE IN HEAVEN": {
-    "Definition": "perfect combination, things that were perfect for each other"
+    "Definition": "a perfect combination"
   },
   "CONQUER": {
-    "Definition": "gain control of, win"
+    "Definition": "win over completely"
   },
   "WHAT ALL OF THE FUSS WAS ABOUT": {
-    "Definition": "why it was so popular"
+    "Definition": "why there was so much excitement"
   },
   "CUNNING": {
-    "Definition": "clever"
+    "Definition": "clever and a little tricky"
   },
   "STATE": {
-    "Definition": "condition"
+    "Definition": "condition; situation"
   },
   "KICK OUR ADDICTION": {
-    "Definition": "overcome or free ourselves from this habit"
-  },
-  "": {
-    "Definition": null
+    "Definition": "stop our harmful habit that is very hard to break"
   }
 }
