@@ -1,191 +1,188 @@
 {
   "TYPED": {
-    "Definition": "wrote on the computer by pressing the keys"
+    "Definition": "wrote using a keyboard"
   },
   "ADAPTIVE": {
-    "Definition": "having the ability to change depending on the conditions"
+    "Definition": "changing to suit each user's needs"
   },
   "ENGAGING": {
-    "Definition": "attractive, interesting"
+    "Definition": "interesting enough to hold your attention"
   },
   "INTERACTIVE": {
-    "Definition": "allowing the involvement of the user in the exchange of information"
+    "Definition": "two-way, with the learner and the tool responding to each other"
   },
   "FRUSTRATING": {
-    "Definition": "annoying"
+    "Definition": "making you feel annoyed because they do not work as you want"
   },
   "APPROACH": {
-    "Definition": "start to deal with it"
+    "Definition": "begin to deal with or think about"
   },
   "CONSULT": {
-    "Definition": "turn to, refer to"
+    "Definition": "look at and use"
   },
   "CIRCUMSTANCES": {
-    "Definition": "conditions"
+    "Definition": "conditions or events"
   },
   "SINKING": {
-    "Definition": "going to the bottom of the sea"
+    "Definition": "going down under the water"
   },
   "OUTCOMES": {
     "Definition": "results"
   },
   "ALGORITHMS": {
-    "Definition": "sets of mathematical rules that help computers calculate an answer"
+    "Definition": "step-by-step rules that a computer follows to solve problems"
   },
   "RELIABLY": {
-    "Definition": "in a way that can be trusted"
+    "Definition": "in a way that can be trusted to work well every time"
   },
   "QUERIES": {
-    "Definition": "inquires, questions"
+    "Definition": "questions or searches"
   },
   "NO OFFENCE TO": {
-    "Definition": "without planning to upset them"
+    "Definition": "without meaning to be rude about"
   },
   "SEISMIC": {
-    "Definition": "very large"
+    "Definition": "very large and important"
   },
   "INFLUENTIAL": {
-    "Definition": "having a great effect on related things, important"
+    "Definition": "having a lot of power to change what others think or do"
   },
   "PROMPTS": {
-    "Definition": "information or messages given to a computer"
+    "Definition": "written instructions or requests given to a computer"
   },
   "POP-ART": {
-    "Definition": "art based on modern popular culture"
+    "Definition": "using bright colours and images from adverts and comic books"
   },
   "INPUTS": {
-    "Definition": "information put into the system"
+    "Definition": "information or instructions given to a computer"
   },
   "BUGS": {
-    "Definition": "errors in a computer program"
+    "Definition": "mistakes in a computer program that stop it working properly"
   },
   "ENDLESS": {
-    "Definition": "having no end, limitless"
+    "Definition": "without limit; too many to count"
   },
   "ALLERGIES": {
-    "Definition": "conditions that make people sick after eating certain foods"
+    "Definition": "bad reactions of the body to certain foods or substances"
   },
   "EXAGGERATION": {
-    "Definition": "something that makes it seem more important than it really is"
+    "Definition": "a statement that makes something seem bigger or more important than it really is"
   },
   "RELY ON": {
     "Definition": "depend on"
   },
   "TAPES": {
-    "Definition": "old media for storing audio, cassettes"
+    "Definition": "sound recordings kept in small plastic cases and played on a machine"
   },
-  "CLICK": {
-    "Definition": "an act of selecting an option by pressing a button"
+  "AT THE CLICK OF A BUTTON": {
+    "Definition": "very quickly and easily, using a computer"
   },
   "TRICKY": {
-    "Definition": "difficult"
+    "Definition": "difficult and needing care"
   },
-  "POINT YOU": {
-    "Definition": "show it to you"
+  "POINT YOU IN THE RIGHT DIRECTION": {
+    "Definition": "show you what you should do; guide you"
   },
   "LIMITING": {
-    "Definition": "restrictive"
+    "Definition": "restricting what you can do"
   },
   "VERBALLY": {
-    "Definition": "speaking, orally"
+    "Definition": "using spoken words"
   },
   "SQUIRMING": {
-    "Definition": "being uncomfortable"
+    "Definition": "moving or twisting your body because you feel uncomfortable"
   },
   "CREEPY": {
-    "Definition": "strange and frightening"
+    "Definition": "strange in a way that makes you feel uneasy or a little frightened"
   },
   "LIMITATIONS": {
-    "Definition": "restrictions"
+    "Definition": "things that stop it from being as good or useful as it could be"
   },
   "ACCESSIBLE": {
-    "Definition": "available"
+    "Definition": "easy to get or use"
   },
   "ENDLESSLY": {
-    "Definition": "without end or limit"
+    "Definition": "extremely; without any limit"
   },
   "PATIENT": {
-    "Definition": "able to wait or accept problems without being annoyed"
+    "Definition": "calm and not annoyed when things take a long time"
   },
   "DEMOCRATISING": {
-    "Definition": "making it available to everyone"
+    "Definition": "making something open and available to everyone"
   },
   "NO OBJECT": {
-    "Definition": "no longer factors"
+    "Definition": "not a problem or limit"
   },
   "INFINITELY": {
-    "Definition": "to a great degree, much"
+    "Definition": "very much; hugely"
   },
   "TONE": {
-    "Definition": "style, general character"
+    "Definition": "the style or attitude expressed in a piece of writing"
   },
   "TA-DA": {
-    "Definition": "used to call attention to something amazing"
+    "Definition": "a word said when showing something that is finished, as if by magic"
   },
   "LEVELS THE PLAYING FIELD": {
-    "Definition": "it creates a situation in which everyone has a fair and equal chance of succeeding"
+    "Definition": "makes the situation fair for everyone"
   },
   "THE ELEPHANT IN THE ROOM": {
-    "Definition": "the big problem that is not being talked about"
+    "Definition": "the obvious problem that people avoid talking about"
   },
   "PROBLEMATIC": {
-    "Definition": "causing problems or difficulties"
+    "Definition": "causing difficulties"
   },
   "PICK UP": {
-    "Definition": "learn"
+    "Definition": "learn, often without really trying"
   },
   "FORMULATE": {
-    "Definition": "create"
+    "Definition": "prepare and express carefully"
   },
   "SOME WAY OFF": {
-    "Definition": "a long distance away"
+    "Definition": "a long distance or time away"
   },
   "APPEALING": {
-    "Definition": "attractive, interesting"
+    "Definition": "attractive or interesting"
   },
   "PROPOSITION": {
-    "Definition": "suggestion, statement"
+    "Definition": "an idea or suggestion to consider"
   },
   "PUT IN": {
-    "Definition": "apply, dedicate"
+    "Definition": "give the effort needed for"
   },
   "RETAIN": {
-    "Definition": "remember"
+    "Definition": "keep in your memory"
   },
   "RETAINED": {
-    "Definition": "remembered"
+    "Definition": "kept in your memory"
   },
   "GOING IN ONE EAR AND OUT OF THE OTHER": {
-    "Definition": "forgetting it quickly"
+    "Definition": "being heard and then quickly forgotten"
   },
   "MYRIAD": {
-    "Definition": "a lot"
+    "Definition": "a very large number"
   },
   "ADMIRATION": {
     "Definition": "respect and approval"
   },
   "SATISFACTION": {
-    "Definition": "the pleasant feeling you get when you achieve something"
+    "Definition": "a good feeling that comes from achieving something"
   },
   "INTERNALISED": {
-    "Definition": "made it part of you"
+    "Definition": "made fully part of your own knowledge"
   },
   "SATISFACTORY": {
-    "Definition": "giving the pleasant feeling you get when you achieve something"
+    "Definition": "giving a feeling of pleasure and achievement"
   },
   "RELY": {
     "Definition": "depend"
   },
   "EXPLORATION": {
-    "Definition": "examination, analysis"
+    "Definition": "a careful study of a subject"
   },
   "SPOILER": {
-    "Definition": "information about an important detail that is about to be revealed before its supposed time, leading to a reduced feeling of surprise"
+    "Definition": "information that tells you what happens before you find out yourself"
   },
   "ENCOURAGE": {
-    "Definition": "recommend, advise"
-  },
-  "": {
-    "Definition": null
+    "Definition": "advise or try to persuade"
   }
 }
