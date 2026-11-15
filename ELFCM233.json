@@ -1,236 +1,233 @@
 {
   "STINK": {
-    "Definition": "a terrible smell"
+    "Definition": "a very bad smell"
   },
   "FOUL": {
-    "Definition": "extremely unpleasant"
+    "Definition": "very unpleasant and disgusting"
   },
   "ODOUR": {
-    "Definition": "smell"
+    "Definition": "a smell"
   },
   "VISIBLE": {
-    "Definition": "able to be seen"
+    "Definition": "easy to see"
   },
   "ACCOMPANYING": {
-    "Definition": "appearing at the same time"
+    "Definition": "included at the same time"
   },
   "FRAGRANCE": {
-    "Definition": "smell"
+    "Definition": "a pleasant smell"
   },
   "CIRCUMSTANCES": {
-    "Definition": "events, conditions"
+    "Definition": "the conditions and events"
   },
   "TIDAL": {
-    "Definition": "affected by the rise and fall of the water that happens twice a day due to the effect of the moon"
+    "Definition": "affected by the regular rise and fall of the sea"
   },
   "TIDE": {
-    "Definition": "the rise and fall of the sea or river that happens twice a day due to the effect of the moon"
+    "Definition": "the regular rising and falling movement of the sea"
   },
   "RUBBISH TIP": {
-    "Definition": "an area where people throw their rubbish or waste, refuse dump"
+    "Definition": "a place where waste is thrown away"
   },
   "SLAUGHTERHOUSES": {
-    "Definition": "places where animals were killed for their meat"
+    "Definition": "places where animals are killed for meat"
   },
   "FLUSHED OUT": {
-    "Definition": "led or driven by the water"
+    "Definition": "carried away by a strong rush of water"
   },
   "SUFFICIENTLY": {
-    "Definition": "enough"
+    "Definition": "enough; to the necessary degree"
   },
   "THREEFOLD": {
-    "Definition": "three times as much"
+    "Definition": "to three times the size"
   },
   "CRAMPED": {
-    "Definition": "not having enough space"
+    "Definition": "with too little space for everyone"
   },
   "CROWDED": {
     "Definition": "full of people"
   },
   "FLUSHING": {
-    "Definition": "cleaned by causing large quantities of water to fall in them"
+    "Definition": "using a rush of water to carry waste away"
   },
   "PRIMITIVE": {
-    "Definition": "not developed, basic"
+    "Definition": "very simple and basic"
   },
   "CESSPITS": {
-    "Definition": "large underground holes"
+    "Definition": "holes in the ground where waste was collected"
   },
   "OVERFLOW": {
-    "Definition": "be so full that the contents went over the sides"
+    "Definition": "become too full so that the contents spill out"
   },
   "LINKED UP": {
     "Definition": "connected"
   },
   "SEWERS": {
-    "Definition": "a system of underground pipes used to take waste away from one area to another"
+    "Definition": "pipes or channels that carry waste away"
   },
   "SEWER": {
-    "Definition": "the underground pipe used to take waste away from one area to another"
+    "Definition": "a pipe or channel that carries waste away"
   },
   "LEAK": {
-    "Definition": "allow it to escape"
+    "Definition": "let something escape through holes or cracks"
   },
   "NASTY": {
     "Definition": "very unpleasant"
   },
   "OUTBREAKS": {
-    "Definition": "sudden increases or occurrences"
+    "Definition": "sudden appearances of a disease among many people"
   },
   "DIARRHEA": {
-    "Definition": "watery and frequent flow of waste coming from the human body"
+    "Definition": "an illness in which body waste comes out often and very watery"
   },
   "PRESIDING": {
-    "Definition": "most common, dominant"
+    "Definition": "most widely accepted"
   },
   "ROTTING": {
-    "Definition": "spoiled, gone bad"
+    "Definition": "slowly going bad and breaking down"
   },
   "PLAUSIBLE": {
-    "Definition": "likely to be true"
+    "Definition": "likely to be true; believable"
   },
   "PHYSICIAN": {
-    "Definition": "a doctor who has general medical skills"
+    "Definition": "a medical doctor"
   },
   "CONTAMINATED": {
-    "Definition": "not clean, poisonous"
+    "Definition": "made dirty and unsafe by harmful substances"
   },
   "BOLD": {
-    "Definition": "brave, daring"
+    "Definition": "brave and risky"
   },
   "GET RID OF": {
-    "Definition": "be free of, do away with"
+    "Definition": "remove"
   },
   "STINKING": {
-    "Definition": "having a terrible smell"
+    "Definition": "smelling very bad"
   },
   "FLUSH": {
-    "Definition": "lead or drive by using water"
+    "Definition": "wash away, or clean, with a sudden rush of water"
   },
   "FILTHY": {
-    "Definition": "dirty"
+    "Definition": "very dirty"
   },
   "LEAKED": {
-    "Definition": "allowed it to escape"
+    "Definition": "let waste escape through holes or cracks"
   },
   "HEATWAVE": {
-    "Definition": "a period of very hot weather"
+    "Definition": "a period of unusually hot weather"
   },
   "ASSOCIATE": {
-    "Definition": "connect"
+    "Definition": "connect in your mind"
   },
   "FOR THAT MATTER": {
-    "Definition": "used to say that what is said about one thing is also true about something"
+    "Definition": "as well; too"
   },
   "SIPPING": {
-    "Definition": "drinking by taking small amounts"
+    "Definition": "drinking slowly in small amounts"
   },
   "EVAPORATE": {
-    "Definition": "become air (for a liquid)"
+    "Definition": "change from liquid into gas and disappear into the air"
   },
   "SLIME": {
-    "Definition": "a sticky unpleasant liquid substance"
+    "Definition": "a thick, wet and sticky substance"
   },
   "CERTIFY": {
-    "Definition": "confirm, verify"
+    "Definition": "state as definitely true"
   },
   "WHIFF": {
-    "Definition": "brief passing smell"
+    "Definition": "a smell that you notice for a short moment"
   },
   "SWELL": {
-    "Definition": "grow in size"
+    "Definition": "become bigger"
   },
   "PLEASURE CRUISE": {
-    "Definition": "a trip in a boat for pleasure"
+    "Definition": "a boat trip taken for enjoyment"
   },
   "BOUQUET": {
-    "Definition": "a bunch of flowers arranged in a nice way"
+    "Definition": "a neatly arranged bunch"
   },
   "AWFUL": {
-    "Definition": "very unpleasant"
+    "Definition": "very bad; terrible"
   },
   "STENCH": {
-    "Definition": "a very unpleasant smell"
+    "Definition": "a very strong and unpleasant smell"
   },
   "HANDKERCHIEFS": {
-    "Definition": "pieces of cloth or paper used for cleaning the nose or drying the eyes"
+    "Definition": "small squares of cloth used for wiping the nose"
   },
   "BUBBLING": {
-    "Definition": "containing balls of gas or air (for a liquid)"
+    "Definition": "producing small balls of gas that rise to the top"
   },
   "POUR": {
-    "Definition": "cause it to flow, spill"
+    "Definition": "empty in a steady stream"
   },
   "POURED": {
-    "Definition": "thrown (for a liquid), spilled"
+    "Definition": "emptied in a steady stream"
   },
   "OVERHAUL": {
-    "Definition": "general examination and repair"
+    "Definition": "a full repair and improvement"
   },
   "SEWAGE": {
-    "Definition": "human body waste"
+    "Definition": "waste water and human waste"
   },
   "ON THE GROUNDS": {
     "Definition": "for the reason"
   },
   "RELIVE": {
-    "Definition": "live through again"
+    "Definition": "experience again"
   },
   "COMPELLED": {
-    "Definition": "forced, pressed"
+    "Definition": "forced"
   },
   "LEGISLATE": {
-    "Definition": "make new laws"
+    "Definition": "make laws"
   },
   "NUISANCE": {
-    "Definition": "problem, annoyance"
+    "Definition": "a problem that annoys people or causes trouble"
   },
   "SHEER": {
-    "Definition": "great"
+    "Definition": "complete; nothing but"
   },
   "RECLAIM": {
-    "Definition": "make it available for human use"
+    "Definition": "take back and make usable"
   },
   "BUILT-UP": {
-    "Definition": "covered by buildings"
+    "Definition": "full of buildings"
   },
   "RECLAIMED": {
-    "Definition": "made it available for human use"
+    "Definition": "took back from the water and made usable"
   },
   "MONUMENTAL": {
-    "Definition": "very big and important"
+    "Definition": "very large and impressive"
   },
   "CONCRETE": {
-    "Definition": "a building material that becomes hard as a stone"
+    "Definition": "a hard building material made from cement, sand, small stones and water"
   },
   "WELL-SPENT": {
-    "Definition": "spent for a good reason"
+    "Definition": "used wisely and worth the cost"
   },
   "FORESIGHT": {
-    "Definition": "ability to judge or predict correctly what would be needed in the future"
+    "Definition": "the ability to see what will be needed in the future and plan for it"
   },
   "UNPRECEDENTED": {
-    "Definition": "not having happened in the past"
+    "Definition": "never done or seen before"
   },
   "PUBLIC SERVANT": {
-    "Definition": "someone who worked for the state"
+    "Definition": "someone who works for the government or a public body"
   },
   "HANDING OUT": {
-    "Definition": "giving a share of something, giving out"
+    "Definition": "giving away"
   },
   "DENIED": {
-    "Definition": "refused, rejected"
+    "Definition": "refused; not allowed"
   },
   "UNSUNG HEROES": {
-    "Definition": "people who provide great benefits but don't receive recognition or credit"
+    "Definition": "people who do great things but receive little praise"
   },
   "UNKNOWN": {
-    "Definition": "not known"
+    "Definition": "not famous; not widely recognised"
   },
   "TESTAMENT": {
-    "Definition": "something that serves as a sign or recognition of an important event"
-  },
-  "": {
-    "Definition": null
+    "Definition": "something that clearly shows the importance"
   }
 }
