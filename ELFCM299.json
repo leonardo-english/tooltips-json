@@ -1,320 +1,317 @@
 {
   "OFF-ROAD": {
-    "Definition": "for use over ground which is not smooth or even"
+    "Definition": "on rough ground away from normal roads"
   },
   "HERITAGE": {
-    "Definition": "features that have lasted and proved important"
+    "Definition": "history and traditions that come from the past"
   },
   "HEAVYWEIGHT": {
-    "Definition": "objects that are heavier than others"
+    "Definition": "most important and powerful one"
   },
   "TOWERING OVER": {
     "Definition": "being much taller than"
   },
   "HATCHBACKS": {
-    "Definition": "cars with an extra door at the back which opens upward"
+    "Definition": "cars with a door at the back that opens upwards"
   },
   "WINDING": {
-    "Definition": "involving a lot of turning"
+    "Definition": "full of bends and turns"
   },
   "STRICT": {
-    "Definition": "limiting, specific"
+    "Definition": "exact and clearly defined"
   },
   "SALOON": {
-    "Definition": "a car having a closed body and a closed separated space intended for luggage"
+    "Definition": "a normal car with four doors and a separate space for bags at the back"
   },
   "SEDAN": {
-    "Definition": "a car having a closed body and a closed separated space intended for luggage"
+    "Definition": "the American word for a normal four-door car with a separate space for bags"
   },
   "SUSPENSION": {
-    "Definition": "the system of devices by which a vehicle is supported on its wheels"
+    "Definition": "the springs and parts that connect the wheels to a car and soften bumps"
   },
   "CONQUER": {
-    "Definition": "overcome, control"
+    "Definition": "deal successfully with; get across"
   },
   "TERRAIN": {
-    "Definition": "ground, area of land"
+    "Definition": "land or ground of a particular kind"
   },
   "ORIGIN": {
-    "Definition": "beginning"
+    "Definition": "the point where something began"
   },
   "STURDY": {
-    "Definition": "strong, resilient"
+    "Definition": "strong and solid; not easily damaged"
   },
   "ROUGH": {
-    "Definition": "not even or smooth"
+    "Definition": "uneven and difficult to travel over"
   },
   "PROTOTYPE": {
-    "Definition": "first version of the vehicle"
+    "Definition": "a first version of a vehicle, made to test the design"
   },
   "TERRITORY": {
-    "Definition": "area of land"
+    "Definition": "land or ground"
   },
   "DURABLE": {
-    "Definition": "able to last"
+    "Definition": "able to last a long time without breaking"
   },
   "RELIABLE": {
-    "Definition": "able to be trusted"
+    "Definition": "that works well and does not break down"
   },
   "INFLUENCED": {
-    "Definition": "affected"
+    "Definition": "affected or shaped"
   },
   "INITIAL": {
-    "Definition": "of the beginning"
+    "Definition": "first; original"
   },
   "TRUDGING": {
-    "Definition": "moving slowly and with difficulty"
+    "Definition": "moving slowly and heavily, with effort"
   },
   "CRUISING": {
-    "Definition": "travelling with ease"
+    "Definition": "driving smoothly and comfortably"
   },
   "INNOVATIONS": {
-    "Definition": "new ideas"
+    "Definition": "new ideas and inventions"
   },
   "DEBUTED": {
-    "Definition": "was presented for the first time"
+    "Definition": "appeared for the first time"
   },
   "DITCHES": {
-    "Definition": "long, narrow holes in the ground"
+    "Definition": "long, narrow channels dug in the ground, often to carry water"
   },
   "ROVE": {
-    "Definition": "move around"
+    "Definition": "travel around freely"
   },
   "BROKE OUT": {
-    "Definition": "began suddenly"
+    "Definition": "started suddenly"
   },
   "SUITABLE": {
-    "Definition": "appropriate, acceptable"
+    "Definition": "right for a particular purpose"
   },
   "UNIMPRESSED": {
-    "Definition": "not impressed or interested in it"
+    "Definition": "not pleased or satisfied"
   },
   "TRUSTY": {
-    "Definition": "able to be trusted"
+    "Definition": "dependable and used for a long time"
   },
   "CIVILIAN": {
-    "Definition": "made for citizens and not for members of the police or the army"
+    "Definition": "for ordinary people, not for the army"
   },
   "RIGID": {
-    "Definition": "fixed, stiff or not flexible"
+    "Definition": "stiff; not bending easily"
   },
   "ADAPTED": {
-    "Definition": "changed to fit the new conditions"
+    "Definition": "changed so that it suited a new purpose"
   },
   "RIVAL": {
-    "Definition": "competitor, challenger"
+    "Definition": "a competitor"
   },
   "LUXURIOUS": {
-    "Definition": "very comfortable"
+    "Definition": "very comfortable and of high quality"
   },
   "PREDECESSOR": {
-    "Definition": "the model it replaced"
+    "Definition": "the earlier model that it replaced"
   },
   "IN LINE WITH": {
-    "Definition": "in agreement or accordance with"
+    "Definition": "to the same level as; similar to"
   },
   "UNREGULATED": {
-    "Definition": "not controlled by laws"
+    "Definition": "not controlled by official rules"
   },
   "MANDATORY": {
-    "Definition": "demanded by law"
+    "Definition": "required by law"
   },
   "MANDATES": {
     "Definition": "official orders"
   },
   "MALAISE": {
-    "Definition": "trouble, anxiety"
+    "Definition": "a general feeling of weakness and things going badly"
   },
   "ABIDE BY": {
-    "Definition": "follow, obey"
+    "Definition": "obey; follow"
   },
   "EMISSIONS": {
-    "Definition": "production or release of gas"
+    "Definition": "gases sent out into the air, especially from engines"
   },
   "CLASSIFIED": {
-    "Definition": "arranged in categories"
+    "Definition": "officially put into a group or category"
   },
   "ARCHETYPAL": {
-    "Definition": "most typical or characteristic"
+    "Definition": "very typical and well-known"
   },
   "ADJUSTMENTS": {
     "Definition": "small changes"
   },
   "COMPLY WITH": {
-    "Definition": "follow, obey"
+    "Definition": "act according to; meet the demands of"
   },
   "BRIDGED THE GAP": {
-    "Definition": "reduced the differences that separated them"
+    "Definition": "connected two different things by combining features of both"
   },
   "HATCHBACK": {
-    "Definition": "a car with an extra door at the back which opens upward"
+    "Definition": "a car with a door at the back that opens upwards"
   },
   "CRAZE": {
-    "Definition": "extreme popularity"
+    "Definition": "a period when something is extremely popular with many people"
   },
   "UNDERWAY": {
-    "Definition": "having started and being in progress"
+    "Definition": "already happening; in progress"
   },
   "EXCEEDED": {
     "Definition": "were greater than"
   },
   "TREND": {
-    "Definition": "the general direction in which people behaved"
+    "Definition": "a general change or development in a particular direction"
   },
   "PICKUPS": {
-    "Definition": "small trucks"
+    "Definition": "small trucks with an open back for carrying things"
   },
   "PHENOMENON": {
-    "Definition": "situation that exists"
+    "Definition": "something that happens and is noticed, especially something unusual"
   },
   "BOXY": {
-    "Definition": "looking like a box, having the shape of a square"
+    "Definition": "having a square, angular shape"
   },
   "NARROWER": {
-    "Definition": "having less distance from one side to the other"
+    "Definition": "less wide"
   },
   "CHAMPIONED": {
-    "Definition": "supported, promoted"
+    "Definition": "supported and favoured"
   },
   "VERSATILITY": {
-    "Definition": "able to be used for different purposes"
+    "Definition": "ability to be used for many different things"
   },
   "CARGO": {
-    "Definition": "the goods carried by a vehicle"
+    "Definition": "goods or luggage carried in a vehicle"
   },
   "TOWING": {
-    "Definition": "pulling something behind a vehicle"
+    "Definition": "pulling a trailer or another vehicle behind it"
   },
   "MARKETED": {
-    "Definition": "advertised, promoted"
+    "Definition": "advertised and sold"
   },
   "BULKIER": {
-    "Definition": "larger"
+    "Definition": "larger and heavier"
   },
   "CRITICS": {
-    "Definition": "people who express their disapproval"
+    "Definition": "people who point out the faults"
   },
   "ROLL OVER": {
-    "Definition": "turn upside down"
+    "Definition": "turn over onto their side or roof"
   },
   "PEDESTRIANS": {
-    "Definition": "people who are walking"
+    "Definition": "people walking, not in a vehicle"
   },
   "PEDESTRIAN": {
-    "Definition": "of people who were walking"
+    "Definition": "of people walking, not in a vehicle"
   },
   "FLOOD": {
-    "Definition": "appear in large amounts"
+    "Definition": "arrive in very large numbers and fill"
   },
   "COLLISIONS": {
-    "Definition": "accidents that happen when two vehicles hit each other"
+    "Definition": "crashes"
   },
   "PLOUGH": {
-    "Definition": "move with force"
+    "Definition": "move heavily and forcefully"
   },
   "WIDEN": {
-    "Definition": "make them more wide"
+    "Definition": "make bigger from side to side"
   },
   "ENLARGE": {
-    "Definition": "make them larger"
+    "Definition": "make bigger"
   },
   "INFLUX": {
-    "Definition": "arrival in large numbers"
+    "Definition": "arrival of large numbers"
   },
   "BLOAT": {
-    "Definition": "extreme amount of them"
+    "Definition": "unhealthy swelling; growth to a size that is too big"
   },
   "ACCEPTING THIS SITTING DOWN": {
-    "Definition": "accepting this without reaction"
+    "Definition": "letting this happen without fighting back"
   },
   "MOUNTED": {
-    "Definition": "climbed or moved onto"
+    "Definition": "drove up onto"
   },
   "PAVEMENT": {
-    "Definition": "the raised path on the side of the road that people walk on"
+    "Definition": "the path at the side of a road for people walking"
   },
   "CLOGGING UP": {
-    "Definition": "blocking"
+    "Definition": "blocking; filling so that nothing can move easily"
   },
   "CANCELLED OUT": {
-    "Definition": "removed"
+    "Definition": "removed the effect of, by doing the opposite"
   },
   "STUNNINGLY": {
-    "Definition": "in an impressive or very surprising way"
+    "Definition": "surprisingly; shockingly"
   },
   "BACKLASH": {
-    "Definition": "strong negative reaction"
+    "Definition": "a strong negative reaction from many people"
   },
   "CALLED FOR": {
-    "Definition": "publicly asked or demanded"
+    "Definition": "publicly asked for; demanded"
   },
   "POSE": {
-    "Definition": "cause"
+    "Definition": "create; present"
   },
   "MISLED": {
-    "Definition": "caused them to have a wrong idea or impression"
+    "Definition": "given wrong ideas to; made believe something untrue"
   },
   "MARKET": {
-    "Definition": "advertise, promote"
+    "Definition": "advertise and sell"
   },
   "FALL OFF A CLIFF": {
-    "Definition": "drop dramatically"
+    "Definition": "drop suddenly and by a very large amount"
   },
   "BACKDROP": {
-    "Definition": "background"
+    "Definition": "general situation in which something happens"
   },
   "HOSTILITY": {
-    "Definition": "negative reaction, opposition"
+    "Definition": "unfriendly or opposing feelings"
   },
   "PRESERVE": {
-    "Definition": "keep them as they are, stop further damage"
+    "Definition": "protect and keep in good condition"
   },
   "COUNTLESS": {
-    "Definition": "too many to be counted"
+    "Definition": "very many"
   },
   "BOLD": {
-    "Definition": "brave, showing no fear of taking risks"
+    "Definition": "brave and confident, perhaps taking risks"
   },
   "NOMINALLY": {
-    "Definition": "in thought, not in fact"
+    "Definition": "officially or in words, but perhaps not in reality"
   },
   "PHASING-OUT": {
-    "Definition": "removing in stages or gradually"
+    "Definition": "gradually stopping the use of"
   },
   "FATE": {
-    "Definition": "what will happen to them at the end"
+    "Definition": "what will happen to something in the future"
   },
   "PRECARIOUS": {
-    "Definition": "dangerous"
+    "Definition": "uncertain and in danger"
   },
   "IN ANTICIPATION OF": {
-    "Definition": "expecting and being prepared for"
+    "Definition": "expecting and preparing for"
   },
   "ON THE HORIZON": {
-    "Definition": "coming soon, approaching"
+    "Definition": "about to happen or appear soon"
   },
   "CLAIM": {
-    "Definition": "statement or saying showing that it is true"
+    "Definition": "a statement that something is true, though it may not be proven"
   },
   "SUSPEND": {
-    "Definition": "stop for the time being"
+    "Definition": "stop for a time"
   },
   "ERADICATE": {
-    "Definition": "remove completely"
+    "Definition": "get rid of; remove"
   },
   "MINING": {
-    "Definition": "removal of materials from the ground by digging"
+    "Definition": "digging out of the ground"
   },
   "CHOICE": {
-    "Definition": "best, prime"
+    "Definition": "preferred; most popular"
   },
   "LOATHE": {
     "Definition": "hate"
   },
   "MAKE THE SWITCH": {
-    "Definition": "make the change"
-  },
-  "": {
-    "Definition": null
+    "Definition": "change to a different type"
   }
 }
