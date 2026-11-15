@@ -1,224 +1,233 @@
 {
-  "ALIGNS": {
-    "Definition": "is similar to"
+  "ICONIC": {
+    "Definition": "very famous and seen as representing something important"
   },
-  "AMID": {
-    "Definition": "between"
+  "NICHE": {
+    "Definition": "of interest to only a small number of people"
   },
-  "APPARENT": {
-    "Definition": "able to be seen or understood"
+  "WORTH A SHOT": {
+    "Definition": "worth trying, even if it might not succeed"
   },
-  "ARMISTICE DAY": {
-    "Definition": "November 11th, when the end of The First World War is celebrated"
+  "LUMP TOGETHER": {
+    "Definition": "put into one group as if they were all the same"
   },
-  "CAMARADERIE": {
-    "Definition": "a feeling of friendliness towards people that you work or share an experience with"
+  "SENTIMENT": {
+    "Definition": "feeling or opinion"
   },
-  "CARD": {
-    "Definition": "(old fashioned) a funny or strange person"
+  "INTANGIBLE": {
+    "Definition": "vague and not physical; hard to describe exactly"
+  },
+  "FUTILE": {
+    "Definition": "pointless; achieving nothing"
+  },
+  "SERVES TO": {
+    "Definition": "acts to"
+  },
+  "PATRIOTIC": {
+    "Definition": "showing love for and loyalty to your country"
+  },
+  "IDEALS": {
+    "Definition": "beliefs about what is right and how people should live"
   },
   "CONSENSUS": {
-    "Definition": "a generally accepted opinion or decision among a group of people"
+    "Definition": "opinion shared by most people"
   },
-  "COWARD'S": {
-    "Definition": "someone who is not brave"
+  "ECHOES": {
+    "Definition": "shows or repeats the same"
+  },
+  "DUST": {
+    "Definition": "a dead body that has turned back into earth"
+  },
+  "IDEALISTIC": {
+    "Definition": "believing in perfect, noble goals that may not be realistic"
+  },
+  "CYNICAL": {
+    "Definition": "doubting that people or ideas are good or honest"
+  },
+  "RIPE OLD AGE": {
+    "Definition": "a great age (said as a joke here, as 27 is young)"
+  },
+  "APPARENT": {
+    "Definition": "clear; easy to see"
+  },
+  "SENTIMENTAL": {
+    "Definition": "based on emotion and romantic feelings rather than reality"
+  },
+  "FUTILITY": {
+    "Definition": "pointlessness; the fact of achieving nothing"
+  },
+  "NOTABLE": {
+    "Definition": "worth noticing or remembering"
+  },
+  "GENERALS": {
+    "Definition": "the most senior officers in the army"
+  },
+  "SUPERIORS": {
+    "Definition": "people of higher rank who give orders"
+  },
+  "GENERAL": {
+    "Definition": "a very senior officer in the army"
+  },
+  "LINE": {
+    "Definition": "the area where the two armies faced each other and fought"
+  },
+  "'EM": {
+    "Definition": "them (an informal spoken form)"
+  },
+  "CURSING": {
+    "Definition": "angrily saying rude and insulting things about"
+  },
+  "INCOMPETENT": {
+    "Definition": "unable to do their job properly"
+  },
+  "SWINE": {
+    "Definition": "horrible, unpleasant people (a rude word that also means pigs)"
+  },
+  "CARD": {
+    "Definition": "an amusing, slightly unusual person"
+  },
+  "GRUNTED": {
+    "Definition": "said in a short, low, rough voice"
+  },
+  "SLOGGED": {
+    "Definition": "walked with great effort for a long way"
+  },
+  "PACK": {
+    "Definition": "a large bag carried on the back"
+  },
+  "HE DID FOR THEM": {
+    "Definition": "he caused the deaths of them"
+  },
+  "TELLING": {
+    "Definition": "revealing; showing something important"
+  },
+  "OPPONENTS": {
+    "Definition": "the people they were fighting against"
+  },
+  "NO MAN'S LAND": {
+    "Definition": "the empty, dangerous ground between two enemy armies"
+  },
+  "OVER THE TOP": {
+    "Definition": "out of the trenches to attack the enemy"
+  },
+  "SLAUGHTERED": {
+    "Definition": "killed cruelly and in large numbers"
+  },
+  "TRENCHES": {
+    "Definition": "long, deep holes dug in the ground where soldiers lived and fought"
+  },
+  "GRINNED": {
+    "Definition": "smiled widely"
+  },
+  "SOUNDLY": {
+    "Definition": "deeply and peacefully"
+  },
+  "LONESOME": {
+    "Definition": "lonely and empty"
+  },
+  "WHISTLED": {
+    "Definition": "made a high musical sound by blowing through his lips"
+  },
+  "LARK": {
+    "Definition": "a small brown bird that sings early in the morning"
+  },
+  "COWED": {
+    "Definition": "frightened and without confidence"
+  },
+  "GLUM": {
+    "Definition": "sad and quiet"
+  },
+  "CRUMPS": {
+    "Definition": "loud explosions from enemy bombs (soldiers' slang)"
+  },
+  "LICE": {
+    "Definition": "tiny insects that live in hair and on the body"
+  },
+  "RUM": {
+    "Definition": "a strong alcoholic drink made from sugar"
+  },
+  "SMUG": {
+    "Definition": "too pleased with yourselves"
   },
   "COWARDS": {
     "Definition": "people who are not brave"
   },
-  "COWED": {
-    "Definition": "frightened"
+  "KINDLING": {
+    "Definition": "lighting up with excitement"
   },
-  "CRITICS": {
-    "Definition": "someone who says that they do not approve of someone or something"
+  "MARCH": {
+    "Definition": "walk together in regular steps, like soldiers"
   },
-  "CROSSES": {
-    "Definition": "the object that marks where soldiers were buried"
+  "SNEAK": {
+    "Definition": "go quietly so that no one notices"
   },
-  "CRUMPS": {
-    "Definition": "the falling of shells from artillery"
-  },
-  "CURSING": {
-    "Definition": "using a word or an expression that is not polite and shows that you are very angry"
-  },
-  "CYNIC": {
-    "Definition": "people who believe that people are only interested in themselves and are not sincere"
-  },
-  "CYNICAL": {
-    "Definition": "believing that people are only interested in themselves and are not sincere"
-  },
-  "DUST": {
-    "Definition": "dry dirt in the form of powder that covers surfaces inside a building, or very small dry pieces of earth, sand, or other substances"
-  },
-  "ECHOES": {
-    "Definition": "to express or think what someone else has said or thought"
+  "GIST": {
+    "Definition": "main or general meaning"
   },
   "ENLISTING": {
-    "Definition": "to join the army"
+    "Definition": "officially joining"
+  },
+  "OUTBREAK": {
+    "Definition": "sudden start"
+  },
+  "CRITICS": {
+    "Definition": "people who spoke out against it"
+  },
+  "CAMARADERIE": {
+    "Definition": "trust and friendship among people who work or live together"
+  },
+  "FRONT LINE": {
+    "Definition": "the place where the two armies face each other and fight"
+  },
+  "COWARD'S": {
+    "Definition": "a person who is not brave"
+  },
+  "FRONT": {
+    "Definition": "the area where the fighting happens in a war"
+  },
+  "MACHINE GUN": {
+    "Definition": "a gun that fires very quickly and without stopping"
+  },
+  "BULLETS": {
+    "Definition": "small metal objects fired from a gun"
+  },
+  "NERVE GAS": {
+    "Definition": "a poisonous gas used as a weapon that stops the body working"
+  },
+  "MUTILATED": {
+    "Definition": "badly injured, with parts of the body damaged or lost"
+  },
+  "CYNIC": {
+    "Definition": "a person who doubts that things are as good or honest as they seem"
+  },
+  "ALIGNS": {
+    "Definition": "fits; agrees"
+  },
+  "UPBEAT": {
+    "Definition": "cheerful and positive"
+  },
+  "ARMISTICE DAY": {
+    "Definition": "the day that marks the end of the fighting in the First World War"
   },
   "FLANDERS": {
-    "Definition": "a region in the south-western part of the Low Countries, now divided between Belgium (where it forms the provinces of East and West Flanders), France, and the Netherlands. It was a powerful medieval principality and the scene of prolonged fighting during the First World War"
+    "Definition": "a region of Belgium where many battles of the war were fought"
+  },
+  "POPPIES": {
+    "Definition": "bright red wild flowers"
+  },
+  "CROSSES": {
+    "Definition": "grave markers made of two pieces of wood, one across the other"
+  },
+  "LARKS": {
+    "Definition": "small brown birds known for singing"
+  },
+  "AMID": {
+    "Definition": "in the middle of; surrounded by"
+  },
+  "QUARREL": {
+    "Definition": "fight or disagreement"
   },
   "FOE": {
     "Definition": "enemy"
-  },
-  "FRONT": {
-    "Definition": "shortened version of 'front line'"
-  },
-  "FRONT LINE": {
-    "Definition": "a place where opposing armies face each other in war and where fighting happens"
-  },
-  "FUTILE": {
-    "Definition": "(of actions) having no effect or achieving nothing"
-  },
-  "FUTILITY": {
-    "Definition": "(of actions) having no effect or achieving nothing"
-  },
-  "GENERAL": {
-    "Definition": "military officers of the highest rank"
-  },
-  "GENERALS": {
-    "Definition": "military officers of the highest rank"
-  },
-  "GIST": {
-    "Definition": "the most important pieces of information about something, or general information without details"
-  },
-  "GLUM": {
-    "Definition": "disappointed or unhappy, and quiet"
-  },
-  "GRINNED": {
-    "Definition": "to smile a wide smile"
-  },
-  "GRUNTED": {
-    "Definition": "(of a pig) to make a low, rough noise"
-  },
-  "HE DID FOR THEM": {
-    "Definition": "he caused their death"
-  },
-  "ICONIC": {
-    "Definition": "very famous or popular, especially being considered to represent particular opinions or a particular time"
-  },
-  "IDEALISTIC": {
-    "Definition": "see 'ideals'"
-  },
-  "INCOMPETENT": {
-    "Definition": "not having the ability to do something as it should be done"
-  },
-  "INTANGIBLE": {
-    "Definition": "impossible to touch, to describe exactly, or to give an exact value"
-  },
-  "KINDLING": {
-    "Definition": "small dry sticks or other materials used to start a fire"
-  },
-  "LARK": {
-    "Definition": "a small, brown bird that is known for its beautiful singing"
-  },
-  "LARKS": {
-    "Definition": "a small, brown bird that is known for its beautiful singing"
-  },
-  "LICE": {
-    "Definition": "a very small insect that lives on the bodies or in the hair of people and animals"
-  },
-  "LINE": {
-    "Definition": "the line', in the context of World War One, was where the two sides fought against each other"
-  },
-  "LONESOME": {
-    "Definition": "lonely"
-  },
-  "LUMP": {
-    "Definition": "put together in the same category"
-  },
-  "MACHINE GUN": {
-    "Definition": "an automatic gun that can fire a lot of bullets one after the other very quickly"
-  },
-  "MARCH": {
-    "Definition": "walk"
-  },
-  "MUTILATED": {
-    "Definition": "severely damaged"
-  },
-  "NERVE GAS": {
-    "Definition": "a poisonous gas, often used as a weapon, that damages the nerves"
-  },
-  "NICHE": {
-    "Definition": "interesting to, aimed at, or affecting only a small number of people"
-  },
-  "NO MAN'S LAND": {
-    "Definition": "the land between the two sides in World War One"
-  },
-  "NOTABLE": {
-    "Definition": "worth remembering"
-  },
-  "OPPONENTS": {
-    "Definition": "a person you are competing against"
-  },
-  "OUTBREAK": {
-    "Definition": "the start of"
-  },
-  "OVER THE TOP": {
-    "Definition": "(of World War One) to be sent towards the enemy"
-  },
-  "PACK": {
-    "Definition": "rucksack"
-  },
-  "PATRIOTIC": {
-    "Definition": "showing love for your country and being proud of it"
-  },
-  "POPPIES": {
-    "Definition": "a plant with large, delicate flowers that are typically red and have small, black seeds"
-  },
-  "QUARREL": {
-    "Definition": "an angry disagreement between two or more people or groups"
-  },
-  "RIPE OLD AGE": {
-    "Definition": "(used here sarcastically) the condition of being very old; used especially to talk about someone who has a long healthy life"
-  },
-  "RUM": {
-    "Definition": "a strong alcoholic drink made from the juice of the sugar cane plant"
-  },
-  "SENTIMENT": {
-    "Definition": "a thought, opinion, or idea based on a feeling about a situation, or a way of thinking about something"
-  },
-  "SENTIMENTAL": {
-    "Definition": "giving too much importance to emotions, especially love or sadness"
-  },
-  "SERVES TO": {
-    "Definition": "does, achieves"
-  },
-  "SLAUGHTERED": {
-    "Definition": "killed cruelly and unfairly, especially in a war"
-  },
-  "SLOGGED": {
-    "Definition": "to travel or move with difficulty, for example through wet, sticky soil or snow, or when you are very tired"
-  },
-  "SMUG": {
-    "Definition": "too pleased or satisfied about something you have achieved or something you know"
-  },
-  "SNEAK": {
-    "Definition": "to go somewhere secretly, or to take someone or something somewhere secretly"
-  },
-  "SOUNDLY": {
-    "Definition": "completely"
-  },
-  "SUPERIORS": {
-    "Definition": "higher in rank or social position than others"
-  },
-  "SWINE": {
-    "Definition": "a person who you consider to be extremely unpleasant and unkind"
-  },
-  "TELLING": {
-    "Definition": "showing the truth about a situation or showing what someone really thinks"
-  },
-  "TRENCHES": {
-    "Definition": "a deep hole dug by soldiers and used as a place from which they can attack the enemy while being hidden"
-  },
-  "UPBEAT": {
-    "Definition": "full of hope, happiness, and good feelings"
-  },
-  "WHISTLED": {
-    "Definition": "to make a high sound by forcing air through the lips"
-  },
-  "WORTH A SHOT": {
-    "Definition": "worth trying"
   }
 }
