@@ -1,212 +1,212 @@
 {
-  "ABNORMAL": {
-    "Definition": "different from what is usual or average, especially in a way that is bad"
+  "ONGOING": {
+    "Definition": "continuing"
   },
-  "ACCOMPLISHED": {
-    "Definition": "skilled"
+  "MYTHS": {
+    "Definition": "ideas that many people believe but that are false"
   },
-  "AMORAL": {
-    "Definition": "without moral principles"
+  "FOR STARTERS": {
+    "Definition": "first of all; to begin with"
   },
-  "ANALOGY": {
-    "Definition": "a comparison between things that have similar features, often used to help explain a principle or idea"
+  "MOTIVATION": {
+    "Definition": "the wish or energy to keep doing something"
   },
-  "ARCHAIC": {
-    "Definition": "of or belonging to an ancient period in history, very old"
+  "PERSPECTIVE": {
+    "Definition": "a point of view; a way of seeing things"
   },
-  "ARSENAL": {
-    "Definition": "a building where weapons and military equipment are stored"
+  "COMING AT": {
+    "Definition": "approaching; looking at"
+  },
+  "RIDICULOUSLY": {
+    "Definition": "extremely, almost to a silly degree"
+  },
+  "BODY": {
+    "Definition": "a whole collection"
   },
   "AWFUL LOT": {
-    "Definition": "very much"
+    "Definition": "enormous number"
   },
-  "BEATS": {
-    "Definition": "is better than"
+  "ARCHAIC": {
+    "Definition": "very old and no longer used"
+  },
+  "CONJUGATIONS": {
+    "Definition": "the different forms of a verb, for example for different people or times"
+  },
+  "VARY": {
+    "Definition": "be different"
+  },
+  "NEUROSURGEON": {
+    "Definition": "a doctor who operates on the brain and nerves"
+  },
+  "KEEN INTEREST": {
+    "Definition": "a strong interest"
+  },
+  "SET": {
+    "Definition": "give"
+  },
+  "FROM SCRATCH": {
+    "Definition": "from the very beginning, with nothing"
+  },
+  "OPTIMISTIC": {
+    "Definition": "too hopeful"
+  },
+  "EMBRACE": {
+    "Definition": "happily accept"
+  },
+  "MYTH": {
+    "Definition": "an idea that many people believe but that is false"
+  },
+  "CORRELATION": {
+    "Definition": "a link between two things that change together"
+  },
+  "TEND TO": {
+    "Definition": "usually"
+  },
+  "ANALOGY": {
+    "Definition": "a comparison that shows how two things are alike"
+  },
+  "PILE": {
+    "Definition": "a number of things placed on top of each other"
+  },
+  "SCRABBLE": {
+    "Definition": "a board game in which players make words with letter tiles to score points"
   },
   "BILINGUALLY": {
     "Definition": "speaking two languages"
   },
-  "BODY": {
-    "Definition": "a large amount of something"
+  "DIDN'T HAVE A CLUE": {
+    "Definition": "had no idea at all"
   },
-  "CHORE": {
-    "Definition": "a job or piece of work that is often boring or unpleasant but needs to be done regularly"
+  "ARSENAL": {
+    "Definition": "a collection of things you have ready to use"
   },
-  "CLARIFICATION": {
-    "Definition": "see 'clarify'"
+  "PEPPERED WITH": {
+    "Definition": "containing many"
+  },
+  "PREFACE": {
+    "Definition": "introduce; begin"
+  },
+  "EXPOSURE": {
+    "Definition": "regular contact, for example by hearing and reading"
+  },
+  "MYRIAD": {
+    "Definition": "very large number"
+  },
+  "DRIFT OVER": {
+    "Definition": "pass slowly by without being noticed by"
   },
   "CLARIFY": {
-    "Definition": "to make something clear or easier to understand by giving more details or a simpler explanation"
+    "Definition": "make clear; check"
   },
-  "COME IN HANDY": {
-    "Definition": "is useful"
+  "DISRUPTIVE": {
+    "Definition": "causing interruptions and problems"
   },
-  "COMING AT": {
-    "Definition": "approaching, talking about"
+  "RATIO": {
+    "Definition": "the relationship between two amounts, showing how much bigger one is"
+  },
+  "TRICKY": {
+    "Definition": "difficult and needing care"
+  },
+  "MEMORISING": {
+    "Definition": "learning by heart"
+  },
+  "PEDDLING": {
+    "Definition": "trying to spread or sell an idea, often a false one"
+  },
+  "ACCOMPLISHED": {
+    "Definition": "skilled; good at something"
+  },
+  "CLARIFICATION": {
+    "Definition": "an explanation to make something clearer"
+  },
+  "HACKS": {
+    "Definition": "clever tricks for doing something quickly or easily"
+  },
+  "CRINGE": {
+    "Definition": "feel embarrassed or uncomfortable"
+  },
+  "FOUNDATIONS": {
+    "Definition": "basic habits and skills on which more can be built"
   },
   "COMPOUNDS": {
-    "Definition": "if something compounds, the benefits increase over time"
+    "Definition": "keeps growing faster, because each gain adds to the next"
+  },
+  "MOTIVATIONAL": {
+    "Definition": "relating to how keen you are to do something"
+  },
+  "DEMOTIVATING": {
+    "Definition": "making you lose the wish to continue"
+  },
+  "WITHOUT FURTHER ADO": {
+    "Definition": "without any more delay"
+  },
+  "CHORE": {
+    "Definition": "a boring or unpleasant task"
+  },
+  "THERE AND THEN": {
+    "Definition": "immediately, at that moment"
   },
   "COMPREHENSION": {
     "Definition": "understanding"
   },
-  "CONJUGATIONS": {
-    "Definition": "a group of verbs that conjugate in the same way"
-  },
-  "CORRELATION": {
-    "Definition": "a connection or relationship between two or more facts, numbers, etc."
-  },
-  "CRINGE": {
-    "Definition": "to feel very embarrassed"
-  },
-  "DEMOTIVATING": {
-    "Definition": "making someone less enthusiastic about a job or task"
-  },
-  "DIDN'T HAVE A CLUE": {
-    "Definition": "had no idea"
-  },
-  "DISRUPTIVE": {
-    "Definition": "causing trouble and therefore stopping something from continuing as usual"
-  },
-  "DRIFT OVER": {
-    "Definition": "to pass over without being properly absorbed or processed"
-  },
-  "EMBRACE": {
-    "Definition": "to accept something enthusiastically"
+  "VAST MAJORITY": {
+    "Definition": "largest group; almost all"
   },
   "ENCOUNTER": {
-    "Definition": "to meet"
-  },
-  "EXPOSURE": {
-    "Definition": "the fact of experiencing something or being affected by it because of being in a particular situation or place"
-  },
-  "EXTENSION": {
-    "Definition": "the act of adding to something in order to make it bigger or longer"
-  },
-  "FAR REACHING": {
-    "Definition": "something far-reaching has a great influence on many people or things"
-  },
-  "FOR STARTERS": {
-    "Definition": "used to say that something is the first in a list of things"
-  },
-  "FOUNDATIONS": {
-    "Definition": "the structures below the surface of the ground that support a building"
-  },
-  "FROM SCRATCH": {
-    "Definition": "from the beginning, without using anything that already exists"
-  },
-  "GET THE GIST": {
-    "Definition": "understand the meaning"
-  },
-  "HACKS": {
-    "Definition": "a shortcut, a good solution or piece of advice"
-  },
-  "KEEN INTEREST": {
-    "Definition": "a high level of interest"
-  },
-  "MEMORISING": {
-    "Definition": "to learn something so that you will remember it exactly"
-  },
-  "MOTIVATION": {
-    "Definition": "enthusiasm for doing something"
-  },
-  "MOTIVATIONAL": {
-    "Definition": "giving you motivation (= enthusiasm)"
-  },
-  "MYRIAD": {
-    "Definition": "a very large number of something"
-  },
-  "MYTH": {
-    "Definition": "a commonly believed but false idea"
-  },
-  "MYTHS": {
-    "Definition": "a commonly believed but false idea"
-  },
-  "NEUROSURGEON": {
-    "Definition": "a doctor who performs operations involving the brain or nerves"
-  },
-  "OBSCURE": {
-    "Definition": "not known to many people"
-  },
-  "ONGOING": {
-    "Definition": "continuing to exist or develop, or happening at the present moment"
-  },
-  "OPTIMISTIC": {
-    "Definition": "the quality of being full of hope and emphasizing the good parts of a situation, or a belief that something good will happen"
-  },
-  "PANDEMIC": {
-    "Definition": "(of a disease) existing in almost all of an area or in almost all of a group of people, animals, or plants"
-  },
-  "PANORAMA": {
-    "Definition": "a view of a wide area"
-  },
-  "PEDDLING": {
-    "Definition": "to sell things, especially by taking them to different places"
-  },
-  "PEPPERED WITH": {
-    "Definition": "filled with"
-  },
-  "PERSPECTIVE": {
-    "Definition": "a particular way of considering something"
-  },
-  "PILE": {
-    "Definition": "objects positioned one on top of another"
-  },
-  "POINTLESS": {
-    "Definition": "something that is pointless has no purpose, and it is a waste of time doing it"
-  },
-  "PREFACE": {
-    "Definition": "if you preface your words or actions with something else, you say or do this other thing first"
-  },
-  "PREFIXES": {
-    "Definition": "a letter or group of letters added to the beginning of a word to make a new word"
-  },
-  "RATIO": {
-    "Definition": "the relationship between two groups or amounts that expresses how much bigger one is than the other"
+    "Definition": "come across; see or hear"
   },
   "RE-ENCOUNTER": {
-    "Definition": "to meet again"
+    "Definition": "see or hear again"
   },
-  "REJOICE": {
-    "Definition": "to feel or show great happiness about something"
+  "BEATS": {
+    "Definition": "is better than"
   },
-  "RIDICULOUSLY": {
-    "Definition": "in a way that is stupid or unreasonable and deserves to be laughed at"
+  "EXTENSION": {
+    "Definition": "a further step that builds on something"
   },
-  "SCRABBLE": {
-    "Definition": "a brand name for a game played on a board covered in squares in which players win points by creating words from letters with different values and connecting these words with ones already on the board"
-  },
-  "SEESAW": {
-    "Definition": "a long board that children play on. The board is balanced on a central point so that when a child sits on each end they can make the board go up and down by pushing off the ground with their feet ."
-  },
-  "SET": {
-    "Definition": "give, assign"
-  },
-  "SOLIDIFY": {
-    "Definition": "to become or make something become certain"
+  "PREFIXES": {
+    "Definition": "groups of letters added to the start of a word to change its meaning"
   },
   "SUFFIXES": {
-    "Definition": "a letter or group of letters added at the end of a word to make a new word"
+    "Definition": "groups of letters added to the end of a word to change its meaning or form"
+  },
+  "COME IN HANDY": {
+    "Definition": "are useful"
+  },
+  "FAR REACHING": {
+    "Definition": "covering a large area or range"
+  },
+  "PANORAMA": {
+    "Definition": "a wide view of a whole area"
+  },
+  "PANDEMIC": {
+    "Definition": "a disease that spreads across a very wide area, such as many countries"
+  },
+  "ABNORMAL": {
+    "Definition": "not usual or typical"
+  },
+  "AMORAL": {
+    "Definition": "without any sense of right and wrong"
+  },
+  "GET THE GIST": {
+    "Definition": "understand the general idea"
+  },
+  "OBSCURE": {
+    "Definition": "not well known"
+  },
+  "SEESAW": {
+    "Definition": "a long board balanced in the middle that children ride up and down on"
   },
   "SWING": {
-    "Definition": "a seat joined by two ropes or chains to a metal bar or a tree, on which you can sit and move backwards and forwards"
+    "Definition": "a seat hanging from ropes or chains that moves backwards and forwards"
   },
-  "TEND TO": {
-    "Definition": "to be likely to behave in a particular way or have a particular characteristic"
+  "REJOICE": {
+    "Definition": "take great pleasure"
   },
-  "THERE AND THEN": {
-    "Definition": "immediately"
+  "POINTLESS": {
+    "Definition": "having no purpose or use"
   },
-  "TRICKY": {
-    "Definition": "if a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill"
-  },
-  "VARY": {
-    "Definition": "if things of the same type vary, they are different from each other, and if you vary them, you cause them to be different from each other"
-  },
-  "VAST MAJORITY": {
-    "Definition": null
-  },
-  "WITHOUT FURTHER ADO": {
-    "Definition": null
+  "SOLIDIFY": {
+    "Definition": "make firmer and more certain"
   }
 }
