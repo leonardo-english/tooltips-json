@@ -1,431 +1,425 @@
 {
   "URBAN": {
-    "Definition": "relating to a town or city"
+    "Definition": "concerned with life in towns and cities"
   },
   "MAKE UP": {
-    "Definition": "are, consist"
+    "Definition": "form; together are"
   },
   "THEMES": {
-    "Definition": "subjects, topics"
+    "Definition": "main subjects or topics"
   },
   "NOVELISTS": {
-    "Definition": "people who wrote novels"
+    "Definition": "writers of long stories in book form"
   },
   "UPBRINGING": {
-    "Definition": "the way they were raised or grew up"
+    "Definition": "the way someone is raised and taught as a child"
   },
   "INSTRUMENTAL": {
-    "Definition": "very important"
+    "Definition": "very important; playing a key part"
   },
   "SET THE SCENE": {
-    "Definition": "describe the situation and the conditions"
+    "Definition": "describe the place and situation where something happens"
   },
   "RURAL": {
-    "Definition": "in the countryside"
+    "Definition": "of the countryside, away from towns"
   },
   "PARSONAGE": {
-    "Definition": "a church house provided for a priest"
+    "Definition": "a house provided for a priest to live in"
   },
   "CLERGYMAN": {
-    "Definition": "priest"
+    "Definition": "a man who is a priest in a Christian church"
   },
   "AS A SIDE NOTE": {
-    "Definition": "in addition to, but less important than what was just being discussed, by the way"
+    "Definition": "as an extra comment that is not part of the main story"
   },
   "MOORS": {
-    "Definition": "big open areas of land that cannot be farmed and usually are left in a natural state"
+    "Definition": "large areas of open, wild land, often high up"
   },
   "MOOR": {
-    "Definition": "big open area of land that cannot be farmed and usually is left in a natural state"
+    "Definition": "a large area of open, wild land, often high up"
   },
   "EXPANSE": {
-    "Definition": "a large open area of land"
+    "Definition": "a wide, open area"
   },
   "CULTIVATED": {
-    "Definition": "farmed"
+    "Definition": "used for growing crops"
   },
   "BOGS": {
-    "Definition": "soft, wet ground, swampy area"
+    "Definition": "areas of soft, wet, muddy ground"
   },
   "BUSHES": {
-    "Definition": "low plants with many branches that arise from or near the ground"
+    "Definition": "plants like small trees with many branches close to the ground"
   },
   "HEATHER": {
-    "Definition": "a low plant, usually with small pink, purple, or white flowers"
+    "Definition": "a low wild plant with small purple, pink or white flowers"
   },
   "ISOLATED": {
-    "Definition": "far away from other places"
+    "Definition": "far away from other places and people"
   },
   "WEAVING": {
-    "Definition": "the act of making clothes using threads, knitting"
+    "Definition": "making cloth by crossing threads over and under each other"
   },
   "SUPPLEMENTED": {
-    "Definition": "added to"
+    "Definition": "added extra money to"
   },
   "MODEST": {
-    "Definition": "not large in amount"
+    "Definition": "not large; fairly small"
   },
   "VICAR": {
-    "Definition": "minister"
+    "Definition": "a priest in charge of a local church"
   },
   "ENTERPRISE": {
-    "Definition": "ability or creativity"
+    "Definition": "willingness to try new things and work hard to succeed"
   },
   "SECURE": {
-    "Definition": "succeed in obtaining or having"
+    "Definition": "get or achieve, often with effort"
   },
   "SECURING": {
-    "Definition": "succeeding in obtaining or having"
+    "Definition": "getting or achieving, often with effort"
   },
-  "UPWARDLY": {
-    "Definition": "towards a higher social class"
-  },
-  "MOBILE": {
-    "Definition": "moving"
+  "UPWARDLY MOBILE": {
+    "Definition": "moving up into a higher social class"
   },
   "PRESTIGIOUS": {
-    "Definition": "much respected and admired"
+    "Definition": "highly respected and admired"
   },
   "ASTOUNDING": {
-    "Definition": "very impressive"
+    "Definition": "extremely surprising"
   },
   "ENGAGED": {
-    "Definition": "involved in (politics)"
+    "Definition": "actively involved and interested"
   },
   "STIMULATING": {
-    "Definition": "encouraging or causing interest and enthusiasm"
+    "Definition": "full of interesting ideas that made people think"
   },
   "REWIND": {
-    "Definition": "go back"
+    "Definition": "go back in time"
   },
   "DIVE INTO": {
-    "Definition": "become involved in it with excitement"
+    "Definition": "look closely and in detail at"
   },
   "TEMPESTUOUS": {
-    "Definition": "characterised by strong feelings, emotional"
+    "Definition": "full of strong feelings and trouble"
   },
   "TRAUMATIC": {
-    "Definition": "causing emotional shock and pain"
+    "Definition": "very upsetting and shocking, causing lasting pain"
   },
   "COLOURFUL": {
-    "Definition": "full of interest, exciting"
+    "Definition": "full of interesting and exciting events"
   },
   "FEATURE": {
-    "Definition": "have a strong presence, are presented"
+    "Definition": "appear or be included"
   },
   "PROMINENTLY": {
-    "Definition": "in a way that can easily be seen"
+    "Definition": "in a way that is very noticeable"
   },
   "DISTRAUGHT": {
-    "Definition": "extremely worried"
+    "Definition": "extremely sad and upset"
   },
   "BY ALL ACCOUNTS": {
-    "Definition": "according to all of the different descriptions"
+    "Definition": "according to what everyone says"
   },
   "WIDOWED": {
-    "Definition": "having lost his wife through death"
+    "Definition": "without a wife because she had died"
   },
   "BOARDING SCHOOL": {
-    "Definition": "a school in which students lived and studied"
+    "Definition": "a school where students live during the term"
   },
   "IN EFFECT": {
-    "Definition": "in reality, in fact"
+    "Definition": "in practice; really"
   },
   "BOARDING SCHOOLS": {
-    "Definition": "schools in which students lived and studied"
+    "Definition": "schools where students live during the term"
   },
   "FEES": {
-    "Definition": "amount of money paid for the service"
+    "Definition": "amounts of money paid to attend"
   },
   "CLERGY": {
-    "Definition": "religious officials"
+    "Definition": "priests and other religious leaders as a group"
   },
   "A LIVING HELL": {
-    "Definition": "an extremely unpleasant situation"
+    "Definition": "an extremely unpleasant place to be"
   },
   "BURNT": {
-    "Definition": "destroyed by heat, overcooked"
+    "Definition": "cooked too much, so black and hard"
   },
   "BEATEN": {
-    "Definition": "physically hurt, hit"
+    "Definition": "hit many times"
   },
   "PUNISHED": {
-    "Definition": "caused to suffer when they did something wrong"
+    "Definition": "made to suffer for doing something wrong"
   },
   "CONTRACTED": {
-    "Definition": "caught or developed"
+    "Definition": "became ill with"
   },
   "TUBERCULOSIS": {
-    "Definition": "a serious infection or disease"
+    "Definition": "a serious infectious disease that mainly affects the lungs"
   },
   "IN QUICK SUCCESSION": {
-    "Definition": "following one right after the other"
+    "Definition": "one soon after the other"
   },
   "CHILLING": {
-    "Definition": "frightening, causing fear"
+    "Definition": "frightening and disturbing"
   },
   "STRIKING": {
-    "Definition": "very noticeable or obvious"
+    "Definition": "very noticeable"
   },
   "SUE": {
-    "Definition": "take legal action against"
+    "Definition": "start a legal case against"
   },
   "PORTRAYAL": {
-    "Definition": "presentation"
+    "Definition": "the way something is described or shown"
   },
   "DEAL WITH": {
     "Definition": "be about"
   },
   "CAME UP WITH": {
-    "Definition": "invented, thought up"
+    "Definition": "thought of and created"
   },
   "NOVELIST": {
-    "Definition": "a person who wrote novels"
+    "Definition": "a writer of long stories in book form"
   },
   "TO A CERTAIN DEGREE": {
-    "Definition": "to a certain level or point"
+    "Definition": "partly; in some ways"
   },
   "SPLENDIDLY": {
-    "Definition": "extremely well"
+    "Definition": "wonderfully; in a very impressive way"
   },
   "BIZARRE": {
-    "Definition": "very strange or uncommon"
+    "Definition": "very strange and unusual"
   },
   "GO ON": {
-    "Definition": "continue"
+    "Definition": "eventually come"
   },
   "CRAFT": {
-    "Definition": "art"
+    "Definition": "skill in an activity such as writing"
   },
   "SET": {
-    "Definition": "arrange, present"
+    "Definition": "place the action of"
   },
   "SELF-CONTAINED": {
-    "Definition": "complete, having all that is needed in themselves"
+    "Definition": "complete and separate from the real world"
   },
   "GET UP TO": {
-    "Definition": "be involved in"
+    "Definition": "do, especially something surprising or naughty"
   },
   "INFLUENTIAL": {
-    "Definition": "having a lot of influence or effect"
+    "Definition": "having a strong effect on what came later"
   },
   "UNSURPRISINGLY": {
-    "Definition": "in a way that was not surprising"
+    "Definition": "as you might expect"
   },
   "EMPHASISE": {
-    "Definition": "show that it is very important"
+    "Definition": "say strongly, as an important point"
   },
   "FERTILE": {
-    "Definition": "producing new ideas, creative"
+    "Definition": "full of new ideas; helping creativity grow"
   },
   "FORMAL": {
-    "Definition": "public, official"
+    "Definition": "official and organised, given in schools"
   },
   "FORMATIVE": {
-    "Definition": "having a big effect on her development"
+    "Definition": "important in shaping her character and development"
   },
   "INSPIRATIONAL": {
-    "Definition": "making her feel full of hope, encouraging"
+    "Definition": "encouraging and motivating"
   },
   "DISCIPLINE": {
-    "Definition": "control or order"
+    "Definition": "careful control and order"
   },
   "ENSURED": {
-    "Definition": "made certain that"
+    "Definition": "made certain"
   },
   "FACILITY": {
-    "Definition": "ability, skill"
+    "Definition": "ability to do something easily and well"
   },
   "SENTIMENTAL": {
-    "Definition": "relating to the emotions"
+    "Definition": "connected with feelings and emotions, especially love"
   },
   "HEADMISTRESS": {
-    "Definition": "a woman who was in charge"
+    "Definition": "a woman in charge of a school"
   },
   "TAKEN HER SERIOUSLY": {
-    "Definition": "considered her worthy of attention"
+    "Definition": "treated her ideas as important and worth attention"
   },
   "HINTED AT": {
-    "Definition": "talked about in an indirect way"
+    "Definition": "suggested indirectly"
   },
   "FAVOURABLY": {
-    "Definition": "in a way that showed his approval"
+    "Definition": "positively, in the way she hoped"
   },
   "UNRETURNED": {
-    "Definition": "not responded to, not given back"
+    "Definition": "one-sided; not felt by the other person"
   },
   "UNREQUITED": {
-    "Definition": "not responded to, not given back"
+    "Definition": "felt by one person but not by the other"
   },
   "RECURRENT": {
-    "Definition": "appearing again and again"
+    "Definition": "happening again and again"
   },
   "PURSUED": {
-    "Definition": "followed or went after"
+    "Definition": "followed, trying to succeed in"
   },
   "JOURNALS": {
-    "Definition": "newspapers or magazines"
+    "Definition": "magazines with articles on special subjects"
   },
   "TUTOR": {
-    "Definition": "private teacher"
+    "Definition": "a teacher who teaches one student or a small group"
   },
   "TUTORING": {
     "Definition": "teaching privately"
   },
   "AFFAIR": {
-    "Definition": "sexual relation"
+    "Definition": "a secret romantic relationship with someone who is married"
   },
   "STRUCK UP": {
-    "Definition": "started, began"
+    "Definition": "started, often suddenly or easily"
   },
   "SACKED": {
-    "Definition": "dismissed from employment, fired"
+    "Definition": "made to leave his job"
   },
   "MORPHINE": {
-    "Definition": "a drug made from opium"
+    "Definition": "a strong painkilling drug that people can become dependent on"
   },
   "LEAD HIM TO AN EARLY GRAVE": {
-    "Definition": "lead him to an early death"
+    "Definition": "cause him to die young"
   },
   "GOVERNESSES": {
-    "Definition": "women whose job was to teach privately and babysit"
+    "Definition": "women employed to teach and look after children in a private home"
   },
   "GOVERNESS": {
-    "Definition": "a woman whose job was to teach privately and babysit"
+    "Definition": "a woman employed to teach and look after children in a private home"
   },
   "BLEND": {
-    "Definition": "mixture, combination"
+    "Definition": "a mixture"
   },
   "CHILDMINDER": {
-    "Definition": "babysitter, someone who looks after young children"
+    "Definition": "a person paid to look after children"
   },
   "TALENTS": {
-    "Definition": "natural abilities or skills"
+    "Definition": "natural abilities to do things well"
   },
   "SUITABLE": {
-    "Definition": "fitting, appropriate"
+    "Definition": "right and proper for her position"
   },
   "FUNDING": {
-    "Definition": "providing for"
+    "Definition": "providing the money for"
   },
   "MARRIAGE PROSPECTS": {
-    "Definition": "possibilities or chances for a good marriage"
+    "Definition": "chances of finding a good husband"
   },
   "BE IN CHARGE OF": {
     "Definition": "be responsible for"
   },
   "TUTORS": {
-    "Definition": "private teachers"
+    "Definition": "teachers who teach one student or a small group"
   },
   "SUPERIOR": {
-    "Definition": "higher"
+    "Definition": "higher or better"
   },
   "CAMARADERIE": {
-    "Definition": "trust and friendship"
+    "Definition": "friendship and trust between people who spend time together"
   },
   "FEATURES": {
-    "Definition": "has a strong presence, is presented"
+    "Definition": "appears or is included"
   },
   "TO RECAP": {
-    "Definition": "to sum up or repeat the main points"
+    "Definition": "to repeat the main points briefly"
   },
   "PROSPECTS": {
-    "Definition": "good chances"
+    "Definition": "chances of success in the future"
   },
   "PEN-NAMES": {
-    "Definition": "name chosen to use instead of their real ones"
+    "Definition": "false names used by writers"
   },
   "CONSIDERABLE": {
-    "Definition": "a lot of"
+    "Definition": "large; a great deal of"
   },
   "SPECULATION": {
-    "Definition": "guessing, theories"
+    "Definition": "guessing without knowing the facts"
   },
   "CRITICS": {
-    "Definition": "people who judged the characteristic of the artistic works"
+    "Definition": "people whose job is to judge and review books and art"
   },
   "PAR EXCELLENCE": {
-    "Definition": "best example of its kind, better than others"
+    "Definition": "the best example of its kind"
   },
   "BETRAYAL": {
-    "Definition": "the act of not being loyal"
+    "Definition": "harming someone who trusted you"
   },
   "IMPRISONMENT": {
-    "Definition": "the state of being kept in prison"
+    "Definition": "being kept locked up somewhere"
   },
   "TRIALS": {
-    "Definition": "formal examinations or hearings of a criminal case in a court of law"
+    "Definition": "difficult experiences that test a person"
   },
   "CONCLUSION": {
-    "Definition": "the ending or final part"
+    "Definition": "ending"
   },
   "REVENGE": {
-    "Definition": "the action of hurting someone in return for a wrong suffered at their hands"
+    "Definition": "hurting someone because they hurt you"
   },
   "STRESS": {
-    "Definition": "give particular importance to"
+    "Definition": "point out as especially important"
   },
   "SPECTRUM": {
-    "Definition": "wide range or scope"
+    "Definition": "full range"
   },
   "FUNDAMENTAL": {
-    "Definition": "basic, very important"
+    "Definition": "basic and very important"
   },
   "RESTRAINED": {
-    "Definition": "controlled, limited"
+    "Definition": "calm and controlled, not extreme"
   },
   "INCIDENTALLY": {
-    "Definition": "speaking of which, by the way"
+    "Definition": "by the way"
   },
   "COARSE": {
-    "Definition": "rough, not smooth or soft"
+    "Definition": "rude and not polite or proper"
   },
   "ROUGH": {
-    "Definition": "not smooth or soft"
+    "Definition": "lacking politeness or gentleness"
   },
   "DOMESTIC ABUSE": {
-    "Definition": "any kind of violence in a family environment"
+    "Definition": "violence or cruelty towards a partner or family member at home"
   },
   "ADULTERY": {
-    "Definition": "sexual relations between a married person and someone other than his or her lawful husband or wife"
+    "Definition": "sex between a married person and someone who is not their husband or wife"
   },
   "TOOK THE LONDON-BASED READERSHIP AND LITERARY CRITICS BY STORM": {
-    "Definition": "quickly became very successful or popular among people in London who read, judged or reviewed them"
+    "Definition": "quickly became hugely popular with the London public and with book reviewers"
   },
   "ECCENTRICITIES": {
-    "Definition": "strange or not normal characteristics"
+    "Definition": "strange and unusual qualities"
   },
   "COARSENESS": {
-    "Definition": "the state of being rough, not smooth or soft"
+    "Definition": "a rough, rude and improper quality"
   },
   "SPELLBOUND": {
-    "Definition": "extremely interested in it, fascinated"
+    "Definition": "so fascinated that we cannot stop paying attention"
   },
   "WAS IN TEARS": {
     "Definition": "was crying"
   },
   "LITERARY SENSATION": {
-    "Definition": "a reaction of interest and excitement among readers of literature"
+    "Definition": "a writer whom everyone was excited about"
   },
   "BURY": {
-    "Definition": "put her dead body into the ground"
+    "Definition": "hold a funeral for and put in the ground"
   },
   "DEFINED": {
-    "Definition": "included or described the basic qualities of"
+    "Definition": "set the model and standard for"
   },
   "REDEFINED": {
-    "Definition": "included or described the basic qualities of it again or differently"
+    "Definition": "changed people's ideas about"
   },
   "PAVED THE WAY": {
-    "Definition": "prepared the way"
+    "Definition": "made things possible or easier"
   },
   "TALENTED": {
-    "Definition": "having the natural abilities or skills"
+    "Definition": "having great natural ability"
   },
   "ADAPTATIONS": {
-    "Definition": "films that have been based on her written works"
-  },
-  "": {
-    "Definition": null
+    "Definition": "versions of a book made for film or television"
   }
 }
