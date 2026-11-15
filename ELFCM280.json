@@ -1,320 +1,317 @@
 {
   "MONUMENTS": {
-    "Definition": "buildings with historical importance"
+    "Definition": "buildings or places that are important because of their history"
   },
   "GRUESOME": {
-    "Definition": "extremely unpleasant and shocking"
+    "Definition": "horrible and connected with death or injury"
   },
   "TORTURE": {
-    "Definition": "the act of causing great physical pain as punishment"
+    "Definition": "great pain caused on purpose to punish someone or make them give information"
   },
   "GHOSTLY": {
-    "Definition": "relating to ghosts, beings or spirits out of this world"
+    "Definition": "connected with the spirits of dead people"
   },
   "HAUNTINGS": {
-    "Definition": "appearances of spirits or ghosts"
+    "Definition": "appearances of the spirits of dead people in a place"
   },
   "DAZZLING": {
-    "Definition": "very shiny and impressive"
+    "Definition": "extremely bright, beautiful and impressive"
   },
   "DUKE": {
-    "Definition": "a person of very high rank"
+    "Definition": "a man of very high noble rank"
   },
   "REIGN": {
-    "Definition": "rule"
+    "Definition": "rule as king or queen, or the period of that rule"
   },
   "UPRISING": {
-    "Definition": "act of resistance, rebellion"
+    "Definition": "a situation in which people fight against those in power"
   },
   "LACKED": {
-    "Definition": "didn't have"
+    "Definition": "did not have"
   },
   "FORTIFICATIONS": {
-    "Definition": "defences"
+    "Definition": "walls and other strong structures built to defend a place"
   },
   "SURRENDERED": {
-    "Definition": "stopped resisting and admitted defeat"
+    "Definition": "stopped fighting and accepted defeat"
   },
   "LOYALTY": {
-    "Definition": "support, acceptance"
+    "Definition": "strong and faithful support"
   },
   "DETERMINED": {
-    "Definition": "strongly decided"
+    "Definition": "firmly decided and not willing to give up"
   },
   "MESSED WITH": {
-    "Definition": "involved with, to cause trouble to"
+    "Definition": "challenged or caused trouble for"
   },
   "RISE UP": {
-    "Definition": "resist, rebel"
+    "Definition": "start to fight as a group"
   },
   "FORTRESS": {
-    "Definition": "a large strong building designed for defence"
+    "Definition": "a large, strong building made to protect people from attack"
   },
   "FREQUENT": {
     "Definition": "happening often"
   },
   "PRECURSOR": {
-    "Definition": "the one that existed before"
+    "Definition": "something that existed before a later, similar thing and led to it"
   },
   "REMAINS": {
-    "Definition": "parts of them that continued to exist"
+    "Definition": "parts that are left after most of something has gone"
   },
   "SHORE UP": {
-    "Definition": "support, make stronger"
+    "Definition": "make stronger and more secure"
   },
   "REINFORCE": {
-    "Definition": "make it stronger"
+    "Definition": "make more solid and harder to attack"
   },
   "FORT": {
-    "Definition": "a large strong building designed for defence"
+    "Definition": "a strong building made to protect a place from attack"
   },
   "COMPLEX": {
-    "Definition": "group of buildings"
+    "Definition": "a group of connected buildings on one area of land"
   },
   "SITE": {
-    "Definition": "location"
+    "Definition": "area of land where buildings stand"
   },
   "SKYSCRAPER": {
     "Definition": "a very tall modern building"
   },
   "IMPOSING": {
-    "Definition": "impressive in appearance"
+    "Definition": "large and impressive in a way that makes people feel small"
   },
   "INTENDED": {
-    "Definition": "planned"
+    "Definition": "planned or wanted"
   },
   "BOASTED": {
-    "Definition": "presented, displayed with pride"
+    "Definition": "had (something impressive)"
   },
   "MOAT": {
-    "Definition": "a deep wide hole or ditch surrounding a castle, typically filled with water and intended as a defence against attack"
+    "Definition": "a deep, wide channel dug around a castle, often filled with water"
   },
   "DITCH": {
-    "Definition": "a narrow dug channel, a trench"
+    "Definition": "a long, narrow hole dug in the ground"
   },
   "SUMPTUOUS": {
-    "Definition": "impressive and expensive"
+    "Definition": "very rich, expensive and beautiful"
   },
   "BEAR IN MIND": {
-    "Definition": "have this in mind"
+    "Definition": "remember; keep in your thoughts"
   },
   "MONARCH": {
-    "Definition": "king or queen"
+    "Definition": "a king or queen"
   },
   "CEREMONIAL": {
-    "Definition": "relating to formal religious or public events"
+    "Definition": "used for or connected with formal traditional events"
   },
   "EXECUTED": {
-    "Definition": "killed as legal punishment"
+    "Definition": "killed as an official punishment"
   },
   "HOUSE": {
-    "Definition": "provide space for"
+    "Definition": "hold or keep"
   },
   "IN ITS OWN RIGHT": {
-    "Definition": "without having some other role, by itself"
+    "Definition": "as a thing of its own, not just as part of something else"
   },
   "POSE": {
-    "Definition": "present, constitute"
+    "Definition": "be or present"
   },
   "TREASON": {
-    "Definition": "showing no loyalty to the country or king"
+    "Definition": "the crime of acting against your own country or ruler"
   },
   "FELL OUT OF GRACE": {
-    "Definition": "fell out of favour, weren't liked any more by"
+    "Definition": "became unpopular and lost support"
   },
   "END UP": {
-    "Definition": "come to the situation of"
+    "Definition": "finally find themselves"
   },
   "GOT ON THE WRONG SIDE OF": {
-    "Definition": "caused an annoyance or anger of"
+    "Definition": "made angry or made an enemy of"
   },
   "FORGIVING": {
-    "Definition": "willing to forgive, merciful"
+    "Definition": "ready to pardon people who have done wrong"
   },
   "EXECUTION": {
-    "Definition": "killing as legal punishment"
+    "Definition": "an official killing as punishment for a crime"
   },
   "REBEL": {
-    "Definition": "a person who resisted or was opposed to the ruling authority"
+    "Definition": "a person who fights against those in power"
   },
   "EXECUTIONS": {
-    "Definition": "killings as legal punishment"
+    "Definition": "official killings as punishment for crimes"
   },
   "COMPOUND": {
-    "Definition": "group of buildings surrounded by walls"
+    "Definition": "an area with buildings surrounded by a wall or fence"
   },
   "SO MUCH SO": {
-    "Definition": "to such a great degree or extent"
+    "Definition": "to such a great degree"
   },
   "BRUTALLY": {
-    "Definition": "in a very violent way"
+    "Definition": "in a very cruel and violent way"
   },
   "CONSPIRATOR": {
-    "Definition": "a person who was secretly planning to do something bad or illegal"
+    "Definition": "a person who secretly plans with others to do something harmful or illegal"
   },
   "BLOW UP": {
-    "Definition": "destroy by causing it to explode"
+    "Definition": "destroy with explosives"
   },
   "SUBJECTED": {
-    "Definition": "put through"
+    "Definition": "made to suffer or go through"
   },
   "EXCRUCIATING": {
     "Definition": "extremely painful"
   },
   "SPELL": {
-    "Definition": "short period"
+    "Definition": "a short period of time"
   },
   "NOTABLE": {
-    "Definition": "important, deserving attention"
+    "Definition": "well-known and important"
   },
   "OUT-OF-FAVOUR": {
-    "Definition": "not liked anymore"
+    "Definition": "no longer liked or wanted by the king"
   },
   "SUPPOSEDLY": {
-    "Definition": "according to what was said, without being the truth"
+    "Definition": "as was claimed, though it may not be true"
   },
   "ASSUMED": {
-    "Definition": "believed without having proof"
+    "Definition": "believed to be true without proof"
   },
   "SKELETONS": {
-    "Definition": "their bones considered as a whole"
+    "Definition": "sets of bones of dead people"
   },
   "PARACHUTED": {
-    "Definition": "landed with the help of a special device that made him fall slowly and safely to the ground"
+    "Definition": "jumped from a plane using a large piece of cloth to fall slowly"
   },
   "FIRING SQUAD": {
-    "Definition": "a group of soldiers who were ordered to shoot him"
+    "Definition": "a group of soldiers ordered to shoot a prisoner dead"
   },
   "TWIST OF FATE": {
-    "Definition": "very unexpected turn of events"
+    "Definition": "an unexpected and strange turn of events"
   },
   "INFAMOUS": {
-    "Definition": "famous for something bad"
+    "Definition": "well known for something bad"
   },
   "STEEPED": {
-    "Definition": "completely surrounded by or involving"
+    "Definition": "deeply filled"
   },
   "TRACE": {
-    "Definition": "find the origins or begining of"
+    "Definition": "follow the path of"
   },
   "REGIMENT": {
-    "Definition": "group of soldiers"
+    "Definition": "a large group of soldiers"
   },
   "PASSED DOWN": {
-    "Definition": "given to a younger person in the family"
+    "Definition": "given from one generation to the next"
   },
   "RANK": {
-    "Definition": "a position in the armed forces"
+    "Definition": "official level or position, especially in the army"
   },
   "ROLE": {
-    "Definition": "position"
+    "Definition": "job or position"
   },
   "ASIDE FROM": {
-    "Definition": "except for, apart from"
+    "Definition": "as well as; in addition to"
   },
   "PERK": {
-    "Definition": "advantage, extra"
+    "Definition": "an extra advantage that you get from your job"
   },
   "BREWED": {
-    "Definition": "made (for a beer)"
+    "Definition": "made (of beer) from grain, water and yeast"
   },
   "RAVENS": {
-    "Definition": "a type of large black birds, large crows"
+    "Definition": "large black birds of the crow family"
   },
   "PRIZED": {
-    "Definition": "considered very valuable and important"
+    "Definition": "valued very highly"
   },
   "MIMIC": {
     "Definition": "copy"
   },
   "APPOINTING": {
-    "Definition": "officially choosing"
+    "Definition": "officially choosing someone for a job"
   },
   "MONARCHY": {
-    "Definition": "the form of government with a king or queen at the head"
+    "Definition": "the system of having a king or queen as head of the country"
   },
   "ASIDE": {
-    "Definition": "a comment or information that is not directly related to the main topic of discussion"
+    "Definition": "a short comment that is not about the main subject"
   },
   "UNKINDNESS": {
-    "Definition": "not polite, mean behaviour (in this case: the collective noun for a group of ravens)"
+    "Definition": "a name for a group of ravens (usually meaning cruel behaviour)"
   },
   "CONSPIRACY": {
-    "Definition": "the activity of secretly planning to do something bad or illegal ((in this case: the collective noun for a group of ravens))"
+    "Definition": "another name for a group of ravens (usually meaning a secret plan to do wrong)"
   },
   "CREEPY": {
-    "Definition": "strange and frightening"
+    "Definition": "strange and slightly frightening"
   },
   "HOUSED": {
-    "Definition": "provided space for"
+    "Definition": "kept; provided a place for"
   },
   "EXOTIC": {
-    "Definition": "strange and exciting because of coming from far away"
+    "Definition": "from far-away countries and unusual"
   },
   "JACKALS": {
-    "Definition": "a kind of wild dogs"
+    "Definition": "wild dogs from Africa and Asia that often eat dead animals"
   },
   "UNSUITABILITY": {
-    "Definition": "the fact of not being suitable or appropriate"
+    "Definition": "the fact of being wrong or not appropriate"
   },
   "PURPOSE-BUILT": {
-    "Definition": "built for that purpose"
+    "Definition": "made specially for a particular use"
   },
   "KEPT UNDER LOCK AND KEY": {
-    "Definition": "kept in a locked area"
+    "Definition": "kept locked away in a safe place"
   },
   "CURRENCY": {
-    "Definition": "money"
+    "Definition": "the money used in a country"
   },
   "COINS": {
-    "Definition": "small round pieces of metal that are used as money"
+    "Definition": "small, flat, round pieces of metal money"
   },
   "MINTED": {
-    "Definition": "made, produced"
+    "Definition": "made (coins) out of metal"
   },
   "FALLING OUT OF FAVOUR": {
-    "Definition": "no longer being accepted or approved by"
+    "Definition": "becoming unpopular and losing support"
   },
   "BANQUET": {
-    "Definition": "large meal"
+    "Definition": "a large formal meal for many people"
   },
   "JAILORS": {
-    "Definition": "the persons in charge of the jail and the prisoners"
+    "Definition": "people in charge of guarding prisoners"
   },
   "BARRELS": {
-    "Definition": "large round containers usually made of wood"
+    "Definition": "large round wooden containers for liquids"
   },
   "LOWER HIMSELF": {
-    "Definition": "move himself slowly down"
+    "Definition": "let himself down slowly"
   },
   "MINT": {
-    "Definition": "a place where money is produced or coined"
+    "Definition": "a place where coins are made"
   },
   "SPANNING": {
-    "Definition": "covering"
+    "Definition": "covering a period of"
   },
   "IT’S LITTLE WONDER": {
-    "Definition": "it's not surprising"
+    "Definition": "it is not surprising"
   },
   "MONUMENT": {
-    "Definition": "building with historical importance"
+    "Definition": "a building or place that is important because of its history"
   },
   "STRIKE UP": {
-    "Definition": "begin (a conversation)"
+    "Definition": "start"
   },
   "KEEP A LOOKOUT": {
     "Definition": "watch carefully"
   },
   "LANDMARK": {
-    "Definition": "a building or location of historical importance"
+    "Definition": "a famous building that is easy to recognise"
   },
   "QUIRKY": {
-    "Definition": "strange"
+    "Definition": "unusual in an interesting way"
   },
   "THE TOURIST TRAIL": {
-    "Definition": "a path or route designed especially to guide and inform tourists"
-  },
-  "": {
-    "Definition": null
+    "Definition": "the usual places that tourists visit"
   }
 }
