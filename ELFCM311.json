@@ -1,248 +1,245 @@
 {
   "WEREWOLVES": {
-    "Definition": "humans who have the power to turn into wolves"
+    "Definition": "humans who can change into wolves"
   },
   "LIVESTOCK": {
-    "Definition": "domestic or farm animals"
+    "Definition": "farm animals kept for food, milk, wool or work"
   },
   "WONDER": {
-    "Definition": "ask themselves, think about"
+    "Definition": "think about and try to guess"
   },
   "CASUALTIES": {
-    "Definition": "people killed"
+    "Definition": "people who are killed or injured"
   },
   "RIPPED": {
-    "Definition": "pulled, torn"
+    "Definition": "torn or pulled violently"
   },
   "WOMBS": {
-    "Definition": "the organs in which babies grow until birth"
+    "Definition": "the organs inside women's bodies where babies grow before birth"
   },
   "STRANGLED": {
-    "Definition": "killed by having the neck squeezed or pressed"
+    "Definition": "killed by having their necks squeezed so they could not breathe"
   },
   "DISEMBOWELLED": {
-    "Definition": "having their organs removed"
+    "Definition": "emptied of their inner organs"
   },
   "DEMON": {
-    "Definition": "evil spirit, devil"
+    "Definition": "an evil spirit"
   },
   "WEREWOLF": {
-    "Definition": "a man who had turned into a wolf"
+    "Definition": "a human who can change into a wolf"
   },
   "FEARSOME": {
-    "Definition": "causing fear"
+    "Definition": "frightening and dangerous-looking"
   },
   "KEPT HIMSELF TO HIMSELF": {
-    "Definition": "didn't have much contact or socialise with other people"
+    "Definition": "avoided other people and lived a very private life"
   },
   "CAME TO A HEAD": {
-    "Definition": "reached their limit"
+    "Definition": "reached a serious point where something had to happen"
   },
   "COMMOTION": {
-    "Definition": "a state of confusion and noise"
+    "Definition": "noisy confusion and excitement"
   },
   "CHOPPED OFF": {
-    "Definition": "removed by cutting"
+    "Definition": "removed with a quick, heavy cut"
   },
   "PAWS": {
-    "Definition": "feet that had claws (big sharp nails)"
+    "Definition": "the feet of an animal such as a dog or wolf"
   },
   "COINCIDENTAL": {
-    "Definition": "happening at the same time"
+    "Definition": "seeming to happen by chance at the same time"
   },
   "ABSENCE": {
-    "Definition": "the fact that he wasn't there"
+    "Definition": "not being present"
   },
   "WOUND": {
-    "Definition": "injury"
+    "Definition": "an injury where the body is cut or damaged"
   },
   "INTERROGATION": {
-    "Definition": "questioning"
+    "Definition": "long and forceful questioning by people in authority"
   },
   "FUR": {
-    "Definition": "the thick hair of the animal"
+    "Definition": "the thick hair that covers an animal's body"
   },
   "FEROCIOUS": {
-    "Definition": "frightening and violent"
+    "Definition": "very fierce and violent"
   },
   "GRISLY": {
-    "Definition": "horrible and involving death and blood"
+    "Definition": "extremely unpleasant because it involves death or violence"
   },
   "LENIENT": {
-    "Definition": "forgiving, merciful"
+    "Definition": "gentle and not harsh"
   },
   "STRAPPED": {
-    "Definition": "tied"
+    "Definition": "tied tightly with strong strips of leather or cloth"
   },
   "FLESH": {
-    "Definition": "the soft part of his body that was between the skin and the bones, tissue"
+    "Definition": "the soft parts of the body that cover the bones"
   },
   "ENSURE": {
-    "Definition": "make it certain to happen"
+    "Definition": "make certain"
   },
   "GRUESOME": {
-    "Definition": "causing horror and shock"
+    "Definition": "very unpleasant and shocking because it involves death or injury"
   },
   "CAST DOUBTS": {
-    "Definition": "made people feel uncertain"
+    "Definition": "expressed uncertainty"
   },
   "REWIND": {
-    "Definition": "go back"
+    "Definition": "go back in time"
   },
   "BANQUET": {
-    "Definition": "a large formal meal"
+    "Definition": "a large, formal meal for many guests"
   },
   "IMMORTALISED": {
-    "Definition": "made to last forever"
+    "Definition": "recorded so that it would be remembered forever"
   },
-  "A KILLING SPREE": {
-    "Definition": "a series of killings"
+  "KILLING SPREE": {
+    "Definition": "a period of killing many people one after another"
   },
   "TURNED ON": {
-    "Definition": "attacked"
+    "Definition": "suddenly attacked"
   },
   "RAVENOUS": {
     "Definition": "extremely hungry"
   },
   "ISOLATED": {
-    "Definition": "single, only"
+    "Definition": "single and unusual; not part of a pattern"
   },
   "STEMMED": {
-    "Definition": "originated or come from"
+    "Definition": "come or developed"
   },
   "RABIES": {
-    "Definition": "a serious disease that can be passed to humans by animals and affects the nervous system"
+    "Definition": "a serious disease of the brain that is spread by animal bites"
   },
   "SALIVA": {
     "Definition": "the watery liquid produced in the mouth"
   },
   "HALLUCINATIONS": {
-    "Definition": "experiences of something that does not actually exist"
+    "Definition": "experiences of seeing or hearing things that are not really there"
   },
   "FROTHING": {
-    "Definition": "releasing small, white bubbles"
+    "Definition": "producing lots of small white bubbles"
   },
   "DRIBBLING": {
-    "Definition": "falling slowly in drops"
+    "Definition": "letting liquid run out of the mouth and down the chin"
   },
   "SYMPTOMS": {
-    "Definition": "signs, indications of an illness"
+    "Definition": "signs of an illness"
   },
   "RESEMBLES": {
     "Definition": "looks like"
   },
   "FREAKSHOWS": {
-    "Definition": "shows featuring people that had not developed normally"
+    "Definition": "public displays of people with unusual bodies, put on for entertainment"
   },
   "TRIVIA": {
-    "Definition": "less important details or information"
+    "Definition": "interesting but unimportant facts"
   },
   "HOWLING": {
-    "Definition": "producing long sad cries as wolves do"
+    "Definition": "making a long, loud crying sound like a wolf"
   },
   "SYMPTOM": {
-    "Definition": "sign, indication"
+    "Definition": "a sign of an illness"
   },
   "EXHIBITING": {
-    "Definition": "showing publicly"
+    "Definition": "showing or displaying"
   },
   "AROUSED": {
-    "Definition": "caused"
+    "Definition": "caused or created"
   },
   "EXTINCTION": {
-    "Definition": "the point where there were no wolves living"
+    "Definition": "the point where none were left alive"
   },
   "FUELLED": {
-    "Definition": "caused them to be more intense"
+    "Definition": "made stronger; increased"
   },
   "RENOUNCED": {
-    "Definition": "rejected, refused to accept"
+    "Definition": "formally gave up his belief in"
   },
   "ENCOUNTER": {
-    "Definition": "meeting"
+    "Definition": "an unexpected meeting"
   },
   "STRIP NAKED": {
-    "Definition": "remove all of his clothes"
+    "Definition": "take off all his clothes"
   },
   "ANOINTED": {
-    "Definition": "covered in a liquid as part of a ceremony"
+    "Definition": "covered or rubbed with oil or another liquid, often as part of a ritual"
   },
   "CLAWS": {
-    "Definition": "sharp nails at the end of his hands and feet"
+    "Definition": "sharp, curved nails on an animal's feet"
   },
   "MURDEROUS": {
-    "Definition": "involving violence and killing"
+    "Definition": "involving a lot of killing"
   },
   "RAMPAGE": {
-    "Definition": "period of violent and uncontrollable behaviour"
+    "Definition": "a period of wild, violent behaviour"
   },
   "PREYING ON": {
-    "Definition": "hunting and killing"
+    "Definition": "hunting and attacking"
   },
   "TORE THEIR VICTIMS TO PIECES": {
-    "Definition": "destroyed their victims completely, caused extreme damage"
+    "Definition": "violently pulled apart the bodies of the people they attacked"
   },
   "BESTIALITY": {
-    "Definition": "sexual acts between humans and animals"
+    "Definition": "sexual activity between a person and an animal"
   },
   "FOUGHT OFF": {
-    "Definition": "defended himself against the attack"
+    "Definition": "resisted and driven away"
   },
   "FLEE": {
-    "Definition": "escape by running away"
+    "Definition": "run away"
   },
   "STUMBLED ACROSS": {
-    "Definition": "met by chance"
+    "Definition": "found by chance"
   },
   "WANE": {
-    "Definition": "became weaker"
+    "Definition": "become weaker"
   },
   "RELEGATED": {
-    "Definition": "reduced, moved to a less important position"
+    "Definition": "moved to a less important place or position"
   },
   "FEASTINGS": {
-    "Definition": "feedings"
+    "Definition": "big, greedy meals"
   },
   "FLOP": {
-    "Definition": "disappointment"
+    "Definition": "a complete failure"
   },
   "CRITICAL ACCLAIM": {
-    "Definition": "good reviews from most critics"
+    "Definition": "strong praise from professional reviewers"
   },
   "UPWARD": {
-    "Definition": "towards a higher level"
+    "Definition": "rising or improving"
   },
   "MAINSTAY": {
-    "Definition": "very important part"
+    "Definition": "an important, central part"
   },
   "NUANCED": {
-    "Definition": "complicated"
+    "Definition": "detailed and subtle; not simply good or bad"
   },
   "JAUNT": {
-    "Definition": "short journey"
+    "Definition": "a short trip for pleasure"
   },
   "BARBARIC": {
-    "Definition": "extremely unpleasant and violent"
+    "Definition": "extremely cruel and violent"
   },
   "SCAPEGOAT": {
-    "Definition": "make them something that could be blamed or considered responsible for their acts"
+    "Definition": "unfairly blame for bad things"
   },
   "ENDURING": {
-    "Definition": "existing for a long time"
+    "Definition": "lasting a long time"
   },
   "EPITOME": {
-    "Definition": "perfect example"
+    "Definition": "the perfect example"
   },
   "TAPS INTO": {
-    "Definition": "creates a connection with"
+    "Definition": "makes use of; connects with"
   },
   "BLURRY": {
-    "Definition": "unclear"
+    "Definition": "not clearly defined"
   },
   "BOUNDARY": {
-    "Definition": "dividing line"
-  },
-  "": {
-    "Definition": null
+    "Definition": "the line that divides two things"
   }
 }
