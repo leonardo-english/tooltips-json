@@ -1,284 +1,281 @@
 {
   "SURVEYS": {
-    "Definition": "asks questions to gather information from"
+    "Definition": "asks questions to find out the opinions of"
   },
   "COMPREHENSIVE": {
-    "Definition": "covering a wide range of information, thorough and complete"
+    "Definition": "complete and including everything important"
   },
   "RANKS": {
-    "Definition": "organises or lists them in order of importance"
+    "Definition": "puts in order from highest to lowest"
   },
   "PERCEIVED": {
-    "Definition": "seen or believed"
+    "Definition": "seen or thought of"
   },
   "RANKINGS": {
-    "Definition": "lists or positions based on importance, quality, or success"
+    "Definition": "positions in a list ordered from best to worst"
   },
   "SHOT UP": {
-    "Definition": "increased suddenly in a significant way"
+    "Definition": "rose very quickly"
   },
   "SPOT": {
-    "Definition": "place or position"
+    "Definition": "a place or position"
   },
   "COINED": {
-    "Definition": "invented or created"
+    "Definition": "first invented and used"
   },
   "EXERT": {
-    "Definition": "apply or make use of"
+    "Definition": "use in a way that has an effect"
   },
   "SCARE": {
-    "Definition": "make them afraid or anxious"
+    "Definition": "make afraid"
   },
   "DOMINANCE": {
-    "Definition": "position of power or control over others"
+    "Definition": "greater power or control than others have"
   },
   "WANING": {
-    "Definition": "gradually becoming weaker"
+    "Definition": "becoming weaker or smaller"
   },
   "COUNTERBALANCE": {
-    "Definition": "offset or balance its effect with an opposing force or influence"
+    "Definition": "have an equal but opposite effect on"
   },
   "INITIATIVES": {
-    "Definition": "actions or projects intended to achieve specific goals"
+    "Definition": "new plans or projects to achieve a goal"
   },
   "PACKS A SIZABLE PUNCH": {
-    "Definition": "has a significant impact or influence"
+    "Definition": "has a surprisingly big effect or influence"
   },
   "SELL OUT": {
-    "Definition": "completely fill it with an audience"
+    "Definition": "sell all the tickets for"
   },
   "MERELY": {
-    "Definition": "only, just"
+    "Definition": "only; just"
   },
   "STRUCK IT LUCKY": {
-    "Definition": "achieved success by chance or good fortune"
+    "Definition": "had some sudden, unexpected good luck"
   },
   "SURFING A WAVE": {
-    "Definition": "taking advantage of a trend or popular movement"
+    "Definition": "benefiting from a popular trend"
   },
   "POPULARISATION": {
-    "Definition": "the process of becoming widely popular or known"
+    "Definition": "the process of making something liked by many people"
   },
   "SOAP OPERAS": {
-    "Definition": "television dramas with ongoing storylines"
+    "Definition": "TV series about the daily lives and relationships of a group of characters"
   },
   "HIT SINGLE": {
-    "Definition": "very successful and popular song"
+    "Definition": "a very successful song released on its own"
   },
   "CHART-TOPPING SENSATION": {
-    "Definition": "an artist that reaches the top position on music charts and becomes widely celebrated"
+    "Definition": "a hugely popular performer or group with number-one songs"
   },
   "OUTSIZED": {
-    "Definition": "greater than usual, disproportionately large"
+    "Definition": "much larger than expected"
   },
   "PROSPERITY": {
-    "Definition": "the state of having success, wealth, and economic well-being"
+    "Definition": "wealth and success"
   },
   "EMERGE": {
-    "Definition": "become known, appear"
+    "Definition": "appear and become known"
   },
   "STRUGGLE": {
-    "Definition": "experience difficulty or make a great effort to do it"
+    "Definition": "find it very hard"
   },
   "FOSTER": {
-    "Definition": "encourage or promote the development of it"
+    "Definition": "encourage the development of"
   },
   "INTENTIONAL": {
-    "Definition": "done deliberately or on purpose"
+    "Definition": "done on purpose; planned"
   },
   "HIT": {
-    "Definition": "successful and popular"
+    "Definition": "very successful and popular"
   },
   "PROPOSITION": {
-    "Definition": "idea presented for consideration or discussion"
+    "Definition": "an idea or plan to consider"
   },
   "PURSUITS": {
-    "Definition": "activities, jobs"
+    "Definition": "activities that people spend time on"
   },
   "FOSTERED": {
-    "Definition": "encouraged or supported"
+    "Definition": "encouraged the development of"
   },
   "THRIVE": {
-    "Definition": "grow, develop, or be successful"
+    "Definition": "grow and be very successful"
   },
   "AT PLAY": {
-    "Definition": "involved in the process"
+    "Definition": "having an effect; involved"
   },
   "GIGANTIC": {
-    "Definition": "extremely large or enormous"
+    "Definition": "extremely large"
   },
   "FORGED": {
-    "Definition": "created or formed"
+    "Definition": "created and made strong"
   },
   "MAINTAINED": {
-    "Definition": "kept, retained"
+    "Definition": "kept; continued to have"
   },
   "PRESENCE": {
-    "Definition": "existence or appearance"
+    "Definition": "the fact of being based in a place"
   },
   "INFLUENCED": {
     "Definition": "affected or shaped"
   },
   "DISTINCTLY": {
-    "Definition": "clearly, in a way that is noticeably different"
+    "Definition": "clearly; in a way that is easy to notice"
   },
   "UNIQUE": {
-    "Definition": "one of a kind, unlike anything else"
+    "Definition": "unlike anything else"
   },
   "MANUFACTURED": {
-    "Definition": "produced or created"
+    "Definition": "carefully planned and controlled rather than natural"
   },
   "FLAWLESS": {
-    "Definition": "without any mistakes, imperfections, or faults"
+    "Definition": "perfect, without any mistakes"
   },
   "DISCIPLINED": {
-    "Definition": "showing control and order"
+    "Definition": "carefully controlled and trained"
   },
   "CHOREOGRAPHED": {
-    "Definition": "carefully planned and arranged"
+    "Definition": "planned with exact dance steps and movements"
   },
   "TANGIBLE": {
-    "Definition": "real, visible"
+    "Definition": "real and able to be clearly seen or measured"
   },
   "DWARFED": {
-    "Definition": "made to seem small or insignificant in comparison"
+    "Definition": "made to seem small in comparison"
   },
   "PERCEPTION": {
-    "Definition": "the way in which it is viewed or understood"
+    "Definition": "the way people see or think about something"
   },
   "ROLE": {
-    "Definition": "function or part"
+    "Definition": "a part in what happens"
   },
   "CONFLICT": {
-    "Definition": "fighting, clash"
+    "Definition": "a war or serious fight between countries"
   },
   "PERSUASION": {
-    "Definition": "the act of convincing someone to do or believe something"
+    "Definition": "the act of making people agree or believe something by giving them reasons"
   },
   "SANCTIONS": {
-    "Definition": "official actions taken by a government to pressure or punish a country"
+    "Definition": "official actions, such as stopping trade, taken to punish a country"
   },
   "STEEL": {
-    "Definition": "a strong, hard, and durable metal"
+    "Definition": "a strong, hard metal made from iron"
   },
   "RIFLE": {
-    "Definition": "a type of long firearm or gun"
+    "Definition": "a long gun held against the shoulder when fired"
   },
   "MUSTY": {
-    "Definition": "having a stale or unpleasant odour, often from being damp or old"
+    "Definition": "old, damp and not fresh"
   },
   "TANKS": {
-    "Definition": "armoured military vehicles"
+    "Definition": "heavy army vehicles with a large gun that move on metal tracks"
   },
   "JETS": {
-    "Definition": "fast and powerful aircraft"
+    "Definition": "fast military planes"
   },
   "FLOURISH": {
-    "Definition": "develop, thrive"
+    "Definition": "develop well and be successful"
   },
   "MASTERCLASS": {
-    "Definition": "demonstration or performance by an expert to teach or inspire others"
+    "Definition": "an excellent lesson showing how to do something very well"
   },
   "AMMUNITION": {
-    "Definition": "projectiles or materials used in firearms or artillery"
+    "Definition": "bullets and bombs used in weapons"
   },
   "RIDE": {
-    "Definition": "journey or trip in a vehicle"
+    "Definition": "a trip in a vehicle to take him somewhere else"
   },
   "CAMOUFLAGE": {
-    "Definition": "clothing used to blend in with one's surroundings or hide from view"
+    "Definition": "having colours and patterns that make the wearer hard to see"
   },
   "GEAR": {
-    "Definition": "equipment"
+    "Definition": "clothes and equipment"
   },
   "RUBBLE": {
-    "Definition": "broken pieces of rock, brick, or other debris from damaged buildings"
+    "Definition": "broken stones and bricks from destroyed buildings"
   },
   "BRIEFINGS": {
-    "Definition": "informative sessions or meetings"
+    "Definition": "meetings that give people the latest information"
   },
   "CONSCIOUS": {
-    "Definition": "aware of and paying attention to it"
+    "Definition": "knowing; aware"
   },
   "AT HIS DISPOSAL": {
-    "Definition": "available and ready for use"
+    "Definition": "available for him to use"
   },
   "OUTPOURING": {
-    "Definition": "sudden and strong release or expression"
+    "Definition": "a large and sudden expression of feeling"
   },
   "SYMPATHY": {
-    "Definition": "understanding and compassion"
+    "Definition": "feelings of sadness and care for someone who is suffering"
   },
   "DEMEAN": {
-    "Definition": "lower in honour or standing, degrade"
+    "Definition": "make seem less important or less worthy of respect"
   },
   "SACRIFICE": {
-    "Definition": "the act of giving up something valuable for the sake of a higher purpose"
+    "Definition": "the act of giving up something important, such as safety or life, for others"
   },
   "BUNKER": {
-    "Definition": "fortified underground shelter or structure for protection"
+    "Definition": "a strong underground shelter that protects people from bombs"
   },
   "FLED": {
-    "Definition": "ran away or escaped from a dangerous or threatening situation"
+    "Definition": "left quickly to escape danger"
   },
   "GOODWILL": {
-    "Definition": "favourable and positive attitude or feeling"
+    "Definition": "friendly, kind and helpful feelings"
   },
   "ABUNDANTLY": {
-    "Definition": "to a great extent"
+    "Definition": "extremely; very"
   },
   "SAVVY": {
-    "Definition": "having practical knowledge or awareness"
+    "Definition": "clever and experienced in practical matters"
   },
   "UPPER CLASS": {
-    "Definition": "the social group consisting of people with the highest social and economic status"
+    "Definition": "belonging to the highest social group"
   },
   "PALES IN COMPARISON": {
-    "Definition": "appears less significant or impressive when compared"
+    "Definition": "seems much less important or popular when compared"
   },
   "COLONISE": {
-    "Definition": "establish control over a foreign land or people through settlement and authority"
+    "Definition": "take control of and send people to live in"
   },
   "COLONIAL": {
-    "Definition": "relating to a country or area controlled politically by a more powerful country"
+    "Definition": "relating to one country controlling and ruling other lands"
   },
   "COLONISER": {
-    "Definition": "the country that established control over another country or area"
+    "Definition": "a country that took control of and ruled another country"
   },
   "TOP-RANKED": {
-    "Definition": "holding the highest position or rank"
+    "Definition": "rated the best, in first place"
   },
   "FANS": {
-    "Definition": "enthusiastic supporters or admirers"
+    "Definition": "people who strongly like and follow something"
   },
   "HEIGHTENED": {
-    "Definition": "increased or intensified"
+    "Definition": "increased; stronger than usual"
   },
   "TENSION": {
-    "Definition": "a state of hostile relations or unease"
+    "Definition": "a feeling of anger and distrust that could lead to fighting"
   },
   "POPULOUS": {
-    "Definition": "densely or heavily populated"
+    "Definition": "having a lot of people living in it"
   },
   "COLONY": {
-    "Definition": "a country under political control of another country"
+    "Definition": "a country or area controlled and ruled by another country"
   },
   "MIGHT": {
-    "Definition": "strength, power"
+    "Definition": "great power and strength"
   },
   "SPRINGS": {
-    "Definition": "originates, arises from"
+    "Definition": "comes or develops"
   },
   "TRANSCEND": {
-    "Definition": "go beyond, rise above"
+    "Definition": "go beyond or rise above"
   },
   "ALTER": {
-    "Definition": "change, reshape"
+    "Definition": "change"
   },
   "PERCEPTIONS": {
-    "Definition": "the way in which things are viewed or understood"
-  },
-  "": {
-    "Definition": null
+    "Definition": "the ways people see or think about things"
   }
 }
