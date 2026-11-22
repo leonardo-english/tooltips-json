@@ -1,326 +1,323 @@
 {
   "WARLORD": {
-    "Definition": "military leader"
+    "Definition": "a military leader who rules by force"
   },
   "TYRANT": {
-    "Definition": "cruel and oppressive ruler"
+    "Definition": "a ruler who uses power in a cruel and unfair way"
   },
   "MEGALOMANIAC": {
-    "Definition": "someone who had an extreme desire for power and control"
+    "Definition": "a person who is obsessed with having great power and importance"
   },
   "BENEVOLENT": {
-    "Definition": "kind and generous"
+    "Definition": "kind and wanting to do good for others"
   },
   "UNDENIABLY": {
-    "Definition": "in a way that is certainly true"
+    "Definition": "in a way that nobody can argue with; certainly"
   },
   "BOOZY": {
-    "Definition": "related to drinking a lot of alcohol"
+    "Definition": "involving a lot of alcohol"
   },
   "ABSTAIN": {
-    "Definition": "choose not to do, stay away"
+    "Definition": "choose not to take part"
   },
   "STAGGERING DOWN": {
-    "Definition": "walking unsteadily, as if about to fall"
+    "Definition": "walking unsteadily along, almost falling"
   },
   "COLLAPSED": {
-    "Definition": "fell down suddenly"
+    "Definition": "fell down suddenly and heavily"
   },
   "SORE HEAD": {
-    "Definition": "a headache from drinking too much alcohol"
+    "Definition": "a headache"
   },
   "GET RID OF": {
-    "Definition": "remove or eliminate"
+    "Definition": "make go away; remove"
   },
   "HANGOVER": {
-    "Definition": "the sick feeling after drinking too much alcohol"
+    "Definition": "the headache and sick feeling after drinking too much alcohol"
   },
   "PAY THEIR LAST RESPECTS": {
-    "Definition": "show respect to him before his death"
+    "Definition": "show honour to him for the last time before his death"
   },
   "SWATHES": {
-    "Definition": "large areas"
+    "Definition": "large areas of land"
   },
   "ENCOMPASSING": {
     "Definition": "including"
   },
   "SURPASSED": {
-    "Definition": "exceeded or beaten"
+    "Definition": "beaten in size"
   },
   "SPANNED": {
-    "Definition": "covered or extended across"
+    "Definition": "stretched across"
   },
   "OVERSHADOWED": {
-    "Definition": "made less important by comparison"
+    "Definition": "made to seem less important"
   },
   "BACKWATER": {
-    "Definition": "unimportant and undeveloped place"
+    "Definition": "a place far from the centre, seen as slow and old-fashioned"
   },
   "INCOMPETENT": {
-    "Definition": "without skill or ability"
+    "Definition": "lacking the skill to do things well"
   },
   "UNCIVILISED": {
-    "Definition": "not advanced, lacking culture"
+    "Definition": "rough, rude and not culturally developed"
   },
   "TRAINING UP": {
-    "Definition": "preparing or teaching"
+    "Definition": "preparing through teaching and practice"
   },
   "MIGHTY": {
-    "Definition": "very strong or powerful"
+    "Definition": "very large and powerful"
   },
   "THWARTED": {
-    "Definition": "prevented from happening, cut short"
+    "Definition": "stopped from happening"
   },
   "INTERPRETATIONS": {
-    "Definition": "explanations or understandings"
+    "Definition": "explanations or understandings of something"
   },
   "TUTORED": {
-    "Definition": "taught individually"
+    "Definition": "taught privately, one to one"
   },
   "COMMAND": {
-    "Definition": "lead or be in charge of"
+    "Definition": "be in charge of and give orders to"
   },
   "INTENDED": {
-    "Definition": "planned or meant"
+    "Definition": "planned"
   },
   "UNRIDEABLE": {
     "Definition": "impossible to ride"
   },
   "TAMED": {
-    "Definition": "made less wild or more manageable"
+    "Definition": "made calm and obedient"
   },
   "TAME": {
-    "Definition": "make less wild or more manageable"
+    "Definition": "make calm and obedient"
   },
   "UNTAMABLE": {
-    "Definition": "impossible to control"
+    "Definition": "impossible to make calm and obedient"
   },
   "WHISPERED": {
-    "Definition": "spoke very quietly"
+    "Definition": "spoke very quietly, using only the breath"
   },
   "APOCRYPHAL": {
-    "Definition": "possibly untrue or doubtful"
+    "Definition": "probably not true, though often told"
   },
   "MADE UP": {
-    "Definition": "invented, not real"
+    "Definition": "invented; not true"
   },
   "EXAGGERATED": {
-    "Definition": "made to seem more than it was"
+    "Definition": "made to seem bigger or more impressive than it really was"
   },
   "ELIMINATING": {
-    "Definition": "removing or getting rid of"
+    "Definition": "getting rid of; removing"
   },
   "CASH-STRAPPED": {
-    "Definition": "without money"
+    "Definition": "short of money"
   },
   "TOPPLE": {
-    "Definition": "remove from power"
+    "Definition": "force out of power"
   },
   "DEEP-ROOTED": {
-    "Definition": "firmly established or fixed"
+    "Definition": "very strong and held for a long time"
   },
   "MASTERPLAN": {
-    "Definition": "detailed and organised plan"
+    "Definition": "a large, detailed plan for achieving a big goal"
   },
   "FROM THE OUTSET": {
-    "Definition": "from the beginning"
+    "Definition": "from the very beginning"
   },
   "OUTNUMBERED": {
     "Definition": "had more soldiers than"
   },
   "HEADCOUNT": {
-    "Definition": "number of people"
+    "Definition": "the number of people"
   },
   "INHERITED": {
-    "Definition": "received from him"
+    "Definition": "received from someone after their death"
   },
   "FIERCE": {
-    "Definition": "very strong or aggressive"
+    "Definition": "strong, violent and frightening"
   },
   "WARFARE": {
-    "Definition": "fighting in a war"
+    "Definition": "fighting wars"
   },
   "SPEARS": {
-    "Definition": "long weapons with sharp points"
+    "Definition": "long weapons with sharp points at the end"
   },
   "IMPENETRABLE": {
-    "Definition": "impossible to pass through"
+    "Definition": "impossible to get through"
   },
   "PORCUPINE": {
-    "Definition": "an animal with sharp spikes"
+    "Definition": "a small animal covered in long, sharp spikes"
   },
   "CAVALRY": {
-    "Definition": "soldiers on horses"
+    "Definition": "soldiers who fight on horses"
   },
   "INFLICT": {
-    "Definition": "cause or impose"
+    "Definition": "cause (something bad or painful)"
   },
   "ARCHERS": {
-    "Definition": "people who shoot arrows"
+    "Definition": "soldiers who shoot arrows from a bow"
   },
   "BATTLEFIELD": {
-    "Definition": "place where a battle was fought"
+    "Definition": "the place where a battle is fought"
   },
   "DRILLED": {
-    "Definition": "trained very well"
+    "Definition": "trained through repeated practice"
   },
   "THE FRONTLINES": {
-    "Definition": "the most forward position in a battle"
+    "Definition": "the parts of a battle closest to the enemy"
   },
   "SLAYING": {
-    "Definition": "killing"
+    "Definition": "killing violently"
   },
   "LEFT RIGHT AND CENTRE": {
-    "Definition": "everywhere"
+    "Definition": "everywhere; in large numbers"
   },
   "INCHES FROM DEATH": {
     "Definition": "very close to dying"
   },
   "MIGHT": {
-    "Definition": "great strength or power"
+    "Definition": "great power and strength"
   },
   "EMERGED": {
-    "Definition": "came out"
+    "Definition": "came out in the end"
   },
   "CRUSHED": {
-    "Definition": "defeated completely"
+    "Definition": "completely defeated"
   },
   "INFLICTED": {
-    "Definition": "caused or imposed"
+    "Definition": "forced on him"
   },
   "STRIKE A BARGAIN": {
-    "Definition": "make a deal"
+    "Definition": "make an agreement"
   },
   "URGED": {
-    "Definition": "strongly advised"
+    "Definition": "strongly advised; tried hard to persuade"
   },
   "PURSUE": {
-    "Definition": "chase or follow"
+    "Definition": "chase; follow in order to catch"
   },
   "FORMIDABLE": {
-    "Definition": "very powerful, causing fear"
+    "Definition": "very powerful and frightening"
   },
   "CHARIOTS": {
-    "Definition": "ancient horse-drawn vehicles used in battles"
+    "Definition": "two-wheeled carts pulled by horses, used in battle"
   },
   "SCYTHES": {
-    "Definition": "long curved knives used for cutting"
+    "Definition": "long, curved cutting blades"
   },
   "ALL IN ALL": {
-    "Definition": "considering everything"
+    "Definition": "in total"
   },
   "MERE": {
-    "Definition": "only, just"
+    "Definition": "just; no more than"
   },
   "FATIGUED": {
     "Definition": "very tired"
   },
   "WELL-DRILLED": {
-    "Definition": "very well trained"
+    "Definition": "very well trained through repeated practice"
   },
   "ACUTELY": {
-    "Definition": "very strongly"
+    "Definition": "very strongly and clearly"
   },
   "CRUSHING": {
     "Definition": "completely defeating"
   },
   "NOT BEST PLEASED": {
-    "Definition": "not happy"
+    "Definition": "unhappy; quite annoyed"
   },
   "DISHONOURABLE": {
-    "Definition": "shameful, not respectable"
+    "Definition": "shameful and not right"
   },
   "DE FACTO": {
-    "Definition": "in reality, in fact"
+    "Definition": "in reality, though not officially"
   },
   "JUGGLING": {
-    "Definition": "managing, controlling"
+    "Definition": "trying to manage many tasks at the same time"
   },
   "CUSTOMS": {
-    "Definition": "traditional practices"
+    "Definition": "traditional ways of behaving"
   },
   "MONOGAMOUS": {
-    "Definition": "having only one partner"
+    "Definition": "having only one husband or wife at a time"
   },
   "PROSTRATE": {
-    "Definition": "flat, face-downward"
+    "Definition": "flat with the face down"
   },
   "BOWING DOWN": {
-    "Definition": "showing respect by bending down"
+    "Definition": "bending the body low to show respect"
   },
   "DECIDEDLY": {
-    "Definition": "certainly, without doubt"
+    "Definition": "clearly; definitely"
   },
   "BOW DOWN": {
-    "Definition": "lower the head to show respect"
+    "Definition": "bend the body low to show respect"
   },
   "TENDENCIES": {
-    "Definition": "usual behaviours"
+    "Definition": "habits or ways of behaving"
   },
   "ROOTS": {
-    "Definition": "origins, where he came from"
+    "Definition": "the place and culture he came from"
   },
   "SPEAR": {
-    "Definition": "long weapon with a pointed tip"
+    "Definition": "a long weapon with a sharp point"
   },
   "WIELDY": {
-    "Definition": "needing management or control"
+    "Definition": "(here used by mistake for its opposite) hard to manage because it is so big"
   },
   "HOMESICK": {
-    "Definition": "missing home"
+    "Definition": "sad because they missed home"
   },
   "CONSOLIDATE": {
-    "Definition": "make stronger or more solid"
+    "Definition": "make stronger and more secure"
   },
   "MALARIA": {
-    "Definition": "a disease spread by mosquitoes"
+    "Definition": "a serious disease spread by insect bites, causing fever"
   },
   "TYPHOID": {
-    "Definition": "a serious infectious disease"
+    "Definition": "a serious disease caused by dirty food or water"
   },
   "PNEUMONIA": {
-    "Definition": "a lung infection"
+    "Definition": "a serious infection that makes breathing difficult"
   },
   "LUNG": {
-    "Definition": "the organ for breathing"
+    "Definition": "one of the two organs in the chest used for breathing"
   },
   "PUNCTURED": {
-    "Definition": "pierced, penetrated"
+    "Definition": "broken through by something sharp"
   },
   "ARROW": {
-    "Definition": "a pointed weapon shot from a bow"
+    "Definition": "a thin stick with a sharp point, shot from a bow"
   },
   "CROSSBOW": {
-    "Definition": "a weapon for shooting arrows and stones"
+    "Definition": "a weapon held like a gun that fires short arrows or stones"
   },
   "GAVE UP": {
-    "Definition": "stopped trying, surrendered"
+    "Definition": "stopped working; failed"
   },
   "HEIRS": {
-    "Definition": "people who would receive his position and property after his death"
+    "Definition": "children or others who would take his place after his death"
   },
   "IMPLYING": {
     "Definition": "suggesting without saying directly"
   },
   "POWER STRUGGLE": {
-    "Definition": "a fight for control"
+    "Definition": "a fight between people for control"
   },
   "ENSUE": {
-    "Definition": "happen, follow"
+    "Definition": "happen as a result; follow"
   },
   "SHED A BIT MORE LIGHT": {
-    "Definition": "explain more clearly"
+    "Definition": "given a little more understanding"
   },
   "SIEGE": {
-    "Definition": "surrounding and attacking a place"
+    "Definition": "a military action where an army surrounds a city to force it to give up"
   },
   "SPECULATION": {
-    "Definition": "guessing without firm evidence"
+    "Definition": "guessing and discussion without firm facts"
   },
   "RABBIT HOLE": {
-    "Definition": "a complex and confusing topic"
-  },
-  "": {
-    "Definition": null
+    "Definition": "a subject that leads you deeper and deeper into more information"
   }
 }
