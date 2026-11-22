@@ -1,317 +1,314 @@
 {
   "INNERMOST": {
-    "Definition": "deepest, most private"
+    "Definition": "most private and personal"
   },
   "PESSIMISM": {
-    "Definition": "a belief that bad things will happen"
+    "Definition": "the belief that bad things will happen and that life is not good"
   },
   "GLOOMY": {
-    "Definition": "dark, sad"
+    "Definition": "sad and without hope"
   },
   "GRAPPLED": {
-    "Definition": "struggled, fought"
+    "Definition": "tried hard to deal with or understand"
   },
   "PERSPECTIVE": {
-    "Definition": "point of view"
+    "Definition": "a particular way of thinking about something"
   },
   "VIRTUE": {
-    "Definition": "good moral quality"
+    "Definition": "behaviour that is morally good"
   },
   "INTEGRITY": {
-    "Definition": "honesty, strong moral principles"
+    "Definition": "the quality of being honest and doing what is right"
   },
   "DUTY": {
-    "Definition": "responsibility"
+    "Definition": "the feeling that you must do what is right or expected of you"
   },
   "RENAISSANCE": {
-    "Definition": "revival, renewed interest"
+    "Definition": "a new period of popularity or interest"
   },
   "PLAYFUL": {
-    "Definition": "fun, cheerful"
+    "Definition": "light-hearted and fun"
   },
   "OBSESSED": {
-    "Definition": "totally focused on it"
+    "Definition": "unable to stop thinking about something"
   },
   "EVIL": {
-    "Definition": "badness or wickedness"
+    "Definition": "things that are morally very bad and cause harm"
   },
   "FUTILITY": {
-    "Definition": "uselessness, pointlessness"
+    "Definition": "the lack of any purpose or useful result"
   },
   "OUTLOOK": {
-    "Definition": "view or attitude"
+    "Definition": "a general attitude or way of thinking"
   },
   "COMMONWEALTH": {
-    "Definition": "a political unit made of several states"
+    "Definition": "a union of states or countries under one shared government"
   },
   "FOLLOW IN HIS FATHER’S FOOTSTEPS": {
-    "Definition": "do the same job as his father"
+    "Definition": "do the same job or live the same kind of life as his father did before him"
   },
   "CRAFT": {
-    "Definition": "skill or trade"
+    "Definition": "the skills of a particular trade or job"
   },
   "PROSPECTS": {
-    "Definition": "future opportunities"
+    "Definition": "chances of success and what his future was likely to be"
   },
   "DROWNED": {
-    "Definition": "dead in water"
+    "Definition": "killed by being under water and unable to breathe"
   },
   "CANAL": {
-    "Definition": "man-made waterway"
+    "Definition": "a long, narrow waterway built by people for boats"
   },
   "CONCLUDING": {
-    "Definition": "deciding, assuming"
+    "Definition": "deciding after thinking about the facts"
   },
   "CONSIDERABLE": {
-    "Definition": "large, significant"
+    "Definition": "large in amount"
   },
   "PURSUE": {
-    "Definition": "follow, try to achieve"
+    "Definition": "choose and follow"
   },
   "ENROLLING": {
-    "Definition": "signing up"
+    "Definition": "officially joining as a student"
   },
   "STRAINED": {
-    "Definition": "tense, not good"
+    "Definition": "tense and difficult, not friendly"
   },
   "MINCE HER WORDS": {
-    "Definition": "speak indirectly or in a soft way"
+    "Definition": "choose gentle words to avoid upsetting someone"
   },
   "INDIRECT": {
-    "Definition": "not straightforward or not honest"
+    "Definition": "not clear and open; only hinting at the meaning"
   },
   "UNBEARABLE": {
-    "Definition": "too painful or unpleasant to deal with"
+    "Definition": "too unpleasant to accept or deal with"
   },
   "BURDENSOME": {
-    "Definition": "hard to deal with, troublesome"
+    "Definition": "causing difficulty and worry to other people"
   },
   "OVERSHADOWED": {
-    "Definition": "made less important"
+    "Definition": "made to seem less noticeable or important"
   },
   "CONCEIT": {
-    "Definition": "pride in yourself"
+    "Definition": "a too high opinion of your own abilities"
   },
   "RESTRAIN": {
-    "Definition": "hold back, control"
+    "Definition": "control or hold back"
   },
   "PROPENSITY": {
-    "Definition": "tendency, habit"
+    "Definition": "a natural habit of doing something"
   },
   "PICK HOLES IN": {
-    "Definition": "find faults in"
+    "Definition": "find small faults in"
   },
   "ARROGANCE": {
-    "Definition": "too much pride"
+    "Definition": "the attitude of believing you are better or more important than others"
   },
   "PISTOL": {
-    "Definition": "small gun"
+    "Definition": "a small gun held in one hand"
   },
   "NONSENSICAL": {
-    "Definition": "silly, making no sense"
+    "Definition": "silly and without meaning"
   },
   "SUPERIOR": {
-    "Definition": "better than him"
+    "Definition": "better or of a higher level"
   },
   "MODEST": {
-    "Definition": "humble, not bragging"
+    "Definition": "not proud and not talking about how good you are"
   },
   "PERCEIVE": {
-    "Definition": "see, notice"
+    "Definition": "notice and understand through the senses"
   },
   "INTUITION": {
-    "Definition": "gut feeling, instinct"
+    "Definition": "the ability to sense and understand things directly, without reasoning"
   },
   "EMPIRICAL": {
-    "Definition": "based on experience or observation"
+    "Definition": "based on what can be seen, tested or experienced"
   },
   "ELUSIVE": {
-    "Definition": "hard to find or understand"
+    "Definition": "difficult to find or catch"
   },
   "CORE": {
-    "Definition": "central part"
+    "Definition": "the most important or central part"
   },
   "PERCEPTIONS": {
-    "Definition": "views, ways of understanding"
+    "Definition": "the ways in which we see and understand things through our senses"
   },
   "UPLIFTING": {
-    "Definition": "making you feel good"
+    "Definition": "making people feel happier and more hopeful"
   },
   "PURPOSELESS": {
-    "Definition": "without a goal"
+    "Definition": "having no aim or meaning"
   },
   "STRIVING": {
-    "Definition": "trying hard"
+    "Definition": "great effort to get or achieve something"
   },
   "ESSENCE": {
-    "Definition": "basic nature or centre"
+    "Definition": "the most basic and important nature of something"
   },
   "PESSIMISTIC": {
-    "Definition": "believing that only bad things will happen"
+    "Definition": "expecting bad things to happen; without hope"
   },
   "STRUGGLE": {
-    "Definition": "hard effort, fight"
+    "Definition": "hard effort and fighting against difficulties"
   },
   "SORROWFUL": {
     "Definition": "full of sadness"
   },
   "RESTLESS": {
-    "Definition": "unable to relax or be still"
+    "Definition": "never still or calm; always wanting change"
   },
   "DISSATISFACTION": {
-    "Definition": "unhappiness with how things are"
+    "Definition": "the feeling of not being happy with what you have"
   },
   "COMPOSURE": {
-    "Definition": "state of being calm and in control"
+    "Definition": "calmness and control of your feelings"
   },
   "MATERIALISM": {
-    "Definition": "focus on money and possessions"
+    "Definition": "the belief that money and possessions are the most important things in life"
   },
   "WORLDLY PLEASURES": {
-    "Definition": "enjoying physical and material things"
+    "Definition": "enjoyable things of ordinary physical life, like money, food and comfort"
   },
   "LOOSENING THE GRIP": {
-    "Definition": "making it control you less"
+    "Definition": "reducing the control or power"
   },
   "APT": {
-    "Definition": "suitable, fitting"
+    "Definition": "suitable; fitting the situation well"
   },
   "ISOLATED": {
-    "Definition": "lonely, separated"
+    "Definition": "lonely and separated from other people"
   },
   "DISDAIN": {
-    "Definition": "disrespect, dislike"
+    "Definition": "a feeling of having no respect for someone"
   },
   "CONTEMPORARIES": {
-    "Definition": "people living at the same time"
+    "Definition": "people living and working at the same time as him"
   },
   "ANNIHILATED": {
     "Definition": "completely destroyed"
   },
   "ATTAINS": {
-    "Definition": "reaches, achieves"
+    "Definition": "reaches or achieves, usually after effort"
   },
   "TRANSCENDED": {
-    "Definition": "gone beyond"
+    "Definition": "risen above; gone beyond"
   },
   "REJECTING": {
-    "Definition": "saying no to, not accepting"
+    "Definition": "refusing to accept"
   },
   "PRESTIGE": {
-    "Definition": "high status, respect"
+    "Definition": "respect and admiration because of high status or quality"
   },
   "HELD IN HIGH REGARD": {
-    "Definition": "respected, admired"
+    "Definition": "respected and admired very much"
   },
   "WISDOM": {
-    "Definition": "deep knowledge"
+    "Definition": "knowledge and good judgement gained from experience"
   },
   "PROFOUND": {
-    "Definition": "deep, important"
+    "Definition": "very deep and serious"
   },
   "FABLES": {
-    "Definition": "stories with a moral"
+    "Definition": "short traditional stories that teach a moral lesson"
   },
   "NEMESIS": {
-    "Definition": "enemy, rival"
+    "Definition": "his greatest enemy"
   },
   "PERCEIVED": {
-    "Definition": "saw, understood"
+    "Definition": "noticed and understood through their senses"
   },
   "SPARRING PARTNERS": {
-    "Definition": "people who argued or competed in a friendly way"
+    "Definition": "people who argue with each other in a friendly way to test and improve their ideas"
   },
   "VINDICTIVE": {
-    "Definition": "resulting from a desire to hurt, spiteful"
+    "Definition": "unkind and meant to hurt the other person"
   },
   "MADHOUSE": {
-    "Definition": "place for mentally ill people"
+    "Definition": "an old word for a hospital for people with mental illness"
   },
   "LUNATIC ASYLUM": {
-    "Definition": "place for mentally ill people"
+    "Definition": "an old, now offensive name for a hospital for mentally ill people"
   },
   "DIAGNOSED": {
-    "Definition": "identified (with a medical condition)"
+    "Definition": "officially identified by a doctor as having an illness"
   },
   "VINDICTIVENESS": {
-    "Definition": "having a strong desire to harm or get back at people"
+    "Definition": "the wish to hurt others or make them suffer"
   },
   "ENTRANT": {
-    "Definition": "participant"
+    "Definition": "a person taking part in a competition"
   },
   "SPONSORING": {
-    "Definition": "supporting with money"
+    "Definition": "organising and paying for"
   },
   "FURIOUS": {
-    "Definition": "very angry"
+    "Definition": "extremely angry"
   },
   "RANTING": {
-    "Definition": "complaining strongly"
+    "Definition": "complaining angrily for a long time"
   },
   "PRICKLY": {
-    "Definition": "easily annoyed"
+    "Definition": "easily annoyed and difficult to deal with"
   },
   "ILLEGITIMATE": {
-    "Definition": "born outside of marriage"
+    "Definition": "born to parents who were not married to each other"
   },
   "SETTLED": {
-    "Definition": "stayed in one place"
+    "Definition": "started a calm, stable life in one place"
   },
   "APOSTLES": {
-    "Definition": "followers"
+    "Definition": "loyal followers who support and spread someone’s ideas"
   },
   "SCHOLARLY JOURNALS": {
-    "Definition": "academic magazines"
+    "Definition": "serious magazines in which experts publish research"
   },
   "BIG BREAK": {
-    "Definition": "major opportunity"
+    "Definition": "an important chance that leads to success"
   },
   "PRESTIGIOUS": {
-    "Definition": "respected, high-status"
+    "Definition": "respected and admired as very important"
   },
   "WISE UP": {
-    "Definition": "become aware of, be able to understand"
+    "Definition": "begin to understand or notice"
   },
   "EVER-CRITICAL": {
-    "Definition": "always finding fault"
+    "Definition": "always ready to find fault"
   },
   "HEART PALPITATIONS": {
-    "Definition": "irregular heartbeats"
+    "Definition": "feelings of the heart beating very fast or unevenly"
   },
   "FAINTING FITS": {
-    "Definition": "sudden losses of consciousness"
+    "Definition": "sudden short periods of becoming unconscious"
   },
   "DEFIANCE": {
-    "Definition": "resistance, bold disobedience"
+    "Definition": "a strong refusal to give in or obey"
   },
   "ANNIHILATION": {
-    "Definition": "destruction"
+    "Definition": "total destruction, so that nothing is left"
   },
   "INTEGRATED": {
-    "Definition": "combined, included"
+    "Definition": "joined or combined"
   },
   "FRAMEWORK": {
-    "Definition": "basic structure or system"
+    "Definition": "a basic system of ideas"
   },
   "GRUMPY": {
-    "Definition": "bad-tempered, easily annoyed"
+    "Definition": "bad-tempered and easily annoyed"
   },
   "SYNTHESIS": {
-    "Definition": "combination of ideas"
+    "Definition": "a combination of different ideas into one new whole"
   },
   "INSIGHTS": {
-    "Definition": "deep understandings"
+    "Definition": "clear and deep understandings"
   },
   "CEMENTED": {
-    "Definition": "made strong or secured"
+    "Definition": "made strong and lasting"
   },
   "LEFT HIS MARK": {
-    "Definition": "made a lasting impact"
+    "Definition": "had a lasting effect or influence"
   },
   "GLOOMINESS": {
-    "Definition": "darkness, sadness"
-  },
-  "": {
-    "Definition": null
+    "Definition": "sadness and lack of hope"
   }
 }
