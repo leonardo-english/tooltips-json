@@ -1,266 +1,263 @@
 {
   "MINERALS": {
-    "Definition": "natural substances like rocks or metals found in the ground"
+    "Definition": "natural solid substances, such as metals, found in rock and the ground"
   },
   "REALM": {
-    "Definition": "area or field of interest"
+    "Definition": "area of activity, interest or thought"
   },
   "ASTEROID": {
-    "Definition": "a small rocky object that moves around the sun"
+    "Definition": "a large rock that travels around the sun"
   },
   "ASTRONOMER": {
-    "Definition": "a scientist who studied space stars and planets"
+    "Definition": "a scientist who studies the stars, planets and space"
   },
   "COUNTRYMAN": {
-    "Definition": "someone from the same country as him"
+    "Definition": "a person from the same country as him"
   },
   "OBSERVATORY": {
-    "Definition": "a building with equipment to study stars planets and space"
+    "Definition": "a building with special equipment for studying the stars and planets"
   },
   "SOUL": {
-    "Definition": "a person's spirit"
+    "Definition": "the part of a person that is not physical, believed by many to live on after death"
   },
   "ASTEROIDS": {
-    "Definition": "small rocky objects that move around the sun"
+    "Definition": "large rocks that travel around the sun"
   },
   "ASTRONOMERS": {
-    "Definition": "scientists who study space stars and planets"
+    "Definition": "scientists who study the stars, planets and space"
   },
   "IMMEASURABLY": {
-    "Definition": "to a very great degree, too much to measure"
+    "Definition": "by an amount too large to count; hugely"
   },
   "MADE-UP": {
-    "Definition": "invented or not real"
+    "Definition": "invented; not real or true"
   },
   "FLOATING": {
-    "Definition": "staying in space"
+    "Definition": "moving slowly through the air or space, not held in place"
   },
   "FIXATION": {
-    "Definition": "an obsession or extreme focus"
+    "Definition": "an interest that is too strong or unhealthy"
   },
   "ORBIT": {
-    "Definition": "go around (a planet, star or moon)"
+    "Definition": "travel around in a curved path"
   },
   "REMNANTS": {
-    "Definition": "leftover pieces or parts"
+    "Definition": "pieces that are left over from something"
   },
   "CHUNKS": {
-    "Definition": "large pieces"
+    "Definition": "thick, solid pieces"
   },
   "GRAVITATIONAL": {
-    "Definition": "related to gravity, the force that pulls objects towards each other"
+    "Definition": "caused by the force that pulls objects towards each other"
   },
   "GRAVITY": {
-    "Definition": "the force that pulls objects towards earth or another body in space"
+    "Definition": "the force that pulls objects towards each other"
   },
   "WIPED OUT": {
-    "Definition": "completely destroyed or removed"
+    "Definition": "completely destroyed; killed all of"
   },
   "SPOTTING": {
     "Definition": "seeing or noticing"
   },
   "THREATS": {
-    "Definition": "dangers"
+    "Definition": "things that could cause harm or danger"
   },
   "COLLISION": {
-    "Definition": "a crash or when two things hit each other"
+    "Definition": "a crash in which two objects hit each other"
   },
   "TRAJECTORY": {
-    "Definition": "the path it takes as it moves through space"
+    "Definition": "the path an object follows as it moves through the air or space"
   },
   "CONSISTENCY": {
-    "Definition": "the quality of behaving the same way or not changing"
+    "Definition": "how hard, soft or solid something is"
   },
   "FORGE": {
-    "Definition": "create or shape"
+    "Definition": "create or form with great heat and force"
   },
   "SINK": {
-    "Definition": "go down"
+    "Definition": "move slowly downwards"
   },
   "CORES": {
-    "Definition": "the central parts"
+    "Definition": "the central parts deep inside"
   },
   "BURIED": {
-    "Definition": "covered up or hidden under"
+    "Definition": "hidden under layers of rock or soil"
   },
   "CORE": {
-    "Definition": "central part"
+    "Definition": "the central part deep inside a planet"
   },
   "SCATTERED": {
-    "Definition": "spread out in different directions"
+    "Definition": "spread around over a wide area"
   },
   "SUNK": {
-    "Definition": "dropped below the surface or to the bottom"
+    "Definition": "moved slowly downwards"
   },
   "DIFFERENTIATION": {
-    "Definition": "separation"
+    "Definition": "separation into layers, with heavy material moving to the centre"
   },
   "EXTRACT": {
-    "Definition": "remove or take out"
+    "Definition": "take out or remove from the rock"
   },
   "VITAL": {
-    "Definition": "very important or necessary"
+    "Definition": "extremely important and necessary"
   },
   "POLLUTING": {
-    "Definition": "making the environment dirty or harmful"
+    "Definition": "making the air, water or land dirty and harmful"
   },
   "PRACTICALITY": {
-    "Definition": "how useful or realistic it is"
+    "Definition": "how possible or realistic something is to do"
   },
   "COMMITTING": {
-    "Definition": "deciding to do it and sticking to it"
+    "Definition": "agreeing firmly, with money and effort"
   },
-  "VERY WELL": {
-    "Definition": "used to express agreement or consent"
+  "VERY WELL MIGHT": {
+    "Definition": "may quite possibly"
   },
   "ASSUME": {
-    "Definition": "suppose or take it as given"
+    "Definition": "accept as true for now, without proof"
   },
   "LIFT-OFF": {
-    "Definition": "the moment a spacecraft leaves the ground"
+    "Definition": "the moment a rocket leaves the ground and rises into the air"
   },
   "BEAR MUCH RESEMBLANCE": {
-    "Definition": "look or seem very similar"
+    "Definition": "be very similar"
   },
   "BOOST": {
-    "Definition": "push or thrust"
+    "Definition": "lift or push up with great force"
   },
   "CANOPY": {
-    "Definition": "a covering like a roof or top layer"
+    "Definition": "a large cover fixed over something"
   },
   "DUST": {
-    "Definition": "tiny pieces of dirt or powder"
+    "Definition": "very small, dry pieces of earth or other material"
   },
   "LASERS": {
-    "Definition": "powerful beams of light used for cutting or other purposes"
+    "Definition": "machines that produce very strong, narrow lines of light"
   },
   "VAPORISE": {
-    "Definition": "turn into gas or steam"
+    "Definition": "turn into gas by heating"
   },
   "GRIND": {
-    "Definition": "crush into small pieces or powder"
+    "Definition": "crush into very small pieces or powder"
   },
   "VARYING": {
-    "Definition": "changing or being different"
+    "Definition": "different and changing"
   },
   "STABILISING": {
-    "Definition": "making it steady or balanced"
+    "Definition": "making steady and keeping still"
   },
   "THRUSTERS": {
-    "Definition": "engines used to control its movement"
+    "Definition": "small engines that push a spacecraft in a particular direction"
   },
   "TETHERS": {
-    "Definition": "ropes or cables used to tie or hold"
+    "Definition": "ropes or chains that tie something to a fixed point"
   },
   "ANCHOR": {
-    "Definition": "keep it in place"
+    "Definition": "hold firmly in one place"
   },
   "SYNCHRONISING": {
-    "Definition": "coordinating or adjusting"
+    "Definition": "setting to move at exactly the same time and speed"
   },
   "ASTRONAUTS": {
-    "Definition": "people trained to travel and work in space"
+    "Definition": "people who travel into space"
   },
   "SHOVELS": {
-    "Definition": "tools used for digging"
+    "Definition": "tools with a long handle and a wide, flat end for digging"
   },
   "LUGGING": {
-    "Definition": "carrying (something heavy)"
+    "Definition": "carrying or pulling with great effort because it is heavy"
   },
   "SACKS": {
-    "Definition": "large bags for carrying or storing things"
+    "Definition": "large bags made of strong material"
   },
   "PROVINCE": {
-    "Definition": "region or area"
+    "Definition": "something that belongs to and is shared by a whole group"
   },
   "APPROPRIATION": {
-    "Definition": "taking it for one's own use"
+    "Definition": "taking something as your own, often without permission"
   },
   "SOVEREIGNTY": {
-    "Definition": "supreme power or authority"
+    "Definition": "complete power to rule over a country or area"
   },
   "GREY AREA": {
-    "Definition": "something not clearly defined or understood"
+    "Definition": "a situation where the rules are not clear"
   },
   "EXPLOITATION": {
-    "Definition": "making use of and benefiting from"
+    "Definition": "the use of something to make money or gain a benefit"
   },
   "PLAY WITH": {
-    "Definition": "work with or stand together"
+    "Definition": "fit or work alongside"
   },
   "SPECTACULARLY": {
-    "Definition": "in a very impressive way"
+    "Definition": "extremely; in a very impressive way"
   },
   "HYDRATED": {
-    "Definition": "having enough water to drink"
+    "Definition": "having enough water in the body"
   },
   "SHIELD": {
-    "Definition": "something used to protect or block"
+    "Definition": "something that protects from danger or harm"
   },
   "COMPONENT": {
-    "Definition": "basic or constituent"
+    "Definition": "individual, making up a whole"
   },
   "PROPELLANTS": {
-    "Definition": "substances used to push something forward like in rockets"
+    "Definition": "fuels or substances burned to push something forward"
   },
   "VEERING": {
-    "Definition": "changing direction suddenly"
+    "Definition": "turning or moving off in a new direction"
   },
   "REALMS": {
-    "Definition": "areas or fields"
+    "Definition": "areas of activity, interest or thought"
   },
   "SETTLEMENTS": {
-    "Definition": "places where people lived"
+    "Definition": "places where people have come to live and built homes"
   },
   "FLOOD": {
-    "Definition": "arrive in overwhelming amounts or quantities and fill it"
+    "Definition": "fill with far too much of something"
   },
   "FRACTION": {
-    "Definition": "a small part or portion"
+    "Definition": "a small part or amount"
   },
   "HAUL": {
-    "Definition": "quantity or load"
+    "Definition": "an amount of something collected or brought back"
   },
   "MECHANISM": {
-    "Definition": "system or process"
+    "Definition": "a system or process for doing something"
   },
   "COMPENSATED": {
-    "Definition": "given something in return"
+    "Definition": "given money to make up for a loss or harm"
   },
   "SPOILS": {
-    "Definition": "things taken or gained"
+    "Definition": "valuable things or profits gained from an activity"
   },
   "DEBRIS": {
-    "Definition": "broken pieces of rubbish or remains"
+    "Definition": "loose broken pieces and waste"
   },
   "CLEAR-CUT": {
-    "Definition": "very obvious or easy to understand"
+    "Definition": "clear and certain; easy to decide"
   },
   "EMISSIONS": {
-    "Definition": "gases or substances released into the air"
+    "Definition": "gases released into the air"
   },
   "CRUST": {
-    "Definition": "outer layer"
+    "Definition": "the hard outer layer"
   },
   "RETURN": {
-    "Definition": "profit from the investment"
+    "Definition": "profit from money that has been invested"
   },
   "INITIALLY": {
-    "Definition": "at the beginning or first"
+    "Definition": "at the beginning; at first"
   },
   "PATIENT": {
-    "Definition": "able to wait without getting upset"
+    "Definition": "able to wait calmly for a long time"
   },
   "LACK": {
-    "Definition": "not having enough of it, shortage"
+    "Definition": "a situation of not having enough"
   },
   "SPOTTED": {
     "Definition": "seen or noticed"
   },
   "PERSPECTIVE": {
-    "Definition": "a way of looking at or thinking about it"
-  },
-  "": {
-    "Definition": null
+    "Definition": "a way of thinking about or looking at something"
   }
 }
