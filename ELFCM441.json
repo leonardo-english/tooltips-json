@@ -1,221 +1,212 @@
 {
-  "LEAD": {
-    "Definition": "main or chief"
-  },
-  "MERE": {
-    "Definition": "only, nothing more than"
-  },
-  "MORTALS": {
-    "Definition": "humans, people who don't live forever"
+  "MERE MORTALS": {
+    "Definition": "ordinary people who cannot live forever"
   },
   "ENCYCLOPAEDIC": {
-    "Definition": "having extensive knowledge or information"
+    "Definition": "very wide and detailed"
   },
   "THREESCORE": {
-    "Definition": "three times twenty, sixty"
+    "Definition": "sixty"
   },
   "FOURSCORE": {
-    "Definition": "four times twenty, eighty"
+    "Definition": "eighty"
   },
   "SORROW": {
-    "Definition": "deep sadness or unhappiness"
+    "Definition": "great sadness"
   },
   "PSALM": {
-    "Definition": "holy song or hymn"
+    "Definition": "a holy song or poem from the Bible"
   },
   "MEASLY": {
-    "Definition": "very small"
+    "Definition": "very small and disappointing"
   },
   "GRADUALLY": {
-    "Definition": "slowly over time, bit by bit"
+    "Definition": "slowly, over a long period of time"
   },
   "CAP": {
-    "Definition": "limit or maximum boundary"
+    "Definition": "an upper limit"
   },
   "WITHIN TOUCHING DISTANCE OF": {
-    "Definition": "very close to, almost achieving"
+    "Definition": "very close to reaching"
   },
   "MINORITY": {
-    "Definition": "small group of people"
+    "Definition": "a smaller group, less than half of all people"
   },
   "AGEING": {
-    "Definition": "the process of growing older, getting old"
+    "Definition": "growing old"
   },
   "TRANSHUMANISM": {
-    "Definition": "a movement that supports enhancing human abilities through technology"
+    "Definition": "the idea that humans can use technology to go beyond their natural limits"
   },
   "FLEETING": {
-    "Definition": "brief, lasting for a short time"
+    "Definition": "very quick and short"
   },
   "GLANCE": {
-    "Definition": "quick look or glimpse"
+    "Definition": "look"
   },
   "IN PASSING": {
-    "Definition": "briefly or casually"
+    "Definition": "briefly, while talking about something else"
   },
   "EMBARKING ON": {
-    "Definition": "starting or beginning"
+    "Definition": "starting"
   },
   "WALKED AWAY": {
-    "Definition": "left while gaining"
+    "Definition": "come out of the sale"
   },
   "WELL-TRODDEN PATH": {
-    "Definition": "common or frequently followed course of action"
+    "Definition": "a usual route that many people have followed before"
   },
   "FAME": {
-    "Definition": "being widely recognised or known, celebrity"
+    "Definition": "being known by a very large number of people"
   },
   "WAVE": {
-    "Definition": "move by raising and lowering it"
+    "Definition": "hold up and use without effort"
   },
   "FEE": {
-    "Definition": "amount of money paid"
+    "Definition": "an amount of money paid for a service"
   },
   "OUTLOOK": {
-    "Definition": "perspective or way of looking at things"
+    "Definition": "general view"
   },
   "BLISSFULLY": {
-    "Definition": "in a state of extreme happiness or joy"
+    "Definition": "wonderfully and pleasantly"
   },
   "EXECUTES": {
-    "Definition": "carries out or performs"
+    "Definition": "carries out"
   },
   "BITS": {
-    "Definition": "small pieces or units of information in computing"
+    "Definition": "the smallest units of computer data"
   },
   "DESIRED": {
-    "Definition": "wanted or wished for"
+    "Definition": "wanted"
   },
   "PLETHORA": {
-    "Definition": "very large number"
+    "Definition": "a very large number"
   },
   "ON THE FLIP SIDE": {
-    "Definition": "looking at the opposite viewpoint"
+    "Definition": "on the other hand"
   },
   "TEND": {
-    "Definition": "usually behave in this way"
+    "Definition": "are likely"
   },
   "BLUEPRINT": {
-    "Definition": "detailed plan"
+    "Definition": "a detailed plan"
   },
   "OPTIMUM": {
-    "Definition": "best, ideal"
+    "Definition": "best possible"
   },
   "PINPOINT": {
-    "Definition": "precisely locate or identify"
+    "Definition": "say exactly"
   },
   "UNCONVENTIONAL": {
-    "Definition": "not following typical or accepted methods"
+    "Definition": "unusual; not what most people do"
   },
   "OPTIMISE": {
-    "Definition": "make it as effective or efficient as possible"
+    "Definition": "make as good as possible"
   },
   "OPTIMIZATION": {
-    "Definition": "the process of making it more efficient"
+    "Definition": "making something as good as possible"
   },
   "FIRED": {
-    "Definition": "got rid of or dismissed from a job or position"
+    "Definition": "got rid of, as if removing someone from a job"
   },
   "FAST FORWARD": {
-    "Definition": "jumping ahead in time"
+    "Definition": "jump ahead in time"
   },
   "PRESCRIBED": {
-    "Definition": "directed or ordered"
+    "Definition": "decided and ordered"
   },
   "ALGORITHM": {
-    "Definition": "set of rules to be followed in calculations by a computer"
+    "Definition": "a set of steps or rules that a computer follows to solve a problem"
   },
   "HOOKED UP": {
-    "Definition": "connected or linked"
+    "Definition": "connected"
   },
   "ALGORITHMIC": {
-    "Definition": "related to a set of rules to be followed in calculations by a computer"
+    "Definition": "based on fixed rules and steps, like a computer program"
   },
   "STATED": {
-    "Definition": "declared or expressed"
+    "Definition": "publicly announced"
   },
   "SUFFICIENT": {
-    "Definition": "adequate, enough to meet a requirement"
+    "Definition": "large enough"
   },
   "BREAKTHROUGHS": {
-    "Definition": "significant discoveries or advancements"
+    "Definition": "important new discoveries"
   },
   "PATIENT ZERO": {
-    "Definition": "the first person known to be treated in this way"
+    "Definition": "the first person on whom something new is tested"
   },
   "INTAKE": {
-    "Definition": "amount taken into the body"
+    "Definition": "the amount that someone eats or drinks"
   },
   "ERECTIONS": {
-    "Definition": "states of sexual excitement"
+    "Definition": "times when the penis becomes stiff and hard"
   },
   "IRONIC": {
-    "Definition": "unexpectedly opposite to what is expected"
+    "Definition": "strange because it is the opposite of what you would expect"
   },
   "PLAIN": {
-    "Definition": "simple, basic"
+    "Definition": "simple"
   },
   "BACKED BY": {
-    "Definition": "supported by, with evidence or proof"
+    "Definition": "supported by"
   },
   "ROUTINE": {
-    "Definition": "regular or habitual course of action or procedure"
+    "Definition": "regular set of activities"
   },
   "INTRUSIVE": {
-    "Definition": "causing questions by being too involved or invasive"
+    "Definition": "interfering too much with the body or privacy"
   },
   "SHEER": {
     "Definition": "very large"
   },
   "SACRIFICE": {
-    "Definition": "give it up for a greater purpose"
+    "Definition": "give up"
   },
   "BOWLING ALLEY": {
-    "Definition": "a place or venue for playing the sport of bowling"
+    "Definition": "a building where people play a game of rolling heavy balls at pins"
   },
   "OUTSOURCE": {
-    "Definition": "have them make the decision for us"
+    "Definition": "hand over"
   },
   "OUTSOURCING": {
-    "Definition": "having it make the decisions for him"
+    "Definition": "handing over"
   },
   "PROCEDURE": {
-    "Definition": "plan or course of action"
+    "Definition": "a set of actions done in a fixed way"
   },
   "OPEN SOURCE": {
-    "Definition": "information that is freely available for anyone to use and modify"
+    "Definition": "free for anyone to use, copy and change"
   },
   "MILLION-DOLLAR QUESTION": {
-    "Definition": "highly important or difficult question or issue"
+    "Definition": "the most important question, which everyone wants answered"
   },
   "STRICT": {
-    "Definition": "exact, careful"
+    "Definition": "with firm rules that must be followed exactly"
   },
   "FORGO": {
-    "Definition": "willingly give up or do without it"
+    "Definition": "choose not to have"
   },
   "SHOUTING FROM THE ROOFTOPS": {
-    "Definition": "publicly promoting it enthusiastically"
+    "Definition": "telling everyone about something as loudly and publicly as possible"
   },
   "SYMPATHETIC": {
-    "Definition": "understanding and supportive"
+    "Definition": "friendly and supportive"
   },
   "SPLASHED ALL OVER": {
-    "Definition": "widely covered or prominently featured by"
+    "Definition": "shown in a very noticeable way across"
   },
   "DENY": {
-    "Definition": "reject or refuse to accept it as true"
+    "Definition": "say that something is not true"
   },
   "DEEPER DIVE": {
-    "Definition": "more detailed exploration or examination"
+    "Definition": "a more detailed look"
   },
   "TOUCHED ON": {
-    "Definition": "briefly discussed or mentioned"
+    "Definition": "mentioned briefly"
   },
   "DRASTIC": {
-    "Definition": "extreme, likely to have a strong or far-reaching effect"
-  },
-  "": {
-    "Definition": null
+    "Definition": "very big and extreme"
   }
 }
