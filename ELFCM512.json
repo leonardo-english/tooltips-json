@@ -1,224 +1,221 @@
 {
   "CONVERTIBLE": {
-    "Definition": "able to be changed into"
+    "Definition": "able to be exchanged"
   },
   "ABANDONED": {
-    "Definition": "left behind or stopped being used"
+    "Definition": "given up; no longer used; (as a past tense) gave up"
   },
   "BIN": {
-    "Definition": "a container or box"
+    "Definition": "a large container for keeping things in"
   },
   "DIVE": {
-    "Definition": "jump into it deeply"
+    "Definition": "jump head first"
   },
   "STASH": {
-    "Definition": "a hidden store or hoard"
+    "Definition": "a large amount of something stored, often secretly"
   },
   "SHINY": {
-    "Definition": "bright and reflective, like a polished surface"
+    "Definition": "bright because it reflects light"
   },
   "NUANCES": {
-    "Definition": "small details or differences that are not obvious"
+    "Definition": "small but important differences or details"
   },
   "MALLEABLE": {
-    "Definition": "shaped or bent easily"
+    "Definition": "easy to press into new shapes without breaking"
   },
   "BEND": {
-    "Definition": "make it curve or change shape"
+    "Definition": "make or become curved"
   },
   "MELT": {
-    "Definition": "change from solid to liquid using heat"
+    "Definition": "heat until it turns into liquid"
   },
   "CROWNS": {
-    "Definition": "circular decorations for the head"
+    "Definition": "circular gold decorations worn on the heads of kings and queens"
   },
   "DECORATIVE": {
-    "Definition": "used to make something look nice, not for practical use"
+    "Definition": "made to look attractive rather than to be useful"
   },
   "MOULDED": {
-    "Definition": "shaped"
+    "Definition": "pressed or formed"
   },
   "RESISTANT": {
-    "Definition": "able to withstand or hold out against damage"
+    "Definition": "not easily harmed or damaged"
   },
   "CORRODE": {
-    "Definition": "get slowly damaged or eaten away"
+    "Definition": "slowly break down because of air, water or chemicals"
   },
   "RUST": {
-    "Definition": "turn red as a result of reacting with air and water"
+    "Definition": "become covered in a red-brown layer caused by air and water"
   },
   "PROPERTIES": {
-    "Definition": "qualities or characteristics"
+    "Definition": "qualities or features"
   },
   "MINT": {
-    "Definition": "make or produce (coins)"
+    "Definition": "officially make"
   },
   "INTRINSIC": {
-    "Definition": "belonging naturally"
+    "Definition": "real and belonging to the thing itself, not given to it by people"
   },
   "RARITY": {
-    "Definition": "the fact of being uncommon or hard to find"
+    "Definition": "the fact of being uncommon and hard to find"
   },
   "DURABILITY": {
-    "Definition": "lasting a long time without breaking or getting damaged"
+    "Definition": "the ability to last a long time without being damaged"
   },
   "MALLEABILITY": {
-    "Definition": "ability to be easily shaped or bent"
+    "Definition": "the quality of being easy to press into new shapes"
   },
   "TENDED": {
-    "Definition": "often happened in this way or were likely"
+    "Definition": "were generally more likely"
   },
   "IMPLIED": {
-    "Definition": "not direct"
+    "Definition": "indirect; coming from what it represented"
   },
   "BACKED BY": {
-    "Definition": "supported by"
+    "Definition": "supported and guaranteed by"
   },
   "ADOPT": {
-    "Definition": "start using it"
+    "Definition": "start using"
   },
   "ABSORBED": {
-    "Definition": "took in"
+    "Definition": "took in and kept"
   },
   "VAST": {
-    "Definition": "very large or huge"
+    "Definition": "very large"
   },
   "OVERVALUED": {
-    "Definition": "gave too much value"
+    "Definition": "set too high a value on"
   },
   "ENCOURAGED": {
-    "Definition": "gave support or motivation"
+    "Definition": "persuaded; made more likely"
   },
   "BIMETALLIC": {
-    "Definition": "involving two types of metal"
+    "Definition": "using two metals, gold and silver, as money"
   },
   "OUNCES": {
-    "Definition": "small units of weight"
+    "Definition": "units of weight; for gold, each about 31 grams"
   },
   "SWAP": {
-    "Definition": "trade or exchange"
+    "Definition": "exchange"
   },
   "FRUSTRATING": {
-    "Definition": "annoying or causing irritation because of difficulty"
+    "Definition": "making you feel annoyed and impatient"
   },
   "TREMENDOUS": {
-    "Definition": "very great"
+    "Definition": "very great; huge"
   },
   "FACILITATE": {
-    "Definition": "make it easier"
+    "Definition": "make easier"
   },
   "PRECEDENT": {
-    "Definition": "an event that was used as an example"
+    "Definition": "an example for others to follow"
   },
   "FOLLOWED SUIT": {
     "Definition": "did the same thing"
   },
   "BASIS": {
-    "Definition": "starting point or foundation"
+    "Definition": "the main thing that something is built on"
   },
   "ENABLED": {
-    "Definition": "made possible or allowed to happen"
+    "Definition": "made possible"
   },
   "CIRCULATION": {
-    "Definition": "the movement or flow around the system"
+    "Definition": "use, passing from person to person"
   },
   "FLOODED": {
-    "Definition": "filled or overwhelmed with too much of it"
+    "Definition": "filled with a very large amount of something"
   },
   "RELIABLE": {
-    "Definition": "trustworthy and dependable"
+    "Definition": "able to be trusted; dependable"
   },
   "IN TURN": {
-    "Definition": "as a result"
+    "Definition": "as the next step in a chain"
   },
   "STABILISING": {
-    "Definition": "making things steady or less likely to change"
+    "Definition": "making things steadier and less likely to change"
   },
   "STABLE": {
-    "Definition": "steady and unlikely to change or fall"
+    "Definition": "steady; not changing much"
   },
   "INFLATION": {
-    "Definition": "a rise in prices, making money worth less"
+    "Definition": "a general rise in prices and fall in the value of money"
   },
   "STIMULATE": {
-    "Definition": "encourage or boost"
+    "Definition": "encourage to grow and become more active"
   },
   "PROPORTIONATE": {
-    "Definition": "matching in size"
+    "Definition": "matching in size or amount"
   },
   "INTERVENE": {
-    "Definition": "step in to change or stop something"
+    "Definition": "take action to change what is happening"
   },
   "OUTBREAK": {
-    "Definition": "sudden start"
+    "Definition": "the sudden start"
   },
   "FUND": {
-    "Definition": "provide money for them"
+    "Definition": "pay for"
   },
   "RIGID": {
-    "Definition": "strict, not flexible or able to change easily"
+    "Definition": "strict and not able to be changed"
   },
   "BACK UP": {
-    "Definition": "support or validate"
+    "Definition": "support and guarantee the value of"
   },
   "HARDSHIP": {
-    "Definition": "suffering or difficulty"
+    "Definition": "difficult conditions, especially a lack of money"
   },
   "TIED THEIR HANDS": {
-    "Definition": "stopped them from being able to act"
+    "Definition": "stopped them from acting freely"
   },
   "ABANDON": {
-    "Definition": "give up or stop using it"
+    "Definition": "give up; stop using"
   },
   "PEGGING": {
-    "Definition": "fixing their value according to"
+    "Definition": "firmly linking the value"
   },
   "PEGGED": {
-    "Definition": "set or fixed according to"
+    "Definition": "firmly linked in value"
   },
   "TIED": {
-    "Definition": "connected or linked"
+    "Definition": "firmly linked in value"
   },
   "BACK": {
-    "Definition": "support or validate"
+    "Definition": "support and guarantee the value of"
   },
   "CAME TO A HEAD": {
-    "Definition": "reached a critical or important point"
+    "Definition": "reached a crisis point where action was needed"
   },
   "SUSPEND": {
-    "Definition": "temporarily stop"
+    "Definition": "officially stop, at least for a time"
   },
   "CONVERTIBILITY": {
-    "Definition": "ability to change"
+    "Definition": "the ability to be exchanged"
   },
   "PERCEIVED": {
-    "Definition": "seen or understood"
+    "Definition": "seen or believed by people"
   },
   "FINITE": {
-    "Definition": "having a limit or end"
+    "Definition": "limited; with an end"
   },
   "OBTAIN": {
-    "Definition": "get or receive"
+    "Definition": "get"
   },
   "BALANCE THEIR BUDGETS": {
-    "Definition": "make sure that spending does not exceed income"
+    "Definition": "spend no more money than they receive"
   },
   "IN SOME SHAPE OR FORM": {
-    "Definition": "in some way, of any type"
+    "Definition": "in one way or another"
   },
   "BARBAROUS": {
-    "Definition": "cruel or uncivilised"
+    "Definition": "primitive and uncivilised"
   },
   "RELIC": {
-    "Definition": "an old or outdated idea"
+    "Definition": "an old thing that survives from the past and is now out of date"
   },
   "PILE": {
-    "Definition": "a heap or large amount"
+    "Definition": "a large amount of things lying on top of each other"
   },
   "SCANDAL": {
-    "Definition": "a shocking event that caused public anger"
-  },
-  "": {
-    "Definition": null
+    "Definition": "an event that shocks people because it is seen as wrong"
   }
 }
