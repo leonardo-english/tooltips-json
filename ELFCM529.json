@@ -1,467 +1,461 @@
 {
   "UP-AND-DOWN": {
-    "Definition": "having both good and bad times"
+    "Definition": "sometimes good and sometimes bad"
   },
   "SPRAWLING": {
-    "Definition": "spreading out over a large area"
+    "Definition": "very large and spread out over a wide area"
   },
   "SOURED": {
-    "Definition": "become worse or unpleasant"
+    "Definition": "become worse and less friendly"
   },
   "FALLINGS-OUT": {
-    "Definition": "arguments or disagreements"
+    "Definition": "serious arguments that damage a relationship"
   },
   "LAWSUITS": {
-    "Definition": "legal cases brought to a court"
+    "Definition": "legal cases that one person or company brings against another"
   },
   "DYNASTIC": {
-    "Definition": "related to a family that rules or leads for a long time"
+    "Definition": "relating to a powerful family whose members hold power one after another"
   },
   "SQUABBLES": {
-    "Definition": "small, silly arguments"
+    "Definition": "angry arguments, often about small matters"
   },
   "CAST": {
-    "Definition": "choose or vote in an election"
+    "Definition": "officially give"
   },
   "BALLOTS": {
-    "Definition": "pieces of paper used for voting"
+    "Definition": "votes, or the papers on which people mark their choice"
   },
   "EXCEPTIONS": {
-    "Definition": "cases that are different from the usual"
+    "Definition": "cases that do not follow the usual rule"
   },
   "RUSH": {
-    "Definition": "hasty or intense activity"
+    "Definition": "a situation in which everyone hurries to do something"
   },
   "ELABORATE": {
-    "Definition": "very detailed or complicated"
+    "Definition": "detailed and complicated"
   },
   "GRAPHICS": {
-    "Definition": "pictures or designs used in media"
+    "Definition": "pictures, maps and charts shown on a screen"
   },
   "SEEMINGLY": {
-    "Definition": "appearing to be true but not certainly"
+    "Definition": "in a way that appears to be true"
   },
   "CREEPING": {
-    "Definition": "moving slowly or gradually"
+    "Definition": "moving slowly and gradually"
   },
   "OVERTAKEN": {
-    "Definition": "passed by"
+    "Definition": "passed and left behind"
   },
   "RELY ON": {
-    "Definition": "depend on or trust"
+    "Definition": "depend on; need and use"
   },
   "EXIT POLL": {
-    "Definition": "a survey or study of people leaving a voting place"
+    "Definition": "a survey that asks people how they voted just after they vote"
   },
   "TRENDS": {
-    "Definition": "general patterns or directions of change"
+    "Definition": "general directions in which things are changing"
   },
   "ADJUSTING": {
-    "Definition": "making changes to"
+    "Definition": "changing slightly to make more correct"
   },
   "MODELS": {
-    "Definition": "examples or systems used for understanding the data"
+    "Definition": "computer systems that use data to predict results"
   },
   "CREDIBILITY": {
-    "Definition": "being believable or trustworthy"
+    "Definition": "the quality of being believed and trusted"
   },
-  "GLUED": {
-    "Definition": "unable to stop watching or looking at"
-  },
-  "SCREEN": {
-    "Definition": "the flat part of a TV or computer"
+  "GLUED TO THE SCREEN": {
+    "Definition": "watching with full attention and unable to stop"
   },
   "TEND TO": {
-    "Definition": "usually do or are likely to"
+    "Definition": "are likely to"
   },
   "OBVIOUS": {
     "Definition": "easy to see or understand"
   },
   "SWING": {
-    "Definition": "showing big change or movement"
+    "Definition": "not firmly supporting one party, so able to vote either way"
   },
   "ON A KNIFE EDGE": {
-    "Definition": "in a very uncertain situation"
+    "Definition": "very uncertain and could go either way"
   },
   "HEAD TO HEAD": {
-    "Definition": "in direct competition with each other, very close"
+    "Definition": "competing very closely with each other"
   },
   "BINDING": {
-    "Definition": "officially required"
+    "Definition": "official, so that it must be obeyed or accepted"
   },
   "TAKES THE WIND OUT OF THE SAILS": {
-    "Definition": "makes them lose confidence or energy"
+    "Definition": "takes away the confidence and energy"
   },
   "MORALE-BOOSTING": {
-    "Definition": "making them feel more positive or confident"
+    "Definition": "making people feel more confident and hopeful"
   },
   "SEEKING": {
-    "Definition": "trying to find or have"
+    "Definition": "trying to get or win"
   },
   "LIVID": {
-    "Definition": "very angry"
+    "Definition": "extremely angry"
   },
   "OUTLET": {
-    "Definition": "TV channel"
+    "Definition": "a company or channel that gives news and information to the public"
   },
   "AIRTIME": {
-    "Definition": "time given on TV"
+    "Definition": "time on television or radio"
   },
   "COVERAGE": {
-    "Definition": "reporting of news on TV, radio, or in newspapers"
+    "Definition": "reporting of news about someone or something"
   },
   "TURNING ITS BACK ON": {
-    "Definition": "rejecting or abandoning"
+    "Definition": "stopping its support for"
   },
   "INHERITED": {
-    "Definition": "received from his father after his death"
+    "Definition": "received from someone after they died"
   },
   "SPANNING": {
-    "Definition": "covering"
+    "Definition": "covering; stretching across"
   },
   "JEWEL IN THE CROWN": {
-    "Definition": "the best or most valuable part"
+    "Definition": "the most valuable or successful part"
   },
   "LEFT-LEANING": {
-    "Definition": "supporting ideas that are more liberal or progressive"
+    "Definition": "tending to support liberal or socialist politics"
   },
   "OFF GUARD": {
-    "Definition": "surprised or unprepared"
+    "Definition": "by surprise, when not prepared"
   },
   "INTERPRETED": {
-    "Definition": "explained or understood"
+    "Definition": "understood or saw"
   },
   "TREACHERY": {
-    "Definition": "betrayal or breaking of trust"
+    "Definition": "being disloyal to those who trusted you"
   },
   "FLIPPANT": {
-    "Definition": "not being serious about something important"
+    "Definition": "careless and not serious"
   },
   "INTEGRITY": {
-    "Definition": "being honest and having strong moral principles"
+    "Definition": "honesty and strong moral standards"
   },
   "PLEDGED": {
-    "Definition": "promised or committed to"
+    "Definition": "formally promised"
   },
   "UNWAVERING": {
-    "Definition": "strong and steady, not changing"
+    "Definition": "firm and never changing"
   },
   "TIDE MIGHT BE TURNING": {
-    "Definition": "things might be starting to change"
+    "Definition": "situation might be starting to change in the other direction"
   },
   "PRAGMATIC": {
-    "Definition": "focussed on practical solutions"
+    "Definition": "practical and based on what works, not on beliefs"
   },
   "PROPAGANDA": {
-    "Definition": "sharing information used to influence opinions"
+    "Definition": "information, often false or one-sided, used to support a political cause"
   },
   "MUTUAL": {
-    "Definition": "shared between the two parties"
+    "Definition": "shared by both sides"
   },
   "IDEOLOGICAL": {
-    "Definition": "based on ideas or beliefs"
+    "Definition": "based on political beliefs and ideas"
   },
   "ALLIANCE": {
-    "Definition": "agreement to work together"
+    "Definition": "an agreement to work together for shared benefit"
   },
   "OUTWARDLY": {
-    "Definition": "on the surface or in appearance"
+    "Definition": "in public; on the surface"
   },
   "CLAIMED": {
-    "Definition": "said that it was true without proof"
+    "Definition": "said publicly, perhaps untruthfully"
   },
   "HAD MUCH TIME FOR": {
-    "Definition": "liked or respected"
+    "Definition": "liked or respected much"
   },
   "FAWNED OVER": {
-    "Definition": "praised or admired him too much"
+    "Definition": "praised and admired too much, in an eager way"
   },
   "COULDN’T GET ENOUGH OF HIM": {
-    "Definition": "liked him very much and wanted more of him"
+    "Definition": "loved him and always wanted more of him"
   },
   "UNPARALLELED": {
-    "Definition": "better or greater than anything else"
+    "Definition": "greater than any other before"
   },
   "REFUTE": {
-    "Definition": "prove it was wrong or false"
+    "Definition": "show or say that something is false"
   },
   "ANCHORS": {
-    "Definition": "TV hosts who presented news programmes"
+    "Definition": "people who present news programmes on television"
   },
   "HANDSOMELY": {
-    "Definition": "in a way that gave a lot of money or reward"
+    "Definition": "with a large amount of money; generously"
   },
   "AFFLUENT": {
-    "Definition": "wealthy or rich"
+    "Definition": "rich; having a lot of money"
   },
   "SUCCESSION": {
-    "Definition": "the process of one person taking over a role after another"
+    "Definition": "the question of who takes over power from someone"
   },
   "STEP BACK FROM": {
-    "Definition": "reduce involvement in them"
+    "Definition": "become less involved in"
   },
   "DAY-TO-DAY": {
-    "Definition": "regular and happening every day"
+    "Definition": "happening every day as part of normal work"
   },
   "TAKE THE REINS": {
     "Definition": "take control"
   },
   "IN THE RUNNING": {
-    "Definition": "being considered as a possible choice"
+    "Definition": "with a chance of being chosen"
   },
   "GET ON": {
-    "Definition": "have a good relationship"
+    "Definition": "have a friendly relationship"
   },
   "PRAGMATIST": {
-    "Definition": "someone who focussed on practical solutions"
+    "Definition": "a person who deals with things in a practical way, not based on beliefs"
   },
   "BLINDLY": {
     "Definition": "without thinking or questioning"
   },
   "WARY": {
-    "Definition": "careful or cautious"
+    "Definition": "careful and a little worried about the risk"
   },
   "ALIENATING": {
-    "Definition": "making them feel abandoned or unwanted"
+    "Definition": "upsetting and losing the support of"
   },
   "DESERT": {
-    "Definition": "leave it behind"
+    "Definition": "leave and stop supporting"
   },
   "GOLDEN GOOSE": {
-    "Definition": "something that brought a lot of money or success"
+    "Definition": "something or someone that brings in a lot of money"
   },
   "INFLAMMATORY": {
-    "Definition": "causing anger or strong reactions"
+    "Definition": "likely to make people angry or cause strong feelings"
   },
   "POLARISING": {
-    "Definition": "causing people to split into two opposing groups"
+    "Definition": "dividing people into two groups with opposite views"
   },
   "SIBLINGS": {
-    "Definition": "brothers or sisters"
+    "Definition": "brothers and sisters"
   },
   "ABANDONING": {
-    "Definition": "leaving or giving up on them"
+    "Definition": "leaving behind and no longer supporting"
   },
   "BASE": {
-    "Definition": "a group of people who strongly supported it"
+    "Definition": "the main group of loyal supporters"
   },
   "UNPREDICTABLE": {
-    "Definition": "difficult to guess or foresee his behaviour"
+    "Definition": "behaving in ways that are hard to guess"
   },
   "DISLOYAL": {
-    "Definition": "not loyal or faithful"
+    "Definition": "not faithful to the people who support you"
   },
   "STATUS QUO": {
-    "Definition": "the current situation or way things were"
+    "Definition": "the existing situation; things as they are"
   },
   "FAVOUR": {
-    "Definition": "prefer or support"
+    "Definition": "support, or give an advantage to"
   },
   "STICK WITH": {
-    "Definition": "stay loyal to"
+    "Definition": "continue to support"
   },
   "AFTERMATH": {
-    "Definition": "the consequences or after-effects the event"
+    "Definition": "the time just after an important event"
   },
   "DISPLEASURE": {
-    "Definition": "a feeling of being unhappy or annoyed"
+    "Definition": "anger or unhappiness"
   },
   "DESERTING": {
-    "Definition": "leaving or abandoning"
+    "Definition": "leaving and no longer supporting"
   },
   "SPECTACULARLY": {
-    "Definition": "in a very impressive way"
+    "Definition": "extremely; in an impressive way"
   },
   "TUNED IN": {
-    "Definition": "watched or listened to the TV shows"
+    "Definition": "watched the channel"
   },
   "RELIGIOUSLY": {
-    "Definition": "very regularly or faithfully"
+    "Definition": "very regularly, without ever missing it"
   },
   "DILEMMA": {
-    "Definition": "a difficult choice between two options"
+    "Definition": "a difficult situation in which you must choose between two options"
   },
   "SCRAMBLED": {
-    "Definition": "rushed to do it quickly"
+    "Definition": "hurried in a confused or anxious way"
   },
   "FIGURE OUT": {
-    "Definition": "understand or solve it"
+    "Definition": "work out; find the answer to"
   },
   "APPEASE": {
-    "Definition": "calm or please him by giving him what he wanted"
+    "Definition": "make someone calmer by giving them what they want"
   },
   "RIGGED": {
-    "Definition": "set up unfairly to cheat"
+    "Definition": "dishonestly arranged to get a particular result"
   },
   "RECALL": {
     "Definition": "remember"
   },
   "TAMPERED WITH": {
-    "Definition": "changed or interfered with"
+    "Definition": "secretly changed in order to cheat or cause harm"
   },
   "CERTIFIED": {
-    "Definition": "officially approved or confirmed"
+    "Definition": "officially confirmed as correct"
   },
   "WHOPPING": {
-    "Definition": "very large or impressive"
+    "Definition": "very large; surprisingly big"
   },
   "OVER AND OVER": {
-    "Definition": "repeatedly, many times"
+    "Definition": "many times; again and again"
   },
   "COME BACK TO HAUNT": {
-    "Definition": "cause trouble in the future"
+    "Definition": "cause problems later for"
   },
   "FILED": {
-    "Definition": "officially presented"
+    "Definition": "officially started"
   },
   "LAWSUIT": {
-    "Definition": "a legal case brought to a court"
+    "Definition": "a legal case that one person or company brings against another"
   },
   "DEFAMATION": {
-    "Definition": "saying something false that damaged their reputation"
+    "Definition": "damaging someone's reputation with false statements"
   },
   "DAMAGES": {
-    "Definition": "money awarded as compensation for harm or loss"
+    "Definition": "money paid to make up for harm or loss"
   },
   "DRAGGED ON": {
-    "Definition": "continued for too long"
+    "Definition": "continued slowly for longer than wanted"
   },
   "SETTLE": {
-    "Definition": "reach an agreement"
+    "Definition": "end a legal case by agreeing to pay, without a trial"
   },
   "COLOSSAL": {
-    "Definition": "very large or enormous"
+    "Definition": "extremely large"
   },
   "ANCHOR": {
-    "Definition": "a TV presenter who leads a news programme"
+    "Definition": "a person who presents news programmes on television"
   },
   "SIZABLE": {
-    "Definition": "fairly large or significant"
+    "Definition": "fairly large"
   },
   "CHUNK": {
-    "Definition": "large piece or part"
+    "Definition": "a large part or amount"
   },
   "AIRING": {
-    "Definition": "showing or broadcasting on TV"
+    "Definition": "showing on television or radio"
   },
   "FRAUD": {
-    "Definition": "lying or cheating"
+    "Definition": "illegal cheating to win or gain something"
   },
   "BOGUS": {
-    "Definition": "false or not real"
+    "Definition": "false; not real or true"
   },
   "CALCULATED": {
-    "Definition": "planned or done on purpose"
+    "Definition": "carefully planned to get a particular result"
   },
   "RECTIFYING": {
-    "Definition": "fixing or correcting"
+    "Definition": "putting right; correcting"
   },
   "ATTENTIVE": {
-    "Definition": "paying close attention"
+    "Definition": "watching or listening carefully"
   },
   "ODD": {
-    "Definition": "strange or unusual"
+    "Definition": "strange; unusual"
   },
   "LACK": {
-    "Definition": "not having enough of it"
+    "Definition": "a situation in which something is missing"
   },
   "MOCKING": {
-    "Definition": "making fun of them in a mean way"
+    "Definition": "laughing at in an unkind way"
   },
   "AIRED": {
-    "Definition": "broadcast or showed on TV"
+    "Definition": "showed or talked about on television"
   },
   "DISMISSED": {
-    "Definition": "rejected or set aside"
+    "Definition": "described as not worth taking seriously"
   },
   "NUTS": {
     "Definition": "crazy"
   },
   "CREDIBLE": {
-    "Definition": "believable or trustworthy"
+    "Definition": "believable; able to be trusted"
   },
   "SETTLEMENT": {
-    "Definition": "agreement to end the disagreement in court"
+    "Definition": "an official agreement that ends a legal case"
   },
   "CRACKS": {
-    "Definition": "problems or weaknesses"
+    "Definition": "signs of weakness or problems"
   },
   "CLAIMS": {
-    "Definition": "saying or statements that it was true, without proof"
+    "Definition": "statements that something is true, given without proof"
   },
   "HAD IT": {
-    "Definition": "reached the end of patience"
+    "Definition": "lost all patience"
   },
   "FED UP": {
-    "Definition": "tired or annoyed"
+    "Definition": "annoyed and unhappy, having had enough"
   },
   "DISTANCE": {
-    "Definition": "move away or separate"
+    "Definition": "keep separate or apart"
   },
   "LOYALTY": {
-    "Definition": "faith or support"
+    "Definition": "firm and continued support"
   },
   "KEEN": {
-    "Definition": "very eager or interested in"
+    "Definition": "eager; wanting very much"
   },
   "USHER IN": {
-    "Definition": "introduce or mark the start of"
+    "Definition": "help to start"
   },
   "TURNED ITS BACK ON": {
-    "Definition": "rejected or abandoned"
+    "Definition": "stopped its support for"
   },
   "LATCH ON": {
-    "Definition": "understand or attach to"
+    "Definition": "become strongly attached"
   },
   "DIDN’T FLY WITH": {
-    "Definition": "wasn’t accepted or liked"
+    "Definition": "was not accepted by"
   },
   "LACKING": {
-    "Definition": "not having enough of it"
+    "Definition": "missing; not having enough"
   },
   "CHARISMA": {
-    "Definition": "a special charm or ability to attract others"
+    "Definition": "a strong, attractive personality that makes people admire you"
   },
   "TRY AS HE MIGHT": {
-    "Definition": "even though he tried very hard"
+    "Definition": "however hard he tried"
   },
   "SHORT-LIVED": {
-    "Definition": "​lasting only for a short time"
+    "Definition": "lasting only a short time"
   },
   "DROPPED OUT": {
-    "Definition": "quit or left"
+    "Definition": "left; stopped taking part"
   },
   "NOMINEE": {
-    "Definition": "the one chosen for the position"
+    "Definition": "the person chosen as a party's official candidate"
   },
   "CASH COW": {
-    "Definition": "something that makes a lot of money"
+    "Definition": "a person or thing that brings in a lot of money easily"
   },
   "TRIUMPH OVER": {
-    "Definition": "win against"
+    "Definition": "win against; be stronger than"
   },
   "ANIMOSITY": {
     "Definition": "strong dislike or hatred"
   },
   "MIRACLES": {
-    "Definition": "amazing events or achievements that seem impossible"
+    "Definition": "wonderful and surprising achievements"
   },
   "MUTUALLY": {
-    "Definition": "shared by two people or parties"
+    "Definition": "for both sides"
   },
   "MOGUL": {
-    "Definition": "very powerful or important person"
+    "Definition": "a very rich and powerful businessperson"
   },
   "UPS AND DOWNS": {
-    "Definition": "good and bad times"
+    "Definition": "good times and bad times"
   },
   "AT STAKE": {
-    "Definition": "at risk or in danger of being lost"
+    "Definition": "that could be won or lost"
   },
   "EXERT": {
-    "Definition": "make use of or apply"
-  },
-  "": {
-    "Definition": null
+    "Definition": "use, in order to affect things"
   }
 }
