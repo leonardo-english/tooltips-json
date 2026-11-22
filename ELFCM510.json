@@ -1,156 +1,153 @@
 {
-  "TRIALS": {
-    "Definition": "legal processes to decide if someone was guilty or innocent of a crime"
-  },
-  "ORDEAL": {
-    "Definition": "a very difficult or painful experience"
+  "TRIALS BY ORDEAL": {
+    "Definition": "old ways of deciding guilt by making people go through painful or dangerous tests"
   },
   "MASTERPIECE": {
-    "Definition": "a great work of art"
+    "Definition": "a person's best or greatest piece of work"
   },
   "IMPRISONMENT": {
-    "Definition": "being put in jail or prison as punishment"
+    "Definition": "being put in prison"
   },
   "INCARCERATION": {
-    "Definition": "the act of putting someone in jail or prison"
+    "Definition": "being kept in prison"
   },
   "NOTORIOUS": {
-    "Definition": "well-known for something bad"
+    "Definition": "famous for something bad"
   },
   "FORTIFIED": {
-    "Definition": "made stronger with walls or defences"
+    "Definition": "strongly protected against attack with walls and other defences"
   },
   "SEEMINGLY": {
-    "Definition": "appearing to be"
+    "Definition": "appearing to be, though perhaps not really"
   },
   "INESCAPABLE": {
-    "Definition": "impossible to get away from"
+    "Definition": "impossible to get out of"
   },
   "CUT OFF": {
-    "Definition": "separated or disconnected"
+    "Definition": "kept apart; separated"
   },
   "ISOLATION": {
-    "Definition": "being alone or kept apart from others"
+    "Definition": "being alone and separated from other people"
   },
   "STITCHED UP": {
-    "Definition": "framed or falsely accused"
+    "Definition": "tricked so that he looked guilty of something he did not do"
   },
   "RUIN": {
-    "Definition": "destroy or spoil"
+    "Definition": "spoil by telling you what happens"
   },
   "SET": {
-    "Definition": "represented, taking place"
+    "Definition": "taking place"
   },
   "GETTING EVEN": {
-    "Definition": "taking revenge or making things fair again"
+    "Definition": "taking revenge; hurting someone back for what they did"
   },
   "RUINED": {
-    "Definition": "completely destroyed or badly damaged"
+    "Definition": "destroyed; very badly damaged"
   },
   "RARE": {
-    "Definition": "not happening very often"
+    "Definition": "unusual; not happening often"
   },
   "OCCURRENCE": {
-    "Definition": "incident or happening"
+    "Definition": "an event; something that happens"
   },
   "CAPTIVITY": {
-    "Definition": "being kept in a place and not allowed to leave"
+    "Definition": "being kept locked up and not free"
   },
   "DETER": {
-    "Definition": "prevent or stop"
+    "Definition": "stop someone from doing something by making them afraid of the results"
   },
   "HUMILIATION": {
-    "Definition": "the feeling of being embarrassed or ashamed"
+    "Definition": "making someone feel ashamed and foolish in front of others"
   },
   "BRANDING": {
-    "Definition": "marking them with a symbol, often using a hot iron, as punishment"
+    "Definition": "burning a mark into the skin of"
   },
   "ROTTEN": {
-    "Definition": "gone bad or spoiled"
+    "Definition": "old and gone bad; no longer fit to eat"
   },
   "COMPENSATE": {
-    "Definition": "give something in return for a loss"
+    "Definition": "make things right by paying"
   },
   "PACK THEM OFF": {
-    "Definition": "send them away quickly or without much thought"
+    "Definition": "send them away, without caring much what they want"
   },
   "HANDBOOK": {
-    "Definition": "guide or instructions"
+    "Definition": "a guide giving the main ideas and arguments"
   },
   "CELL": {
-    "Definition": "a small room where a prisoner is kept"
+    "Definition": "a room where a prisoner is kept"
   },
   "HORRENDOUS": {
-    "Definition": "very bad or shocking"
+    "Definition": "extremely bad; terrible"
   },
-  "LENGTHS": {
-    "Definition": "extent or effort"
+  "GONE TO SUCH LENGTHS": {
+    "Definition": "made such a great effort"
   },
   "GRIM": {
-    "Definition": "very serious, sad, or unpleasant"
+    "Definition": "very unpleasant and sad"
   },
   "OVERCROWDED": {
-    "Definition": "having too many people in one space"
+    "Definition": "too full of people"
   },
   "SANITARY": {
-    "Definition": "relating to the conditions that affect hygiene and health"
+    "Definition": "relating to keeping things clean and healthy"
   },
   "ACQUITTED": {
-    "Definition": "found not guilty of a crime in a court of law"
+    "Definition": "found not guilty by a court"
   },
   "JAILOR": {
-    "Definition": "the person who guarded or managed a prison or jail"
+    "Definition": "a person in charge of a prison and its prisoners"
   },
   "JAILORS": {
-    "Definition": "people who guarded or managed a prison or jail"
+    "Definition": "people in charge of a prison and its prisoners"
   },
   "BIZARRE": {
-    "Definition": "very strange or unusual"
+    "Definition": "very strange"
   },
   "BEHIND BARS": {
     "Definition": "in prison"
   },
   "PRIVILEGE": {
-    "Definition": "special right or advantage"
+    "Definition": "a special right or benefit (said here jokingly)"
   },
   "BILL": {
-    "Definition": "a proposed law that was discussed before being accepted"
+    "Definition": "a written plan for a new law"
   },
   "HARD LABOUR": {
-    "Definition": "difficult, physical work"
+    "Definition": "hard physical work given as a punishment"
   },
   "INMATES": {
-    "Definition": "people who were in prison"
+    "Definition": "people kept in a prison"
   },
   "BOOST": {
-    "Definition": "improvement or development"
+    "Definition": "an improvement or increase"
   },
   "QUAKER": {
-    "Definition": "a member of a christian group known for peaceful beliefs and simple living"
+    "Definition": "a member of a Christian group that believes in peace and simple living"
   },
   "SQUALOR": {
     "Definition": "very dirty and unpleasant conditions"
   },
   "CELLS": {
-    "Definition": "small rooms in a prison where prisoners were kept"
+    "Definition": "rooms where prisoners are kept"
   },
   "ENSHRINED": {
-    "Definition": "made official or protected by law"
+    "Definition": "firmly fixed and protected"
   },
   "COMMITTED": {
-    "Definition": "dedicated or loyal"
+    "Definition": "giving a lot of time and effort"
   },
   "UTILITARIANISM": {
-    "Definition": "the belief that actions are right if they benefit the most people"
+    "Definition": "the idea that the right action is the one that brings the most happiness to the most people"
   },
   "EMBALMED": {
-    "Definition": "treated with chemicals to be preserved"
+    "Definition": "treated with special chemicals so that it would not break down"
   },
   "CORPSE": {
-    "Definition": "dead body"
+    "Definition": "a dead body"
   },
   "MASS": {
-    "Definition": "a large number"
+    "Definition": "a large group"
   },
   "REFORM": {
     "Definition": "change for the better"
@@ -159,81 +156,78 @@
     "Definition": "changed for the better"
   },
   "AWAKENING": {
-    "Definition": "a moment of becoming aware of something important"
+    "Definition": "a moment of suddenly understanding something important"
   },
   "LAW-ABIDING": {
-    "Definition": "obeying the law and following rules"
+    "Definition": "obeying the law"
   },
   "REDEMPTION": {
-    "Definition": "forgiveness or making up for mistakes"
+    "Definition": "being saved from sin and forgiven by God"
   },
   "ACROSS THE POND": {
     "Definition": "on the other side of the Atlantic Ocean"
   },
   "SOLITARY CONFINEMENT": {
-    "Definition": "being kept alone in a cell without contact with other people as a punishment"
+    "Definition": "keeping a prisoner alone, away from all other prisoners"
   },
   "SWEEPING": {
-    "Definition": "affecting many things"
+    "Definition": "large and affecting many areas"
   },
   "REFORMS": {
-    "Definition": "changes made to improve the system"
+    "Definition": "changes made to improve a system"
   },
   "REFORMATION": {
-    "Definition": "the act of improving or changing for the better"
+    "Definition": "the improvement of someone's character and behaviour"
   },
   "REHABILITATE": {
-    "Definition": "help people return to a normal, healthy life after prison"
+    "Definition": "help criminals change and return to a normal life"
   },
   "TENDENCIES": {
-    "Definition": "the usual ways they behave, proneness"
+    "Definition": "habits or ways of behaving that someone is likely to show"
   },
   "EFFICACY": {
-    "Definition": "the ability to produce the desired result"
+    "Definition": "how well something works"
   },
   "OFFENDING": {
-    "Definition": "doing something illegal"
+    "Definition": "committing crimes"
   },
   "RE-OFFEND": {
-    "Definition": "commit a crime again after being punished"
+    "Definition": "commit a crime again"
   },
   "NON-CUSTODIAL": {
-    "Definition": "a punishment that did not involve going to prison"
+    "Definition": "not involving time in prison"
   },
   "REHABILITATION": {
-    "Definition": "helping them to return to a normal life after punishment"
+    "Definition": "helping criminals change so they can return to a normal life"
   },
   "PACK": {
-    "Definition": "put (together) in large numbers, cram"
+    "Definition": "crowd tightly"
   },
   "FINE": {
-    "Definition": "money paid as a punishment for breaking a rule or law"
+    "Definition": "a sum of money paid as a punishment"
   },
   "FALLS TERRIBLY SHORT": {
-    "Definition": "does not meet expectations or standards by a large amount"
+    "Definition": "fails very badly to do what is needed"
   },
   "OVERCROWDING": {
-    "Definition": "the state of having too many people in prisons"
+    "Definition": "having too many people in one place"
   },
   "UNSANITARY": {
-    "Definition": "dirty and unhealthy"
+    "Definition": "dirty and bad for health"
   },
   "SCUTTLE": {
-    "Definition": "run in a quick or rushed manner"
+    "Definition": "run quickly with short steps"
   },
   "REFORMISTS": {
-    "Definition": "people who want to make changes to improve them"
+    "Definition": "people who want to change and improve a system"
   },
   "CREAKING": {
-    "Definition": "old and not working well"
+    "Definition": "struggling and close to breaking down"
   },
   "REOFFENDING": {
-    "Definition": "committing a crime again after already being punished for one"
+    "Definition": "committing crimes again"
   },
   "EVOLVING": {
-    "Definition": "slowly changing and developing over time"
-  },
-  "": {
-    "Definition": null
+    "Definition": "slowly changing and developing"
   }
 }
