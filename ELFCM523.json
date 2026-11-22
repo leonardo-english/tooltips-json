@@ -1,449 +1,446 @@
 {
   "LOOSE": {
-    "Definition": "not strict or exact, general"
+    "Definition": "general and not exactly defined"
   },
   "SHADY": {
-    "Definition": "suspicious or dishonest"
+    "Definition": "secretive and possibly dishonest or illegal"
   },
   "ESPIONAGE": {
-    "Definition": "the act of spying to get secret information"
+    "Definition": "the activity of secretly collecting information for a government or group"
   },
   "TRACES": {
-    "Definition": "small signs, marks left behind or finds"
+    "Definition": "small signs that show something once existed; (as a verb) follows its history back to where it began"
   },
   "VANISHED": {
-    "Definition": "disappeared suddenly"
+    "Definition": "disappeared completely"
   },
   "TRIVIA": {
-    "Definition": "extra, not so important facts or details"
+    "Definition": "small, unimportant but interesting facts"
   },
   "CONTINUOUS": {
-    "Definition": "happening without stopping"
+    "Definition": "without stopping or a break"
   },
   "FILM SHOOT": {
-    "Definition": "the process of recording a movie"
+    "Definition": "the process of recording the scenes of a film"
   },
   "THRILLER": {
-    "Definition": "a movie full of excitement and suspense"
+    "Definition": "an exciting film or book, usually about crime or danger"
   },
   "GARGANTUAN": {
-    "Definition": "very large or huge"
+    "Definition": "extremely large"
   },
   "MANSION": {
-    "Definition": "a large luxurious house"
+    "Definition": "a very large, grand house"
   },
   "EXCLUSIVE": {
-    "Definition": "only for a certain group of people"
+    "Definition": "allowing only a small number of special people to join"
   },
   "MASK": {
-    "Definition": "something worn to cover the face"
+    "Definition": "a cover worn over the face"
   },
   "DISGUISE": {
-    "Definition": "hide, cover up"
+    "Definition": "hide, so that others cannot recognise"
   },
   "EXPLICIT": {
-    "Definition": "representing detailed sexual activity"
+    "Definition": "showing sexual activity or naked bodies very openly"
   },
   "ANATOMY": {
-    "Definition": "the structure of the body"
+    "Definition": "the body and the way its parts are formed"
   },
   "UNDERLINES": {
-    "Definition": "shows the importance of it"
+    "Definition": "shows clearly"
   },
   "OBSESSION": {
-    "Definition": "when we think about something too much"
+    "Definition": "an interest so strong that you cannot stop thinking about something"
   },
   "BROTHERHOOD": {
-    "Definition": "a close group of men like a family"
+    "Definition": "close friendship and loyalty between members; a group joined in this way"
   },
   "SWORN": {
-    "Definition": "promised strongly or officially"
+    "Definition": "made formally and seriously"
   },
   "OATHS": {
-    "Definition": "serious promises or vows"
+    "Definition": "serious, formal promises"
   },
   "ALLURE": {
-    "Definition": "a strong attraction or charm"
+    "Definition": "the quality of being exciting and attractive"
   },
   "GOINGS-ON": {
-    "Definition": "events or activities happening there"
+    "Definition": "activities or events, especially strange or secret ones"
   },
   "RITUALS": {
-    "Definition": "special actions done in a certain way often for tradition or religion"
+    "Definition": "ceremonies with fixed actions done in the same way each time"
   },
   "CLOSELY GUARDED": {
-    "Definition": "kept very secret and protected"
+    "Definition": "very carefully kept, so that few people know it"
   },
   "PRESTIGIOUS": {
-    "Definition": "highly respected and admired"
+    "Definition": "very respected and admired"
   },
   "IVY LEAGUE": {
-    "Definition": "a group of famous and respected universities in the usa"
+    "Definition": "a group of eight old and famous universities in the north-east of the US"
   },
   "SHAPING": {
-    "Definition": "forming or influencing"
+    "Definition": "forming and influencing"
   },
   "AT THE FOREFRONT": {
-    "Definition": "in the most important position"
+    "Definition": "in the most important position; given the most attention"
   },
   "ELITE": {
-    "Definition": "having the most power and influence"
+    "Definition": "belonging to the richest, most powerful or most successful group"
   },
   "HUBS": {
-    "Definition": "centres of activity or importance"
+    "Definition": "central places where many people gather"
   },
   "TREND": {
-    "Definition": "a popular activity"
+    "Definition": "something that is becoming popular or common"
   },
   "EXCLUSIVITY": {
-    "Definition": "being available to only a few special people"
+    "Definition": "the feeling of belonging to a special group that few can join"
   },
   "CAMARADERIE": {
     "Definition": "friendship and trust between people in a group"
   },
   "DISTINGUISHED": {
-    "Definition": "made worthy of respect or fame"
+    "Definition": "showed as different from the others"
   },
   "INTENSE": {
-    "Definition": "very strong or extreme"
+    "Definition": "very great or extreme"
   },
   "CEMENTED": {
-    "Definition": "made stronger or permanent"
+    "Definition": "made firm and lasting"
   },
   "INFLUENTIAL": {
-    "Definition": "having a strong effect on others"
+    "Definition": "having a lot of power to change things or people"
   },
   "INTRIGUE": {
-    "Definition": "a feeling of curiosity or interest"
+    "Definition": "great curiosity and interest, especially about something secret"
   },
   "QUOTE": {
-    "Definition": "repeat or copy out"
+    "Definition": "repeat the exact words of"
   },
   "ENIGMA": {
-    "Definition": "something mysterious or hard to understand"
+    "Definition": "a mystery; something very hard to understand"
   },
   "GOSSIP": {
-    "Definition": "conversations or stories about other people's private lives"
+    "Definition": "informal talk about other people or events, often not true"
   },
   "TIRES": {
-    "Definition": "loses interest in or becomes bored with"
+    "Definition": "gets bored"
   },
   "WHO’S-WHO": {
-    "Definition": "a list of important or famous people"
+    "Definition": "a list of the most famous and important people"
   },
   "ADMITTED": {
-    "Definition": "allowed to enter or join"
+    "Definition": "allowed to join"
   },
   "FINANCIERS": {
-    "Definition": "people who managed or invested large amounts of money"
+    "Definition": "people whose job is managing or lending large amounts of money"
   },
   "SPECULATION": {
-    "Definition": "guessing about it without knowing the facts"
+    "Definition": "guessing about something without knowing the facts"
   },
   "ENTAILS": {
-    "Definition": "includes or requires"
+    "Definition": "involves; includes as a necessary part"
   },
   "PROPORTION": {
-    "Definition": "part"
+    "Definition": "a part or share of the whole number"
   },
   "ENSURING": {
-    "Definition": "making sure it happens"
+    "Definition": "making certain"
   },
   "TIES": {
     "Definition": "connections or relationships"
   },
   "FAME": {
-    "Definition": "being well-known by many people"
+    "Definition": "the state of being known by many people"
   },
   "SWEAR": {
-    "Definition": "promise strongly or officially"
+    "Definition": "make formally and seriously"
   },
   "OATH": {
-    "Definition": "a serious promise"
+    "Definition": "a serious, formal promise"
   },
   "CLUES": {
-    "Definition": "hints or signs"
+    "Definition": "pieces of information that help you understand a mystery"
   },
   "INITIATION": {
-    "Definition": "a ceremony to officially join the group"
+    "Definition": "formally welcoming a new member into a group"
   },
   "PLAIN": {
-    "Definition": "simply, basically"
+    "Definition": "simply; completely"
   },
   "SCREAMING": {
-    "Definition": "shouting in a loud or high voice"
+    "Definition": "shouting very loudly"
   },
   "KNEEL": {
-    "Definition": "go down on their knees"
+    "Definition": "put their knees on the ground"
   },
   "SKULL": {
-    "Definition": "the bones of a head"
+    "Definition": "the set of bones that forms a person's head"
   },
   "RECURRENT": {
-    "Definition": "appearing again and again"
+    "Definition": "happening again and again"
   },
   "NUDITY": {
-    "Definition": "the state of not wearing clothes"
+    "Definition": "the state of not wearing any clothes"
   },
   "AGE-OLD": {
-    "Definition": "very old or existing for a long time"
+    "Definition": "very old; having existed for a long time"
   },
   "BOND": {
-    "Definition": "a strong connection or relationship"
+    "Definition": "a close connection or feeling that joins people"
   },
   "PILGRIMS": {
-    "Definition": "people who travelled for religious reasons"
+    "Definition": "people who travel to a holy place for religious reasons"
   },
   "AFTERMATH": {
-    "Definition": "period after (an important event)"
+    "Definition": "the period after an important event, especially a bad one"
   },
   "BANDITS": {
-    "Definition": "criminals who stole on the road"
+    "Definition": "armed thieves who attack travellers"
   },
   "HOSTILE": {
-    "Definition": "unfriendly or aggressive"
+    "Definition": "unfriendly and ready to attack; enemy"
   },
   "EXISTENCE": {
-    "Definition": "the state of being"
+    "Definition": "being; living"
   },
   "HANDFUL": {
     "Definition": "a small number"
   },
   "POVERTY": {
-    "Definition": "the state of being very poor"
+    "Definition": "living without money or possessions"
   },
   "PLEDGING": {
-    "Definition": "promising or committing to do it"
+    "Definition": "formally promising"
   },
   "PRIVILEGES": {
-    "Definition": "rights or advantages"
+    "Definition": "rights or advantages given only to certain people"
   },
   "ENDORSEMENTS": {
-    "Definition": "support or approval"
+    "Definition": "public statements of support or approval"
   },
   "NOBLES": {
-    "Definition": "people from a high-ranking or royal family"
+    "Definition": "people of a high social class, often with titles"
   },
   "HANDED OVER": {
-    "Definition": "gave"
+    "Definition": "gave away to someone else"
   },
   "ENABLING": {
-    "Definition": "making it possible for them"
+    "Definition": "making it possible for"
   },
   "PILGRIMAGE": {
-    "Definition": "religious journey"
+    "Definition": "a journey to a holy place for religious reasons"
   },
   "AUSTERE": {
-    "Definition": "simple and without luxury"
+    "Definition": "simple and strict, without comforts"
   },
   "VOWING": {
-    "Definition": "making a serious promise"
+    "Definition": "making serious promises of"
   },
   "CHASTITY": {
-    "Definition": "not having sexual activity"
+    "Definition": "the practice of not having sex"
   },
   "STRICT": {
-    "Definition": "tough or extreme"
+    "Definition": "that must be obeyed exactly"
   },
   "PIONEERS": {
-    "Definition": "people who were the first to do it"
+    "Definition": "people who are among the first to do or develop something new"
   },
   "PILGRIM": {
-    "Definition": "a person who travelled for religious reasons"
+    "Definition": "a person who travels to a holy place for religious reasons"
   },
   "PURSE": {
     "Definition": "a small bag for carrying money"
   },
   "ON YOUR PERSON": {
-    "Definition": "being carried by you"
+    "Definition": "carried with you, on your body"
   },
   "RECIPE FOR DISASTER": {
-    "Definition": "something likely to end badly"
+    "Definition": "something that is very likely to lead to a bad result"
   },
   "REDEEMED": {
-    "Definition": "regained or bought back"
+    "Definition": "exchanged"
   },
   "DOWNFALL": {
-    "Definition": "loss of power or failure"
+    "Definition": "the thing that caused them to lose their power and success"
   },
   "THE GOING WAS GOOD": {
-    "Definition": "things were easy or successful"
+    "Definition": "things were going well"
   },
   "BOOTED OUT": {
-    "Definition": "forced to leave"
+    "Definition": "forced out; made to leave"
   },
   "THE TIDE TURNED": {
-    "Definition": "the situation changed completely"
+    "Definition": "the situation changed and became worse"
   },
   "RAISON D’ÊTRE": {
     "Definition": "the main reason for existing"
   },
   "FLEE": {
-    "Definition": "run away from danger"
+    "Definition": "leave quickly to escape danger"
   },
   "DISBAND": {
-    "Definition": "break up or stop being a group"
+    "Definition": "stop existing as a group"
   },
   "SUMMONED": {
-    "Definition": "called to go"
+    "Definition": "officially ordered to come"
   },
   "OSTENSIBLY": {
-    "Definition": "seeming to be true but not necessarily so"
+    "Definition": "as it seemed or was said, but perhaps not really"
   },
   "MERGING": {
-    "Definition": "joining together"
+    "Definition": "joining together into one"
   },
   "UNBEKNOWNST": {
-    "Definition": "without knowing it"
+    "Definition": "not known"
   },
   "HATCHED": {
-    "Definition": "made in secret"
+    "Definition": "secretly prepared"
   },
   "SEIZING": {
-    "Definition": "taking it quickly and forcefully"
+    "Definition": "taking by force"
   },
   "COFFERS": {
-    "Definition": "funds or containers for storing money"
+    "Definition": "stores of money; the money he had"
   },
   "UNDER THE GUISE OF": {
-    "Definition": "pretending to be"
+    "Definition": "pretending it was for; using as a false excuse"
   },
   "SEIZED ON": {
-    "Definition": "quickly used"
+    "Definition": "quickly accepted and used with enthusiasm"
   },
   "DISMANTLE": {
-    "Definition": "take apart or destroy"
+    "Definition": "break up and destroy"
   },
   "ROUNDED UP": {
-    "Definition": "gathered together by force"
+    "Definition": "caught and gathered together by force"
   },
   "INTERROGATED": {
-    "Definition": "asked questions in an aggressive way"
+    "Definition": "questioned closely and aggressively"
   },
   "TORTURED": {
-    "Definition": "hurt very badly on purpose"
+    "Definition": "deliberately caused great pain, often to force them to say something"
   },
   "SPITTING ON": {
-    "Definition": "showing disrespect by spitting (ejecting saliva)"
+    "Definition": "forcing liquid from the mouth onto, to show disrespect"
   },
   "IDOLS": {
-    "Definition": "objects of worship"
+    "Definition": "images or statues treated as gods"
   },
   "IMPROPRIETY": {
-    "Definition": "behaviour that was not proper"
+    "Definition": "behaviour that is wrong or dishonest"
   },
   "STAKE": {
-    "Definition": "a wooden post used for burning people as punishment"
+    "Definition": "a wooden post to which people were tied to be burned to death"
   },
   "CONFESS": {
-    "Definition": "admit the accusations"
+    "Definition": "say that he was guilty of the crimes"
   },
   "TORMENTED": {
-    "Definition": "caused him a lot of pain"
+    "Definition": "caused great suffering to"
   },
   "SENTIMENT": {
-    "Definition": "feeling or opinion"
+    "Definition": "a feeling or opinion"
   },
   "UNJUSTLY": {
-    "Definition": "in a way that was not fair"
+    "Definition": "unfairly; wrongly"
   },
   "GRANTED": {
-    "Definition": "given or allowed"
+    "Definition": "made to come true; given"
   },
   "PUPPET": {
-    "Definition": "someone controlled by him"
+    "Definition": "controlled completely by another person"
   },
   "DISBANDED": {
-    "Definition": "stopped being a group"
+    "Definition": "broken up and ended as a group"
   },
   "AWFUL": {
-    "Definition": "very bad or unpleasant"
+    "Definition": "very bad; terrible"
   },
   "CELL": {
-    "Definition": "a small group or unit"
+    "Definition": "a small group that is part of a larger secret organisation"
   },
   "VILE": {
-    "Definition": "very unpleasant or evil"
+    "Definition": "extremely unpleasant and morally bad"
   },
   "ENIGMATIC": {
     "Definition": "mysterious and hard to understand"
   },
   "CONFINED": {
-    "Definition": "kept in a limited area"
+    "Definition": "limited; kept within"
   },
   "SPANS": {
-    "Definition": "covers a certain amount of time or space"
+    "Definition": "stretches across"
   },
   "ORIGINS": {
-    "Definition": "the beginning or starting point"
+    "Definition": "beginnings; the place or time something started"
   },
   "STONEMASONS": {
-    "Definition": "people who worked with stone"
+    "Definition": "workers who cut and build with stone"
   },
   "MASONS": {
-    "Definition": "people who built with stone or brick"
+    "Definition": "workers who cut and build with stone"
   },
   "ENSURE": {
-    "Definition": "make sure"
+    "Definition": "make certain"
   },
   "STONEMASONRY": {
-    "Definition": "the skill of working with stone"
+    "Definition": "the skill or work of cutting and building with stone"
   },
   "SPECIFIC": {
-    "Definition": "clearly defined or particular"
+    "Definition": "narrow and particular"
   },
   "EVOLVED": {
-    "Definition": "developed or changed over time"
+    "Definition": "slowly developed and changed"
   },
   "SPRAWLING": {
-    "Definition": "spreading out over a large area"
+    "Definition": "very large and spread out widely"
   },
   "ICONIC": {
-    "Definition": "very famous and recognisable"
+    "Definition": "very famous and widely recognised as a symbol"
   },
   "COMPASS": {
-    "Definition": "a tool for drawing circles or finding direction"
+    "Definition": "a tool for drawing circles, with two legs joined at the top"
   },
   "CHARITABLE": {
-    "Definition": "helping people in need"
+    "Definition": "helping people in need, often by giving money"
   },
   "SYMBOLIC": {
-    "Definition": "representing something important or meaningful"
+    "Definition": "having a special meaning that represents an idea"
   },
   "HANDSHAKES": {
-    "Definition": "greetings where people clasp hands"
+    "Definition": "particular ways of holding and shaking someone's hand"
   },
   "PRIME": {
-    "Definition": "most important or main"
+    "Definition": "main; most obvious"
   },
   "RABBIT HOLES": {
-    "Definition": "websites which are most successful at keeping a user's attention leading to more and more information"
+    "Definition": "long, confusing paths of reading that pull you further and further in"
   },
   "DRAFTING": {
-    "Definition": "writing or planning"
+    "Definition": "the writing of the first version"
   },
   "MERELY": {
-    "Definition": "only or just"
+    "Definition": "only; just"
   },
   "TRACKS": {
-    "Definition": "marks or paths left behind"
+    "Definition": "marks or signs that show what someone has done"
   },
   "ADMIT": {
-    "Definition": "confess or reveal"
+    "Definition": "say that something is true, often unwillingly"
   },
   "CHARITY": {
-    "Definition": "giving help to people in need"
+    "Definition": "organisations that help people in need"
   },
   "EXTINGUISH": {
-    "Definition": "stop"
+    "Definition": "put an end to; destroy"
   },
   "ENTICING": {
-    "Definition": "attractive or tempting"
+    "Definition": "very attractive and interesting"
   },
   "LET GO": {
-    "Definition": "stop doing it"
-  },
-  "": {
-    "Definition": null
+    "Definition": "stop thinking about; give up"
   }
 }
