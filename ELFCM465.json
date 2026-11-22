@@ -1,302 +1,299 @@
 {
   "UNUSUAL": {
-    "Definition": "not usual, not common"
+    "Definition": "different from what is normal or common"
   },
   "BRUTAL": {
-    "Definition": "extremely cruel or violent"
+    "Definition": "extremely cruel and violent"
   },
   "DIVISIVE": {
-    "Definition": "causing disagreement or disunity"
+    "Definition": "causing strong disagreement between groups of people"
   },
   "MASSACRE": {
-    "Definition": "the killing of a large number of people, especially in a cruel or violent manner"
+    "Definition": "a cruel killing of a large number of people who cannot defend themselves"
   },
   "TREACHERY": {
-    "Definition": "involving betrayal of trust or dishonest behaviour"
+    "Definition": "secretly turning against people who trust you"
   },
   "BOASTS": {
-    "Definition": "talks with pride or self-satisfaction about"
+    "Definition": "has, as something to be proud of"
   },
   "DISTILLED": {
-    "Definition": "made stronger or purer by heating them and then cooling them again"
+    "Definition": "made by heating a liquid and cooling the steam to produce strong alcohol"
   },
   "BAN": {
-    "Definition": "prohibition or the state of not being allowed"
+    "Definition": "an official rule that says something or someone is not allowed"
   },
   "ATROCIOUS": {
-    "Definition": "extremely wicked, brutal, or cruel"
+    "Definition": "extremely cruel and shocking"
   },
   "TREACHEROUS": {
-    "Definition": "involving betrayal of trust or dishonest behaviour"
+    "Definition": "involving turning against people who trusted them"
   },
   "ALLIANCES": {
-    "Definition": "unions or associations formed for mutual benefit"
+    "Definition": "agreements between countries or families to support each other"
   },
   "DESCENDANTS": {
-    "Definition": "family or successors"
+    "Definition": "children, grandchildren and later members of her family"
   },
   "INHERIT": {
-    "Definition": "receive after the death of the previous holder"
+    "Definition": "receive after the person who had it dies"
   },
   "GOODWILL": {
-    "Definition": "friendly or cooperative attitude or disposition"
+    "Definition": "friendly and helpful feelings"
   },
   "IMPLEMENT": {
-    "Definition": "put into effect, apply"
+    "Definition": "put into action"
   },
   "WANE": {
-    "Definition": "decrease in power or extent"
+    "Definition": "become weaker or smaller"
   },
   "PLOTS": {
-    "Definition": "secret plans"
+    "Definition": "secret plans to do something harmful or illegal"
   },
   "HATCHED": {
-    "Definition": "brought into existence, devised or planned"
+    "Definition": "planned in secret"
   },
   "KICKED OFF": {
-    "Definition": "removed from, thrown out from"
+    "Definition": "forced to leave"
   },
   "EXILE": {
-    "Definition": "the state of being sent away from his country for political reasons"
+    "Definition": "a life outside his own country because he was forced to leave"
   },
   "PROFESSED": {
-    "Definition": "claimed openly or declared publicly"
+    "Definition": "openly stated"
   },
   "APPOINTED": {
-    "Definition": "chosen or designated"
+    "Definition": "chosen for the position"
   },
   "HOP": {
-    "Definition": "move quickly and lightly from one place to another"
+    "Definition": "travel quickly and easily"
   },
   "PROCLAIM": {
-    "Definition": "announce officially or publicly"
+    "Definition": "publicly announce"
   },
   "CULMINATED": {
-    "Definition": "reached the highest or decisive point"
+    "Definition": "reached its highest or final point"
   },
-  "BEATS IT": {
-    "Definition": "is superior to or surpasses it"
+  "NOTHING BEATS IT": {
+    "Definition": "nothing is better than it"
   },
   "LOCHS": {
-    "Definition": "Scottish term for lakes"
+    "Definition": "lakes in Scotland"
   },
   "GLENS": {
-    "Definition": "Scottish term for valleys"
+    "Definition": "narrow valleys in the mountains, especially in Scotland"
   },
   "CLAN": {
-    "Definition": "a group of people, similar to a tribe"
+    "Definition": "a large group of related families, usually led by a chief"
   },
   "CLANS": {
-    "Definition": "groups of people, similar to tribes"
+    "Definition": "large groups of related families, usually led by a chief"
   },
   "ENACT": {
-    "Definition": "put into practice"
+    "Definition": "carry out"
   },
   "RIGHTFUL": {
-    "Definition": "legitimate, morally or legally correct"
+    "Definition": "true and legal"
   },
   "HEIR": {
-    "Definition": "a person legally entitled to it"
+    "Definition": "a person with the right to take a position or property after someone else"
   },
   "THRONE": {
-    "Definition": "the chair of state for a king or queen"
+    "Definition": "the position of being king or queen"
   },
   "ORDAINED": {
-    "Definition": "appointed or established"
+    "Definition": "chosen and given power"
   },
   "OUT OF THE WAY": {
-    "Definition": "far away, remote"
+    "Definition": "far from busy places and difficult to reach"
   },
   "THREAT": {
-    "Definition": "something likely to cause damage or danger"
+    "Definition": "a danger"
   },
   "BIDING THEIR TIME": {
-    "Definition": "waiting patiently for a favourable opportunity or moment"
+    "Definition": "waiting patiently for the right moment to act"
   },
   "RAISE": {
-    "Definition": "collect together, bring into existence"
+    "Definition": "bring together; gather"
   },
   "OUTPOSTS": {
-    "Definition": "military bases or settlements at a distance from the main settlement or headquarters"
+    "Definition": "small military camps far from the main towns"
   },
   "QUASH": {
-    "Definition": "suppress or put an end to forcefully"
+    "Definition": "put a complete stop to"
   },
   "PLEDGING": {
-    "Definition": "promising formally"
+    "Definition": "formally promising"
   },
   "ALLEGIANCE": {
-    "Definition": "loyalty or commitment"
+    "Definition": "loyalty and support"
   },
   "EXILED": {
-    "Definition": "forced to leave his country for political reasons"
+    "Definition": "forced to live outside his own country"
   },
   "PLEDGED ALLEGIANCE": {
-    "Definition": "promised loyalty or commitment"
+    "Definition": "formally promised loyalty"
   },
   "PARDONED": {
-    "Definition": "officially forgiven"
+    "Definition": "officially forgiven and not punished"
   },
   "REBELLION": {
-    "Definition": "open resistance to the government or ruler"
+    "Definition": "fighting or acting against the government or ruler"
   },
   "PLEDGED ALLIANCE": {
-    "Definition": "made a formal promise to be loyal or committed to them"
+    "Definition": "formally promised loyalty"
   },
   "DEADLINE": {
-    "Definition": "the latest time or date by which it should have been completed"
+    "Definition": "the latest time or date by which something must be done"
   },
   "OATH": {
-    "Definition": "formal promise"
+    "Definition": "a formal promise of loyalty"
   },
   "GARRISONED": {
-    "Definition": "put or positioned in order to live there and defend it"
+    "Definition": "based in order to defend the place"
   },
   "WIPED OUT": {
-    "Definition": "completely destroyed or eradicated"
+    "Definition": "killed until none of them were left"
   },
   "TROUBLESOME": {
-    "Definition": "causing difficulty or annoyance"
+    "Definition": "causing problems"
   },
   "BUNCH": {
-    "Definition": "group of people"
+    "Definition": "a group of people"
   },
   "LEAD UP": {
-    "Definition": "period of time before them"
+    "Definition": "the period of time before an important event"
   },
   "UNFOLD": {
-    "Definition": "happen, develop"
+    "Definition": "happen and develop over time"
   },
   "HARSH": {
-    "Definition": "severe or difficult"
+    "Definition": "very cold and unpleasant; difficult to live in"
   },
   "EXTERMINATE": {
-    "Definition": "destroy completely"
+    "Definition": "kill all of"
   },
   "EXTIRPATE": {
-    "Definition": "eradicate or destroy completely"
+    "Definition": "destroy completely, so that nothing is left"
   },
   "ERADICATE": {
-    "Definition": "destroy completely"
+    "Definition": "get rid of completely"
   },
   "GLEN": {
-    "Definition": "Scottish term for valley"
+    "Definition": "a narrow valley in the mountains, especially in Scotland"
   },
   "COMMANDED": {
-    "Definition": "ordered or directed with authority"
+    "Definition": "led and given orders"
   },
   "HUT": {
-    "Definition": "a small, simple, single-story building"
+    "Definition": "a small, simple house, often made of wood"
   },
   "ALBEIT": {
-    "Definition": "although, even though"
+    "Definition": "although with"
   },
   "BID HIM FAREWELL": {
-    "Definition": "wished him goodbye"
+    "Definition": "say goodbye to him"
   },
   "BROKEN BREAD": {
-    "Definition": "shared meals together"
+    "Definition": "shared a meal"
   },
   "HOSPITALITY": {
-    "Definition": "friendly and generous reception and entertainment of guests, visitors, or strangers"
+    "Definition": "friendly and generous treatment of guests"
   },
   "AT POINT BLANK RANGE": {
-    "Definition": "at very close range, at a distance so close that it was impossible to miss the target"
+    "Definition": "from very close"
   },
   "DELIBERATE": {
-    "Definition": "done consciously or intentionally"
+    "Definition": "intended; done on purpose"
   },
   "MASSACRING": {
-    "Definition": "killing (a large number of people) violently and cruelly"
+    "Definition": "cruelly killing"
   },
   "STABBING": {
-    "Definition": "hitting (with a pointed weapon) with force"
+    "Definition": "pushing a sharp point into"
   },
   "BAYONETS": {
-    "Definition": "long, sharp blades fixed on to their rifles (long guns)"
+    "Definition": "long knives fixed to the end of guns"
   },
   "DEATH TOLL": {
-    "Definition": "the number of deaths"
+    "Definition": "the number of people killed"
   },
   "EXPOSURE": {
-    "Definition": "being affected by the elements or a harmful situation"
+    "Definition": "being outside in extreme cold without protection"
   },
   "SHELTERING": {
-    "Definition": "looking for refuge or protection"
+    "Definition": "hiding somewhere to stay safe"
   },
   "FLEE": {
-    "Definition": "run away from danger"
+    "Definition": "run away to escape danger"
   },
   "GRUESOME": {
-    "Definition": "causing horror or disgust"
+    "Definition": "horrible and violent, involving death"
   },
   "ISSUE": {
-    "Definition": "argument, problem"
+    "Definition": "problem or disagreement"
   },
   "THE BEST PART OF": {
-    "Definition": "most of, the majority of"
+    "Definition": "most of"
   },
   "TURNED A BLIND EYE": {
-    "Definition": "pretended not to notice or ignored"
+    "Definition": "pretended not to notice"
   },
   "FLEEING": {
-    "Definition": "running away from danger"
+    "Definition": "running away to escape danger"
   },
   "PAINTED": {
-    "Definition": "portrayed or presented"
+    "Definition": "described or presented"
   },
   "MASTERMINDED": {
     "Definition": "planned and organised"
   },
   "PULLING THE STRINGS": {
-    "Definition": "controlling the situation in a secret way"
+    "Definition": "secretly controlling events"
   },
   "ELITE": {
-    "Definition": "superior in quality, first class"
+    "Definition": "for a small group of the best or richest people"
   },
   "REJECTED": {
-    "Definition": "turned down, not accepted"
+    "Definition": "refused a place"
   },
   "NUTS": {
-    "Definition": "crazy or insane"
+    "Definition": "crazy"
   },
   "ADDITION": {
-    "Definition": "something added to it, introduction"
+    "Definition": "something extra that is added"
   },
   "ANIMOSITY": {
-    "Definition": "strong hostility or dislike"
+    "Definition": "strong dislike or hatred"
   },
   "OVERSTATE": {
-    "Definition": "exaggerate or make it seem more important than it really is"
+    "Definition": "describe as bigger or more serious than it really is"
   },
   "URBAN MYTH": {
-    "Definition": "a widely held but false belief or idea, often repeated by popular culture"
+    "Definition": "a story that many people believe but which is not true"
   },
   "HEINOUS": {
-    "Definition": "extremely bad, evil, or atrocious"
+    "Definition": "extremely evil and shocking"
   },
   "WIELD": {
-    "Definition": "hold and use (a weapon)"
+    "Definition": "hold and use"
   },
   "TRIGGER": {
-    "Definition": "the part of a gun that causes the gun to fire when pressed"
+    "Definition": "the small part of a gun that you pull to fire it"
   },
   "BUTCHER": {
-    "Definition": "the person who did the brutal or violent killing"
+    "Definition": "a person who cruelly kills many people"
   },
   "SIGNED OFF": {
-    "Definition": "approved or authorised"
+    "Definition": "gave official approval"
   },
   "UPLIFTING": {
-    "Definition": "bringing happiness or hope"
+    "Definition": "cheerful and hopeful"
   },
   "STRAINED": {
-    "Definition": "tense or troubled"
+    "Definition": "difficult and unfriendly"
   },
   "QUEST": {
-    "Definition": "a long pursuit or search for it"
-  },
-  "": {
-    "Definition": null
+    "Definition": "a long, hard effort to achieve something"
   }
 }
