@@ -1,284 +1,278 @@
 {
   "PERSEVERANCE": {
-    "Definition": "not giving up, even when things are hard"
+    "Definition": "continuing to try hard to do something, even when it is difficult"
   },
   "BETRAYAL": {
-    "Definition": "when someone breaks trust or is disloyal"
+    "Definition": "being disloyal to someone who trusted you"
   },
   "LONGSTANDING": {
-    "Definition": "existing for a long time"
+    "Definition": "having existed for a long time"
   },
   "LEST I FORGET": {
-    "Definition": "so I don’t forget"
+    "Definition": "so that I do not forget to mention it"
   },
   "WHOPPING": {
-    "Definition": "very big or impressive"
+    "Definition": "surprisingly large"
   },
   "MARRIED OFF": {
-    "Definition": "made to get married"
+    "Definition": "given in marriage, usually by their parents"
   },
   "RANK": {
-    "Definition": "level or position"
+    "Definition": "position or level in society"
   },
   "INEVITABLY": {
-    "Definition": "in a way that it was sure to happen or couldn't be avoided"
+    "Definition": "in a way that could not be avoided"
   },
   "CURIOUS": {
-    "Definition": "strange or unusual"
+    "Definition": "strange and interesting"
   },
   "JAW": {
-    "Definition": "the lower part of the face"
+    "Definition": "a bone of the mouth that holds the teeth, especially the lower one"
   },
   "ENLARGED": {
-    "Definition": "made bigger"
+    "Definition": "bigger than usual"
   },
   "CROSSBITE": {
-    "Definition": "when the top and bottom teeth do not line up properly"
+    "Definition": "a problem where the top and bottom teeth do not meet in the normal way"
   },
   "JAWS": {
-    "Definition": "the upper and lower bones that hold the teeth"
+    "Definition": "the bones of the mouth that hold the teeth, especially the lower ones"
   },
   "FLATTER": {
-    "Definition": "make them feel or look good"
+    "Definition": "make them look better than they really were"
   },
   "PROMINENT": {
-    "Definition": "easy to see, sticking out"
+    "Definition": "noticeable because they stick out"
   },
   "PRONOUNCED": {
-    "Definition": "very noticeable"
+    "Definition": "very noticeable; strong"
   },
   "GOVERN": {
-    "Definition": "control or guide"
+    "Definition": "control or decide"
   },
   "TRAITS": {
-    "Definition": "special qualities or features"
+    "Definition": "particular qualities or features of a person, animal or plant"
   },
   "TEMPERAMENT": {
-    "Definition": "the way a person usually acts or feels"
+    "Definition": "a person's natural character and the way they usually behave"
   },
   "REPLICA": {
-    "Definition": "copy"
+    "Definition": "a copy"
   },
   "CONCRETE": {
-    "Definition": "clear and real, not just an idea"
+    "Definition": "definite and based on facts"
   },
   "SHED LIGHT ON": {
-    "Definition": "explain or make it clearer"
+    "Definition": "help to explain or make clearer"
   },
   "MONK": {
-    "Definition": "a man who lived in a religious community"
+    "Definition": "a member of a religious group of men who live together, apart from normal life"
   },
   "PUREBRED": {
-    "Definition": "from parents of the same kind"
+    "Definition": "whose parents and earlier generations were all of the same type"
   },
   "RATIO": {
-    "Definition": "the relationship between two numbers"
+    "Definition": "a relationship between two numbers that shows how many of one there are compared with the other"
   },
   "DOMINANT": {
-    "Definition": "stronger"
+    "Definition": "stronger, so it shows even if passed on by only one parent"
   },
   "RECESSIVE": {
-    "Definition": "weaker"
+    "Definition": "weaker, so it shows only if passed on by both parents"
   },
   "IRRELEVANT": {
-    "Definition": "not connected"
+    "Definition": "not connected or important"
   },
   "INHERITANCE": {
-    "Definition": "the passing of features from parents to children"
-  },
-  "HEREDITY—TRAITS": {
-    "Definition": "the way traits or features are passed from parents to children"
-  },
-  "NONE THE WISER": {
-    "Definition": "not knowing or understanding"
+    "Definition": "the passing of features from parents to their children"
   },
   "HEREDITY": {
-    "Definition": "the passing of features from parents to children"
+    "Definition": "the process of passing features from parents to children"
+  },
+  "NONE THE WISER": {
+    "Definition": "still not understanding any more than before"
   },
   "DUPLICATE": {
-    "Definition": "multiply by two, double"
+    "Definition": "make copies of themselves"
   },
   "HEREDITARY": {
-    "Definition": "passed from parents to children by genes"
+    "Definition": "able to be passed from parents to children"
   },
   "COMPLEX": {
-    "Definition": "having many parts, not simple"
+    "Definition": "having many different parts that are connected"
   },
   "CHAIN": {
-    "Definition": "a series of connected things"
+    "Definition": "a line of connected units"
   },
   "MOLECULE": {
-    "Definition": "the smallest unit into which a substance can be divided"
+    "Definition": "a very small unit of a chemical substance, made of atoms joined together"
   },
   "PNEUMONIA": {
-    "Definition": "a serious sickness of the lungs"
+    "Definition": "a serious illness that affects the lungs"
   },
   "SCEPTICAL": {
-    "Definition": "having doubts or reservations"
+    "Definition": "doubtful; not easily convinced that something is true"
   },
   "VAST": {
-    "Definition": "very large"
+    "Definition": "extremely large"
   },
   "CONSENSUS": {
-    "Definition": "a general agreement"
+    "Definition": "general agreement"
   },
   "BLUEPRINT": {
-    "Definition": "detailed plan or model"
+    "Definition": "a detailed plan showing how something is made or works"
   },
   "SPARKED": {
-    "Definition": "started suddenly"
+    "Definition": "caused something to start"
   },
   "CUTTING-EDGE": {
     "Definition": "very new and advanced"
   },
   "SCATTERED": {
-    "Definition": "spread around"
+    "Definition": "spread out in different directions"
   },
   "METICULOUS": {
-    "Definition": "very careful with details"
+    "Definition": "very careful and paying attention to every detail"
   },
   "GROUNDBREAKING": {
-    "Definition": "very new and important"
+    "Definition": "very new and important, changing the way people think"
   },
   "HELICAL": {
-    "Definition": "shaped like a spiral (a curve that goes around a central tube)"
+    "Definition": "having a shape that twists round and round like a spring"
   },
   "TWISTY": {
-    "Definition": "having many turns or curves"
+    "Definition": "bending and curving round and round"
   },
   "SPIRAL": {
-    "Definition": "a shape made up of curves, each one above than the one before"
+    "Definition": "curving round and round a central point as it rises"
   },
   "DIFFRACTION": {
-    "Definition": "the way light bends when it hits something"
+    "Definition": "the spreading out of rays, such as X-rays, when they pass something"
   },
   "HINTED AT": {
-    "Definition": "suggested without showing directly"
+    "Definition": "suggested without showing clearly"
   },
   "SYMMETRY": {
-    "Definition": "the quality of having parts that match each other"
+    "Definition": "a regular, balanced arrangement of matching parts"
   },
   "INVALUABLE": {
-    "Definition": "very useful, priceless"
+    "Definition": "extremely useful"
   },
   "UNRAVEL": {
-    "Definition": "figure out or explain"
+    "Definition": "solve or understand something complicated"
   },
   "HIT IT OFF": {
-    "Definition": "relate well to each other, get along"
+    "Definition": "got on well with each other"
   },
   "MUDDLED": {
-    "Definition": "confused or unclear"
+    "Definition": "confused and badly organised"
   },
   "SOLE": {
-    "Definition": "only one"
+    "Definition": "only"
   },
   "ASSUMED": {
-    "Definition": "thought it was true without proof, supposed to be the case"
+    "Definition": "thought, without checking, that"
   },
-  "EQUAL FOOTING": {
-    "Definition": "having the same rights or position"
+  "ON EQUAL FOOTING": {
+    "Definition": "with the same position and rights"
   },
   "RESENTED": {
-    "Definition": "felt angry or upset about it"
+    "Definition": "felt bitter and annoyed about"
   },
   "TENSE": {
-    "Definition": "difficult, on edge"
+    "Definition": "uncomfortable and unfriendly, as if an argument might start"
   },
   "FROSTY": {
-    "Definition": "cold or unfriendly"
+    "Definition": "unfriendly and cold"
   },
   "STRIDES": {
-    "Definition": "big steps forward (in progress)"
+    "Definition": "steps forward; signs of progress"
   },
   "UNFOLDED": {
-    "Definition": "happened or developed over time"
+    "Definition": "developed or happened"
   },
   "CRUCIAL": {
-    "Definition": "very important"
+    "Definition": "extremely important"
   },
   "SPARKING": {
-    "Definition": "starting"
+    "Definition": "causing something to start"
   },
   "DECIPHER": {
-    "Definition": "figure out or understand"
+    "Definition": "work out; understand something difficult"
   },
   "CRACK THE CODE": {
-    "Definition": "solve the problem"
+    "Definition": "solve the mystery; find the answer to a difficult problem"
   },
   "THEORETICAL": {
-    "Definition": "based on ideas rather than experience or practice"
+    "Definition": "based on ideas and reasoning rather than experiments"
   },
   "VARYING": {
-    "Definition": "changing or different"
+    "Definition": "different from each other"
   },
   "CRITICAL": {
-    "Definition": "very important"
+    "Definition": "extremely important"
   },
   "HELIX": {
-    "Definition": "a shape that twists like a spring or spiral"
+    "Definition": "a spiral shape, like a spring"
   },
   "CONTRADICT": {
-    "Definition": "go against"
+    "Definition": "go against; disagree with"
   },
   "INSTINCTIVELY": {
-    "Definition": "done without thinking, naturally"
+    "Definition": "naturally and immediately, without careful thought"
   },
   "PROCLAIMED": {
-    "Definition": "said it in a strong way"
+    "Definition": "announced loudly and proudly"
   },
   "UNDERSTATEMENTS": {
-    "Definition": "something said in a way that made it seem smaller or less important"
+    "Definition": "statements that make something sound much less important than it really is"
   },
   "NOVEL": {
-    "Definition": "new and different"
+    "Definition": "new and original"
   },
   "POSTULATED": {
-    "Definition": "suggested as an idea or explanation"
+    "Definition": "suggested as true or possible"
   },
   "RIGOROUS": {
-    "Definition": "very strict or detailed"
+    "Definition": "very careful and detailed"
   },
   "NOTE": {
-    "Definition": "notice or pay attention to"
+    "Definition": "notice"
   },
   "POSTHUMOUSLY": {
-    "Definition": "after someone has died"
+    "Definition": "after the person's death"
   },
   "WRITTEN OUT OF": {
-    "Definition": "removed from"
+    "Definition": "left out of; not given a place in"
   },
   "RAW DEAL": {
     "Definition": "unfair treatment"
   },
   "TIRELESS": {
-    "Definition": "never giving up or stopping"
+    "Definition": "done with great effort, without stopping"
   },
   "MYRIAD": {
     "Definition": "a very large number"
   },
   "SEQUENCE": {
-    "Definition": "arrange in a particular order"
+    "Definition": "work out the exact order of the chemical units in"
   },
   "MUTATIONS": {
     "Definition": "changes in genes"
   },
   "CORE": {
-    "Definition": "most important part"
+    "Definition": "the most basic, central part"
   },
   "MAPPED OUT": {
-    "Definition": "planned or showed clearly"
+    "Definition": "worked out and recorded the positions of"
   },
   "SEQUENCING": {
-    "Definition": "reading the genetic code"
+    "Definition": "working out the exact order of the chemical units"
   },
   "CUSTOM-MADE": {
-    "Definition": "made special"
+    "Definition": "made specially to suit one person"
   },
   "ETHICAL": {
-    "Definition": "relating to moral principles or standards"
-  },
-  "": {
-    "Definition": null
+    "Definition": "connected with what is morally right or wrong"
   }
 }
