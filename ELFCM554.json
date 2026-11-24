@@ -1,164 +1,161 @@
 {
   "PROPORTION": {
-    "Definition": "a part or piece"
+    "Definition": "a part or share of the whole"
   },
   "CATASTROPHE": {
-    "Definition": "a big disaster or very bad event"
+    "Definition": "a terrible event that causes great damage and suffering"
   },
   "CONGRESS": {
-    "Definition": "a large meeting of people who make laws or big decisions"
+    "Definition": "a large formal meeting where representatives discuss something"
   },
   "PLEDGED": {
-    "Definition": "officially promised to do it"
+    "Definition": "made a serious, formal promise"
   },
   "LANDMARK": {
-    "Definition": "an event marking an important stage or turning point"
+    "Definition": "very important because it marks a big change"
   },
   "GLUM": {
-    "Definition": "sad or not happy"
+    "Definition": "sad and disappointed"
   },
   "GLOOMY": {
-    "Definition": "dark, sad, or without hope"
+    "Definition": "without hope; expecting things to go badly"
   },
   "UNANIMOUS": {
-    "Definition": "fully in agreement"
+    "Definition": "all in complete agreement"
   },
   "VAST": {
-    "Definition": "very big"
+    "Definition": "extremely large"
   },
   "STRUCTURAL": {
-    "Definition": "relating to how it is built or put together"
+    "Definition": "affecting the basic way something is organised"
   },
   "SMUG": {
-    "Definition": "too proud of themselves"
+    "Definition": "too pleased with themselves, in an annoying way"
   },
   "EXHAUST PIPE": {
-    "Definition": "the tube at the back of a car where smoke comes out"
+    "Definition": "a pipe at the back of a car that carries waste gases out"
   },
   "INTRICACIES": {
-    "Definition": "small and complicated parts"
+    "Definition": "the many complicated details"
   },
   "SUSTAINABLY": {
-    "Definition": "in a way that can go on without hurting nature"
+    "Definition": "in a way that does not harm the environment and can continue for a long time"
   },
   "FLIP SIDE": {
-    "Definition": "another way to look at it"
+    "Definition": "the other side of the same situation"
   },
   "ABSORB": {
-    "Definition": "take in or soak up"
+    "Definition": "take in and hold"
   },
   "ROOTS": {
-    "Definition": "the parts of a plant under the ground"
+    "Definition": "the parts of a plant that grow under the ground"
   },
   "MARINE": {
-    "Definition": "found in the sea"
+    "Definition": "living in the sea"
   },
   "PLANKTON": {
-    "Definition": "tiny plants or animals in the sea"
+    "Definition": "very small plants and animals that float in the sea"
   },
   "EMIT": {
     "Definition": "send out"
   },
   "ABSORBED": {
-    "Definition": "taken in or soaked up"
+    "Definition": "taken in and held"
   },
   "BLANKET": {
-    "Definition": "a cover"
+    "Definition": "a thick cover that keeps heat in"
   },
   "TRAPS": {
-    "Definition": "catches and holds"
+    "Definition": "stops from escaping"
   },
   "BROADLY SPEAKING": {
-    "Definition": "talking in a general way"
+    "Definition": "in general, without thinking about the details"
   },
   "WEATHERING": {
-    "Definition": "the process of wind, rain, or ice breaking down rocks"
+    "Definition": "the slow natural process in which rocks break down and change"
   },
   "TRAP": {
-    "Definition": "catch and hold it"
+    "Definition": "hold so that it cannot escape"
   },
   "SUCK": {
-    "Definition": "pull in, like with a vacuum"
+    "Definition": "pull in with force, like drinking through a straw"
   },
-  "ENHANCED": {
-    "Definition": "made better or stronger"
+  "ENHANCED WEATHERING": {
+    "Definition": "a method that speeds up the way rocks naturally break down, so that they take in more carbon dioxide"
   },
   "CRUSHED": {
-    "Definition": "broken into small pieces"
+    "Definition": "pressed and broken into very small pieces"
   },
   "COMPOUNDS": {
-    "Definition": "things made of two or more parts"
+    "Definition": "substances made of two or more chemical elements joined together"
   },
-  "LOOP": {
-    "Definition": "a circle, something that goes around again and again"
+  "CLOSING THE LOOP": {
+    "Definition": "completing the full cycle of the process"
   },
   "SEDIMENT": {
-    "Definition": "small pieces of dirt or sand that sink in water"
+    "Definition": "sand, mud and other material that settles at the bottom of water"
   },
   "VACCINES": {
-    "Definition": "medicine or shots that help stop people from getting sick"
+    "Definition": "substances given to people to protect them from a disease"
   },
   "NICHE": {
-    "Definition": "interesting or appealing to a small, specialised section of the population"
+    "Definition": "used or bought by only a small group of people"
   },
   "SCATTER": {
-    "Definition": "throw them around in different places"
+    "Definition": "throw or spread over an area in an irregular way"
   },
   "DIVERT": {
-    "Definition": "change its direction"
+    "Definition": "send in a different direction"
   },
   "IN THE GRAND SCHEME OF THINGS": {
-    "Definition": "looking at the big picture, considering everything"
+    "Definition": "when you consider the whole, bigger situation"
   },
   "UMBRELLA": {
-    "Definition": "something that covers or includes many things"
+    "Definition": "a larger organisation that includes several smaller ones"
   },
   "BACKING": {
-    "Definition": "supporting or helping"
+    "Definition": "supporting, especially with money"
   },
   "STABLE": {
-    "Definition": "solid or steady"
+    "Definition": "not likely to change or break down"
   },
   "SOLVENT": {
-    "Definition": "a liquid that can dissolve other things"
+    "Definition": "a liquid that other substances can mix into completely"
   },
   "BURIES": {
-    "Definition": "puts it under the ground"
+    "Definition": "puts in the ground and covers"
   },
   "SCRAPS": {
-    "Definition": "small leftover pieces"
+    "Definition": "small pieces that are left over"
   },
   "FANCY": {
-    "Definition": "special or expensive"
+    "Definition": "complicated and expensive"
   },
   "RETROFITTING": {
-    "Definition": "adding new parts to something old to make it better"
+    "Definition": "adding new equipment to something already built"
   },
   "TIMBER": {
-    "Definition": "wood used for building"
+    "Definition": "wood used for building and making things"
   },
   "SAWDUST": {
-    "Definition": "tiny bits of wood made when cutting"
+    "Definition": "the very small bits of wood that fall when wood is cut"
   },
   "BRANCHES": {
-    "Definition": "the parts of a tree that grow out from the trunk"
+    "Definition": "the parts of a tree that grow out from its main stem"
   },
   "BURYING": {
-    "Definition": "putting it under the ground"
+    "Definition": "putting in the ground and covering"
   },
   "SCALED": {
-    "Definition": "made bigger, expanded"
+    "Definition": "made much bigger"
   },
   "VERIFYING": {
-    "Definition": "confirming or proving"
+    "Definition": "checking that something is true or correct"
   },
   "MONITORING": {
-    "Definition": "watching and checking carefully"
+    "Definition": "watching and checking over a period of time"
   },
   "NERVOUS": {
-    "Definition": "worried or scared"
-  },
-  "#REF!": {
-    "Definition": "#REF!"
+    "Definition": "worried and a little afraid"
   }
 }
