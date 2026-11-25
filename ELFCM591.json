@@ -1,296 +1,299 @@
 {
   "IMPROBABLE": {
-    "Definition": "unlikely to happen"
+    "Definition": "unlikely to be true or to happen"
   },
   "COMMITTED": {
-    "Definition": "done or carried out"
+    "Definition": "carried out"
   },
   "PAINTING YOU A PICTURE": {
-    "Definition": "describing something so you can imagine it clearly"
+    "Definition": "describing a scene to you in detail so you can imagine it"
   },
   "HIDE AND SEEK": {
-    "Definition": "a children's game where one person hides and others look for them"
+    "Definition": "a children's game in which one player looks for the others, who are hiding"
   },
   "OTHERWISE": {
-    "Definition": "in a different way; if not"
+    "Definition": "in every other way"
   },
   "UNEVENTFUL": {
-    "Definition": "not marked by interesting or exciting events"
+    "Definition": "in which nothing interesting or exciting happened"
   },
   "HOVERING OVER": {
-    "Definition": "staying in the air above"
+    "Definition": "staying in the air in one place above"
   },
   "PERSUADE": {
-    "Definition": "make him do it by talking to him"
+    "Definition": "get (someone) to agree by talking to them"
   },
   "CIRCLING": {
-    "Definition": "moving around in a round path"
+    "Definition": "flying round and round over the same area"
   },
   "SUSPICIONS": {
-    "Definition": "feelings that something bad might have been true"
+    "Definition": "feelings that something bad might be true, without proof"
   },
-  "#REF!": {
-    "Definition": "#REF!"
+  "GRIM": {
+    "Definition": "very unpleasant and depressing"
   },
   "CORDONED OFF": {
-    "Definition": "closed off by police so people couldn't enter"
+    "Definition": "closed with a barrier so that people could not enter"
   },
   "TURF WAR": {
-    "Definition": "a fight about who controls an area"
+    "Definition": "a fight between groups for control of an area"
   },
   "FEUDING": {
-    "Definition": "fighting or arguing for a long time"
+    "Definition": "having a long and bitter fight with each other"
   },
   "TERRITORY": {
-    "Definition": "an area controlled by a group"
+    "Definition": "an area that a particular group controls"
   },
   "OCCURRENCE": {
-    "Definition": "something that happens"
+    "Definition": "something that happens; an event"
   },
   "GRENADES": {
-    "Definition": "small bombs that can be thrown"
+    "Definition": "small bombs that are thrown by hand"
   },
   "PLANTED": {
-    "Definition": "put secretly in a place to cause harm"
+    "Definition": "put in place secretly, ready to explode"
   },
   "PERPETRATORS": {
-    "Definition": "people who carry out the crimes"
+    "Definition": "people who carry out a crime or a violent act"
   },
   "SEASONED": {
-    "Definition": "very experienced"
+    "Definition": "having a lot of experience"
   },
   "SUSPECTS": {
-    "Definition": "people the police thought may have done a crime"
+    "Definition": "people who the police think may be guilty of a crime"
   },
   "FLAWLESS": {
-    "Definition": "perfect; without mistakes"
+    "Definition": "perfect; without any mistakes"
   },
   "COMPLEX": {
-    "Definition": "complicated; not simple"
+    "Definition": "having many connected parts and difficult to solve"
   },
   "DIFFERING": {
-    "Definition": "not the same; varied"
+    "Definition": "different from one another"
   },
   "OUT OF HAND": {
     "Definition": "out of control"
   },
   "BUCKING THE TREND": {
-    "Definition": "going in the opposite direction from what normally happens"
+    "Definition": "going against what is happening in general"
   },
   "TREND": {
-    "Definition": "the way things usually go over time"
+    "Definition": "a general pattern or direction of change"
   },
   "TRIGGERS": {
-    "Definition": "parts of guns you pull to shoot"
+    "Definition": "the small parts of guns that you pull to fire them"
   },
   "PLANTING": {
-    "Definition": "putting (a bomb) somewhere secretly"
+    "Definition": "putting in place secretly, ready to explode"
   },
   "MAKEUP": {
-    "Definition": "who they are made of; their parts"
+    "Definition": "the parts something is made of and how they are organised"
   },
   "HIERARCHICAL": {
-    "Definition": "arranged in levels, with some people above others"
+    "Definition": "organised in levels, with the most powerful people at the top"
+  },
+  "EXERTED": {
+    "Definition": "used (power or influence) over others"
   },
   "WILLING": {
-    "Definition": "ready to do it"
+    "Definition": "ready to do something; not refusing"
   },
   "LETHAL": {
-    "Definition": "deadly; able to kill"
+    "Definition": "able to kill; deadly"
   },
   "DISPUTES": {
-    "Definition": "arguments or fights"
+    "Definition": "arguments or disagreements"
   },
   "ECHELONS": {
-    "Definition": "levels or ranks in a group"
+    "Definition": "levels of rank in an organisation"
   },
   "FRAGMENTED": {
-    "Definition": "broken into many small groups"
+    "Definition": "split into many small, separate parts"
   },
   "NON-LETHAL": {
-    "Definition": "not able to kill"
+    "Definition": "not meant to kill"
   },
   "STAKES": {
-    "Definition": "what they can lose or gain"
+    "Definition": "interests; things to gain or lose"
   },
   "RECRUITED": {
-    "Definition": "brought into a group; invited to join"
+    "Definition": "found and brought in to work for a group"
   },
   "DEVALUATION": {
-    "Definition": "the reduction of the worth or importance of it"
+    "Definition": "a drop in importance or worth"
   },
   "MILIEU": {
-    "Definition": "environment; the kind of world they live in"
+    "Definition": "a social world or environment"
   },
   "ENCRYPTED": {
-    "Definition": "changed into a secret code"
+    "Definition": "protected with a secret code so others cannot read them"
   },
   "DEED": {
-    "Definition": "an action, especially a serious one"
+    "Definition": "an act, especially a bad or important one"
   },
   "APPARENT": {
-    "Definition": "easy to see or understand"
+    "Definition": "seeming, from the way someone acts"
   },
   "INDIFFERENCE": {
-    "Definition": "lack of concern or sympathy"
+    "Definition": "a lack of interest or care"
   },
   "DRAWN INTO": {
-    "Definition": "pulled into, attracted by"
+    "Definition": "pulled into; made to become involved in"
   },
   "TEMPTED": {
-    "Definition": "wanting to do it even if it is wrong"
+    "Definition": "attracted to something, especially something wrong or risky"
   },
   "RAVAGED": {
     "Definition": "badly damaged or destroyed"
   },
   "RESOUNDING": {
-    "Definition": "very strong or clear"
+    "Definition": "very clear and complete"
   },
   "SOURCE": {
-    "Definition": "origin or starting point"
+    "Definition": "the cause or starting point"
   },
   "ABJECT POVERTY": {
-    "Definition": "extreme poverty; being very, very poor"
+    "Definition": "the state of being extremely poor, with almost nothing"
   },
   "GHETTOISED": {
-    "Definition": "separated or isolated"
+    "Definition": "cut off from the rest of society and lived in mainly by poor minority groups"
   },
   "TEND": {
-    "Definition": "usually do it"
+    "Definition": "are usually likely"
   },
   "LENIENT": {
-    "Definition": "not strict; giving light punishment"
+    "Definition": "not strict in punishing people"
   },
   "LAST RESORT": {
-    "Definition": "the final choice when nothing else works"
+    "Definition": "the thing you do only when every other option has failed"
   },
   "INHERENT": {
-    "Definition": "permanent or innate"
+    "Definition": "existing naturally as a basic part of someone or something"
   },
   "REHABILITATE": {
-    "Definition": "help them get better and live normally again"
+    "Definition": "help (criminals) return to a normal, useful life"
   },
   "TROUBLEMAKER": {
-    "Definition": "someone who causes problems"
+    "Definition": "someone who often causes problems or behaves badly"
   },
   "HITMEN": {
-    "Definition": "people paid to kill others"
+    "Definition": "men who are paid to kill people"
   },
   "RECRUIT": {
-    "Definition": "bring them into a group"
+    "Definition": "find and get people to join a group"
   },
   "PRECISELY": {
     "Definition": "exactly"
   },
   "DISPOSABLE": {
-    "Definition": "can be thrown away; easily replaced"
+    "Definition": "easy to get rid of and replace"
   },
   "COMPASSION": {
-    "Definition": "kindness and care for others"
+    "Definition": "care and sympathy for people who are suffering"
   },
   "UNINTENTIONALLY": {
-    "Definition": "not on purpose; by accident"
+    "Definition": "without meaning to"
   },
   "EXPLOITATION": {
-    "Definition": "using unfairly, taking advantage of the situation"
+    "Definition": "the unfair use of people for someone's own gain"
   },
   "TORN APART": {
-    "Definition": "seriously damaged or separated"
+    "Definition": "split and badly damaged"
   },
   "MILITIA": {
-    "Definition": "a group of armed people who were not regular soldiers"
+    "Definition": "a group of armed fighters who are not part of the official army"
   },
   "FLOODED": {
-    "Definition": "filled with too much of them"
+    "Definition": "completely filled"
   },
   "PISTOLS": {
-    "Definition": "small guns"
+    "Definition": "small guns held in one hand"
   },
   "CIRCULATING": {
-    "Definition": "moving around from place to place"
+    "Definition": "being passed around from person to person"
   },
   "TRACING": {
-    "Definition": "finding where they came from"
+    "Definition": "following (something) to find where it came from"
   },
   "FIREARMS": {
     "Definition": "guns"
   },
   "SEGMENTED": {
-    "Definition": "split into parts"
+    "Definition": "divided into separate parts or groups"
   },
   "POOL": {
-    "Definition": "a group of available ones"
+    "Definition": "a group of people available to be used"
   },
   "A PARADIGM SHIFT": {
-    "Definition": "a big change"
+    "Definition": "a complete change in the usual way of thinking or doing things"
   },
   "SHARP": {
-    "Definition": "strong and sudden"
+    "Definition": "sudden and large"
   },
   "HARSHER": {
-    "Definition": "more strict; more severe"
+    "Definition": "stricter and more severe"
   },
   "BROADER": {
-    "Definition": "wider; covering more"
+    "Definition": "wider; covering more areas"
   },
   "INTERCEPT": {
-    "Definition": "stop them before they reach their target"
+    "Definition": "stop and read (messages) before they reach the person they are sent to"
   },
   "PREVENTIVE": {
-    "Definition": "done to stop something before it happens"
+    "Definition": "done to stop something bad from happening"
   },
   "SUSPECTED": {
-    "Definition": "believed to be guilty"
+    "Definition": "thought to be guilty"
   },
   "ADEQUATELY": {
-    "Definition": "well enough; in a good enough way"
+    "Definition": "well enough"
   },
   "RESTORE": {
     "Definition": "bring back"
   },
   "SYMPTOMS": {
-    "Definition": "signs that something is wrong"
+    "Definition": "signs that show a problem exists"
   },
   "ROOT CAUSE": {
-    "Definition": "the main reason it happens"
+    "Definition": "the basic, main reason something happens"
   },
   "BEHIND BARS": {
     "Definition": "in prison"
   },
   "TACKLING": {
-    "Definition": "trying to deal with"
+    "Definition": "trying to deal with and solve"
   },
   "TRIGGER": {
-    "Definition": "the part of a gun you pull to shoot"
+    "Definition": "the small part of a gun that you pull to fire it"
   },
   "SCAREMONGERING": {
-    "Definition": "spreading fear by telling scary stories"
+    "Definition": "spreading fear by making things seem worse than they are"
   },
   "CULPRITS": {
-    "Definition": "people who do the crimes"
+    "Definition": "the people responsible for something bad"
   },
-  "PINNING (THE BLAME)": {
-    "Definition": "saying it is responsible"
+  "PINNING": {
+    "Definition": "placing (on someone or something), often unfairly"
   },
   "BLAME": {
     "Definition": "responsibility for something bad"
   },
   "GROSS": {
-    "Definition": "very big and unpleasant"
+    "Definition": "extreme and obvious"
   },
   "WRAP THINGS UP": {
-    "Definition": "finish or conclude"
+    "Definition": "bring this to an end; finish"
   },
   "UTOPIA": {
-    "Definition": "a perfect place"
+    "Definition": "an imaginary perfect place or society"
   },
   "HELLHOLE": {
-    "Definition": "a very bad, unpleasant place"
+    "Definition": "an extremely unpleasant or terrible place"
   },
   "DAILY OCCURRENCE": {
     "Definition": "something that happens every day"
   },
   "ROOT CAUSES": {
-    "Definition": "main reasons it happens"
+    "Definition": "the basic, main reasons something happens"
   }
 }
