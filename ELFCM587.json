@@ -1,159 +1,156 @@
 {
   "CONCEPT": {
-    "Definition": "an idea or thought"
+    "Definition": "general idea"
   },
   "EUPHEMISMS": {
-    "Definition": "polite or softer words used to talk about something unpleasant"
+    "Definition": "gentler or more polite words used instead of unpleasant or direct ones"
   },
   "COINED": {
-    "Definition": "created (for a new word or phrase)"
+    "Definition": "invented as a new word"
   },
   "FRUSTRATING": {
-    "Definition": "annoying because it is difficult"
+    "Definition": "annoying and difficult to deal with"
   },
   "EVOLVING": {
-    "Definition": "changing slowly over time"
+    "Definition": "changing and developing over time"
   },
   "SPREAD": {
-    "Definition": "extended over a large or increasing area"
+    "Definition": "found in many places; scattered"
   },
   "LEXICOGRAPHERS": {
-    "Definition": "people who write or study dictionaries"
+    "Definition": "people who write and edit dictionaries"
   },
-  "BROADLY": {
-    "Definition": "in a general way; not too detailed"
+  "BROADLY SPEAKING": {
+    "Definition": "in a general way, without the details"
   },
   "MATTERED": {
     "Definition": "was important"
   },
   "SHORTLIST": {
-    "Definition": "a small list of the final choices"
+    "Definition": "a short list of the final choices, from which the winner is picked"
   },
   "REFLECT": {
-    "Definition": "show or represent"
+    "Definition": "show or are a sign of"
   },
   "CONVICTIONS": {
-    "Definition": "strong beliefs or opinions"
+    "Definition": "opinions he was certain were true"
   },
   "INCLUSION": {
-    "Definition": "the act of adding or including it"
+    "Definition": "the fact of being chosen or added"
   },
   "PINPOINTS": {
-    "Definition": "shows the exact moment or thing"
+    "Definition": "shows or identifies exactly"
   },
   "SHIFT": {
-    "Definition": "change"
+    "Definition": "change in how people behave or think"
   },
   "EN MASSE": {
-    "Definition": "all together, in large numbers"
+    "Definition": "in large numbers, all at the same time"
   },
   "POLARISATION": {
-    "Definition": "when people split into two very different sides"
+    "Definition": "division into two groups with strongly opposing views"
   },
   "GOBLIN": {
-    "Definition": "a small, imaginary, naughty creature"
+    "Definition": "a small, ugly, naughty creature from stories"
   },
   "UNAPOLOGETICALLY": {
-    "Definition": "without saying sorry or feeling bad"
+    "Definition": "without feeling sorry or embarrassed"
   },
   "UNBOTHERED": {
-    "Definition": "not worried or not caring"
+    "Definition": "not worried or upset; not caring"
   },
   "RESONATED WITH": {
-    "Definition": "felt right for; connected with their feelings"
+    "Definition": "felt true or meaningful to"
   },
   "BURNT OUT": {
-    "Definition": "very tired and unable to keep going"
+    "Definition": "extremely tired from working too hard for too long"
   },
   "SHRUGGED": {
-    "Definition": "lifted her shoulders to show she did not know"
+    "Definition": "raised her shoulders slightly to show she did not know"
   },
   "IN-JOKE": {
-    "Definition": "a joke only understood by a special group of people"
+    "Definition": "a joke only understood by a small group of people"
   },
   "TREND": {
-    "Definition": "something popular for a short time"
+    "Definition": "something that quickly became popular for a time"
   },
   "MEME": {
-    "Definition": "a funny picture, video, or idea shared on the internet"
+    "Definition": "a funny idea, picture or video copied and shared widely online"
   },
   "GESTURE": {
-    "Definition": "a movement of the hand or body that shows meaning"
+    "Definition": "a movement of the hands or body to express something"
   },
   "CATCH-ALL": {
-    "Definition": "something used for many different things"
+    "Definition": "general, used for almost any situation"
   },
   "TEASE": {
-    "Definition": "playfully make fun of them"
+    "Definition": "make friendly jokes about"
   },
   "PLAYFUL": {
-    "Definition": "fun and not serious"
+    "Definition": "light-hearted and fun; not serious"
   },
   "ABSURDIST": {
-    "Definition": "very silly or strange on purpose"
+    "Definition": "silly and strange in a way that makes no sense"
   },
   "CHAOTIC": {
-    "Definition": "out of control or disorganised"
+    "Definition": "wild and disorganised; without any order"
   },
   "MEANINGLESS": {
-    "Definition": "having no clear meaning"
+    "Definition": "having no clear sense or purpose"
   },
   "ODDLY": {
-    "Definition": "in a strange way"
+    "Definition": "strangely; surprisingly"
   },
   "CURATED": {
     "Definition": "carefully chosen and arranged"
   },
   "BOOST": {
-    "Definition": "make it stronger or better"
+    "Definition": "improve or increase"
   },
   "OLIGARCHY": {
-    "Definition": "a small group of powerful people controlling something"
+    "Definition": "a small group of powerful people who control things"
   },
   "DEROGATORY": {
-    "Definition": "insulting or unkind"
+    "Definition": "insulting; showing a low opinion of something"
   },
   "EXCESSIVELY": {
-    "Definition": "to a greater degree than is necessary or normal"
+    "Definition": "too much; more than is reasonable"
   },
   "UNDESERVEDLY": {
-    "Definition": "in a way that is not right or that someone does not deserve"
+    "Definition": "when the person has not earned it"
   },
   "SQUEEZED": {
-    "Definition": "pressured or feeling short of money"
+    "Definition": "short of money; under pressure"
   },
   "MULTITASK": {
-    "Definition": "try to do many things at the same time"
+    "Definition": "do several things at the same time"
   },
   "PROMPTING": {
-    "Definition": "giving instructions or requests to an AI tool"
+    "Definition": "giving written instructions to"
   },
   "FROM SCRATCH": {
-    "Definition": "starting from nothing"
+    "Definition": "from the very beginning, without using anything already made"
   },
   "REFLECTS": {
-    "Definition": "shows or explains"
-  },
-  "SEEMS…SLIM": {
-    "Definition": "appears very unlikely"
+    "Definition": "shows or is a sign of"
   },
   "SLIM": {
-    "Definition": "very small or thin; very unlikely"
+    "Definition": "very small"
   },
   "STAYING POWER": {
-    "Definition": "the ability to last for a long time"
+    "Definition": "the ability to last or stay popular for a long time"
   },
   "DERIVED": {
-    "Definition": "came from"
+    "Definition": "came or developed"
   },
-  "MATTER OF": {
-    "Definition": "simply; only"
+  "A MATTER OF": {
+    "Definition": "no more than; only"
   },
   "SNAPSHOTS": {
-    "Definition": "quick pictures or short examples of a moment"
+    "Definition": "quick pictures of a particular moment in time"
   },
   "TIME CAPSULES": {
-    "Definition": "things that keep memories from a certain time"
+    "Definition": "collections of things kept to show future people what a time was like"
   },
   "FADE AWAY": {
     "Definition": "slowly disappear"
@@ -162,6 +159,6 @@
     "Definition": "the state of being unknown or forgotten"
   },
   "A BUNCH OF": {
-    "Definition": "many; a group of"
+    "Definition": "a lot of; many"
   }
 }
